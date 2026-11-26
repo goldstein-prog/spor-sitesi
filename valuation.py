@@ -1,4 +1,4 @@
-"""PiyasaDeğeri oyuncu değer formülü.
+"""Kramponomi oyuncu değer formülü.
 
 Değer (milyon €) = LİG_TABANI x yaş x mevki x süre x performans x seviye
 

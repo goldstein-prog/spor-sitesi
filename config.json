@@ -1,9 +1,10 @@
 {
-  "site_name": "PiyasaDeğeri",
+  "site_name": "Kramponomi",
   "site_url": "https://goldstein-prog.github.io/spor-sitesi",
   "base_path": "/spor-sitesi",
   "lang": "tr",
   "season": "2026-27",
   "league": "Trendyol Süper Lig",
-  "next_revalue": "Kış transfer dönemi öncesi (Aralık 2026 sonu)"
+  "next_revalue": "Kış transfer dönemi öncesi (Aralık 2026 sonu)",
+  "tagline": "Futbolun ekonomisi"
 }

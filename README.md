@@ -1,4 +1,4 @@
-# PiyasaDeğeri
+# Kramponomi
 
 Futbolcu piyasa değerleri, kulüp kadro değerleri, transferler ve puan durumları.
 Şu an: Trendyol Süper Lig (18 kulüp) ve Serie A (18/20 kulüp).

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""PiyasaDeğeri statik site üreticisi.  Kullanım: python3 build.py [--revalue]
+"""Kramponomi statik site üreticisi.  Kullanım: python3 build.py [--revalue]
 
 --revalue: piyasa değerlerini yeniden hesaplar (sadece transfer dönemi öncesi kullanılır).
 
@@ -55,12 +55,12 @@ def write(parts, title, desc, body, crumbs=(), jsonld=None, noindex=False):
         ("Transferler", ["transferler"]), ("Nasıl Hesaplıyoruz?", ["nasil-hesapliyoruz"])])
     open(path, "w", encoding="utf-8").write(f"""<!DOCTYPE html><html lang="{L}"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{e(title)} | {SN}</title><meta name="description" content="{e(desc)}">
+<title>{e(title)} | {SN}</title><meta property="og:site_name" content="{SN}"><meta name="description" content="{e(desc)}">
 {'<meta name="robots" content="noindex">' if noindex else ''}<link rel="canonical" href="{URL}/{rel}/">
 <link rel="alternate" hreflang="{L}" href="{URL}/{rel}/">
 <meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><meta property="og:type" content="website">
 <link rel="stylesheet" href="{BASE}/assets/style.css">{ld}</head><body>
-<header><div class="wrap top"><a class="logo" href="{link()}"><span>€</span>{SN}</a>
+<header><div class="wrap top"><a class="logo" href="{link()}"><span>K</span>{SN}<em>{C["tagline"]}</em></a>
 <div class="search"><input id="q" type="search" placeholder="Oyuncu veya kulüp ara..." autocomplete="off"><div id="res"></div></div></div>
 <nav class="wrap">{nav}</nav></header>
 <main class="wrap">{bc}{body}</main>
@@ -289,12 +289,12 @@ def build():
           f"<h1>Transferler</h1><div class='tbl'><table><thead><tr><th>Tarih</th><th class='l'>Oyuncu</th><th class='l'>Eski kulüp</th>"
           f"<th class='l'>Yeni kulüp</th><th class='l hide-s'>Tür</th></tr></thead><tbody>{trs}</tbody></table></div>", [("Transferler", None)])
 
-    write(["nasil-hesapliyoruz"], "Piyasa Değerlerini Nasıl Hesaplıyoruz?", "PiyasaDeğeri oyuncu değer formülü: lig, yaş, mevki, oynama süresi, performans ve seviye.",
+    write(["nasil-hesapliyoruz"], "Piyasa Değerlerini Nasıl Hesaplıyoruz?", "Kramponomi oyuncu değer formülü: lig, yaş, mevki, oynama süresi, performans ve seviye.",
           METHOD, [("Nasıl Hesaplıyoruz?", None)])
 
     # ana sayfa
     lcards = "".join(f"<a class='tile' href='{link('lig', lg['id'])}'><span>{lg['flag']}</span><b>{e(lg['name'])}</b><small>{len(lg['clubs'])} kulüp · {len(lg['players'])} oyuncu</small></a>" for lg in leagues)
-    body = f"""<section class="hero"><h1>Futbolcuların piyasa değerleri</h1>
+    body = f"""<section class="hero"><h1>Kramponomi: futbolun ekonomisi</h1>
 <p>{len(players)} oyuncunun piyasa değeri, kulüplerin kadro değerleri ve transferler. Açık formül, şeffaf hesap.</p>
 <p class="vdate">Son değer güncellemesi: <b>{fmt_d(VALUE_DATE)}</b> · Sonraki güncelleme: <b>{C["next_revalue"]}</b></p></section>
 <div class="tiles">{lcards}</div>
@@ -318,7 +318,7 @@ def build():
 
 
 METHOD = """<h1>Piyasa değerlerini nasıl hesaplıyoruz?</h1>
-<p>PiyasaDeğeri'ndeki her değer, herkesin görebileceği bir formülle hesaplanır. Bir oyuncunun sayfasında değerin hangi çarpanlardan oluştuğunu tek tek görebilirsiniz.</p>
+<p>Kramponomi'deki her değer, herkesin görebileceği bir formülle hesaplanır. Bir oyuncunun sayfasında değerin hangi çarpanlardan oluştuğunu tek tek görebilirsiniz.</p>
 <div class="card formula">Değer = Lig tabanı × Yaş × Mevki × Oynama süresi × Performans × Seviye</div>
 <h2>Çarpanlar</h2><ul>
 <li><b>Lig tabanı:</b> Ligin ekonomik büyüklüğü ve transfer piyasası: Süper Lig 2,0 · Serie A 5,5. Yeni ligler eklendikçe her ligin kendi tabanı olur.</li>
@@ -330,6 +330,7 @@ METHOD = """<h1>Piyasa değerlerini nasıl hesaplıyoruz?</h1>
 <h2>Değerler ne zaman güncellenir?</h2>
 <p>Piyasa değerleri her gün değişmez. Tek maçlık bir form patlaması ya da düşüşü değeri yanıltıcı şekilde oynatmasın diye değerleri yılda iki kez, <b>transfer dönemleri açılmadan önceki gece</b> toplu olarak güncelliyoruz: yaz transfer dönemi öncesi (Haziran sonu) ve kış transfer dönemi öncesi (Aralık sonu). Kadrolar, maç, gol ve asist sayıları ile puan durumları ise düzenli olarak güncellenir; bir sonraki değer güncellemesinde bu veriler hesaba katılır. Sezon ortasında kadroya eklenen yeni bir oyuncu ilk değerini eklendiği gün alır.</p>
 <h2>Bu değerler ne değildir?</h2>
+<p><b>Neden Kramponomi?</b> Krampon ve ekonomi kelimelerinden doğdu: sahadaki performansı piyasadaki karşılığıyla buluşturuyoruz.</p>
 <p>Bu değerler bir transfer bedeli ya da kulüplerin açıkladığı rakamlar değildir. Bir oyuncunun bugünkü piyasada yaklaşık ne edeceğine dair tahminimizdir. Sözleşme süresi, maaş ve kulübün satma isteği gibi etkenler gerçek bedeli değiştirebilir.</p>
 <h2>Veriler</h2><p>Kadro ve sezon istatistikleri, birden fazla açık kaynakla karşılaştırılarak düzenli güncellenir. Her kulüp sayfasının altında kaynağı ve güncelleme tarihi yazar. Bir hata görürseniz bize bildirin.</p>"""
 
