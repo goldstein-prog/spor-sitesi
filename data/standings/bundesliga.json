@@ -1,0 +1,150 @@
+{
+ "updated": "2026-11-27",
+ "week": 10,
+ "rows": [
+  {
+   "team": "Borussia Dortmund",
+   "o": 10,
+   "w": 7,
+   "d": 3,
+   "l": 0,
+   "p": 24
+  },
+  {
+   "team": "Bayern Münih",
+   "o": 10,
+   "w": 6,
+   "d": 4,
+   "l": 0,
+   "p": 22
+  },
+  {
+   "team": "SC Freiburg",
+   "o": 10,
+   "w": 7,
+   "d": 1,
+   "l": 2,
+   "p": 22
+  },
+  {
+   "team": "RB Leipzig",
+   "o": 10,
+   "w": 7,
+   "d": 0,
+   "l": 3,
+   "p": 21
+  },
+  {
+   "team": "Bayer Leverkusen",
+   "o": 10,
+   "w": 6,
+   "d": 1,
+   "l": 3,
+   "p": 19
+  },
+  {
+   "team": "Werder Bremen",
+   "o": 10,
+   "w": 5,
+   "d": 3,
+   "l": 2,
+   "p": 18
+  },
+  {
+   "team": "Eintracht Frankfurt",
+   "o": 10,
+   "w": 4,
+   "d": 3,
+   "l": 3,
+   "p": 15
+  },
+  {
+   "team": "VfB Stuttgart",
+   "o": 10,
+   "w": 4,
+   "d": 1,
+   "l": 5,
+   "p": 13
+  },
+  {
+   "team": "SV Elversberg",
+   "o": 10,
+   "w": 4,
+   "d": 1,
+   "l": 5,
+   "p": 13
+  },
+  {
+   "team": "FC Augsburg",
+   "o": 10,
+   "w": 3,
+   "d": 3,
+   "l": 4,
+   "p": 12
+  },
+  {
+   "team": "Hoffenheim",
+   "o": 10,
+   "w": 4,
+   "d": 0,
+   "l": 6,
+   "p": 12
+  },
+  {
+   "team": "Hamburger SV",
+   "o": 10,
+   "w": 4,
+   "d": 0,
+   "l": 6,
+   "p": 12
+  },
+  {
+   "team": "Mainz 05",
+   "o": 10,
+   "w": 3,
+   "d": 1,
+   "l": 6,
+   "p": 10
+  },
+  {
+   "team": "1. FC Köln",
+   "o": 10,
+   "w": 2,
+   "d": 4,
+   "l": 4,
+   "p": 10
+  },
+  {
+   "team": "SC Paderborn",
+   "o": 10,
+   "w": 2,
+   "d": 4,
+   "l": 4,
+   "p": 10
+  },
+  {
+   "team": "Schalke 04",
+   "o": 10,
+   "w": 1,
+   "d": 4,
+   "l": 5,
+   "p": 7
+  },
+  {
+   "team": "Union Berlin",
+   "o": 10,
+   "w": 1,
+   "d": 4,
+   "l": 5,
+   "p": 7
+  },
+  {
+   "team": "Borussia Mönchengladbach",
+   "o": 10,
+   "w": 1,
+   "d": 1,
+   "l": 8,
+   "p": 4
+  }
+ ]
+}

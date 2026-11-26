@@ -374,5 +374,70 @@
   "#ffffff",
   "#05642c",
   "duz"
+ ],
+ "bayern-munich": [
+  "#dc052d",
+  "#dc052d",
+  "duz"
+ ],
+ "borussia-dortmund": [
+  "#fde100",
+  "#111111",
+  "duz"
+ ],
+ "rb-leipzig": [
+  "#ffffff",
+  "#dd0741",
+  "duz"
+ ],
+ "bayer-leverkusen": [
+  "#111111",
+  "#e32221",
+  "duz"
+ ],
+ "eintracht-frankfurt": [
+  "#111111",
+  "#e1000f",
+  "duz"
+ ],
+ "werder-bremen": [
+  "#1d9053",
+  "#ffffff",
+  "duz"
+ ],
+ "vfb-stuttgart": [
+  "#ffffff",
+  "#e32219",
+  "duz"
+ ],
+ "tsg-hoffenheim": [
+  "#1961b5",
+  "#ffffff",
+  "duz"
+ ],
+ "mainz": [
+  "#c3141e",
+  "#ffffff",
+  "duz"
+ ],
+ "fc-koln": [
+  "#ffffff",
+  "#ed1c24",
+  "duz"
+ ],
+ "borussia-monchengladbach": [
+  "#ffffff",
+  "#111111",
+  "duz"
+ ],
+ "hamburger-sv": [
+  "#ffffff",
+  "#0a3d91",
+  "duz"
+ ],
+ "union-berlin": [
+  "#d4011d",
+  "#ffffff",
+  "duz"
  ]
 }
