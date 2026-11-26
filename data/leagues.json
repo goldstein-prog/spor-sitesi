@@ -26,6 +26,19 @@
   }
  },
  {
+  "id": "la-liga",
+  "name": "La Liga",
+  "short": "La Liga",
+  "country": "İspanya",
+  "flag": "🇪🇸",
+  "base": 5.5,
+  "zones": {
+   "cl": 4,
+   "el": 6,
+   "rel": 3
+  }
+ },
+ {
   "id": "serie-a",
   "name": "Serie A",
   "short": "Serie A",

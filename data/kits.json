@@ -289,5 +289,90 @@
   "#1b458f",
   "#c4122e",
   "cizgili"
+ ],
+ "barcelona": [
+  "#a50044",
+  "#004d98",
+  "cizgili"
+ ],
+ "real-madrid": [
+  "#ffffff",
+  "#febe10",
+  "duz"
+ ],
+ "atletico-madrid": [
+  "#cb3524",
+  "#ffffff",
+  "cizgili"
+ ],
+ "real-sociedad": [
+  "#0067b1",
+  "#ffffff",
+  "cizgili"
+ ],
+ "sevilla": [
+  "#ffffff",
+  "#d4021d",
+  "duz"
+ ],
+ "athletic-club": [
+  "#ee2523",
+  "#ffffff",
+  "cizgili"
+ ],
+ "villarreal": [
+  "#ffe667",
+  "#ffe667",
+  "duz"
+ ],
+ "alaves": [
+  "#0761af",
+  "#ffffff",
+  "cizgili"
+ ],
+ "espanyol": [
+  "#007fc8",
+  "#ffffff",
+  "cizgili"
+ ],
+ "deportivo": [
+  "#1b5bae",
+  "#ffffff",
+  "cizgili"
+ ],
+ "osasuna": [
+  "#d91a21",
+  "#0a346f",
+  "duz"
+ ],
+ "celta-vigo": [
+  "#8ac3ee",
+  "#ffffff",
+  "duz"
+ ],
+ "levante": [
+  "#004b9e",
+  "#b5062c",
+  "yarim"
+ ],
+ "rayo-vallecano": [
+  "#ffffff",
+  "#e53027",
+  "duz"
+ ],
+ "valencia": [
+  "#ffffff",
+  "#111111",
+  "duz"
+ ],
+ "getafe": [
+  "#005999",
+  "#005999",
+  "duz"
+ ],
+ "elche": [
+  "#ffffff",
+  "#05642c",
+  "duz"
  ]
 }
