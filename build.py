@@ -11,6 +11,7 @@ data/value_history.json -> her derlemede bugünün değerleri eklenir (değer ge
 import json, os, re, shutil, sys, unicodedata, html
 from datetime import date
 from valuation import value, fmt, POS_NAME
+import kits
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "docs")
@@ -142,6 +143,11 @@ def plink(p):
     return f'<a href="{link("oyuncu", p["slug"])}">{e(p["name"])}</a>'
 
 
+def kiticon(p):
+    k = "kaleci" if p["pos"] == "KL" else p["club"]["slug"]
+    return f'<img class="kit" src="{BASE}/assets/kits/{k}.svg" alt="" width="22" height="22" loading="lazy">'
+
+
 def clink(c):
     return f'<span title="{e(c["league"]["name"])}">{c["league"]["flag"]}</span> <a href="{link("kulup", c["slug"])}">{e(c["name"])}</a>'
 
@@ -153,7 +159,7 @@ def player_table(ps, show_club=True, rank=True, compact=False):
     rows = ""
     for i, p in enumerate(ps):
         g = "-" if p.get("goals") is None else p["goals"]
-        rows += ("<tr>" + (f"<td>{i+1}</td>" if rank else "") + f"<td class='l'><b>{plink(p)}</b></td>" +
+        rows += ("<tr>" + (f"<td>{i+1}</td>" if rank else "") + f"<td class='l'><b>{kiticon(p)}{plink(p)}</b></td>" +
                  (f"<td class='l'>{clink(p['club'])}</td>" if show_club else "") +
                  f"<td><span class='pos {p['pos']}'>{p['pos']}</span></td><td>{p['age']}</td><td class='l hide-s'{hx}>{e(p['nat'])}</td>"
                  f"<td{hx}>{'-' if p['apps'] is None else p['apps']}</td><td{hx}>{g}</td><td class='r val'>{fmt(p['value'])}</td></tr>")
@@ -187,6 +193,7 @@ def build():
     if os.path.exists(OUT):
         shutil.rmtree(OUT)
     shutil.copytree(os.path.join(ROOT, "assets"), os.path.join(OUT, "assets"))
+    kits.write_club_files(os.path.join(OUT, "assets", "kits"), [c["slug"] for c in clubs])
     tr = load("transfers.json")
     young = [p for p in players if p["age"] <= 21]
     for lg in leagues:
@@ -219,7 +226,8 @@ def build():
         stats = [("Maç", p["apps"]), ("Gol", p.get("goals")), ("Asist", p.get("assists")), ("Dakika", p.get("minutes"))]
         stats = "".join(f"<div><b>{'-' if v is None else v}</b><small>{k}</small></div>" for k, v in stats)
         near = sorted((x for x in players if x["pos"] == p["pos"] and x is not p), key=lambda x: abs(x["value"] - p["value"]))[:6]
-        body = f"""<section class="profile"><div><small class="muted">#{p['num'] or '-'} · {POS_NAME[p['pos']]}</small><h1>{e(p['name'])}</h1>
+        kit = kits.svg(kits.kit_for(c["slug"], p["pos"] == "KL"), uid="pk", number=p.get("num"))
+        body = f"""<section class="profile"><div class="kitbig" title="Forma çizimi: kulüp renkleri">{kit}</div><div class="pinfo"><small class="muted">#{p['num'] or '-'} · {POS_NAME[p['pos']]}</small><h1>{e(p['name'])}</h1>
 <p>{clink(c)} · {p['age']} yaş · {e(p['nat'])}</p></div>
 <div class="bigval"><small>Piyasa Değeri</small><b>{fmt(p['value'])}</b><small>{e(lg['short'])}'de {p['lrank']}. · Genelde {p['rank']}. sırada</small><small>Değer tarihi: {fmt_d(p['valued'])}</small></div></section>
 <div class="cards">{stats}</div>
@@ -243,7 +251,8 @@ def build():
             if ps:
                 byp += f"<h2>{POS_NAME[pos]}</h2>{player_table(ps, show_club=False, rank=False)}"
         top = max(c["players"], key=lambda p: p["value"])
-        body = f"""<section class="profile"><div><h1>{e(c['name'])} Kadro Değeri</h1><p>{lg['flag']} <a href="{link('lig', lg['id'])}">{e(lg['name'])}</a> · {e(c['city'])}{' · ' + e(c['stadium']) if c.get('stadium') else ''}</p></div>
+        ckit = kits.svg(kits.kit_for(c["slug"]), uid="ck")
+        body = f"""<section class="profile"><div class="kitbig">{ckit}</div><div class="pinfo"><h1>{e(c['name'])} Kadro Değeri</h1><p>{lg['flag']} <a href="{link('lig', lg['id'])}">{e(lg['name'])}</a> · {e(c['city'])}{' · ' + e(c['stadium']) if c.get('stadium') else ''}</p></div>
 <div class="bigval"><small>Toplam Kadro Değeri</small><b>{fmt(c['total'])}</b><small>{e(lg['short'])}'de {lg['clubs'].index(c)+1}. sırada</small></div></section>
 <div class="cards"><div><b>{len(c['players'])}</b><small>Oyuncu</small></div><div><b>{c['avg_age']}</b><small>Yaş ortalaması</small></div>
 <div><b>{c['foreign']}</b><small>Yabancı</small></div><div><b>{e(top['name'])}</b><small>En değerli oyuncu</small></div></div>{byp}
