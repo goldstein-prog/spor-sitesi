@@ -59,7 +59,7 @@ def write(parts, title, desc, body, crumbs=(), jsonld=None, noindex=False):
 {'<meta name="robots" content="noindex">' if noindex else ''}<link rel="canonical" href="{URL}/{rel}/">
 <link rel="alternate" hreflang="{L}" href="{URL}/{rel}/">
 <meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><meta property="og:type" content="website">
-<link rel="stylesheet" href="{BASE}/assets/style.css"><link rel="icon" type="image/png" href="{BASE}/assets/favicon-32.png"><link rel="apple-touch-icon" href="{BASE}/assets/apple-touch-icon.png"><meta property="og:image" content="{URL}/assets/icon-512.png"><meta name="theme-color" content="#0d0d0d">{ld}</head><body>
+<link rel="preload" href="{BASE}/assets/fonts/dmsans.woff" as="font" type="font/woff" crossorigin><link rel="stylesheet" href="{BASE}/assets/style.css"><link rel="icon" type="image/png" href="{BASE}/assets/favicon-32.png"><link rel="apple-touch-icon" href="{BASE}/assets/apple-touch-icon.png"><meta property="og:image" content="{URL}/assets/icon-512.png"><meta name="theme-color" content="#0d0d0d">{ld}</head><body>
 <header><div class="wrap top"><a class="logo" href="{link()}"><img src="{BASE}/assets/logo-light.png" alt="{SN}" width="157" height="55"></a>
 <div class="search"><input id="q" type="search" placeholder="Oyuncu veya kulüp ara..." autocomplete="off"><div id="res"></div></div></div>
 <nav class="wrap">{nav}</nav></header>
