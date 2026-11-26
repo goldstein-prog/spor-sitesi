@@ -1,4 +1,4 @@
-:root{--bg:#f4f6f9;--panel:#fff;--line:#e3e7ee;--text:#16202e;--muted:#6b7585;--brand:#0b3d6e;--brand2:#0f5aa3;--accent:#13a36b;--gold:#f0b429;--red:#d64545}
+:root{--bg:#f5f5f3;--panel:#fff;--line:#e6e4df;--text:#141414;--muted:#6f6b63;--brand:#0d0d0d;--brand2:#8a5a00;--accent:#13a36b;--gold:#f5a800;--red:#d64545}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:15px/1.5 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif}
 a{color:var(--brand2);text-decoration:none}a:hover{text-decoration:underline}
 .wrap{max-width:1180px;margin:0 auto;padding:0 16px}.muted{color:var(--muted);font-size:13px}
@@ -10,13 +10,13 @@ header{background:var(--brand);color:#fff;position:sticky;top:0;z-index:10;box-s
 .search input{width:100%;padding:10px 14px;border-radius:10px;border:0;font-size:15px;outline:none}
 #res{position:absolute;top:44px;left:0;right:0;background:#fff;border-radius:10px;box-shadow:0 10px 30px rgba(0,0,0,.2);overflow:hidden}
 #res a{display:flex;justify-content:space-between;align-items:center;padding:9px 14px;color:var(--text);border-bottom:1px solid var(--line)}
-#res a:hover{background:#eef4fb;text-decoration:none}#res small{display:block;color:var(--muted);font-size:12px}#res b{color:var(--accent)}
+#res a:hover{background:#fdf4dd;text-decoration:none}#res small{display:block;color:var(--muted);font-size:12px}#res b{color:var(--accent)}
 #res .none{padding:10px 14px;color:var(--muted)}
 nav{display:flex;gap:4px;overflow-x:auto;white-space:nowrap;padding-bottom:6px}
-nav a{color:#cfe0f3;font-weight:600;padding:6px 10px;border-radius:8px;font-size:14px}nav a:hover{background:rgba(255,255,255,.12);color:#fff;text-decoration:none}
+nav a{color:#d9d4c7;font-weight:600;padding:6px 10px;border-radius:8px;font-size:14px}nav a:hover{background:rgba(255,255,255,.12);color:#fff;text-decoration:none}
 .crumbs{color:var(--muted);font-size:13px;margin:14px 0 4px}
 h1{margin:8px 0 4px;font-size:28px;line-height:1.2}h2{font-size:18px;margin:22px 0 10px}
-.hero{background:linear-gradient(120deg,var(--brand),var(--brand2));color:#fff;border-radius:16px;padding:28px;margin:18px 0}
+.hero{background:linear-gradient(120deg,#0d0d0d,#2b2b2b);border-bottom:4px solid var(--gold);color:#fff;border-radius:16px;padding:28px;margin:18px 0}
 .hero p{opacity:.9;margin:6px 0 0;font-size:16px}
 .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:16px 18px;margin:14px 0}.card h2{margin-top:2px}
 .two{display:grid;grid-template-columns:1fr 1fr;gap:16px}.two>.card{margin:0 0 14px}
@@ -35,8 +35,8 @@ tr.cl td:first-child{box-shadow:inset 3px 0 #1f6fd0}tr.el td:first-child{box-sha
 .cards b{display:block;font-size:20px}.cards small{color:var(--muted)}
 table.mini td{padding:6px 4px}
 .chart{width:100%;height:auto}.chart polyline{fill:none;stroke:var(--accent);stroke-width:3}.chart circle{fill:var(--brand)}.chart text{font-size:11px;fill:var(--muted)}
-.formula{font-size:18px;font-weight:700;text-align:center;background:#eef4fb}
-footer{margin-top:40px;background:#0a2440;color:#b8c7d8;padding:22px 0;font-size:13px}footer a{color:#fff}footer p{margin:4px 0}
+.formula{font-size:18px;font-weight:700;text-align:center;background:#fdf4dd}
+footer{margin-top:40px;background:#0d0d0d;color:#bdb8ad;padding:22px 0;font-size:13px}footer a{color:#fff}footer p{margin:4px 0}
 @media(max-width:820px){.two{grid-template-columns:1fr}.cards{grid-template-columns:repeat(2,1fr)}.hide-s{display:none}.top{flex-wrap:wrap;padding:8px 16px}.search{max-width:none;flex-basis:100%}.bigval{text-align:left}}
 .tiles{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;margin:0 0 6px}
 .tile{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:14px 16px;color:var(--text);display:flex;flex-direction:column}
@@ -48,3 +48,7 @@ td.l{white-space:normal}
 .hero .vdate{font-size:14px;opacity:.85;margin-top:10px}.bigval small+small{margin-top:4px}
 .logo em{font-style:normal;font-weight:500;font-size:12px;color:#cfe0f3;margin-left:2px;align-self:flex-end;padding-bottom:3px}
 @media(max-width:820px){.logo em{display:none}}
+
+.logo img{height:54px;width:auto;display:block}@media(max-width:820px){.logo img{height:46px}}.top{min-height:64px}
+.tile:hover{border-color:var(--gold)}
+header{border-bottom:3px solid var(--gold)}
