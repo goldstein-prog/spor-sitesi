@@ -1,0 +1,146 @@
+{
+ "updated": "2026-11-26",
+ "tz": "TSİ",
+ "matches": [
+  {
+   "time": "2026-11-24T23:00",
+   "home": "SK Slovan Bratislava",
+   "away": "Real Betis",
+   "hs": 0,
+   "as": 2
+  },
+  {
+   "time": "2026-11-25T20:45",
+   "home": "Sabah",
+   "away": "FC Barcelona",
+   "hs": 1,
+   "as": 4
+  },
+  {
+   "time": "2026-11-25T20:45",
+   "home": "Slavia Prag",
+   "away": "Villarreal",
+   "hs": 0,
+   "as": 1
+  },
+  {
+   "time": "2026-11-25T23:00",
+   "home": "Atletico Madrid",
+   "away": "Viking FK",
+   "hs": 2,
+   "as": 0
+  },
+  {
+   "time": "2026-11-25T23:00",
+   "home": "Club Brugge",
+   "away": "Liverpool",
+   "hs": 0,
+   "as": 3
+  },
+  {
+   "time": "2026-11-25T23:00",
+   "home": "Inter",
+   "away": "VfB Stuttgart",
+   "hs": 2,
+   "as": 0
+  },
+  {
+   "time": "2026-11-25T23:00",
+   "home": "Shakhtar Donetsk",
+   "away": "Fenerbahçe",
+   "hs": 0,
+   "as": 1
+  },
+  {
+   "time": "2026-11-25T23:00",
+   "home": "Lille",
+   "away": "Bayern Münih",
+   "hs": 2,
+   "as": 1
+  },
+  {
+   "time": "2026-11-25T23:00",
+   "home": "Paris Saint-Germain",
+   "away": "AS Roma",
+   "hs": 2,
+   "as": 2
+  },
+  {
+   "time": "2026-11-25T23:00",
+   "home": "Sporting CP",
+   "away": "Manchester United",
+   "hs": 2,
+   "as": 2
+  },
+  {
+   "time": "2026-12-08T20:45",
+   "home": "Viking FK",
+   "away": "Feyenoord",
+   "hs": null,
+   "as": null
+  },
+  {
+   "time": "2026-12-08T20:45",
+   "home": "Villarreal",
+   "away": "Sabah",
+   "hs": null,
+   "as": null
+  },
+  {
+   "time": "2026-12-08T23:00",
+   "home": "AEK Atina",
+   "away": "Galatasaray",
+   "hs": null,
+   "as": null
+  },
+  {
+   "time": "2026-12-08T23:00",
+   "home": "AS Roma",
+   "away": "Sporting CP",
+   "hs": null,
+   "as": null
+  },
+  {
+   "time": "2026-12-08T23:00",
+   "home": "Aston Villa",
+   "away": "Paris Saint-Germain",
+   "hs": null,
+   "as": null
+  },
+  {
+   "time": "2026-12-08T23:00",
+   "home": "FC Barcelona",
+   "away": "Manchester City",
+   "hs": null,
+   "as": null
+  },
+  {
+   "time": "2026-12-08T23:00",
+   "home": "Bayern Münih",
+   "away": "Slavia Prag",
+   "hs": null,
+   "as": null
+  },
+  {
+   "time": "2026-12-08T23:00",
+   "home": "Manchester United",
+   "away": "RB Leipzig",
+   "hs": null,
+   "as": null
+  },
+  {
+   "time": "2026-12-08T23:00",
+   "home": "Napoli",
+   "away": "Club Brugge",
+   "hs": null,
+   "as": null
+  },
+  {
+   "time": "2026-12-09T20:45",
+   "home": "Real Betis",
+   "away": "Como",
+   "hs": null,
+   "as": null
+  }
+ ]
+}

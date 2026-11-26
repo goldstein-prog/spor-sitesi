@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://goldstein-prog.github.io/spor-sitesi/sitemap.xml
