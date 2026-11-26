@@ -1,0 +1,166 @@
+{
+ "updated": "2026-11-27",
+ "week": 11,
+ "rows": [
+  {
+   "team": "Arsenal",
+   "o": 11,
+   "w": 9,
+   "d": 1,
+   "l": 1,
+   "p": 28
+  },
+  {
+   "team": "Brighton",
+   "o": 11,
+   "w": 7,
+   "d": 1,
+   "l": 3,
+   "p": 22
+  },
+  {
+   "team": "Manchester City",
+   "o": 11,
+   "w": 7,
+   "d": 1,
+   "l": 3,
+   "p": 22
+  },
+  {
+   "team": "Liverpool",
+   "o": 11,
+   "w": 6,
+   "d": 3,
+   "l": 2,
+   "p": 21
+  },
+  {
+   "team": "Bournemouth",
+   "o": 11,
+   "w": 5,
+   "d": 3,
+   "l": 3,
+   "p": 18
+  },
+  {
+   "team": "Brentford",
+   "o": 11,
+   "w": 4,
+   "d": 5,
+   "l": 2,
+   "p": 17
+  },
+  {
+   "team": "Leeds United",
+   "o": 11,
+   "w": 4,
+   "d": 5,
+   "l": 2,
+   "p": 17
+  },
+  {
+   "team": "Chelsea",
+   "o": 11,
+   "w": 5,
+   "d": 1,
+   "l": 5,
+   "p": 16
+  },
+  {
+   "team": "Everton",
+   "o": 11,
+   "w": 4,
+   "d": 4,
+   "l": 3,
+   "p": 16
+  },
+  {
+   "team": "Tottenham Hotspur",
+   "o": 11,
+   "w": 4,
+   "d": 3,
+   "l": 4,
+   "p": 15
+  },
+  {
+   "team": "Hull City",
+   "o": 11,
+   "w": 3,
+   "d": 5,
+   "l": 3,
+   "p": 14
+  },
+  {
+   "team": "Aston Villa",
+   "o": 11,
+   "w": 3,
+   "d": 5,
+   "l": 3,
+   "p": 14
+  },
+  {
+   "team": "Newcastle United",
+   "o": 11,
+   "w": 3,
+   "d": 4,
+   "l": 4,
+   "p": 13
+  },
+  {
+   "team": "Coventry City",
+   "o": 11,
+   "w": 4,
+   "d": 0,
+   "l": 7,
+   "p": 12
+  },
+  {
+   "team": "Fulham",
+   "o": 11,
+   "w": 2,
+   "d": 5,
+   "l": 4,
+   "p": 11
+  },
+  {
+   "team": "Ipswich Town",
+   "o": 11,
+   "w": 3,
+   "d": 2,
+   "l": 6,
+   "p": 11
+  },
+  {
+   "team": "Nottingham Forest",
+   "o": 11,
+   "w": 2,
+   "d": 3,
+   "l": 6,
+   "p": 9
+  },
+  {
+   "team": "Sunderland",
+   "o": 11,
+   "w": 2,
+   "d": 3,
+   "l": 6,
+   "p": 9
+  },
+  {
+   "team": "Manchester United",
+   "o": 11,
+   "w": 1,
+   "d": 5,
+   "l": 5,
+   "p": 8
+  },
+  {
+   "team": "Crystal Palace",
+   "o": 11,
+   "w": 2,
+   "d": 1,
+   "l": 8,
+   "p": 7
+  }
+ ]
+}

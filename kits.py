@@ -40,7 +40,7 @@ def svg(kit, uid="k", number=None, size=None):
         parts.append(f'<path d="{BODY}" fill="{a}"/><path d="{SLEEVE_L}" fill="{b}"/><path d="{SLEEVE_R}" fill="{b}"/>')
     collar = b if pat == "duz" else ("#111111" if lum(a) > .6 else "#ffffff")
     parts.append(f'<path d="M38 10 Q50 21 62 10" fill="none" stroke="{collar}" stroke-width="3"/>')
-    parts.append(f'<path d="{OUTLINE}" fill="none" stroke="rgba(0,0,0,.28)" stroke-width="1.2" stroke-linejoin="round"/>')
+    parts.append(f'<path d="{OUTLINE}" fill="none" stroke="rgba(0,0,0,.35)" stroke-width="2.4" stroke-linejoin="round"/>')
     if number not in (None, "", "-"):
         ref = a if pat != "yarim" else b
         fg, st = ("#111111", "#ffffff") if lum(ref) > .55 else ("#ffffff", "#111111")

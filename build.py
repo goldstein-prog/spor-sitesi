@@ -96,9 +96,13 @@ for lg in leagues:
 leagues = [lg for lg in leagues if lg["clubs"]]
 clubs.sort(key=lambda c: -c["total"])
 seen = {}
-for c in clubs:  # aynı isimli oyuncular için benzersiz adres
+_h = os.path.join(ROOT, "data/value_history.json")
+_owner = {k: v[-1]["club"] for k, v in (json.load(open(_h, encoding="utf-8")) if os.path.exists(_h) else {}).items() if v}
+_has = {(c["slug"], p["slug"]) for c in clubs for p in c["players"]}
+for c in sorted(clubs, key=lambda c: c["slug"]):  # aynı isimli oyuncular için benzersiz ve kalıcı adres
     for p in c["players"]:
-        if p["slug"] in seen:
+        o = _owner.get(p["slug"])
+        if p["slug"] in seen or (o and o != c["slug"] and (o, p["slug"]) in _has):
             p["slug"] += "-" + c["slug"]
         seen[p["slug"]] = 1
 # ---------- değer dondurma ----------

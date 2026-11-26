@@ -13,6 +13,19 @@
   }
  },
  {
+  "id": "premier-lig",
+  "name": "Premier Lig",
+  "short": "Premier Lig",
+  "country": "İngiltere",
+  "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  "base": 6.5,
+  "zones": {
+   "cl": 4,
+   "el": 5,
+   "rel": 3
+  }
+ },
+ {
   "id": "serie-a",
   "name": "Serie A",
   "short": "Serie A",

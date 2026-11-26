@@ -1,41 +1,293 @@
 {
-  "_not": "Forma avatarları için kulüp renkleri. desen: duz (gövde ana renk, kollar ikinci renk), cizgili (dikey çizgiler), yarim (yarı yarıya). Telifli logo veya gerçek forma tasarımı kullanılmaz.",
-  "alanyaspor": ["#f47b20", "#0a7a3c", "duz"],
-  "amed-sportif-faaliyetler": ["#0b7a3b", "#d71920", "duz"],
-  "basaksehir": ["#f26522", "#1b2a4a", "duz"],
-  "besiktas": ["#ffffff", "#111111", "duz"],
-  "caykur-rizespor": ["#0a7d3c", "#1d4fa0", "cizgili"],
-  "corum-fk": ["#c8102e", "#111111", "duz"],
-  "erzurumspor-fk": ["#0055a5", "#ffffff", "duz"],
-  "eyupspor": ["#5b2c83", "#f2c300", "duz"],
-  "fenerbahce": ["#ffd200", "#0a1f5c", "cizgili"],
-  "galatasaray": ["#fdb913", "#a6192e", "yarim"],
-  "gaziantep-fk": ["#e30613", "#111111", "duz"],
-  "genclerbirligi": ["#d2122e", "#111111", "cizgili"],
-  "goztepe": ["#f7d117", "#d6001c", "yarim"],
-  "kasimpasa": ["#12235b", "#ffffff", "duz"],
-  "kocaelispor": ["#00843d", "#111111", "cizgili"],
-  "konyaspor": ["#00843d", "#ffffff", "duz"],
-  "samsunspor": ["#e30a17", "#ffffff", "duz"],
-  "trabzonspor": ["#8a1538", "#00a3e0", "duz"],
-  "atalanta": ["#1e71b8", "#111111", "cizgili"],
-  "bologna": ["#a21c26", "#1a2f48", "yarim"],
-  "cagliari": ["#b0192f", "#002350", "yarim"],
-  "como": ["#1d3b8b", "#ffffff", "duz"],
-  "fiorentina": ["#5a2b81", "#ffffff", "duz"],
-  "genoa": ["#a3172f", "#002d62", "yarim"],
-  "inter": ["#0068a8", "#111111", "cizgili"],
-  "juventus": ["#ffffff", "#111111", "cizgili"],
-  "lazio": ["#87cefa", "#ffffff", "duz"],
-  "lecce": ["#ffd200", "#d71920", "cizgili"],
-  "milan": ["#e10019", "#111111", "cizgili"],
-  "monza": ["#e2001a", "#ffffff", "duz"],
-  "napoli": ["#12a0d7", "#ffffff", "duz"],
-  "parma": ["#ffffff", "#fcd116", "duz"],
-  "roma": ["#8e1f2f", "#f0bc42", "duz"],
-  "sassuolo": ["#00a752", "#111111", "cizgili"],
-  "udinese": ["#ffffff", "#111111", "cizgili"],
-  "venezia": ["#111111", "#f37021", "duz"],
-  "_kaleci": ["#1f9e89", "#0d0d0d", "duz"],
-  "_varsayilan": ["#6f6b63", "#d9d4c7", "duz"]
+ "_not": "Forma avatarları için kulüp renkleri. desen: duz (gövde ana renk, kollar ikinci renk), cizgili (dikey çizgiler), yarim (yarı yarıya). Telifli logo veya gerçek forma tasarımı kullanılmaz.",
+ "alanyaspor": [
+  "#f47b20",
+  "#0a7a3c",
+  "duz"
+ ],
+ "amed-sportif-faaliyetler": [
+  "#0b7a3b",
+  "#d71920",
+  "duz"
+ ],
+ "basaksehir": [
+  "#f26522",
+  "#1b2a4a",
+  "duz"
+ ],
+ "besiktas": [
+  "#ffffff",
+  "#111111",
+  "duz"
+ ],
+ "caykur-rizespor": [
+  "#0a7d3c",
+  "#1d4fa0",
+  "cizgili"
+ ],
+ "corum-fk": [
+  "#c8102e",
+  "#111111",
+  "duz"
+ ],
+ "erzurumspor-fk": [
+  "#0055a5",
+  "#ffffff",
+  "duz"
+ ],
+ "eyupspor": [
+  "#5b2c83",
+  "#f2c300",
+  "duz"
+ ],
+ "fenerbahce": [
+  "#ffd200",
+  "#0a1f5c",
+  "cizgili"
+ ],
+ "galatasaray": [
+  "#fdb913",
+  "#a6192e",
+  "yarim"
+ ],
+ "gaziantep-fk": [
+  "#e30613",
+  "#111111",
+  "duz"
+ ],
+ "genclerbirligi": [
+  "#d2122e",
+  "#111111",
+  "cizgili"
+ ],
+ "goztepe": [
+  "#f7d117",
+  "#d6001c",
+  "yarim"
+ ],
+ "kasimpasa": [
+  "#12235b",
+  "#ffffff",
+  "duz"
+ ],
+ "kocaelispor": [
+  "#00843d",
+  "#111111",
+  "cizgili"
+ ],
+ "konyaspor": [
+  "#00843d",
+  "#ffffff",
+  "duz"
+ ],
+ "samsunspor": [
+  "#e30a17",
+  "#ffffff",
+  "duz"
+ ],
+ "trabzonspor": [
+  "#8a1538",
+  "#00a3e0",
+  "duz"
+ ],
+ "atalanta": [
+  "#1e71b8",
+  "#111111",
+  "cizgili"
+ ],
+ "bologna": [
+  "#a21c26",
+  "#1a2f48",
+  "yarim"
+ ],
+ "cagliari": [
+  "#b0192f",
+  "#002350",
+  "yarim"
+ ],
+ "como": [
+  "#1d3b8b",
+  "#ffffff",
+  "duz"
+ ],
+ "fiorentina": [
+  "#5a2b81",
+  "#ffffff",
+  "duz"
+ ],
+ "genoa": [
+  "#a3172f",
+  "#002d62",
+  "yarim"
+ ],
+ "inter": [
+  "#0068a8",
+  "#111111",
+  "cizgili"
+ ],
+ "juventus": [
+  "#ffffff",
+  "#111111",
+  "cizgili"
+ ],
+ "lazio": [
+  "#87cefa",
+  "#ffffff",
+  "duz"
+ ],
+ "lecce": [
+  "#ffd200",
+  "#d71920",
+  "cizgili"
+ ],
+ "milan": [
+  "#e10019",
+  "#111111",
+  "cizgili"
+ ],
+ "monza": [
+  "#e2001a",
+  "#ffffff",
+  "duz"
+ ],
+ "napoli": [
+  "#12a0d7",
+  "#ffffff",
+  "duz"
+ ],
+ "parma": [
+  "#ffffff",
+  "#fcd116",
+  "duz"
+ ],
+ "roma": [
+  "#8e1f2f",
+  "#f0bc42",
+  "duz"
+ ],
+ "sassuolo": [
+  "#00a752",
+  "#111111",
+  "cizgili"
+ ],
+ "udinese": [
+  "#ffffff",
+  "#111111",
+  "cizgili"
+ ],
+ "venezia": [
+  "#111111",
+  "#f37021",
+  "duz"
+ ],
+ "_kaleci": [
+  "#1f9e89",
+  "#0d0d0d",
+  "duz"
+ ],
+ "_varsayilan": [
+  "#6f6b63",
+  "#d9d4c7",
+  "duz"
+ ],
+ "arsenal": [
+  "#ef0107",
+  "#ffffff",
+  "duz"
+ ],
+ "manchester-city": [
+  "#6cabdd",
+  "#ffffff",
+  "duz"
+ ],
+ "liverpool": [
+  "#c8102e",
+  "#c8102e",
+  "duz"
+ ],
+ "chelsea": [
+  "#034694",
+  "#034694",
+  "duz"
+ ],
+ "brighton": [
+  "#0057b8",
+  "#ffffff",
+  "cizgili"
+ ],
+ "bournemouth": [
+  "#da291c",
+  "#111111",
+  "cizgili"
+ ],
+ "brentford": [
+  "#e30613",
+  "#ffffff",
+  "cizgili"
+ ],
+ "leeds-united": [
+  "#ffffff",
+  "#1d428a",
+  "duz"
+ ],
+ "everton": [
+  "#003399",
+  "#003399",
+  "duz"
+ ],
+ "tottenham-hotspur": [
+  "#ffffff",
+  "#132257",
+  "duz"
+ ],
+ "hull-city": [
+  "#f5a12d",
+  "#111111",
+  "cizgili"
+ ],
+ "aston-villa": [
+  "#670e36",
+  "#95bfe5",
+  "duz"
+ ],
+ "newcastle-united": [
+  "#ffffff",
+  "#111111",
+  "cizgili"
+ ],
+ "coventry-city": [
+  "#59cbe8",
+  "#ffffff",
+  "duz"
+ ],
+ "fulham": [
+  "#ffffff",
+  "#111111",
+  "duz"
+ ],
+ "ipswich-town": [
+  "#0044a9",
+  "#ffffff",
+  "duz"
+ ],
+ "nottingham-forest": [
+  "#dd0000",
+  "#ffffff",
+  "duz"
+ ],
+ "sunderland": [
+  "#eb172b",
+  "#ffffff",
+  "cizgili"
+ ],
+ "manchester-united": [
+  "#da291c",
+  "#da291c",
+  "duz"
+ ],
+ "crystal-palace": [
+  "#1b458f",
+  "#c4122e",
+  "cizgili"
+ ]
 }
