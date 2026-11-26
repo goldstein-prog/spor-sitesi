@@ -1,0 +1,11525 @@
+{
+"date": "2026-11-26",
+"values": {
+"josep-martinez": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 0.75,
+"Oynama süresi": 1.08,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"raffaele-di-gennaro": {
+"v": 1.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.4,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"alain-taho": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"ivan-provedel": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.5,
+"Mevki": 0.75,
+"Oynama süresi": 0.72,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"john-stones": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.5,
+"Mevki": 0.95,
+"Oynama süresi": 0.72,
+"Performans": 0.8,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"manuel-akanji": {
+"v": 14.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 0.95,
+"Oynama süresi": 1.1099999999999999,
+"Performans": 0.9875,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"benjamin-pavard": {
+"v": 7.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.74,
+"Mevki": 0.95,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"carlos-augusto": {
+"v": 19.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.99,
+"Performans": 1.6,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"yann-bisseck": {
+"v": 23.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 1.1099999999999999,
+"Performans": 1.175,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"federico-dimarco": {
+"v": 28.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 1.1099999999999999,
+"Performans": 0.94375,
+"Seviye": 5.359375
+},
+"d": "2026-11-26"
+},
+"leonardo-bovio": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"leon-jakirovic": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"alessandro-bastoni": {
+"v": 50.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 1.1400000000000001,
+"Performans": 1.175,
+"Seviye": 7.089786716368395
+},
+"d": "2026-11-26"
+},
+"djed-spence": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.72,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"aleksandar-stankovic": {
+"v": 12.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"piotr-zielinski": {
+"v": 8.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.5,
+"Mevki": 1.15,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 1.1166666666666667,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"petar-sucic": {
+"v": 24.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 0.8,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"andy-diouf": {
+"v": 18.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 1.1099999999999999,
+"Performans": 1.0166666666666668,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"hakan-calhanoglu": {
+"v": 18.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.5,
+"Mevki": 1.15,
+"Oynama süresi": 0.99,
+"Performans": 1.1125,
+"Seviye": 5.359375
+},
+"d": "2026-11-26"
+},
+"curtis-jones": {
+"v": 12.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"henrikh-mkhitaryan": {
+"v": 2.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.2,
+"Mevki": 1.15,
+"Oynama süresi": 0.84,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"nicolo-barella": {
+"v": 40.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 1.15,
+"Oynama süresi": 1.1099999999999999,
+"Performans": 0.9500000000000001,
+"Seviye": 7.089786716368395
+},
+"d": "2026-11-26"
+},
+"marcus-thuram": {
+"v": 53.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 1.3,
+"Oynama süresi": 1.08,
+"Performans": 1.1318181818181818,
+"Seviye": 7.089786716368395
+},
+"d": "2026-11-26"
+},
+"lautaro-martinez": {
+"v": 79.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 1.3,
+"Oynama süresi": 0.87,
+"Performans": 1.2045454545454546,
+"Seviye": 12.407126753644691
+},
+"d": "2026-11-26"
+},
+"luis-henrique": {
+"v": 12.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"ange-yoan-bonny": {
+"v": 17.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"mattia-mosconi": {
+"v": 2.9,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 1.3,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"matteo-lavelli": {
+"v": 3.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 1.3,
+"Oynama süresi": 0.63,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"pio-esposito": {
+"v": 37.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.1099999999999999,
+"Performans": 0.8,
+"Seviye": 5.359375
+},
+"d": "2026-11-26"
+},
+"kamil-grabara": {
+"v": 2.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"carlo-pinsoglio": {
+"v": 0.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.2,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"guglielmo-vicario": {
+"v": 15.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.74,
+"Mevki": 0.75,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"neto": {
+"v": 0.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.2,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"zeki-celik": {
+"v": 8.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 0.95,
+"Oynama süresi": 1.025,
+"Performans": 0.9875,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"bremer": {
+"v": 46.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 1.6,
+"Seviye": 5.359375
+},
+"d": "2026-11-26"
+},
+"federico-gatti": {
+"v": 14.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 1.6,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"lloyd-kelly": {
+"v": 7.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"pierre-kalulu": {
+"v": 15.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 1.15,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"andrea-cambiaso": {
+"v": 19.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.85,
+"Performans": 1.0421875,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"daniele-rugani": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.5,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"jhon-lucumi": {
+"v": 10.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 1.1,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"juan-cabal": {
+"v": 12.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 1.6,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"manuel-locatelli": {
+"v": 12.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 0.75,
+"Performans": 0.8999999999999999,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"teun-koopmeiners": {
+"v": 22.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 1.0,
+"Performans": 0.9181818181818182,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"douglas-luiz": {
+"v": 18.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.85,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"khephren-thuram": {
+"v": 16.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"weston-mckennie": {
+"v": 11.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"pape-matar-sarr": {
+"v": 19.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 0.85,
+"Performans": 0.8,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"augusto-owusu": {
+"v": 4.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"francisco-conceicao": {
+"v": 24.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 0.8,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"randal-kolo-muani": {
+"v": 28.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"kenan-yildiz": {
+"v": 47.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.65,
+"Performans": 1.0,
+"Seviye": 9.37890625
+},
+"d": "2026-11-26"
+},
+"edon-zhegrova": {
+"v": 22.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 0.875,
+"Performans": 0.8854545454545454,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"jeremie-boga": {
+"v": 7.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 1.3,
+"Oynama süresi": 0.875,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"arkadiusz-milik": {
+"v": 2.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.5,
+"Mevki": 1.3,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"kerim-alajbegovic": {
+"v": 22.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 1.3,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 0.8,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"jeff-ekhator": {
+"v": 4.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 0.625,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"nick-woltemade": {
+"v": 31.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 0.8,
+"Seviye": 5.359375
+},
+"d": "2026-11-26"
+},
+"nico-gonzalez": {
+"v": 11.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 1.3,
+"Oynama süresi": 0.875,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"robert-sanchez": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 0.75,
+"Oynama süresi": 0.75,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"jean-butez": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 0.75,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"mauro-vigorito": {
+"v": 0.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.2,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"zebedee-kennedy": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.55,
+"Mevki": 1.3,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"cristiano-de-paoli": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"adrian-lahdo": {
+"v": 2.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 1.15,
+"Oynama süresi": 0.65,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"matteo-papaccioli": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"mattia-liberali": {
+"v": 2.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 1.15,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 0.8,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"jacobo-ramon": {
+"v": 42.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 1.15,
+"Performans": 1.6,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"jayden-addai": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.6749999999999999,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"assane-diao": {
+"v": 19.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.875,
+"Performans": 0.9181818181818182,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"jesus-rodriguez": {
+"v": 13.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.725,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"alex-valle": {
+"v": 19.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.0,
+"Performans": 1.425,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"willy-kambwala": {
+"v": 4.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.6749999999999999,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"nico-paz": {
+"v": 70.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 1.125,
+"Performans": 1.2454545454545454,
+"Seviye": 7.089786716368395
+},
+"d": "2026-11-26"
+},
+"kaiki": {
+"v": 15.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.975,
+"Performans": 1.5062499999999999,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"maximo-perrone": {
+"v": 25.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 1.075,
+"Performans": 0.8,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"martin-baturina": {
+"v": 33.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 1.1,
+"Performans": 1.0545454545454547,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"yan-couto": {
+"v": 32.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 1.15,
+"Performans": 1.6,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"samuele-ricci": {
+"v": 15.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"lucas-da-cunha": {
+"v": 15.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 1.1749999999999998,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"ivan-smolcic": {
+"v": 3.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.825,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"maxence-caqueret": {
+"v": 15.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 0.95,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"moise-kean": {
+"v": 17.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 0.7,
+"Performans": 0.8,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"trevoh-chalobah": {
+"v": 11.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"tasos-douvikas": {
+"v": 17.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 1.1749999999999998,
+"Performans": 0.8909090909090909,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"alberto-dossena": {
+"v": 2.9,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"marc-oliver-kempf": {
+"v": 4.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 0.95,
+"Oynama süresi": 1.0,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"luis-milla": {
+"v": 3.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.5,
+"Mevki": 1.15,
+"Oynama süresi": 1.1,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"edoardo-goldaniga": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.4,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"devis-vasquez": {
+"v": 2.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"giorgio-de-marzi": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"pierluigi-gollini": {
+"v": 2.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 0.75,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"mile-svilar": {
+"v": 15.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.75,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 1.0,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"devyne-rensch": {
+"v": 7.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.87,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"konstantinos-koulierakis": {
+"v": 9.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"evan-ndicka": {
+"v": 21.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 1.253125,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"nahuel-molina": {
+"v": 17.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 0.99,
+"Performans": 1.534375,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"mario-hermoso": {
+"v": 7.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 0.95,
+"Oynama süresi": 1.1099999999999999,
+"Performans": 1.175,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"gianluca-mancini": {
+"v": 14.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.74,
+"Mevki": 0.95,
+"Oynama süresi": 1.1099999999999999,
+"Performans": 1.425,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"leonardo-balerdi": {
+"v": 17.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.87,
+"Performans": 1.6,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"wesley": {
+"v": 41.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.08,
+"Performans": 1.6,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"emanuele-lulli": {
+"v": 13.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 0.95,
+"Oynama süresi": 0.99,
+"Performans": 1.6,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"daniele-ghilardi": {
+"v": 19.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.87,
+"Performans": 1.6,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"bryan-cristante": {
+"v": 6.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 1.15,
+"Oynama süresi": 1.08,
+"Performans": 0.86875,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"lorenzo-pellegrini": {
+"v": 7.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.74,
+"Mevki": 1.15,
+"Oynama süresi": 0.69,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"marten-de-roon": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.25,
+"Mevki": 1.15,
+"Oynama süresi": 0.96,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"manu-kone": {
+"v": 36.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.9299999999999999,
+"Performans": 1.05,
+"Seviye": 5.359375
+},
+"d": "2026-11-26"
+},
+"niccolo-pisilli": {
+"v": 23.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.99,
+"Performans": 1.05,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"rodrigo-mora": {
+"v": 25.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 1.15,
+"Oynama süresi": 0.96,
+"Performans": 1.1125,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"santiago-castro": {
+"v": 17.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"donyell-malen": {
+"v": 43.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 1.1099999999999999,
+"Performans": 1.3409090909090908,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"matias-soule": {
+"v": 35.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 1.1099999999999999,
+"Performans": 0.9672727272727273,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"paulo-dybala": {
+"v": 10.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.5,
+"Mevki": 1.3,
+"Oynama süresi": 0.96,
+"Performans": 0.9318181818181818,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"antonio-arena": {
+"v": 2.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.65,
+"Mevki": 1.3,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"mandjou-camara": {
+"v": 4.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"pietro-terracciano": {
+"v": 0.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.2,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"mike-maignan": {
+"v": 16.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 0.75,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 5.359375
+},
+"d": "2026-11-26"
+},
+"leo-paul-bouyer": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"lorenzo-torriani": {
+"v": 2.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"pervis-estupinan": {
+"v": 9.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 1.009090909090909,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"koni-de-winter": {
+"v": 16.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 1.1727272727272728,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"sankhoun-diawara": {
+"v": 3.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.7909090909090909,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"fikayo-tomori": {
+"v": 17.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 0.7363636363636363,
+"Performans": 1.6,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"strahinja-pavlovic": {
+"v": 25.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 1.1454545454545455,
+"Performans": 0.94375,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"davide-bartesaghi": {
+"v": 11.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.8454545454545455,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"mario-gila": {
+"v": 22.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 1.0909090909090908,
+"Performans": 1.175,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"valeri-vladimirov": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"filippo-terracciano": {
+"v": 3.2,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.6818181818181818,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"matteo-gabbia": {
+"v": 5.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.7090909090909091,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"ruben-loftus-cheek": {
+"v": 7.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.74,
+"Mevki": 1.15,
+"Oynama süresi": 0.8727272727272727,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"christian-pulisic": {
+"v": 59.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 0.9818181818181817,
+"Performans": 1.4312500000000001,
+"Seviye": 7.089786716368395
+},
+"d": "2026-11-26"
+},
+"adrien-rabiot": {
+"v": 26.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 1.15,
+"Oynama süresi": 1.0363636363636364,
+"Performans": 1.6,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"luka-modric": {
+"v": 3.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.2,
+"Mevki": 1.15,
+"Oynama süresi": 1.1181818181818182,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"christian-comotto": {
+"v": 2.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 1.15,
+"Oynama süresi": 0.6545454545454545,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"ardon-jashari": {
+"v": 21.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 0.9272727272727272,
+"Performans": 0.8,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"silvano-vos": {
+"v": 4.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"alphadjo-cisse": {
+"v": 20.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 0.9818181818181817,
+"Performans": 1.3833333333333335,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"yunus-musah": {
+"v": 14.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 1.1181818181818182,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"goncalo-ramos": {
+"v": 30.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.2,
+"Performans": 0.802892561983471,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"omari-hutchinson": {
+"v": 16.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.8454545454545455,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"samuel-chukwueze": {
+"v": 12.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 0.9545454545454546,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"diego-moreira": {
+"v": 22.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.9272727272727272,
+"Performans": 1.2629870129870129,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"alexis-saelemaekers": {
+"v": 10.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 0.7636363636363636,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"francesco-camarda": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 1.3,
+"Oynama süresi": 0.7090909090909091,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"marco-carnesecchi": {
+"v": 21.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.75,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"francesco-rossi": {
+"v": 0.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.25,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"marco-sportiello": {
+"v": 0.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.32,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"odilon-kossounou": {
+"v": 11.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.8181818181818181,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"isak-hien": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"raoul-bellanova": {
+"v": 13.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.9545454545454546,
+"Performans": 1.1124999999999998,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"sead-kolasinac": {
+"v": 2.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.4,
+"Mevki": 0.95,
+"Oynama süresi": 0.9272727272727272,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"thomas-kristensen": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 0.8727272727272727,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"relja-obric": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.8181818181818181,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"giorgio-scalvini": {
+"v": 20.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.0636363636363635,
+"Performans": 0.8,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"jacopo-mirra": {
+"v": 3.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"lorenzo-bernasconi": {
+"v": 11.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.009090909090909,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"matteo-plaia": {
+"v": 3.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"davide-zappacosta": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.32,
+"Mevki": 0.95,
+"Oynama süresi": 1.0363636363636364,
+"Performans": 0.9875,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"mario-pasalic": {
+"v": 5.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 1.15,
+"Oynama süresi": 0.9818181818181817,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"lazar-samardzic": {
+"v": 16.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 0.9545454545454546,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"ederson": {
+"v": 25.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.8227272727272728,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"franck-kessie": {
+"v": 8.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 1.15,
+"Oynama süresi": 0.8181818181818181,
+"Performans": 0.8500000000000001,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"javison-idele": {
+"v": 2.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 1.15,
+"Oynama süresi": 0.6272727272727272,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"digne-pounga": {
+"v": 3.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"sergej-levak": {
+"v": 3.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"nicola-zalewski": {
+"v": 22.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 0.9545454545454546,
+"Performans": 1.0666666666666667,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"gianluca-gaetano": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 0.9545454545454546,
+"Performans": 0.86875,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"eljif-elmas": {
+"v": 12.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 0.9818181818181817,
+"Performans": 0.8333333333333334,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"kamaldeen-sulemana": {
+"v": 12.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 0.6545454545454545,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"gianluca-scamacca": {
+"v": 16.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"jon-rowe": {
+"v": 14.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.9818181818181817,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"charles-de-ketelaere": {
+"v": 39.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.1727272727272728,
+"Performans": 0.8,
+"Seviye": 5.359375
+},
+"d": "2026-11-26"
+},
+"giacomo-raspadori": {
+"v": 14.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 0.7636363636363636,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"nikola-krstovic": {
+"v": 39.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 1.0909090909090908,
+"Performans": 1.1747933884297521,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"christos-mandas": {
+"v": 16.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.75,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"edoardo-motta": {
+"v": 2.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"davide-renzetti": {
+"v": 2.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"diogo-leite": {
+"v": 3.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.7909090909090909,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"luca-pellegrini": {
+"v": 3.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"danilho-doekhi": {
+"v": 14.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 0.8181818181818181,
+"Performans": 1.534375,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"romano-floriani": {
+"v": 12.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.1727272727272728,
+"Performans": 1.0613636363636365,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"nuno-tavares": {
+"v": 32.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 1.1727272727272728,
+"Performans": 1.6,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"alfonso-pedraza": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.74,
+"Mevki": 0.95,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 1.3375,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"oliver-provstgaard": {
+"v": 17.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.1454545454545455,
+"Performans": 1.1125,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"josip-sutalo": {
+"v": 10.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 1.009090909090909,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"filipe-bordon": {
+"v": 3.4,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"adam-marusic": {
+"v": 1.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.32,
+"Mevki": 0.95,
+"Oynama süresi": 0.6545454545454545,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"nicolo-rovella": {
+"v": 20.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 0.7090909090909091,
+"Performans": 1.0,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"fisayo-dele-bashiru": {
+"v": 9.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.8181818181818181,
+"Performans": 0.9142857142857143,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"mattia-zaccagni": {
+"v": 19.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 1.15,
+"Oynama süresi": 1.1454545454545455,
+"Performans": 1.375,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"davide-frattesi": {
+"v": 33.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 1.1727272727272728,
+"Performans": 1.0954545454545455,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"reda-belahyane": {
+"v": 14.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 1.1181818181818182,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"kenneth-taylor": {
+"v": 23.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.9181818181818182,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"adrian-przyborek": {
+"v": 2.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"manuel-lazzari": {
+"v": 2.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.5,
+"Mevki": 1.15,
+"Oynama süresi": 0.7909090909090909,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"danilo-cataldi": {
+"v": 2.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.5,
+"Mevki": 1.15,
+"Oynama süresi": 0.6272727272727272,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"valerio-farcomeni": {
+"v": 3.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"andrea-pinamonti": {
+"v": 12.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"gustav-isaksen": {
+"v": 23.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.0909090909090908,
+"Performans": 0.8995867768595041,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"tijjani-noslin": {
+"v": 20.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 1.0909090909090908,
+"Performans": 1.1063636363636362,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"matteo-cancellieri": {
+"v": 10.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"albert-gudmundsson": {
+"v": 10.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 1.3,
+"Oynama süresi": 0.6818181818181818,
+"Performans": 0.8227272727272726,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"alex-meret": {
+"v": 8.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 0.75,
+"Oynama süresi": 0.9818181818181817,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"nikita-contini": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.74,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"vanja-milinkovic-savic": {
+"v": 6.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 0.75,
+"Oynama süresi": 0.8181818181818181,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"david-spinelli": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"costantino-favasuli": {
+"v": 3.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.6545454545454545,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"alessandro-buongiorno": {
+"v": 12.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"benoit-badiashile": {
+"v": 3.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.7909090909090909,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"amir-rrahmani": {
+"v": 6.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.5,
+"Mevki": 0.95,
+"Oynama süresi": 1.1181818181818182,
+"Performans": 0.94375,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"rafa-marin": {
+"v": 17.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 1.1454545454545455,
+"Performans": 1.1125,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"mathias-olivera": {
+"v": 10.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 0.95,
+"Oynama süresi": 1.009090909090909,
+"Performans": 0.9875,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"giovanni-di-lorenzo": {
+"v": 7.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.4,
+"Mevki": 0.95,
+"Oynama süresi": 1.1454545454545455,
+"Performans": 1.3375,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"sam-beukema": {
+"v": 10.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.7636363636363636,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"luca-marianucci": {
+"v": 4.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.6818181818181818,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"leonardo-spinazzola": {
+"v": 2.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.4,
+"Mevki": 0.95,
+"Oynama süresi": 0.9272727272727272,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"billy-gilmour": {
+"v": 11.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.9272727272727272,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"scott-mctominay": {
+"v": 36.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 1.15,
+"Oynama süresi": 1.009090909090909,
+"Performans": 0.925,
+"Seviye": 7.089786716368395
+},
+"d": "2026-11-26"
+},
+"kevin-de-bruyne": {
+"v": 10.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.25,
+"Mevki": 1.15,
+"Oynama süresi": 1.0636363636363635,
+"Performans": 1.190909090909091,
+"Seviye": 5.359375
+},
+"d": "2026-11-26"
+},
+"francisco-barido": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"antonio-vergara": {
+"v": 10.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.8727272727272727,
+"Performans": 0.9142857142857143,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"stanislav-lobotka": {
+"v": 10.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 1.15,
+"Oynama süresi": 1.0636363636363635,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"frank-anguissa": {
+"v": 11.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.74,
+"Mevki": 1.15,
+"Oynama süresi": 0.9818181818181817,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"david-neres": {
+"v": 8.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 1.3,
+"Oynama süresi": 0.7363636363636363,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"rasmus-hjlund": {
+"v": 38.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 1.1181818181818182,
+"Performans": 0.8,
+"Seviye": 5.359375
+},
+"d": "2026-11-26"
+},
+"lorenzo-lucca": {
+"v": 13.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 0.9272727272727272,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"matteo-politano": {
+"v": 6.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.4,
+"Mevki": 1.3,
+"Oynama süresi": 1.1181818181818182,
+"Performans": 0.8549586776859504,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"giovane": {
+"v": 11.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.7636363636363636,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"alisson-santos": {
+"v": 8.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 0.7636363636363636,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"noa-lang": {
+"v": 18.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 1.0363636363636364,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"luca-lezzerini": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"david-de-gea": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.2,
+"Mevki": 0.75,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"oliver-christensen": {
+"v": 2.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"dodo": {
+"v": 5.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"radu-dragusin": {
+"v": 20.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 0.94375,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"marin-pongracic": {
+"v": 10.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 0.95,
+"Oynama süresi": 0.84,
+"Performans": 1.6,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"luca-ranieri": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.84,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"joao-mario": {
+"v": 13.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 1.4874999999999998,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"alex-jimenez": {
+"v": 23.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 1.1099999999999999,
+"Performans": 1.6,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"victor-valdepenas": {
+"v": 11.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.96,
+"Performans": 1.253125,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"viery": {
+"v": 8.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"fabiano-parisi": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"marco-brescianini": {
+"v": 9.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 0.99,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"arthur-atta": {
+"v": 11.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.87,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"cher-ndour": {
+"v": 15.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 1.17,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"pedro-goncalves": {
+"v": 9.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 0.84,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"christ-inao-oulai": {
+"v": 7.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 0.87,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"nicolo-fagioli": {
+"v": 19.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 1.17,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"salvatore-cianciulli": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"beto": {
+"v": 11.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 1.3,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"alieu-njie": {
+"v": 12.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 0.8977272727272727,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"wilfried-gnonto": {
+"v": 13.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.87,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"franco-mastantuono": {
+"v": 36.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 1.3,
+"Oynama süresi": 1.2,
+"Performans": 0.8772727272727273,
+"Seviye": 5.359375
+},
+"d": "2026-11-26"
+},
+"mateo-pellegrino": {
+"v": 16.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.1400000000000001,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"ukasz-skorupski": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.25,
+"Mevki": 0.75,
+"Oynama süresi": 1.0909090909090908,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"massimo-pessina": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 0.75,
+"Oynama süresi": 0.7090909090909091,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"ukko-happonen": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"emil-holm": {
+"v": 8.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.8181818181818181,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"arthur-theate": {
+"v": 16.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 1.0363636363636364,
+"Performans": 1.253125,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"eivind-helland": {
+"v": 9.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.8727272727272727,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"torbjrn-heggem": {
+"v": 9.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.9545454545454546,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"nicolo-casale": {
+"v": 12.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 0.9272727272727272,
+"Performans": 1.4874999999999998,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"nadir-zortea": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 1.0636363636363635,
+"Performans": 0.9875,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"rahim-alhassane": {
+"v": 3.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 0.8181818181818181,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"lorenzo-de-silvestri": {
+"v": 0.35,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.2,
+"Mevki": 0.95,
+"Oynama süresi": 0.6272727272727272,
+"Performans": 1.0,
+"Seviye": 0.5714285714285714
+},
+"d": "2026-11-26"
+},
+"juan-miranda": {
+"v": 22.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 1.0909090909090908,
+"Performans": 1.6,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"matteo-darmian": {
+"v": 0.55,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.2,
+"Mevki": 0.95,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"martin-vitik": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.7363636363636363,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"tommaso-pobega": {
+"v": 14.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 1.1454545454545455,
+"Performans": 0.8500000000000001,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"nikola-moro": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 0.7363636363636363,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"mikel-amondarain": {
+"v": 4.2,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.7636363636363636,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"oussama-el-azzouzi": {
+"v": 3.9,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.7090909090909091,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"marco-libra": {
+"v": 2.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 1.15,
+"Oynama süresi": 0.6818181818181818,
+"Performans": 0.8,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"lewis-ferguson": {
+"v": 18.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"riccardo-orsolini": {
+"v": 13.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 1.3,
+"Oynama süresi": 0.7909090909090909,
+"Performans": 0.8772727272727273,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"artem-dovbyk": {
+"v": 11.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 1.3,
+"Oynama süresi": 0.7363636363636363,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"federico-bernardeschi": {
+"v": 5.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.5,
+"Mevki": 1.3,
+"Oynama süresi": 1.1454545454545455,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"samuel-mbangula": {
+"v": 14.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.7909090909090909,
+"Performans": 0.9590909090909091,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"jens-odgaard": {
+"v": 13.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 1.0363636363636364,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"jay-enem": {
+"v": 4.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.6818181818181818,
+"Performans": 0.8227272727272726,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"nicolo-cambiaghi": {
+"v": 17.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.1727272727272728,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"roberto-piccoli": {
+"v": 14.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.009090909090909,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"ugurcan-cakir": {
+"v": 3.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 0.75,
+"Oynama süresi": 1.15,
+"Performans": 1.0,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"gunay-guvenc": {
+"v": 0.15,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.25,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.5714285714285714
+},
+"d": "2026-11-26"
+},
+"jankat-yilmaz": {
+"v": 0.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.75,
+"Oynama süresi": 0.65,
+"Performans": 1.0,
+"Seviye": 0.5714285714285714
+},
+"d": "2026-11-26"
+},
+"arda-yilmaz": {
+"v": 0.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.75,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.5714285714285714
+},
+"d": "2026-11-26"
+},
+"enes-emre-buyuk": {
+"v": 0.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.5714285714285714
+},
+"d": "2026-11-26"
+},
+"el-chadaille-bitshiabu": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.625,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"ismail-jakobs": {
+"v": 3.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 0.94375,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"davinson-sanchez": {
+"v": 5.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 0.95,
+"Oynama süresi": 1.15,
+"Performans": 1.4193181818181817,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"eren-elmali": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 1.025,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"kaan-ayhan": {
+"v": 0.65,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 0.95,
+"Oynama süresi": 0.6749999999999999,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"abdulkerim-bardakci": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 0.95,
+"Oynama süresi": 1.075,
+"Performans": 1.6,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"kazimcan-karatas": {
+"v": 1.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.7,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"wilfried-singo": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 1.20625,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"arda-unyay": {
+"v": 0.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.9,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"eyup-aydin": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"gabriel-sara": {
+"v": 19.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 1.15,
+"Performans": 1.325,
+"Seviye": 5.359375
+},
+"d": "2026-11-26"
+},
+"lesley-ugochukwu": {
+"v": 3.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"ilkay-gundogan": {
+"v": 0.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.2,
+"Mevki": 1.15,
+"Oynama süresi": 0.7,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"lucas-torreira": {
+"v": 5.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 1.15,
+"Oynama süresi": 1.15,
+"Performans": 1.1090909090909091,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"renato-nhaga": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.9,
+"Mevki": 1.15,
+"Oynama süresi": 0.7,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"alexey-batrakov": {
+"v": 16.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 1.025,
+"Performans": 1.165,
+"Seviye": 5.359375
+},
+"d": "2026-11-26"
+},
+"mario-lemina": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 1.15,
+"Oynama süresi": 0.975,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"roland-sallai": {
+"v": 4.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 1.3,
+"Oynama süresi": 1.1,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"leroy-sane": {
+"v": 11.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 1.3,
+"Oynama süresi": 1.0,
+"Performans": 0.8,
+"Seviye": 7.089786716368395
+},
+"d": "2026-11-26"
+},
+"yunus-akgun": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 1.1749999999999998,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"deniz-gul": {
+"v": 3.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"rafael-leao": {
+"v": 24.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 0.8,
+"Seviye": 12.407126753644691
+},
+"d": "2026-11-26"
+},
+"victor-osimhen": {
+"v": 67.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 0.975,
+"Performans": 1.6,
+"Seviye": 16.4130859375
+},
+"d": "2026-11-26"
+},
+"baris-alper-yilmaz": {
+"v": 13.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 1.1,
+"Performans": 0.8,
+"Seviye": 5.359375
+},
+"d": "2026-11-26"
+},
+"giacomo-satalino": {
+"v": 2.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"lorenzo-nyarko": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"arijanet-muric": {
+"v": 8.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.75,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"stefano-turati": {
+"v": 2.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"josh-doig": {
+"v": 16.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 1.3535714285714286,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"fali-cande": {
+"v": 2.9,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"sebastian-walukiewicz": {
+"v": 3.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"duje-caleta-car": {
+"v": 2.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.74,
+"Mevki": 0.95,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"fedde-leysen": {
+"v": 7.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.0714285714285714,
+"Performans": 1.20625,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ignace-van-der-brempt": {
+"v": 4.4,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 0.7714285714285714,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"jay-idzes": {
+"v": 6.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.8571428571428571,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"cas-odenthal": {
+"v": 7.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.8142857142857143,
+"Performans": 1.6,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"rafael-obrador": {
+"v": 3.4,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.7285714285714285,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"edoardo-pieragnolo": {
+"v": 3.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"cristian-volpato": {
+"v": 10.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.925,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"andrea-ghion": {
+"v": 4.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 0.6428571428571428,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"vasilije-adzic": {
+"v": 22.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 1.0285714285714285,
+"Performans": 1.475,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"nemanja-matic": {
+"v": 1.2,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.2,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"luca-lipani": {
+"v": 9.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.9428571428571428,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"kristian-thorstvedt": {
+"v": 9.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 1.0285714285714285,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"simone-cinquegrano": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 1.0714285714285714,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"darryl-bakola": {
+"v": 7.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 1.15,
+"Oynama süresi": 1.0714285714285714,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"kieron-bowie": {
+"v": 6.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 1.0285714285714285,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"domenico-berardi": {
+"v": 7.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.5,
+"Mevki": 1.3,
+"Oynama süresi": 1.0285714285714285,
+"Performans": 0.8227272727272726,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"laurs-skjellerup": {
+"v": 5.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 0.6428571428571428,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"benjamin-dominguez": {
+"v": 9.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.8142857142857143,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"armand-lauriente": {
+"v": 16.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"nicholas-pierini": {
+"v": 4.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 1.3,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"sebastiano-esposito": {
+"v": 10.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 0.9428571428571428,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"noel-tornqvist": {
+"v": 8.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.75,
+"Oynama süresi": 0.9818181818181817,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"demba-thiam": {
+"v": 3.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 0.75,
+"Oynama süresi": 0.7636363636363636,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"aljaz-strajnar": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"saba-goglichidze": {
+"v": 13.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 1.4874999999999998,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"lorenzo-lucchesi": {
+"v": 5.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.1454545454545455,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"jan-ziokowski": {
+"v": 3.4,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"yvan-maye": {
+"v": 2.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.6818181818181818,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"valentin-antov": {
+"v": 3.4,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.6272727272727272,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ricardo-mangas": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 1.6,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"samuele-birindelli": {
+"v": 8.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 1.1454545454545455,
+"Performans": 1.3375,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"adam-bakoune": {
+"v": 3.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.8727272727272727,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"andrea-carboni": {
+"v": 4.9,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 1.0909090909090908,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"eddy-kouadio": {
+"v": 6.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 1.1181818181818182,
+"Performans": 1.1125,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"manga-foe-ondoa": {
+"v": 5.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 0.9818181818181817,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ebenezer-akinsanmiro": {
+"v": 10.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 1.0363636363636364,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"leonardo-colombo": {
+"v": 4.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.7909090909090909,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"idrissa-toure": {
+"v": 4.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 0.6818181818181818,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"andrea-colpani": {
+"v": 7.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 0.8727272727272727,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"matteo-pessina": {
+"v": 4.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"mathis-mout": {
+"v": 3.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 1.15,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"michael-folorunsho": {
+"v": 4.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"gustavo-varela": {
+"v": 28.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.1454545454545455,
+"Performans": 1.3436363636363635,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"patrick-cutrone": {
+"v": 4.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 1.3,
+"Oynama süresi": 0.8454545454545455,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"omari-forson": {
+"v": 4.9,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.7636363636363636,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"cyril-ngonge": {
+"v": 8.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 0.7636363636363636,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"exequiel-zeballos": {
+"v": 8.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 0.7909090909090909,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"patrick-ciurria": {
+"v": 2.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 1.3,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"jay-robinson": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 1.3,
+"Oynama süresi": 1.0363636363636364,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"dany-mota": {
+"v": 5.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 1.3,
+"Oynama süresi": 0.9272727272727272,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"justin-bijlow": {
+"v": 11.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 0.75,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"daniele-sommariva": {
+"v": 2.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"franz-stolz": {
+"v": 2.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"mario-mitaj": {
+"v": 4.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.7,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"kingsley-ehizibue": {
+"v": 4.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 0.95,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 1.6,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"leo-stigard": {
+"v": 9.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"cody-drameh": {
+"v": 3.4,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"stefano-sabelli": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.4,
+"Mevki": 0.95,
+"Oynama süresi": 0.7,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"johan-vasquez": {
+"v": 16.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 1.1333333333333333,
+"Performans": 1.253125,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"alessandro-marcandalli": {
+"v": 9.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 1.1333333333333333,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"david-puczka": {
+"v": 3.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.7666666666666666,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"sebastian-otoa": {
+"v": 7.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.8333333333333333,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"mamedi-doucoure": {
+"v": 2.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"alexsandro-amorim": {
+"v": 8.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"tommaso-baldanzi": {
+"v": 16.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 1.0,
+"Performans": 0.975,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"ethan-meichtry": {
+"v": 4.2,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.7666666666666666,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"hamed-traore": {
+"v": 4.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 0.7666666666666666,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"morten-frendrup": {
+"v": 15.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 1.1666666666666665,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"samuel-wiafe": {
+"v": 2.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 1.15,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 0.8,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"mikael-ellertsson": {
+"v": 12.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.8333333333333334,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"djibril-sow": {
+"v": 7.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 1.15,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"vitinha": {
+"v": 10.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 0.9666666666666667,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"junior-messias": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.25,
+"Mevki": 1.3,
+"Oynama süresi": 1.0333333333333332,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"milutin-osmajic": {
+"v": 13.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 1.1,
+"Performans": 0.9284090909090909,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"robinho-junior": {
+"v": 2.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 1.3,
+"Oynama süresi": 0.6333333333333333,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"lorenzo-colombo": {
+"v": 10.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 0.9666666666666667,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"stephan-el-shaarawy": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.32,
+"Mevki": 1.3,
+"Oynama süresi": 0.8666666666666667,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"elia-caprile": {
+"v": 12.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.75,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"alen-sherri": {
+"v": 2.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"boris-radunovic": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.74,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ze-pedro": {
+"v": 4.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"riyad-idrissi": {
+"v": 3.4,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"juan-rodriguez": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 1.1749999999999998,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"raphael-kofler": {
+"v": 3.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"giuseppe-aurelio": {
+"v": 3.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.65,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"yerry-mina": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.5,
+"Mevki": 0.95,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"yukinari-sugawara": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.775,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"adam-obert": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 1.15,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"alessandro-romano": {
+"v": 10.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"harry-winks": {
+"v": 6.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.74,
+"Mevki": 1.15,
+"Oynama süresi": 1.0,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"michel-adopo": {
+"v": 11.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"jacopo-fazzini": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.95,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"alessandro-deiola": {
+"v": 3.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 1.15,
+"Oynama süresi": 1.15,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"roberto-gagliardini": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.5,
+"Mevki": 1.15,
+"Oynama süresi": 0.6749999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"joseph-liteta": {
+"v": 3.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 0.7,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"nicola-grandu": {
+"v": 4.4,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 0.7,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"yanis-massolin": {
+"v": 4.2,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"kevin-carlos": {
+"v": 8.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.775,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"mattia-felici": {
+"v": 5.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.65,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"m-bala-nzola": {
+"v": 4.9,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.74,
+"Mevki": 1.3,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 0.8772727272727273,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"yael-trepy": {
+"v": 4.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 0.725,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"riccardo-ciervo": {
+"v": 5.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 0.65,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"paul-mendy": {
+"v": 10.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 1.3,
+"Oynama süresi": 1.15,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"alieu-fadera": {
+"v": 7.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"daniel-maldini": {
+"v": 18.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.1749999999999998,
+"Performans": 0.8909090909090909,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"marco-bleve": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"christian-lupo": {
+"v": 1.2,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.65,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"wladimiro-falcone": {
+"v": 5.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 0.75,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"alexandru-borbei": {
+"v": 2.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"plamen-penev": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"ali-dembele": {
+"v": 3.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"corrie-ndaba": {
+"v": 3.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"kialonda-gaspar": {
+"v": 7.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 0.95,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 1.4874999999999998,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"jamil-siebert": {
+"v": 8.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 1.0875,
+"Performans": 1.253125,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"danilo-veiga": {
+"v": 10.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 1.534375,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"gaby-jean": {
+"v": 3.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"antonino-gallo": {
+"v": 7.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 1.125,
+"Performans": 1.1124999999999998,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"elijah-scott": {
+"v": 3.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"tiago-gabriel": {
+"v": 17.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 1.0875,
+"Performans": 1.6,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"sadik-fofana": {
+"v": 4.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"medon-berisha": {
+"v": 4.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.6375,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"youssef-maleh": {
+"v": 5.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 1.0875,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"omri-gandelman": {
+"v": 4.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 0.6749999999999999,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ivan-ilic": {
+"v": 11.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.9375,
+"Performans": 0.97,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"olaf-gorter": {
+"v": 5.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.75,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"lassana-coulibaly": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.74,
+"Mevki": 1.15,
+"Oynama süresi": 1.125,
+"Performans": 1.1285714285714286,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"oumar-ngom": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 1.0875,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"amar-ahmed": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.975,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"nikola-stulic": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.9375,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"konan-n-dri": {
+"v": 6.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"santiago-pierotti": {
+"v": 6.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"willem-geubbels": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.9375,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"mohamed-kaba": {
+"v": 4.9,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.7875,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"joel-monteiro": {
+"v": 5.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 0.9375,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"maduka-okoye": {
+"v": 8.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.75,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"bartosz-mrozek": {
+"v": 2.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"daniele-padelli": {
+"v": 0.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.2,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"james-abankwah": {
+"v": 7.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.15,
+"Performans": 1.0613636363636365,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"christian-kabasele": {
+"v": 1.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.25,
+"Mevki": 0.95,
+"Oynama süresi": 0.95,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"matteo-palma": {
+"v": 8.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 0.95,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 1.3535714285714286,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"mergim-vojvoda": {
+"v": 3.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 0.95,
+"Oynama süresi": 1.15,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"oumar-solet": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.95,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"hassane-kamara": {
+"v": 5.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.5,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 1.6,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"nicolo-bertola": {
+"v": 3.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"enzo-ebosse": {
+"v": 4.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.95,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"alessandro-zanoli": {
+"v": 3.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.6749999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"david-alaba": {
+"v": 1.2,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.32,
+"Mevki": 0.95,
+"Oynama süresi": 0.7,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"nicolo-zaniolo": {
+"v": 13.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 0.9785714285714285,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"jurgen-ekkelenkamp": {
+"v": 14.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 1.0125,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"jakub-piotrowski": {
+"v": 4.2,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 1.15,
+"Oynama süresi": 0.975,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"unai-gomez": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.95,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"jesper-karlstrom": {
+"v": 3.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"sandi-lovric": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 0.7,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"lennon-miller": {
+"v": 10.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"juan-david-arizala": {
+"v": 4.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.725,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"oier-zarraga": {
+"v": 4.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"giorgi-chakvetadze": {
+"v": 4.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"keinan-davis": {
+"v": 10.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 1.3,
+"Oynama süresi": 1.075,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"idrissa-gueye": {
+"v": 4.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 0.725,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"bayo-youssouf": {
+"v": 3.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 1.3,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"giulio-vinciati": {
+"v": 3.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 1.3,
+"Oynama süresi": 0.625,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"lazar-jovanovic": {
+"v": 3.2,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 1.3,
+"Oynama süresi": 0.65,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"gabriele-casentini": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"simone-ghidotti": {
+"v": 2.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"giovanni-daffara": {
+"v": 3.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.75,
+"Oynama süresi": 0.6666666666666666,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"edoardo-corvi": {
+"v": 5.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 0.75,
+"Oynama süresi": 1.1333333333333333,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"alessandro-mazzocchi": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"abdoulaye-ndiaye": {
+"v": 3.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 0.6666666666666666,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"lautaro-valenti": {
+"v": 3.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.6333333333333333,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"emanuele-valeri": {
+"v": 4.9,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 1.1666666666666665,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"enrico-del-prato": {
+"v": 5.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"sascha-britschgi": {
+"v": 7.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 1.0,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"franco-carboni": {
+"v": 4.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.7333333333333333,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"diego-carlos": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.4,
+"Mevki": 0.95,
+"Oynama süresi": 1.0,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"mariano-troilo": {
+"v": 10.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"dominik-drobnic": {
+"v": 2.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 0.95,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"vincent-sierro": {
+"v": 3.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 1.15,
+"Oynama süresi": 0.9666666666666667,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"benjamin-cremaschi": {
+"v": 8.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.6666666666666666,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"adrian-bernabe": {
+"v": 12.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.9666666666666667,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"mandela-keita": {
+"v": 11.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"christian-ordonez": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.9333333333333333,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"hans-nicolussi-caviglia": {
+"v": 4.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"abdou-salam-konate": {
+"v": 3.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.9,
+"Mevki": 1.15,
+"Oynama süresi": 0.7,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"giovanni-fabbian": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.9333333333333333,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"jose-romero": {
+"v": 6.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 1.0333333333333332,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"pontus-almqvist": {
+"v": 4.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"el-bilal-toure": {
+"v": 7.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"matija-frigan": {
+"v": 5.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"nesta-elphege": {
+"v": 5.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.8333333333333333,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"simone-lontani": {
+"v": 8.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 1.3,
+"Oynama süresi": 1.0333333333333332,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"alexander-nubel": {
+"v": 3.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 0.75,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"dogan-alemdar": {
+"v": 1.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"emmanuel-agbadou": {
+"v": 3.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 0.8781249999999999,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"ridvan-yilmaz": {
+"v": 4.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 1.15,
+"Performans": 1.4193181818181817,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"amir-murillo": {
+"v": 4.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 0.95,
+"Oynama süresi": 1.15,
+"Performans": 1.6,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"emirhan-topcu": {
+"v": 4.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 1.175,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"tiago-djalo": {
+"v": 3.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.95,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"kassoum-ouattara": {
+"v": 3.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.775,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"taylan-bulut": {
+"v": 2.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.85,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"yasin-ozcan": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.65,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"salih-ozcan": {
+"v": 2.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"junior-olaitan": {
+"v": 6.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 1.15,
+"Performans": 0.9727272727272727,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"wilfred-ndidi": {
+"v": 5.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 1.15,
+"Oynama süresi": 1.15,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"orkun-kokcu": {
+"v": 23.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 1.0,
+"Performans": 1.31875,
+"Seviye": 7.089786716368395
+},
+"d": "2026-11-26"
+},
+"fabio-miretti": {
+"v": 4.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.85,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"kartal-yilmaz": {
+"v": 2.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"amir-hadziahmetovic": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"vaclav-cerny": {
+"v": 4.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 1.3,
+"Oynama süresi": 1.15,
+"Performans": 0.8252066115702479,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"leandro-trossard": {
+"v": 7.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 1.3,
+"Oynama süresi": 1.15,
+"Performans": 0.9814049586776858,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"oh-hyeon-gyu": {
+"v": 5.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.1,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"ilhan-fakili": {
+"v": 4.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 1.1,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"dusan-vlahovic": {
+"v": 41.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 1.1,
+"Performans": 1.45,
+"Seviye": 9.37890625
+},
+"d": "2026-11-26"
+},
+"ernest-poku": {
+"v": 6.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"milot-rashica": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 1.3,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"semih-kilicsoy": {
+"v": 4.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.7,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"kuzey-sapaz": {
+"v": 0.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.75,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"tarik-cetin": {
+"v": 0.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"ederson-fenerbahce": {
+"v": 3.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 0.75,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 5.359375
+},
+"d": "2026-11-26"
+},
+"mert-gunok": {
+"v": 0.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.2,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"archie-brown": {
+"v": 5.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 1.0411642411642412,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"yigit-efe-demir": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.6045738045738045,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"nathan-ake": {
+"v": 4.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 0.95,
+"Oynama süresi": 0.9841995841995842,
+"Performans": 1.0,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"mert-muldur": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.701039501039501,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"kojo-oppong": {
+"v": 3.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.8004158004158004,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"levent-mercan": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.7954261954261954,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"jayden-oosterwolde": {
+"v": 2.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"nelson-semedo": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 0.95,
+"Oynama süresi": 1.1031185031185031,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"milan-skriniar": {
+"v": 7.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 0.95,
+"Oynama süresi": 1.1904365904365903,
+"Performans": 1.0,
+"Seviye": 5.359375
+},
+"d": "2026-11-26"
+},
+"ognjen-mimovic": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ismail-yuksek": {
+"v": 3.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 0.8677754677754678,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"matteo-guendouzi": {
+"v": 18.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 1.1363825363825364,
+"Performans": 1.0,
+"Seviye": 7.089786716368395
+},
+"d": "2026-11-26"
+},
+"mert-hakan-yandas": {
+"v": 0.55,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 1.15,
+"Oynama süresi": 0.6158004158004158,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"marco-asensio": {
+"v": 4.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 1.15,
+"Oynama süresi": 0.6528066528066527,
+"Performans": 1.0,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"mason-greenwood": {
+"v": 38.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.0939708939708939,
+"Performans": 1.0,
+"Seviye": 12.407126753644691
+},
+"d": "2026-11-26"
+},
+"irfan-can-kahveci": {
+"v": 2.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 1.15,
+"Oynama süresi": 0.9525987525987525,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"bartug-elmaz": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.6432432432432432,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"oguz-aydin": {
+"v": 4.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 0.9746361746361747,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"n-golo-kante": {
+"v": 1.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.25,
+"Mevki": 1.15,
+"Oynama süresi": 1.0723492723492722,
+"Performans": 1.0,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"kerem-akturkoglu": {
+"v": 11.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.3,
+"Oynama süresi": 0.8781704781704782,
+"Performans": 1.0,
+"Seviye": 5.359375
+},
+"d": "2026-11-26"
+},
+"romelu-lukaku": {
+"v": 3.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 1.3,
+"Oynama süresi": 0.8785862785862786,
+"Performans": 1.0,
+"Seviye": 4.051306695067654
+},
+"d": "2026-11-26"
+},
+"vedat-muriqi": {
+"v": 3.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 1.3,
+"Oynama süresi": 0.9318087318087318,
+"Performans": 1.0,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"dorgeles-nene": {
+"v": 4.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.6727650727650727,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"filip-stankovic": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.75,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"matteo-grandi": {
+"v": 0.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.32,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"lorenzo-montipo": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.74,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"matias-moreno": {
+"v": 4.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.975,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"joel-schingtienne": {
+"v": 4.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"bartol-franjic": {
+"v": 3.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.7,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ridgeciano-haps": {
+"v": 2.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.4,
+"Mevki": 0.95,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 1.1124999999999998,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"thierry-correia": {
+"v": 3.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"juan-jesus": {
+"v": 0.75,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.25,
+"Mevki": 0.95,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 0.8,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"rufai-mohammed": {
+"v": 3.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"armel-bella-kotchap": {
+"v": 3.4,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"antoine-hainaut": {
+"v": 10.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 1.1,
+"Performans": 1.6,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"richie-sagrado": {
+"v": 7.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.775,
+"Performans": 1.6,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"redouane-halhal": {
+"v": 4.3,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"pasquale-mazzocchi": {
+"v": 1.9,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.62,
+"Mevki": 0.95,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ale-gomes": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"gianluca-busio": {
+"v": 9.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 0.875,
+"Performans": 0.8999999999999999,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"lamine-dabo": {
+"v": 4.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.65,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"simon-sohm": {
+"v": 10.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 1.025,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"thorir-johann-helgason": {
+"v": 4.4,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 0.825,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"toma-basic": {
+"v": 3.9,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 1.15,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"matteo-dagasso": {
+"v": 4.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.65,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"alfred-duncan": {
+"v": 1.1,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.4,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"enrique-perez": {
+"v": 4.6,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.85,
+"Mevki": 1.15,
+"Oynama süresi": 1.075,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"toni-fernandez": {
+"v": 1.9,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.75,
+"Mevki": 1.15,
+"Oynama süresi": 0.6749999999999999,
+"Performans": 0.8,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"albion-rrahmani": {
+"v": 5.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 0.825,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"john-yeboah": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 1.025,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"lion-lauberbach": {
+"v": 4.4,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 0.94,
+"Mevki": 1.3,
+"Oynama süresi": 0.825,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"akor-adams": {
+"v": 11.5,
+"parts": {
+"Lig tabanı": 5.5,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 1.1,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"ahmet-dogan-yildirim": {
+"v": 0.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"andre-onana": {
+"v": 7.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 0.75,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 5.359375
+},
+"d": "2026-11-26"
+},
+"onuralp-cevikkan": {
+"v": 0.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"erol-colak": {
+"v": 0.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.5714285714285714
+},
+"d": "2026-11-26"
+},
+"samet-akaydin": {
+"v": 0.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 0.95,
+"Oynama süresi": 0.625,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"stefan-savic": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.25,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 1.0187499999999998,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"mustafa-eskihellac": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 0.95,
+"Oynama süresi": 1.1,
+"Performans": 1.2659090909090907,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"wagner-pina": {
+"v": 6.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 1.125,
+"Performans": 1.6,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"chibuike-nwaiwu": {
+"v": 8.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.15,
+"Performans": 1.4193181818181817,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"cenk-ozkacar": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.775,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"arseniy-batahov": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"sidny-lopes-cabral": {
+"v": 4.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 1.025,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"batista-mendy": {
+"v": 3.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"okay-yokuslu": {
+"v": 0.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"fabinho": {
+"v": 1.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 1.15,
+"Oynama süresi": 1.1,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"ernest-muci": {
+"v": 13.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 1.15,
+"Performans": 1.5318181818181817,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"benjamin-bouchouari": {
+"v": 3.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.6749999999999999,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"ozan-tufan": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 1.15,
+"Oynama süresi": 1.025,
+"Performans": 0.8875,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ruslan-malinovskyi": {
+"v": 1.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 1.15,
+"Oynama süresi": 0.7,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"tim-jabol-folcarelli": {
+"v": 2.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 0.7,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"melih-kabasakal": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 1.15,
+"Oynama süresi": 1.0,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"aral-simsir": {
+"v": 3.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 1.0,
+"Performans": 0.8333333333333334,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"yigithan-cubukcu": {
+"v": 0.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.75,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.5714285714285714
+},
+"d": "2026-11-26"
+},
+"franculino-dju": {
+"v": 10.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.85,
+"Performans": 1.2863636363636364,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"mohamed-salah": {
+"v": 12.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.32,
+"Mevki": 1.3,
+"Oynama süresi": 1.1749999999999998,
+"Performans": 1.3068181818181817,
+"Seviye": 9.37890625
+},
+"d": "2026-11-26"
+},
+"umut-nayir": {
+"v": 0.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 1.3,
+"Oynama süresi": 0.65,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"paul-onuachu": {
+"v": 2.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 1.3,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"cihan-canak": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"noah-saviolo": {
+"v": 5.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 1.0,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"metehan-mimaroglu": {
+"v": 0.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 1.3,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ali-habesoglu": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.625,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"arda-ozcimen": {
+"v": 3.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 0.75,
+"Oynama süresi": 1.025,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"luka-gugeshashvili": {
+"v": 1.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.75,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"mehmet-ozturk": {
+"v": 0.95,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"nevzat-tan-uzel": {
+"v": 0.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.9,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"taha-altikardes": {
+"v": 3.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"furkan-bayir": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ogun-bayrak": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"malcom-bokele": {
+"v": 2.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"allan-godoi": {
+"v": 0.45,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 0.95,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"novatus-miroshi": {
+"v": 3.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"noah-sonko-sundberg": {
+"v": 1.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 0.95,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"tino-anjorin": {
+"v": 3.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"alexis-antunes": {
+"v": 2.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 1.1,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"efkan-bekiroglu": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 1.15,
+"Oynama süresi": 1.1,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"andre-henrique": {
+"v": 2.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"rhaldney": {
+"v": 2.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"ege-yildirim": {
+"v": 2.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"richard-akonnor": {
+"v": 2.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"sinclair-armstrong": {
+"v": 3.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"gokdeniz-bayrakdar": {
+"v": 2.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"turac-boke": {
+"v": 2.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"janderson": {
+"v": 5.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"arda-okan-kurtulan": {
+"v": 5.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"alex-matos": {
+"v": 3.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"ibrahim-sabra": {
+"v": 2.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"juan": {
+"v": 9.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 1.2,
+"Performans": 1.1227272727272728,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"volkan-babacan": {
+"v": 0.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.2,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.4319593977248311
+},
+"d": "2026-11-26"
+},
+"muhammed-sengezer": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 0.75,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"deniz-dilmen": {
+"v": 1.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.75,
+"Oynama süresi": 0.75,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"jerome-opoku": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"onur-bulut": {
+"v": 0.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 0.95,
+"Oynama süresi": 0.65,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"hamza-gureler": {
+"v": 1.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.7,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"christopher-operi": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 0.95,
+"Oynama süresi": 0.85,
+"Performans": 1.6,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"emin-bayram": {
+"v": 4.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 1.0187499999999998,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"ousseynou-ba": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 0.95,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 1.3535714285714286,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"micha-karbownik": {
+"v": 3.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 1.025,
+"Performans": 0.94375,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"saba-kharebashvili": {
+"v": 3.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.75,
+"Mevki": 0.95,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 1.1124999999999998,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"onur-ergun": {
+"v": 0.45,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.32,
+"Mevki": 1.15,
+"Oynama süresi": 0.775,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"olivier-kemen": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"edin-visca": {
+"v": 0.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.2,
+"Mevki": 1.15,
+"Oynama süresi": 0.7,
+"Performans": 0.925,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"abbosbek-fayzullaev": {
+"v": 4.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 0.86875,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"jakub-kauzinski": {
+"v": 3.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 1.075,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"berkay-ozcan": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 0.65,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"umut-gunes": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"omer-sahiner": {
+"v": 0.55,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.32,
+"Mevki": 1.15,
+"Oynama süresi": 0.95,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"andreas-skov-olsen": {
+"v": 8.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.975,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"yusuf-sari": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.3,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"davie-selke": {
+"v": 2.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 1.3,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"eldor-shomurodov": {
+"v": 5.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 1.3,
+"Oynama süresi": 1.2,
+"Performans": 1.2113636363636362,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"umut-bozok": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 1.3,
+"Oynama süresi": 0.85,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ivan-brnic": {
+"v": 4.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.0,
+"Performans": 0.8363636363636363,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"bertug-yildirim": {
+"v": 2.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"andreas-gianniotis": {
+"v": 0.85,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 0.75,
+"Oynama süresi": 1.1,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"ali-yanar": {
+"v": 0.85,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"aegean-albayrak": {
+"v": 0.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.9,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"claudio-winck": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 0.95,
+"Oynama süresi": 1.1,
+"Performans": 1.6,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"adem-arous": {
+"v": 8.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.0,
+"Performans": 1.6,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"jakob-jessen": {
+"v": 1.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.825,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"kevin-mouanga": {
+"v": 1.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.775,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"omer-bayram": {
+"v": 0.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.25,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.4319593977248311
+},
+"d": "2026-11-26"
+},
+"matei-ilie": {
+"v": 2.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.1,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"ahmet-taha-dagbasi": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.6749999999999999,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ayberk-karapo": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.025,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"atakan-mujde": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.65,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"haris-hajradinovic": {
+"v": 1.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 1.15,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 0.8999999999999999,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"mortadha-ben-ouanes": {
+"v": 0.75,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 1.15,
+"Oynama süresi": 0.65,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"andri-fannar-baldursson": {
+"v": 2.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"marcus-rafferty": {
+"v": 2.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8333333333333334,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"kerem-demirbay": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 1.15,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"elson-mendes-da-silva": {
+"v": 2.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"ali-yavuz-kol": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.0,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"adrian-benedyczak": {
+"v": 13.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.2,
+"Performans": 1.259090909090909,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"thiemoko-diarra": {
+"v": 2.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"jesurun-rak-sakyi": {
+"v": 3.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 0.85,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"fousseni-diabate": {
+"v": 0.95,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 1.3,
+"Oynama süresi": 0.725,
+"Performans": 0.8227272727272726,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"guven-yalcin": {
+"v": 2.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 1.0,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"mustafa-burak-boznan": {
+"v": 0.95,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"alban-lafont": {
+"v": 4.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.75,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"david-bates": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 0.95,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"lumbardh-dellova": {
+"v": 2.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 1.0,
+"Performans": 1.0421875,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"umut-meras": {
+"v": 1.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 0.95,
+"Oynama süresi": 1.0,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"mehmet-yesil": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 0.875,
+"Performans": 1.0421875,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"amadou-cisse": {
+"v": 1.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"kahraman-demirtapa": {
+"v": 0.55,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ali-bulbul": {
+"v": 1.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.725,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"cem-ustundag": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"furkan-soyalp": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 1.15,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"gokhan-gul": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"rayan-raveloson": {
+"v": 2.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 1.15,
+"Oynama süresi": 1.15,
+"Performans": 0.8363636363636364,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"mohamed-khalil": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.825,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"dia-saba": {
+"v": 2.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 1.15,
+"Oynama süresi": 1.15,
+"Performans": 1.4636363636363638,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"rayan-lutin": {
+"v": 2.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.85,
+"Performans": 0.85,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"berk-kizildemir": {
+"v": 0.95,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.9,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"ermal-krasniqi": {
+"v": 3.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.3,
+"Oynama süresi": 1.15,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"samuel-ballet": {
+"v": 3.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.075,
+"Performans": 0.9345454545454546,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"yira-sor": {
+"v": 2.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 0.75,
+"Performans": 0.8227272727272726,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"mbaye-diagne": {
+"v": 0.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.32,
+"Mevki": 1.3,
+"Oynama süresi": 0.875,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"gift-orban": {
+"v": 14.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 1.1,
+"Performans": 1.5020661157024793,
+"Seviye": 3.0625
+},
+"d": "2026-11-26"
+},
+"marcos-felipe": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 0.75,
+"Oynama süresi": 1.15,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"erhan-erenturk": {
+"v": 0.55,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"caglar-soyuncu": {
+"v": 3.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 0.95,
+"Oynama süresi": 0.875,
+"Performans": 1.4874999999999998,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"serdar-saatci": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"alexandre-penetra": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 1.0,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"hrvoje-smolcic": {
+"v": 2.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 1.15,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"huseyin-bulut": {
+"v": 1.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"andrei-borza": {
+"v": 6.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 1.1,
+"Performans": 1.5062499999999999,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"cemali-sertel": {
+"v": 1.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"berat-ozdemir": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"markus-karlsbakk": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 0.825,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"mohammed-diomande": {
+"v": 3.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 1.125,
+"Performans": 0.8772727272727273,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"gokhan-sazdagi": {
+"v": 0.75,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 1.15,
+"Oynama süresi": 1.1,
+"Performans": 0.8,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"fredy": {
+"v": 0.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.2,
+"Mevki": 1.15,
+"Oynama süresi": 0.875,
+"Performans": 0.8999999999999999,
+"Seviye": 0.5714285714285714
+},
+"d": "2026-11-26"
+},
+"ylber-ramadani": {
+"v": 1.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 1.15,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"goktan-gurpuz": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.7,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ermin-mahmic": {
+"v": 2.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.875,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"ahmed-ildiz": {
+"v": 1.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 1.15,
+"Oynama süresi": 0.7,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"cengiz-under": {
+"v": 4.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 1.3,
+"Oynama süresi": 1.025,
+"Performans": 1.040909090909091,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"mame-thiam": {
+"v": 0.35,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.32,
+"Mevki": 1.3,
+"Oynama süresi": 0.7,
+"Performans": 0.8,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"youssoufa-moukoko": {
+"v": 4.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 0.8,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"emircan-gurluk": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.725,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"jesus-ramirez": {
+"v": 4.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.3,
+"Oynama süresi": 1.2,
+"Performans": 1.075,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"alexandros-kyziridis": {
+"v": 4.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 1.1,
+"Performans": 1.1063636363636362,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"bilal-bayazit": {
+"v": 1.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.75,
+"Oynama süresi": 0.6666666666666666,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"okan-kocuk": {
+"v": 1.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 0.75,
+"Oynama süresi": 1.1333333333333333,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"efe-ustun": {
+"v": 0.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.75,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"celil-yuksel": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 1.0666666666666667,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"josafat-mendes": {
+"v": 5.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 1.6,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"enes-albak": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.6333333333333333,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"elliot-watt": {
+"v": 2.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 1.0,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"emre-kilinc": {
+"v": 1.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 1.15,
+"Oynama süresi": 1.1333333333333333,
+"Performans": 0.86875,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"afonso-sousa": {
+"v": 2.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 0.7666666666666666,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"samed-onur": {
+"v": 1.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 0.9333333333333333,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"antoine-sekongo": {
+"v": 2.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 1.0,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"tanguy-coulibaly": {
+"v": 3.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.8333333333333333,
+"Performans": 0.8977272727272727,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"yalcin-kayan": {
+"v": 2.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 1.0666666666666667,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"oskar-hlenschlger": {
+"v": 2.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.7,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"saikuba-jarju": {
+"v": 2.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.75,
+"Mevki": 1.3,
+"Oynama süresi": 1.0666666666666667,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"logi-tomasson": {
+"v": 6.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 1.6,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"fatih-kaya": {
+"v": 2.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 0.7999999999999999,
+"Performans": 0.8977272727272727,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"elayis-tavsan": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.7,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"strahinja-erakovic": {
+"v": 1.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.8666666666666667,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"yunus-emre-cift": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"igor-drapinski": {
+"v": 2.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.7,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"mohamed-bayo": {
+"v": 2.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.3,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"gabriele-guarino": {
+"v": 2.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.0666666666666667,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"aleksandar-jovanovic": {
+"v": 0.35,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"onurcan-piri": {
+"v": 0.45,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"serhat-oztasdelen": {
+"v": 3.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.75,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"anfernee-dijksteel": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 0.95,
+"Oynama süresi": 1.1454545454545455,
+"Performans": 0.94375,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"muharrem-cinan": {
+"v": 1.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 0.8181818181818181,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"tanguy-zoukrou": {
+"v": 2.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.8727272727272727,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"emir-ortakaya": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.0363636363636364,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"matej-maglica": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 0.8454545454545455,
+"Performans": 1.4874999999999998,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"deniz-ceylan": {
+"v": 0.65,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.75,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"massadio-haidara": {
+"v": 0.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 0.95,
+"Oynama süresi": 0.9272727272727272,
+"Performans": 1.4874999999999998,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"ugur-kaan-yildiz": {
+"v": 2.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 1.1181818181818182,
+"Performans": 0.9079545454545453,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"onur-oztonga": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.6818181818181818,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"tayfur-bingol": {
+"v": 0.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 0.95,
+"Oynama süresi": 0.7909090909090909,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"tobias-gulliksen": {
+"v": 2.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.7636363636363636,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"berkan-kutlu": {
+"v": 4.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 1.3272727272727272,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"show": {
+"v": 2.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"hulisi-destici": {
+"v": 0.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.75,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"haydar-karatas": {
+"v": 0.95,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.9,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"mahamadou-susoho": {
+"v": 3.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 1.1181818181818182,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"ege-bilim": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 0.7090909090909091,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"makana-baku": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 1.0636363636363635,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"daniel-agyei": {
+"v": 2.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 1.3,
+"Oynama süresi": 1.1181818181818182,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"bruno-petkovic": {
+"v": 1.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 1.3,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"goncalo-santos-sousa": {
+"v": 4.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 1.1181818181818182,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"arda-ozyar": {
+"v": 1.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.9,
+"Mevki": 1.3,
+"Oynama süresi": 0.6545454545454545,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"metehan-altunbas": {
+"v": 2.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.9818181818181817,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"florian-aye": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 1.3,
+"Oynama süresi": 1.009090909090909,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"rigoberto-rivas": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.3,
+"Oynama süresi": 0.8727272727272727,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"zafer-gorgen": {
+"v": 1.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.75,
+"Oynama süresi": 0.7090909090909091,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"yahia-fofana": {
+"v": 3.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.75,
+"Oynama süresi": 1.0909090909090908,
+"Performans": 1.0,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"efe-dogan": {
+"v": 1.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"valentin-mihaila": {
+"v": 3.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 0.8181818181818181,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"qazim-laci": {
+"v": 2.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.9590909090909091,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"can-bozdogan": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.6818181818181818,
+"Performans": 0.8999999999999999,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"mithat-pala": {
+"v": 2.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"taha-sahin": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.7090909090909091,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"zakaria-ariss": {
+"v": 2.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 1.1181818181818182,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"dal-varesanovic": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.8181818181818181,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"ibrahim-olawoyin": {
+"v": 3.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.3,
+"Oynama süresi": 1.1727272727272728,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"taylan-antalyali": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 1.15,
+"Oynama süresi": 1.1454545454545455,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ahmed-kutucu": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 1.009090909090909,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"iustin-doicaru": {
+"v": 2.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.9,
+"Mevki": 1.3,
+"Oynama süresi": 0.8181818181818181,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"attila-mocsi": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 1.0363636363636364,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"emrecan-bulut": {
+"v": 3.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 1.0363636363636364,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"tayyib-talha-sanuc": {
+"v": 1.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.7636363636363636,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"modibo-sagnan": {
+"v": 2.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 1.1454545454545455,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"siaka-bakayoko": {
+"v": 1.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.8727272727272727,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"moussa-diakite": {
+"v": 2.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.8454545454545455,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"adedire-mebude": {
+"v": 3.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 1.009090909090909,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"ali-sowe": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 1.3,
+"Oynama süresi": 1.1454545454545455,
+"Performans": 0.8475206611570247,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"gennaro-borrelli": {
+"v": 2.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 0.7636363636363636,
+"Performans": 0.9590909090909091,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"kacper-tobiasz": {
+"v": 2.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 0.75,
+"Oynama süresi": 1.1400000000000001,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"mehmet-ataberk-dadadeniz": {
+"v": 1.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.75,
+"Oynama süresi": 0.6599999999999999,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"cemilhan-aslan": {
+"v": 0.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.75,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"luis-perez": {
+"v": 1.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"arda-kizildag": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"efe-sarikaya": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.6599999999999999,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"myenty-abena": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 0.95,
+"Oynama süresi": 1.1400000000000001,
+"Performans": 1.175,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"deian-sorescu": {
+"v": 4.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 1.6,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"abakar-sylla": {
+"v": 2.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.8999999999999999,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"kerim-calhanoglu": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 1.02,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"drissa-camara": {
+"v": 2.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 1.02,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"juninho-bacuna": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 1.15,
+"Oynama süresi": 0.87,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"victor-gidado": {
+"v": 2.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 1.08,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"kacper-kozowski": {
+"v": 7.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.9550000000000001,
+"Seviye": 2.315032397181517
+},
+"d": "2026-11-26"
+},
+"mirza-cihan": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"karamba-gassama": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ogun-ozcicek": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"mervan-mujdeci": {
+"v": 0.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.75,
+"Mevki": 1.15,
+"Oynama süresi": 0.63,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"trivante-stewart": {
+"v": 2.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 0.96,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"serdar-dursun": {
+"v": 0.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.25,
+"Mevki": 1.3,
+"Oynama süresi": 0.8099999999999999,
+"Performans": 0.8,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"sontje-hansen": {
+"v": 2.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 0.78,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"enver-kulasin": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.63,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"halil-dervisoglu": {
+"v": 2.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 0.9299999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ali-osman-kalin": {
+"v": 0.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.75,
+"Mevki": 1.3,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"fuat-bavuk": {
+"v": 1.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 0.69,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"gokhan-akkan": {
+"v": 0.55,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"irfan-can-egribayat": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 0.75,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"thalisson-kelven": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 1.0,
+"Performans": 1.253125,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"yigit-hamza-aydar": {
+"v": 0.65,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.75,
+"Mevki": 0.95,
+"Oynama süresi": 0.775,
+"Performans": 0.8,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"dimitrios-goutas": {
+"v": 1.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 0.95,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 0.9875,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"pedro-pereira": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"arda-celik": {
+"v": 1.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"bilal-sari": {
+"v": 0.65,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.75,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"abdurrahim-dursun": {
+"v": 2.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 1.1124999999999998,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"firatcan-uzum": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"metehan-baltaci": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 0.95,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"peter-etebo": {
+"v": 0.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 1.15,
+"Oynama süresi": 0.625,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"franco-tongya": {
+"v": 5.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.975,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"erk-aslan": {
+"v": 0.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.75,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"cheikh-niasse": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 0.775,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ogulcan-ulgun": {
+"v": 2.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 1.1,
+"Performans": 1.0136363636363637,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ousmane-diabate": {
+"v": 3.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.9,
+"Mevki": 1.15,
+"Oynama süresi": 1.125,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"salih-ucan": {
+"v": 0.65,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 1.15,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 0.8,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"goktug-erdem": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.625,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"rafael-luis": {
+"v": 2.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.9249999999999999,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"tiago-gouveia": {
+"v": 3.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.125,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"pedro-mendes": {
+"v": 2.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 1.025,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"victor-orakpo": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 0.75,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"adama-traore": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 1.3,
+"Oynama süresi": 1.075,
+"Performans": 0.8281818181818181,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"sekou-koita": {
+"v": 2.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 0.975,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"prince-martor": {
+"v": 1.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.9,
+"Mevki": 1.3,
+"Oynama süresi": 0.725,
+"Performans": 0.8,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"furkan-ayaz": {
+"v": 0.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.65,
+"Mevki": 1.3,
+"Oynama süresi": 0.625,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"deniz-ertas": {
+"v": 1.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.75,
+"Oynama süresi": 0.7636363636363636,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"bahadir-han-gungordu": {
+"v": 1.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 0.75,
+"Oynama süresi": 1.0909090909090908,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"egemen-aydin": {
+"v": 0.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.9,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"ahmet-oguz": {
+"v": 0.45,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"arif-bosluk": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.6545454545454545,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"adil-demirbag": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 0.9818181818181817,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ugurcan-yazgili": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 1.0363636363636364,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"chidozie-awaziem": {
+"v": 3.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 0.95,
+"Oynama süresi": 1.0363636363636364,
+"Performans": 1.6,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"ata-yanik": {
+"v": 0.55,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.65,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"yhoan-andzouana": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 0.95,
+"Oynama süresi": 1.0363636363636364,
+"Performans": 0.9875,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"rayyan-baniya": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 1.0909090909090908,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"arthur-masuaku": {
+"v": 0.65,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 0.95,
+"Oynama süresi": 1.0909090909090908,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"da-mata": {
+"v": 1.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"diogo-goncalves": {
+"v": 2.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 1.15,
+"Oynama süresi": 1.1181818181818182,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"marko-jevtovic": {
+"v": 0.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 1.15,
+"Oynama süresi": 1.1181818181818182,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"enis-bardhi": {
+"v": 1.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 1.15,
+"Oynama süresi": 0.8727272727272727,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"omer-cobanoglu": {
+"v": 0.95,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.9,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"rajmund-toth": {
+"v": 3.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 1.0636363636363635,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"melih-ibrahimoglu": {
+"v": 2.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"deniz-turuc": {
+"v": 0.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 1.3,
+"Oynama süresi": 1.1181818181818182,
+"Performans": 0.8036363636363636,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"jackson-muleka": {
+"v": 3.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.3,
+"Oynama süresi": 1.1727272727272728,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"ebrima-colley": {
+"v": 2.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 1.009090909090909,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"mostafa-mohamed": {
+"v": 2.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.3,
+"Oynama süresi": 0.8454545454545455,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"jean-luc-dompe": {
+"v": 1.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.62,
+"Mevki": 1.3,
+"Oynama süresi": 0.8727272727272727,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"enis-destan": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 0.7636363636363636,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"mert-bayram": {
+"v": 0.95,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"paulo-victor": {
+"v": 0.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.2,
+"Mevki": 0.75,
+"Oynama süresi": 1.2,
+"Performans": 1.0,
+"Seviye": 0.5714285714285714
+},
+"d": "2026-11-26"
+},
+"nuno-lima": {
+"v": 3.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 1.0613636363636365,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"bedirhan-ozyurt": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.95,
+"Oynama süresi": 0.7909090909090909,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"fidan-aliti": {
+"v": 0.75,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.4,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"fatih-aksoy": {
+"v": 1.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 0.95,
+"Oynama süresi": 0.9272727272727272,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"florent-hadergjonaj": {
+"v": 1.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 1.2659090909090907,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"enes-keskin": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.7636363636363636,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ianis-hagi": {
+"v": 2.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 0.8727272727272727,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"emre-demir": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"paolo-fernandes": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 0.7909090909090909,
+"Performans": 0.925,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"izzet-celik": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.6545454545454545,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"gaius-makouta": {
+"v": 1.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 1.15,
+"Oynama süresi": 1.1454545454545455,
+"Performans": 0.8500000000000001,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"baran-gezek": {
+"v": 3.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 1.1727272727272728,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"maestro": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.8181818181818181,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"yusuf-ozdemir": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 0.8181818181818181,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ibrahim-kaya": {
+"v": 2.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.0636363636363635,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"omar-ben-ali": {
+"v": 2.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.8727272727272727,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"ruan": {
+"v": 4.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.75
+},
+"d": "2026-11-26"
+},
+"meschack-elia": {
+"v": 1.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 1.3,
+"Oynama süresi": 0.8454545454545455,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"hwang-ui-jo": {
+"v": 0.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.32,
+"Mevki": 1.3,
+"Oynama süresi": 1.0363636363636364,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ivan-cedric": {
+"v": 2.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 1.3,
+"Oynama süresi": 0.8181818181818181,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"emre-bilgin": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.75,
+"Oynama süresi": 0.7909090909090909,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"umut-keseci": {
+"v": 1.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"horatiu-moldovan": {
+"v": 1.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 0.75,
+"Oynama süresi": 1.0363636363636364,
+"Performans": 1.0,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"arda-yavuz": {
+"v": 1.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.6818181818181818,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"anil-yasar": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 0.9272727272727272,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"jawad-el-yamiq": {
+"v": 0.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.32,
+"Mevki": 0.95,
+"Oynama süresi": 1.0909090909090908,
+"Performans": 0.8,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"talha-ulvan": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 0.95,
+"Oynama süresi": 1.0909090909090908,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"simone-giordano": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 1.009090909090909,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"zak-jules": {
+"v": 2.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 1.4193181818181817,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"berhan-satli": {
+"v": 1.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 0.95,
+"Oynama süresi": 0.6272727272727272,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"david-costa": {
+"v": 3.0,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 1.0909090909090908,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"abdelhamid-sabiri": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 1.15,
+"Oynama süresi": 0.8454545454545455,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"charles-andre-raux-yao": {
+"v": 2.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 1.15,
+"Oynama süresi": 1.1181818181818182,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"hamza-akman": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.8181818181818181,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"tashkin-ilter": {
+"v": 0.75,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 1.15,
+"Oynama süresi": 0.7909090909090909,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"chandrel-massanga": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.0,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"yusuf-barasi": {
+"v": 2.4,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 1.009090909090909,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"lenny-pintor": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 1.009090909090909,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ahmed-abdullahi": {
+"v": 3.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 1.0636363636363635,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"omer-ceyhan": {
+"v": 1.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.9,
+"Mevki": 1.3,
+"Oynama süresi": 0.6545454545454545,
+"Performans": 1.0,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"mete-demir": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.3,
+"Oynama süresi": 0.8181818181818181,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"konrad-michalak": {
+"v": 1.9,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.85,
+"Mevki": 1.3,
+"Oynama süresi": 1.0909090909090908,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"bilal-boutobba": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.3,
+"Oynama süresi": 1.1181818181818182,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"ertugrul-taskiran": {
+"v": 0.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.2,
+"Mevki": 0.75,
+"Oynama süresi": 1.08,
+"Performans": 1.0,
+"Seviye": 0.5714285714285714
+},
+"d": "2026-11-26"
+},
+"erkan-anapa": {
+"v": 0.85,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 0.75,
+"Oynama süresi": 0.6,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"matija-orbanic": {
+"v": 1.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.75,
+"Oynama süresi": 0.72,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"festy-ebosele": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 0.78,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"amar-gerxhaliu": {
+"v": 3.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.1,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 1.1125,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"guram-giorbelidze": {
+"v": 3.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 0.95,
+"Oynama süresi": 1.08,
+"Performans": 1.6,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"nihad-mujakic": {
+"v": 1.7,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"mustafa-yumlu": {
+"v": 0.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.2,
+"Mevki": 0.95,
+"Oynama süresi": 1.02,
+"Performans": 1.1124999999999998,
+"Seviye": 0.4319593977248311
+},
+"d": "2026-11-26"
+},
+"cengizhan-bayrak": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 0.95,
+"Oynama süresi": 0.63,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"orhan-ovacikli": {
+"v": 0.25,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.2,
+"Mevki": 0.95,
+"Oynama süresi": 1.2,
+"Performans": 0.94375,
+"Seviye": 0.5714285714285714
+},
+"d": "2026-11-26"
+},
+"brandon-baiye": {
+"v": 3.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"sefa-akgun": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.15,
+"Oynama süresi": 0.84,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"miguel-cardoso": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 1.15,
+"Oynama süresi": 1.0499999999999998,
+"Performans": 1.05,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"elisha-owusu": {
+"v": 2.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.94,
+"Mevki": 1.15,
+"Oynama süresi": 1.1400000000000001,
+"Performans": 0.8,
+"Seviye": 1.3228756555322954
+},
+"d": "2026-11-26"
+},
+"martin-rodriguez": {
+"v": 1.1,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.5,
+"Mevki": 1.15,
+"Oynama süresi": 1.2,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"lawrence-agyekum": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.15,
+"Oynama süresi": 0.63,
+"Performans": 1.0,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"gyrano-kerk": {
+"v": 1.3,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.74,
+"Mevki": 1.3,
+"Oynama süresi": 0.84,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"eren-tozlu": {
+"v": 0.5,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 0.25,
+"Mevki": 1.3,
+"Oynama süresi": 1.2,
+"Performans": 0.8527272727272727,
+"Seviye": 0.7559289460184545
+},
+"d": "2026-11-26"
+},
+"ibrahim-diabate": {
+"v": 1.8,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.05,
+"Mevki": 1.3,
+"Oynama süresi": 0.84,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"nariman-akhundzade": {
+"v": 1.6,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.12,
+"Mevki": 1.3,
+"Oynama süresi": 0.69,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+},
+"mustafa-fettahoglu": {
+"v": 2.2,
+"parts": {
+"Lig tabanı": 2.0,
+"Yaş": 1.08,
+"Mevki": 1.3,
+"Oynama süresi": 0.96,
+"Performans": 0.8,
+"Seviye": 1.0
+},
+"d": "2026-11-26"
+}
+}
+}

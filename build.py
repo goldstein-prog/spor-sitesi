@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""PiyasaDeğeri statik site üreticisi.  Kullanım: python3 build.py [--no-history]
+"""PiyasaDeğeri statik site üreticisi.  Kullanım: python3 build.py [--revalue]
+
+--revalue: piyasa değerlerini yeniden hesaplar (sadece transfer dönemi öncesi kullanılır).
 
 data/clubs/*.json  -> kulüp kadroları (oyuncu: name,num,pos,age,nat,apps,sub,goals,assists,minutes,class)
 data/standings.json, data/transfers.json
@@ -18,6 +20,14 @@ TODAY = date.today().isoformat()
 e = html.escape
 sitemap = []
 TRMAP = str.maketrans("çğıöşüÇĞİÖŞÜ", "cgiosuCGIOSU")
+
+
+MONTHS = ["Ocak","Şubat","Mart","Nisan","Mayıs","Haziran","Temmuz","Ağustos","Eylül","Ekim","Kasım","Aralık"]
+
+
+def fmt_d(d):
+    y, m, dd = d.split("-")
+    return f"{int(dd)} {MONTHS[int(m)-1]} {y}"
 
 
 def slug(s):
@@ -56,7 +66,7 @@ def write(parts, title, desc, body, crumbs=(), jsonld=None, noindex=False):
 <main class="wrap">{bc}{body}</main>
 <footer><div class="wrap"><p><b>{SN}</b> · Futbolcu piyasa değerleri, kadrolar ve transferler: {", ".join(lg["name"] for lg in leagues)}.</p>
 <p>Değerler, açık formülümüz ve editör değerlendirmesiyle hesaplanan <b>tahminlerdir</b>; resmi transfer bedeli değildir. <a href="{link('nasil-hesapliyoruz')}">Nasıl hesaplıyoruz?</a></p>
-<p>Son güncelleme: {TODAY}</p></div></footer>
+<p>Son değer güncellemesi: {fmt_d(VALUE_DATE)} · Sonraki: {C["next_revalue"]} · Veriler son güncelleme: {fmt_d(TODAY)}</p></div></footer>
 <script>window.BASE="{BASE}";window.LANG="{L}";</script><script src="{BASE}/assets/search.js" defer></script>
 </body></html>""")
     if not noindex:
@@ -90,20 +100,41 @@ for c in clubs:  # aynı isimli oyuncular için benzersiz adres
         if p["slug"] in seen:
             p["slug"] += "-" + c["slug"]
         seen[p["slug"]] = 1
-players = sorted((p for c in clubs for p in c["players"]), key=lambda p: -p["value"])
+# ---------- değer dondurma ----------
+# Piyasa değerleri sadece transfer dönemlerinden önceki gece (--revalue) yeniden hesaplanır.
+# Arada kadro/istatistik güncellense bile sitede gösterilen değer sabit kalır.
+snap_path = os.path.join(ROOT, "data/values.json")
+snap = json.load(open(snap_path, encoding="utf-8")) if os.path.exists(snap_path) else {"date": None, "values": {}}
+hist_path = os.path.join(ROOT, "data/value_history.json")
+hist = json.load(open(hist_path, encoding="utf-8")) if os.path.exists(hist_path) else {}
+REVALUE = "--revalue" in sys.argv or not snap["values"]
+all_players = [p for c in clubs for p in c["players"]]
+if REVALUE:
+    snap = {"date": TODAY, "values": {}}
+for p in all_players:
+    s = snap["values"].get(p["slug"])
+    if s and not REVALUE:
+        p["value"], p["parts"] = s["v"], s["parts"]
+        p["valued"] = s.get("d", snap["date"])
+    else:  # yeniden değerleme ya da yeni eklenen oyuncu
+        snap["values"][p["slug"]] = {"v": p["value"], "parts": p["parts"], "d": TODAY}
+        p["valued"] = TODAY
+        h = hist.setdefault(p["slug"], [])
+        if not h or h[-1]["d"] != TODAY:
+            h.append({"d": TODAY, "v": p["value"], "club": p["club"]["slug"]})
+        else:
+            h[-1]["v"] = p["value"]
+json.dump(snap, open(snap_path, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+json.dump(hist, open(hist_path, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+VALUE_DATE = snap["date"]
+for c in clubs:
+    c["total"] = round(sum(p["value"] for p in c["players"]), 1)
+for lg in leagues:
+    lg["clubs"].sort(key=lambda c: -c["total"])
+clubs.sort(key=lambda c: -c["total"])
+players = sorted(all_players, key=lambda p: -p["value"])
 for i, p in enumerate(players):
     p["rank"] = i + 1
-
-hist_path = os.path.join(ROOT, "data/value_history.json")
-hist = json.load(open(hist_path, encoding="utf-8"))
-if "--no-history" not in sys.argv:
-    for p in players:
-        h = hist.setdefault(p["slug"], [])
-        if h and h[-1]["d"] == TODAY:
-            h[-1]["v"] = p["value"]
-        elif not h or h[-1]["v"] != p["value"]:
-            h.append({"d": TODAY, "v": p["value"], "club": p["club"]["slug"]})
-    json.dump(hist, open(hist_path, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
 
 
 # ---------- bileşenler ----------
@@ -190,7 +221,7 @@ def build():
         near = sorted((x for x in players if x["pos"] == p["pos"] and x is not p), key=lambda x: abs(x["value"] - p["value"]))[:6]
         body = f"""<section class="profile"><div><small class="muted">#{p['num'] or '-'} · {POS_NAME[p['pos']]}</small><h1>{e(p['name'])}</h1>
 <p>{clink(c)} · {p['age']} yaş · {e(p['nat'])}</p></div>
-<div class="bigval"><small>Piyasa Değeri</small><b>{fmt(p['value'])}</b><small>{e(lg['short'])}'de {p['lrank']}. · Genelde {p['rank']}. sırada</small></div></section>
+<div class="bigval"><small>Piyasa Değeri</small><b>{fmt(p['value'])}</b><small>{e(lg['short'])}'de {p['lrank']}. · Genelde {p['rank']}. sırada</small><small>Değer tarihi: {fmt_d(p['valued'])}</small></div></section>
 <div class="cards">{stats}</div>
 <div class="two"><section class="card"><h2>Değer geçmişi</h2>{chart(hist.get(p['slug'], []))}</section>
 <section class="card"><h2>Değer nasıl hesaplandı?</h2><table class="mini">{parts}</table>
@@ -264,7 +295,8 @@ def build():
     # ana sayfa
     lcards = "".join(f"<a class='tile' href='{link('lig', lg['id'])}'><span>{lg['flag']}</span><b>{e(lg['name'])}</b><small>{len(lg['clubs'])} kulüp · {len(lg['players'])} oyuncu</small></a>" for lg in leagues)
     body = f"""<section class="hero"><h1>Futbolcuların piyasa değerleri</h1>
-<p>{len(players)} oyuncunun güncel değeri, kulüplerin kadro değerleri ve transferler. Açık formül, şeffaf hesap.</p></section>
+<p>{len(players)} oyuncunun piyasa değeri, kulüplerin kadro değerleri ve transferler. Açık formül, şeffaf hesap.</p>
+<p class="vdate">Son değer güncellemesi: <b>{fmt_d(VALUE_DATE)}</b> · Sonraki güncelleme: <b>{C["next_revalue"]}</b></p></section>
 <div class="tiles">{lcards}</div>
 <div class="two"><section class="card"><h2>En değerli 10 oyuncu</h2>{player_table(players[:10], compact=True)}<a class="more" href="{link('en-degerli-oyuncular')}">Tüm liste →</a></section>
 <section class="card"><h2>En değerli kulüpler</h2>{club_table(clubs[:10], compact=True)}<a class="more" href="{link('kulupler')}">Tüm kulüpler →</a></section></div>
@@ -295,6 +327,8 @@ METHOD = """<h1>Piyasa değerlerini nasıl hesaplıyoruz?</h1>
 <li><b>Oynama süresi:</b> Oyuncunun kulübündeki en çok oynayan oyuncuya göre süre payı. Hiç oynamayan oyuncu 0,60, takımın vazgeçilmezi 1,20 alır.</li>
 <li><b>Performans:</b> Maç başına gol ve asist katkısının, mevkisinden beklenene oranı (forvet için maç başı 0,55 katkı beklenir). En az 3 maç gerekir; veri yoksa ya da maç ve gol sayıları farklı turnuvaları kapsıyorsa nötr (1,00) kalır. Sınırlar: 0,80 - 1,60.</li>
 <li><b>Seviye (1-10):</b> Oyuncunun gerçek kalitesi: geçmiş kulüpleri, milli takım düzeyi, uluslararası itibar ve gelişim potansiyeli. 5, kendi liginin ortalama oyuncusudur; her +1 puan değeri yaklaşık 1,75 katına çıkarır. Bu puanı editörümüz belirler ve sakatlık, form ve haberlere göre günceller.</li></ul>
+<h2>Değerler ne zaman güncellenir?</h2>
+<p>Piyasa değerleri her gün değişmez. Tek maçlık bir form patlaması ya da düşüşü değeri yanıltıcı şekilde oynatmasın diye değerleri yılda iki kez, <b>transfer dönemleri açılmadan önceki gece</b> toplu olarak güncelliyoruz: yaz transfer dönemi öncesi (Haziran sonu) ve kış transfer dönemi öncesi (Aralık sonu). Kadrolar, maç, gol ve asist sayıları ile puan durumları ise düzenli olarak güncellenir; bir sonraki değer güncellemesinde bu veriler hesaba katılır. Sezon ortasında kadroya eklenen yeni bir oyuncu ilk değerini eklendiği gün alır.</p>
 <h2>Bu değerler ne değildir?</h2>
 <p>Bu değerler bir transfer bedeli ya da kulüplerin açıkladığı rakamlar değildir. Bir oyuncunun bugünkü piyasada yaklaşık ne edeceğine dair tahminimizdir. Sözleşme süresi, maaş ve kulübün satma isteği gibi etkenler gerçek bedeli değiştirebilir.</p>
 <h2>Veriler</h2><p>Kadro ve sezon istatistikleri, birden fazla açık kaynakla karşılaştırılarak düzenli güncellenir. Her kulüp sayfasının altında kaynağı ve güncelleme tarihi yazar. Bir hata görürseniz bize bildirin.</p>"""
