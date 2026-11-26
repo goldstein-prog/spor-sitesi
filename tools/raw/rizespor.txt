@@ -1,0 +1,23 @@
+Zafer Görgen|30|G|26|Türkiye|2|0|0|0
+Yahia Fofana|75|G|26|Ivory Coast|9|0|0|1
+Efe Doğan|97|G|22|Türkiye|0|0|0|0
+Valentin Mihăilă|7|F|26|Romania|6|4|0|0
+Qazim Laçi|20|M|30|Albania|11|0|3|0
+Can Bozdoğan|70|M|25|Germany|3|3|0|1
+Mithat Pala|54|M|26|Türkiye|11|0|0|2
+Taha Şahin|37|D|26|Türkiye|2|0|0|0
+Zakaria Ariss|17|D|22|Morocco|10|1|0|0
+Dal Varešanović|8|M|25|Bosnia and Herzegovina|7|6|0|0
+Ibrahim Olawoyin|10|F|28|Nigeria|11|1|1|1
+Taylan Antalyalı|14|M|31|Türkiye|11|2|0|0
+Ahmed Kutucu|23|F|26|Türkiye|9|3|0|0
+Iustin Doicaru|79|F|19|Romania|7|6|1|1
+Attila Mocsi|4|D|26|Hungary|8|0|0|0
+Emrecan Bulut|99|F|23|Türkiye|11|6|2|1
+Tayyib Talha Sanuç|5|D|26|Türkiye|5|4|0|0
+Modibo Sagnan|93|D|27|Mali|10|0|0|0
+Siaka Bakayoko|21|D|21|France|6|2|0|0
+Moussa Diakité|6|M|23|Mali|7|5|0|0
+Adedire Mebude|11|F|22|Scotland|8|1|0|3
+Ali Sowe|9|F|32|Gambia|11|2|4|0
+Gennaro Borrelli|29|F|26|Italy|4|2|2|0

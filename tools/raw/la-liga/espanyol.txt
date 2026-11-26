@@ -1,0 +1,27 @@
+Ángel Fortuño|1|G|25|Spain|6|0||
+Marko Dmitrovic|13|G|34|Serbia|7|0||
+Llorenç Serred|31|G|21|Spain|0|0||
+Andoni Gorosabel|2|D|30|Spain|0|0|0|0
+Quilindschy Hartman|3|D|25|Netherlands|7|2|0|0
+Clemens Riedel|5|D|23|Germany|9|2|0|0
+Leandro Cabrera|6|D|35|Uruguay|10|0|1|0
+Unai Núñez|14|D|29|Spain|8|3|0|0
+Vanja Drkusic|16|D|27|Slovenia|7|3|0|0
+Roger Hinojo|21|D|21|Spain|11|1|0|0
+Omar El Hilali|23|D|23|Morocco|12|0|0|1
+Adama Timera|27|D|21|France|0|0|0|0
+José Ángel López|32|D|20|Spain|2|1|0|0
+Urko Gonzalez|4|M|25|Spain|9|3|0|0
+Edu Expósito|8|M|30|Spain|12|1|1|0
+Pol Lozano|10|M|27|Spain|9|4|0|0
+Pere Milla|11|M|34|Spain|8|6|0|0
+Gabriel Moscardo|20|M|21|Brazil|8|6|0|0
+Cala|22|M|26|Spain|11|4|1|0
+Rafael Bauza|26|M|21|Spain|6|3|0|1
+Javi Hernandez|28|M|22|Spain|13|2|0|6
+Javier Puado|7|F|28|Spain|4|4|0|0
+Roberto Fernández|9|F|24|Spain|13|0|7|0
+Bryan Zaragoza|15|F|25|Spain|9|4|1|1
+Jofre Carreras|17|F|25|Spain|3|3|0|0
+Marcos Fernández|18|F|23|Spain|10|9|1|1
+Tyrhys Dolan|24|F|24|England|10|3|1|1

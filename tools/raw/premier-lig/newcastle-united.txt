@@ -1,0 +1,30 @@
+Nick Pope|1|G|34|England|0|0||
+Lukás Hornícek|21|G|24|Czechia|11|0||
+Ewen Jaouen|24|G|20|France|0|0||
+Mark Gillespie|29|G|34|England||||
+Tino Livramento|2|D|24|England|3|3|0|0
+Lewis Hall|3|D|22|England|11|0|1|1
+Sven Botman|4|D|26|Netherlands|8|1|1|0
+Fabian Schär|5|D|34|Switzerland|5|3|0|0
+Malick Thiaw|12|D|25|Germany|10|1|1|0
+Dan Burn|33|D|34|England|6|2|0|0
+Amar Dedic|37|D|24|Bosnia and Herzegovina|9|1|0|2
+Miodrag Pivas|48|D|21|Serbia|0|0|0|0
+Nico González|6|M|24|Spain|8|0|0|1
+Joelinton|7|M|30|Brazil|4|1|0|0
+Aladji Bamba|8|M|20|France|3|3|0|0
+Harvey Barnes|11|M|28|England|11|0|3|2
+Sean Steur|14|M|18|Netherlands|9|5|0|0
+Jacob Murphy|23|M|31|England|10|4|1|1
+Joe Willock|28|M|27|England|11|3|2|1
+Jacob Ramsey|41|M|25|England|6|6|1|0
+Lewis Miley|67|M|20|England|9|1|0|0
+Mason Miley|76|M|18|England|0|0|0|0
+Yoane Wissa|9|F|30|Congo DR|11|3|1|1
+William Osula|10|F|23|Denmark|7|2|1|2
+Bazoumana Touré|17|F|20|Ivory Coast|6|6|1|0
+Anthony Elanga|19|F|24|Sweden|7|3|2|0
+Matias Fernandez-Pardo|20|F|21|Belgium|6|2|0|0
+Kyran Thompson|44|F|17|England|0|0|0|0
+Vakho Salia|49|F|19|Georgia|0|0|0|0
+Michael Mills|77|F|17|England|0|0|0|0

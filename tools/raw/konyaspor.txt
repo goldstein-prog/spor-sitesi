@@ -1,0 +1,25 @@
+Deniz Ertaş|1|G|21|Türkiye|4|2|0|0
+Bahadır Han Güngördü|13|G|30|Türkiye|9|0|0|0
+Egemen Aydın|29|G|19|Türkiye|0|0|0|0
+Ahmet Oğuz|2|D|33|Türkiye|0|0|0|0
+Arif Boşluk|3|D|23|Türkiye|1|0|0|0
+Adil Demirbağ|4|D|28|Türkiye|7|0|0|0
+Uğurcan Yazğılı|5|D|27|Türkiye|9|2|0|0
+Chidozie Awaziem|15|D|29|Nigeria|9|2|2|0
+Ata Yanık|16|D|17|Türkiye|0|0|0|0
+Yhoan Andzouana|17|D|29|Congo|9|2|0|1
+Rayyan Baniya|22|D|27|Türkiye|10|2|0|0
+Arthur Masuaku|26|D|33|Congo DR|10|2|0|0
+Da Mata|41|D|20|Brazil|0|0|0|0
+Diogo Gonçalves|7|M|29|Portugal|10|1|0|1
+Marko Jevtović|8|M|33|Serbia|11|3|0|0
+Enis Bardhi|10|M|31|North Macedonia|9|8|0|0
+Ömer Çobanoğlu|25|M|19|Türkiye|0|0|0|0
+Rajmund Tóth|66|M|22|Hungary|10|3|1|0
+Melih İbrahimoğlu|77|M|26|Türkiye|11|0|0|0
+Deniz Türüç|9|F|33|Türkiye|10|1|1|3
+Jackson Muleka|11|F|27|Congo DR|11|1|0|0
+Ebrima Colley|19|F|26|Gambia|10|5|1|0
+Mostafa Mohamed|42|F|28|Egypt|8|7|0|0
+Jean-Luc Dompé|91|F|31|France|7|4|0|0
+Enis Destan|94|F|24|Türkiye|5|4|0|0

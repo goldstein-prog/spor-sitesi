@@ -1,0 +1,27 @@
+Bernd Leno|1|G|34|Germany|8|0||
+Benjamin Lecomte|23|G|35|France|0|0||
+Alex Borto|36|G|22|USA||||
+Kenny Tete|2|D|31|Netherlands|3|2|0|0
+Calvin Bassey|3|D|26|Nigeria|8|0|0|0
+Jorge Cuenca|4|D|26|Spain|1|0|0|0
+Joachim Andersen|5|D|30|Denmark|3|1|0|0
+Timothy Castagne|21|D|30|Belgium|7|0|0|1
+David Affengruber|22|D|25|Austria|5|0|0|0
+Antonee Robinson|33|D|29|USA|7|0|0|0
+Harrison Reed|6|M|31|England|0|0|0|0
+César Palacios|8|M|21|Spain|6|3|1|0
+Tom Cairney|10|M|35|Scotland|2|2|0|0
+Oscar Bobb|14|M|23|Norway|8|0|1|0
+Hugo Larsson|15|M|22|Sweden|5|4|0|0
+Sander Berge|16|M|28|Norway|8|2|0|1
+Shea Charles|19|M|22|Northern Ireland|8|2|0|0
+Manuel Ángel|20|M|22|Spain|1|1|0|0
+Josh King|24|M|19|England|8|0|2|1
+Ryan Sessegnon|30|M|26|England|5|4|1|0
+Emile Smith Rowe|32|M|26|England|4|4|0|0
+Gonzalo García|7|F|22|Spain|8|0|1|0
+Rodrigo Muniz|9|F|25|Brazil|6|6|0|0
+Kevin|11|F|23|Brazil|5|5|0|0
+Alex Iwobi|17|F|30|Nigeria|8|0|1|0
+Jonah Kusi-Asare|18|F|19|Sweden||||
+Macauley Zepa|35|F|18|France|0|0|0|0

@@ -1,0 +1,24 @@
+Andreas Gianniotis|1|G|33|Greece|10|0|0|0
+Ali Yanar|25|G|28|Türkiye|0|0|0|0
+Aegean Albayrak|61|G|19|Türkiye|0|0|0|0
+Cláudio Winck|2|D|32|Brazil|10|0|2|2
+Adem Arous|4|D|22|Tunisia|9|2|2|1
+Jakob Jessen|5|D|22|Denmark|6|3|0|0
+Kevin Mouanga|14|D|26|Congo|4|1|0|0
+Ömer Bayram|18|D|35|Türkiye|0|0|0|0
+Matei Ilie|27|D|23|Romania|10|0|0|0
+Ahmet Taha Dağbaşı|30|D|21|Türkiye|2|1|0|0
+Ayberk Karapo|45|D|22|Türkiye|10|3|0|0
+Atakan Müjde|8|M|23|Türkiye|2|2|0|0
+Haris Hajradinović|10|M|32|Bosnia and Herzegovina|6|4|0|2
+Mortadha Ben Ouanes|12|M|32|Tunisia|1|0|0|0
+Andri Fannar Baldursson|16|M|24|Iceland|7|1|0|0
+Marcus Rafferty|19|M|22|Sweden|9|6|1|1
+Kerem Demirbay|26|M|33|Germany|9|0|0|2
+Elson Mendes Da Silva|51|M|21|France|10|2|0|1
+Ali Yavuz Kol|7|F|25|Türkiye|9|2|0|1
+Adrian Benedyczak|9|F|25|Poland|12|0|9|2
+Thiemoko Diarra|11|F|23|Mali|6|6|0|0
+Jesurun Rak-Sakyi|17|F|24|Ghana|6|2|1|1
+Fousseni Diabaté|34|F|31|Mali|3|1|1|0
+Güven Yalçın|50|F|27|Türkiye|10|4|2|0

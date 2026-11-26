@@ -1,0 +1,27 @@
+Noah Atubolu|1|G|24|Germany|10|0||
+Jens Grahl|33|G|38|Germany||||
+Amil Siljevic|39|G|19|Germany||||
+Kauã Santos|40|G|23|Brazil|0|0||
+Elias Baum|2|D|21|Germany|9|2|0|1
+Lilian Brassier|3|D|27|France|9|0|0|0
+Robin Koch|4|D|30|Germany|10|0|0|1
+Otávio|5|D|21|Brazil|1|1|0|0
+Timothy Chandler|22|D|36|USA|2|2|0|0
+Keita Kosugi|26|D|20|Japan|8|0|0|0
+Nnamdi Collins|34|D|22|Germany|6|3|0|0
+Jeremiaha Maluze|37|D|22|Germany|2|0|0|1
+Julian Etse|53|D|20|Germany||||
+Oscar Højlund|6|M|21|Denmark|4|4|0|0
+Farès Chaïbi|8|M|23|Algeria|8|2|0|1
+Noël Aséko|15|M|21|Germany|8|1|0|1
+Ritsu Doan|20|M|28|Japan|9|0|0|1
+Raphael Onyedika|25|M|25|Nigeria|10|0|1|0
+Mario Götze|27|M|34|Germany|7|5|0|1
+Love Arrhov|31|M|18|Sweden|4|4|0|0
+Can Uzun|42|M|21|Türkiye|8|1|2|1
+Ansgar Knauff|7|F|24|Germany|7|4|0|1
+Jonathan Burkardt|9|F|26|Germany|10|1|6|1
+Younes Ebnoutalib|11|F|23|Germany|10|3|6|1
+Ayoube Amaimouni|29|F|21|Morocco|5|4|0|0
+Malik Pimpong|35|F|18|Denmark|3|3|0|0
+Jessic Ngankam|44|F|26|Germany||||

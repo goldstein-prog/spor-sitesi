@@ -1,0 +1,29 @@
+Zion Suzuki|1|G|24|Japan|10|0||
+Marco Bizot|40|G|35|Netherlands|1|0||
+James Wright|42|G|21|England|0|0||
+Owen Asemota|60|G|18|England||||
+Matty Cash|2|D|29|Poland|8|1|0|0
+Victor Lindelöf|3|D|32|Sweden|10|0|0|0
+Taylor Harwood-Bellis|4|D|24|England|2|0|0|0
+Tyrone Mings|5|D|33|England|6|2|0|0
+Matteo Ruggeri|13|D|24|Italy|4|2|0|0
+Pau Torres|14|D|29|Spain|8|1|0|0
+Ian Maatsen|22|D|24|Netherlands|8|0|0|0
+Aaron Wan-Bissaka|29|D|28|Congo DR|7|3|0|0
+Modou Cissé|48|D|21|Senegal|0|0|0|0
+Ross Barkley|6|M|32|England|11|7|0|0
+John McGinn|7|M|32|Scotland|11|2|2|4
+Boubacar Kamara|8|M|27|France|11|0|0|1
+Emiliano Buendía|10|M|29|Argentina|10|2|1|0
+Amadou Onana|24|M|25|Belgium||||
+Lamare Bogarde|26|M|22|Netherlands|1|1|0|0
+Leon Goretzka|27|M|31|Germany|5|2|1|0
+João Gomes|35|M|25|Brazil|7|2|0|1
+Johan Manzambi|44|M|21|Switzerland|8|1|2|3
+George Hemmings|53|M|19|England|6|2|0|0
+Nicolas Jackson|11|F|25|Senegal|10|0|6|1
+Alejandro Garnacho|17|F|22|Argentina|4|4|0|0
+Tammy Abraham|18|F|29|England|4|4|0|0
+Ibrahim Mbaye|19|F|18|Senegal|8|8|0|1
+Brian Madjo|39|F|17|England|3|3|0|0
+Alysson|47|F|20|Brazil|10|5|2|0

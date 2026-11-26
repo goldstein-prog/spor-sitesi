@@ -1,0 +1,30 @@
+Robin Roefs|22|G|23|Netherlands|11|0||
+Simon Moore|21|G|36|England||||
+Melker Ellborg|31|G|23|Sweden|0|0||
+Kevin Danso|4|D|28|Austria|5|0|0|0
+Danny Ballard|5|D|27|Northern Ireland|5|0|0|0
+Dayann Methalie|6|D|20|France|2|1|0|0
+Thomas Meunier|12|D|35|Belgium|9|1|0|1
+Omar Alderete|15|D|29|Paraguay|4|2|0|0
+Reinildo Mandava|17|D|32|Mozambique|10|0|0|0
+Nordi Mukiele|20|D|29|France|9|0|0|0
+Trai Hume|32|D|24|Northern Ireland|10|2|0|0
+Malick Fofana|39|D|26|Japan|5|5|0|0
+Jenson Arron Jones|48|D|20|England||||
+Alan Browne|8|M|31|Republic of Ireland|0|0|0|0
+Chris Rigg|11|M|19|England|6|3|0|0
+Luke O'Nien|13|M|32|England|6|1|0|0
+Habib Diarra|19|M|22|Senegal|4|4|0|1
+Noah Sadiki|27|M|21|Congo DR|11|0|0|0
+Enzo Le Fée|28|M|26|France|11|0|3|1
+Granit Xhaka|34|M|34|Switzerland|10|0|0|0
+Jack Whittaker|40|M|20|England||||
+Chemsdine Talbi|7|F|21|Morocco|5|3|0|0
+Brian Brobbey|9|F|24|Netherlands|8|0|3|0
+Nilson Angulo|10|F|23|Ecuador|10|2|1|1
+Romaine Mundle|14|F|23|England|1|1|0|0
+Wilson Isidor|18|F|26|Haiti|9|7|1|0
+Jocelin Ta Bi|37|F|21|Ivory Coast|1|1|0|0
+Trey Ogunsuyi|47|F|19|Belgium||||
+Juan Angulo|50|F|18|Ecuador|1|1|0|0
+Tymur Tutierov|57|F|21|Ukraine|2|1|0|0

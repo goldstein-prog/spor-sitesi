@@ -1,0 +1,29 @@
+Maarten Vandevoordt|26|G|24|Belgium|9|0||
+Ørjan Nyland|1|G|36|Norway|1|0||
+Leopold Zingerle|25|G|32|Germany|0|0||
+Tidiam Gomis|27|F|20|France|10|6|3|3
+Ezechiel Banzuzi|6|M|21|Netherlands|10|0|2|2
+Antonio Nusa|7|M|21|Norway|10|1|5|7
+Willi Orbán|4|D|34|Hungary|10|0|1|0
+Neil El Aynaoui|21|M|25|Morocco|9|0|0|1
+David Raum|22|D|28|Germany|9|0|1|1
+Brajan Gruda|10|F|22|Germany|8|1|1|5
+Rômulo|40|F|24|Brazil|8|3|6|0
+Christopher Nkunku|28|F|29|France|8|3|5|3
+Nicolas Seiwald|13|M|25|Austria|8|6|0|0
+Ridle Baku|17|D|28|Germany|8|2|3|0
+Benjamin Henrichs|39|D|29|Germany|8|5|0|1
+Castello Lukeba|23|D|23|France|7|0|0|0
+Andrija Maksimovic|30|M|19|Serbia|6|4|1|1
+Rocco Reitz|20|M|24|Germany|6|2|2|0
+Maxime Estève|3|D|24|France|5|2|0|0
+Christoph Baumgartner|14|M|27|Austria|4|3|2|0
+Johan Bakayoko|11|F|23|Belgium|3|2|0|0
+Max Finkgrafe|35|D|22|Germany|3|2|0|0
+Samba Konate|45|F|17|France|2|2|0|0
+Abdoul Koné|2|D|21|France|2|2|0|1
+Marc Guiu|9|F|20|Spain|1|1|0|0
+Assan Ouédraogo|8|M|20|Germany|1|0|0|0
+Lukas Klostermann|16|D|30|Germany|1|0|0|0
+Benno Kaltefleiter|37|M|18|Germany||||
+Viggo Gebel|47|M|19|Germany||||

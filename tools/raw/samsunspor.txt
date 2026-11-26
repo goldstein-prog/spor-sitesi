@@ -1,0 +1,23 @@
+Bilal Bayazıt|25|G|27|Türkiye|1|0|0|0
+Okan Kocuk|1|G|31|Türkiye|8|0|0|0
+Efe Üstün|13|G|18|Türkiye|0|0|0|0
+Celil Yüksel|5|M|28|Türkiye|7|0|1|0
+Josafat Mendes|2|D|23|Sweden|9|0|1|1
+Enes Albak|23|D|21|Türkiye|1|1|0|0
+Elliot Watt|4|M|26|Scotland|6|0|0|0
+Emre Kılınç|11|M|32|Türkiye|8|0|1|1
+Afonso Sousa|77|M|26|Portugal|4|3|0|0
+Samed Onur|8|M|24|Türkiye|7|4|0|0
+Antoine Sekongo|42|M|22|Mali|9|6|0|0
+Tanguy Coulibaly|10|F|25|France|4|1|1|1
+Yalçın Kayan|20|M|27|Türkiye|8|2|0|0
+Oskar Øhlenschlæger|19|F|22|Denmark|2|1|0|0
+Saikuba Jarju|30|F|18|Gambia|8|2|0|2
+Logi Tómasson|17|D|26|Iceland|9|0|2|0
+Fatih Kaya|14|F|26|Germany|4|2|1|1
+Elayis Tavşan|7|F|25|Netherlands|3|3|0|0
+Strahinja Eraković|16|D|25|Serbia|5|2|0|0
+Yunus Emre Çift|22|D|23|Türkiye|6|3|0|0
+Igor Drapiński|3|D|22|Poland|2|1|0|0
+Mohamed Bayo|18|F|28|Guinea|5|1|0|0
+Gabriele Guarino|34|D|22|Italy|7|0|0|0

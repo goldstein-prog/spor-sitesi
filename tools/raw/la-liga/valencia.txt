@@ -1,0 +1,32 @@
+Stole Dimitrievski|1|G|32|North Macedonia|10|0||
+Cristian Rivero|13|G|28|Spain|0|0||
+Kayne Van Oevelen|25|G|23|Netherlands|0|0||
+Copete|3|D|27|Spain||||
+Mouctar Diakhaby|4|D|29|Guinea|5|1|0|0
+César Tárrega|5|D|24|Spain|7|1|0|0
+Justin de Haas|12|D|26|Netherlands|6|0|0|1
+José Gayà|14|D|31|Spain|8|1|0|0
+Dimitri Foulquier|20|D|33|Guadeloupe|0|0|0|0
+Jesús Vázquez|21|D|23|Spain|8|4|0|0
+Arnau Martínez|22|D|23|Spain|6|3|0|0
+Pablo Maffeo|24|D|29|Argentina|9|2|0|0
+Alex Panach|29|D|20|Spain|0|0|0|0
+Iker Córdoba|36|D|20|Spain|3|3|0|0
+Marcos Navarro|41|D|22|Spain|0|0|0|0
+Guido Rodríguez|2|M|32|Argentina|7|0|0|0
+Javi Guerra|8|M|23|Spain|10|0|0|2
+Harvey Elliott|10|M|23|England|6|6|0|0
+Aliou Dieng|15|M|29|Mali|6|4|0|0
+Pepelu|18|M|28|Spain|10|0|1|0
+Filip Ugrinic|23|M|27|Switzerland|10|3|0|0
+Aaron Mayol|33|M|18|Spain|2|0|1|0
+Ryunosuke Sato|39|M|20|Japan|5|1|0|0
+Sergi Canós||F|29|Spain||||
+Umar Sadiq|6|F|29|Nigeria|3|2|1|0
+Arnaut Danjuma|7|F|29|Netherlands|10|2|0|0
+Hugo Duro|9|F|26|Spain|10|5|0|1
+Luis Rioja|11|F|33|Spain|6|4|1|0
+Diego López|16|F|24|Spain||||
+Dani Raba|19|F|30|Spain|4|2|1|0
+David Otorbi|27|F|19|Spain|9|6|1|0
+Aimar Blázquez|37|F|20|Spain|1|1|0|0

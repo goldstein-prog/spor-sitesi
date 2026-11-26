@@ -1,0 +1,31 @@
+Fabian Bredlow|1|G|31|Germany|4|0||
+Marius Funk|33|G|30|Germany|0|0||
+Dennis Seimen|41|G|20|Germany|6|0||
+Stefan Drljaca|46|G|27|Germany||||
+Ameen Al Dakhil|2|D|24|Belgium|1|1|0|0
+Ramon Hendriks|3|D|25|Netherlands|9|1|0|0
+Josha Vagnoman|4|D|25|Germany|7|1|2|1
+Maximilian Mittelstädt|7|D|29|Germany|9|1|2|1
+Luca Jaquez|14|D|23|Switzerland|2|0|0|0
+Leonidas Stergiou|20|D|24|Switzerland|1|1|0|0
+Lorenz Assignon|22|D|26|France|2|1|0|0
+Dan-Axel Zagadou|23|D|27|France||||
+Jeff Chabot|24|D|28|Germany|10|1|1|0
+Finn Jeltsch|29|D|20|Germany|10|3|0|1
+Maximilian Herwerth|37|D|20|Germany|0|0|0|0
+Yanik Spalt|47|D|19|Austria|4|2|0|0
+Angelo Stiller|6|M|25|Germany|7|0|0|2
+Chris Führich|10|M|28|Germany|9|1|1|1
+Bilal El Khannouss|11|M|22|Morocco|10|5|2|0
+Atakan Karazor|16|M|30|Türkiye|5|1|0|0
+Grischa Prömel|21|M|31|Germany|10|3|1|1
+Nikolas Nartey|28|M|26|Denmark|4|4|0|0
+Ertugrul Yigit|39|M|17|Germany||||
+Jarzinho Malanga|43|M|20|Germany||||
+Tiago Tomás|8|F|24|Portugal|3|2|0|0
+Ermedin Demirovic|9|F|28|Bosnia and Herzegovina|10|3|5|0
+Dzenan Pejcinovic|17|F|21|Germany|9|5|0|1
+Jamie Leweling|18|F|25|Germany|10|5|1|1
+Deniz Undav|26|F|30|Germany|10|2|0|1
+Justin Diehl|31|F|21|Germany||||
+Leo Sauer|44|F|20|Slovakia|6|5|0|0

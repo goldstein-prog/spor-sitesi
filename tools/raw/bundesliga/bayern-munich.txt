@@ -1,0 +1,27 @@
+Manuel Neuer|1|G|40|Germany|4|0||
+Sven Ulreich|26|G|38|Germany|0|0||
+Jannis Bärtl|35|G|20|Germany|0|0||
+Jonas Urbig|40|G|23|Germany|4|0||
+Dayot Upamecano|2|D|28|France|8|0|3|0
+Kim Min-Jae|3|D|29|South Korea|5|1|0|0
+Jonathan Tah|4|D|30|Germany|5|1|0|0
+Nathaniel Brown|11|D|23|Germany|8|3|1|2
+Alphonso Davies|19|D|26|Canada|7|2|0|2
+Hiroki Ito|21|D|27|Japan|1|1|0|0
+Sacha Boey|23|D|26|France|2|2|0|0
+Cassiano Kiala|30|D|17|Germany|0|0|0|0
+Josip Stanisic|44|D|26|Croatia|7|3|0|0
+Joshua Kimmich|6|M|31|Germany|7|1|0|3
+Tom Bischof|8|M|21|Germany|7|5|0|2
+Jamal Musiala|10|M|23|Germany|3|2|1|1
+Michael Olise|17|M|24|France|8|1|6|3
+Konrad Laimer|27|M|29|Austria|5|0|1|0
+Ismael Saibari|34|M|25|Morocco|8|3|2|2
+Bara Sapoko Ndiaye|39|M|18|Senegal|0|0|0|0
+Lennart Karl|42|M|18|Germany|7|4|1|0
+Aleksandar Pavlovic|45|M|22|Germany|7|0|2|1
+David Daiber|47|M|19|Portugal|0|0|0|0
+Maycon Cardozo|49|M|18|Brazil||||
+Serge Gnabry|7|F|31|Germany|5|3|1|0
+Harry Kane|9|F|33|England|8|1|4|6
+Luis Díaz|14|F|29|Colombia|6|1|4|1

@@ -1,0 +1,28 @@
+Marvin Schwäbe|1|G|31|Germany|7|0||
+Ron-Robert Zieler|20|G|37|Germany|0|0||
+Martin James|21|G|18|France||||
+Matthias Köbbing|44|G|29|Germany||||
+Joel Schmied|2|D|28|Switzerland|4|3|0|0
+Borna Sosa|3|D|28|Croatia|4|1|0|0
+Timo Hübers|4|D|30|Germany||||
+Gideon Mensah|14|D|28|Ghana|4|0|0|0
+Jahmai Simpson-Pusey|22|D|20|England|7|0|0|0
+Luka Lochoshvili|24|D|28|Georgia|7|0|0|0
+Sebastian Sebulonsen|28|D|26|Norway|4|1|0|0
+Rav van den Berg|33|D|22|Netherlands|0|0|0|0
+Tom Krauss|5|M|25|Germany|7|1|0|0
+Ellyes Skhiri|6|M|31|Tunisia|5|2|0|2
+Ísak Jóhannesson|8|M|23|Iceland|7|2|1|0
+Said El Mala|10|M|20|Germany|6|1|2|0
+Alessio Castro-Montes|17|M|29|Belgium|5|1|0|0
+Paul Okon-Engstler|23|M|21|Australia|5|3|0|0
+Jan Thielmann|29|M|24|Germany|4|2|0|0
+Gil Neves|31|M|18|Portugal||||
+Linton Maina|37|M|27|Germany|7|1|1|2
+Luca Waldschmidt|7|F|30|Germany|4|4|0|0
+Ragnar Ache|9|F|28|Germany|4|2|1|0
+Reigan Heskey|11|F|18|England|3|3|0|0
+Malek El Mala|19|F|21|Germany|0|0|0|0
+Thijs Dallinga|27|F|26|Netherlands|3|1|2|0
+Marius Bulter|30|F|33|Germany|7|3|1|0
+Mikey Moore|47|F|19|England|6|2|0|0

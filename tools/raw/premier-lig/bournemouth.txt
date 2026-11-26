@@ -1,0 +1,28 @@
+Djordje Petrovic|1|G|27|Serbia|11|0||
+Fraser Forster|17|G|38|England||||
+Michele Di Gregorio|20|G|29|Italy|0|0||
+Julián Araujo|2|D|25|Mexico||||
+Adrien Truffert|3|D|25|France|11|0|0|1
+James Hill|5|D|24|England|11|0|0|1
+Julio Soler|6|D|21|Argentina|1|1|0|0
+António Silva|14|D|23|Portugal|11|0|0|0
+Adam Smith|15|D|35|England|11|0|0|0
+Bafodé Diakité|18|D|25|France|5|5|0|0
+Max Aarons|28|D|26|England||||
+Veljko Milosavljevic|44|D|19|Serbia||||
+Lewis Cook|4|M|29|England|11|7|0|1
+David Brooks|7|M|29|Wales|5|4|0|0
+Alex Scott|8|M|23|England|6|1|1|0
+Ryan Christie|10|M|31|Scotland|10|4|0|0
+Tyler Adams|12|M|27|USA|11|2|0|0
+Marcus Tavernier|16|M|27|England|11|0|5|1
+Juanlu Sanchez|24|M|23|Spain|1|1|0|0
+Alex Tóth|27|M|21|Hungary|2|2|0|0
+Evanilson|9|F|27|Brazil|11|0|6|4
+Ben Gannon-Doak|11|F|21|Scotland|8|8|0|0
+Justin Kluivert|19|F|27|Netherlands|9|1|2|2
+Amine Adli|21|F|26|Morocco|4|4|1|0
+Junior Kroupi|22|F|20|France|4|4|0|1
+Daniel Jebbison|29|F|23|Canada|3|3|0|0
+Álvaro Rodríguez|30|F|22|Uruguay|6|6|0|0
+Rayan|37|F|20|Brazil|11|0|1|0

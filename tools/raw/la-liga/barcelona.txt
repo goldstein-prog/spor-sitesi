@@ -1,0 +1,34 @@
+Joan García|1|G|25|Spain|11|0||
+Wojciech Szczesny|13|G|36|Poland|1|1||
+Dominik Livakovic|25|G|31|Croatia|1|0||
+Eder Aller|31|G|19|Spain|0|0||
+Iker Rodríguez|35|G|18|Spain|0|0||
+João Cancelo|2|D|32|Portugal|9|4|1|1
+Alejandro Balde|3|D|23|Spain|3|3|0|0
+Pau Cubarsí|5|D|19|Spain|9|0|0|2
+Xavi Espart|12|D|19|Spain|8|0|1|2
+Andreas Christensen|15|D|30|Denmark|7|3|0|1
+Gerard Martín|18|D|24|Spain|11|2|0|0
+Jules Koundé|23|D|28|France|6|3|1|1
+Eric García|24|D|25|Spain|9|2|1|0
+Jordi Pesquer|33|D|17|Spain|0|0|0|0
+Guillem Víctor|40|D|19|Spain|0|0|0|0
+Álex Campos|41|D|18|Spain|0|0|0|0
+Brian Fariñas|4|M|20|Spain|2|0|0|0
+Gavi|6|M|22|Spain|5|3|0|0
+Fermín López|7|M|23|Spain|11|2|7|5
+Pedri|8|M|23|Spain|12|2|1|2
+Rodri|16|M|30|Spain|10|2|1|1
+Dani Olmo|20|M|28|Spain|9|6|1|3
+Frenkie de Jong|21|M|29|Netherlands|3|2|0|0
+Marc Bernal|22|M|19|Spain|10|6|0|2
+Ebrima Tunkara|30|M|16|Spain|0|0|0|0
+Orian Goren|32|M|17|Israel|0|0|0|0
+Gabriel Jesus|9|F|29|Brazil|7|5|3|1
+Lamine Yamal|10|F|19|Spain|12|0|10|8
+Raphinha|11|F|29|Brazil|11|1|15|3
+Karim Adeyemi|14|F|24|Germany|12|8|2|2
+Anthony Gordon|17|F|25|England|11|3|2|4
+Roony Bardghji|19|F|20|Sweden||||
+Jesse Bisiwu|27|F|18|Belgium||||
+Hamza Abdelkarim|29|F|18|Egypt|2|2|0|0

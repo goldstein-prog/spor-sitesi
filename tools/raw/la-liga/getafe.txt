@@ -1,0 +1,32 @@
+Jirí Letácek|1|G|27|Czechia|0|0||
+David Soria|13|G|33|Spain|12|0||
+Diego Ferrer|35|G|19|Spain|0|0||
+Djené|2|D|34|Togo|11|0|0|0
+Davinchi|3|D|19|Spain|7|5|0|0
+Saba Sazonov|4|D|24|Georgia|6|5|0|0
+Abdel Abqar|5|D|27|Morocco|4|3|0|0
+Dani Carvajal|14|D|34|Spain|4|0|0|0
+Sebastián Boselli|15|D|22|Uruguay|9|6|0|0
+Kiko Femenía|17|D|35|Spain|8|2|0|0
+Andrés García|21|D|23|Spain|11|3|0|1
+Johan Mojica|22|D|34|Colombia|10|1|0|0
+Zaid Romero|24|D|26|Argentina|7|0|0|0
+Jean Ives Valou|26|D|20|Ivory Coast|4|1|0|0
+Curro Burgos|29|D|22|Spain|0|0|0|0
+Mohamed Hamdoune|31|D|22|Morocco|0|0|0|0
+Vladyslav Kysil|38|D|21|Ukraine||||
+Mario Martín|6|M|22|Spain|8|0|0|0
+Nemanja Gudelj|8|M|35|Serbia|10|1|0|0
+Ramón Terrats|11|M|26|Spain|11|1|1|0
+Francho Serrano|16|M|25|Spain|10|3|0|1
+Christantus Uche|18|M|23|Nigeria||||
+Orel Mangala|23|M|28|Belgium|9|2|1|0
+Alberto Risco|28|M|21|Spain|4|4|0|0
+Óscar López|30|M|20|Bolivia|2|2|0|0
+Jesús Martínez|34|M|22|Spain|0|0|0|0
+Juanmi|7|F|33|Spain||||
+Borja Mayoral|9|F|29|Spain|4|4|0|0
+Martín Satriano|10|F|25|Uruguay|12|1|3|2
+Enes Ünal|19|F|29|Türkiye|11|3|2|1
+Ivan Azón|20|F|23|Spain|8|3|1|1
+Joselu Pérez|32|F|22|Spain|1|1|0|0

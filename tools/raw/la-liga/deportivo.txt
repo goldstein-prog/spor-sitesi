@@ -1,0 +1,30 @@
+Germán Parreño|1|G|33|Spain|0|0||
+Leo Román|13|G|26|Spain|13|0||
+Álvaro Fernández|25|G|28|Spain|0|0||
+Adrià Altimira|2|D|25|Spain|9|3|0|0
+Arnau Comas|3|D|26|Spain|0|0|0|0
+Lucas Noubi|4|D|21|Belgium|6|0|0|0
+Dani Barcia|5|D|23|Spain|0|0|0|0
+Giacomo Quagliata|12|D|26|Italy|13|1|0|0
+Miguel Loureiro|15|D|30|Spain|9|3|0|0
+Angeliño|17|D|29|Spain|2|1|0|0
+José María Giménez|20|D|31|Uruguay|10|1|0|0
+Ximo Navarro|23|D|36|Spain|10|1|0|0
+Marc Casadó|6|M|23|Spain|5|2|0|0
+Diego Villares|8|M|30|Spain|7|4|1|0
+Riki Rodríguez|14|M|29|Spain|10|4|0|1
+Lorenzo Amatucci|16|M|22|Italy|11|2|0|1
+Jonathan Asp Jensen|18|M|20|Denmark|9|6|0|0
+Mario Soriano Carreno|21|M|24|Spain|13|1|2|2
+Kevin Sanchez|33|M|19|USA|2|2|0|0
+Rubén|35|M|22|Spain|0|0|0|0
+Yayo|36|M|22|Spain|0|0|0|0
+Noé Carrillo|37|M|19|Spain|0|0|0|0
+Pierre-Emerick Aubameyang|7|F|37|Gabon|10|3|5|2
+Zakaria Eddahchouri|9|F|26|Netherlands|4|4|1|0
+Yeremay Hernández|10|F|23|Spain|12|5|1|1
+David Mella|11|F|21|Spain|7|2|0|0
+Luismi Cruz|19|F|25|Spain|13|3|1|2
+Adama Traoré|24|F|30|Spain|10|10|0|0
+Martín Ochoa|31|F|21|Spain|0|0|0|0
+Bil Nsongo|32|F|22|Cameroon|13|2|2|0

@@ -1,0 +1,31 @@
+Jeffrey de Lange|12|G|28|Netherlands|11|0||
+Jelle Van Neck|40|G|22|Belgium||||
+Ibrahim Gomis|41|G|21|Morocco||||
+Théo Vermot|92|G|29|France|0|0||
+CJ Egan-Riley|4|D|23|England|11|0|1|1
+Derek Cornelius|13|D|29|Canada|3|3|0|0
+Bamo Meïté|18|D|24|Ivory Coast|0|0|0|0
+Nayef Aguerd|21|D|30|Morocco|11|3|0|0
+Ulisses Garcia|25|D|30|Switzerland|7|5|0|0
+Emerson|33|D|32|Italy|9|0|0|3
+Alexi Koum|46|D|20|France|1|1|0|0
+Rayan Bang Na|61|D|19|France||||
+Anis Doubal|66|D|20|Tunisia||||
+Kelyann Bezahaf|74|D|20|Algeria|3|2|0|0
+Hilan Slimani|76|D|20|France||||
+Mathis Clement|80|D|20|France||||
+Tochukwu Nnadi|6|M|23|Nigeria|8|3|0|1
+Angel Gomes|7|M|26|England|11|6|1|1
+Himad Abdelli|8|M|27|Algeria|11|0|3|0
+Geoffrey Kondogbia|19|M|33|Central African Republic|7|3|0|0
+Pierre-Emile Højbjerg|23|M|31|Denmark|8|0|1|0
+Nouhoum Kamissoko|42|M|21|Mali|4|2|1|0
+Amine Harit|77|M|29|Morocco|11|0|3|1
+Amine Gouiri|9|F|26|Algeria|11|0|8|4
+Neal Maupay|11|F|30|France|8|7|0|0
+Igor Paixão|14|F|26|Brazil|10|0|3|1
+Timothy Weah|22|F|26|USA|10|0|1|2
+Faris Moumbagna|29|F|26|Cameroon|5|5|0|0
+Tadjidine Mmadi|43|F|19|France|2|2|0|0
+Keyliane Abdallah|48|F|20|France|10|10|2|0
+Ugo El Kadmiri|84|F|19|Sweden||||

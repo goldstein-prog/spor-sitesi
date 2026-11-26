@@ -1,0 +1,28 @@
+Oliver Baumann|1|G|36|Germany|9|0||
+Lúkas Petersson|36|G|22|Iceland||||
+Luca Philipp|37|G|25|Germany|0|0||
+Robin Hranác|2|D|26|Czechia|5|4|0|0
+Ozan Kabak|5|D|26|Türkiye|9|1|1|0
+Bernardo|13|D|31|Brazil|3|1|0|0
+Valentin Gendrey|15|D|26|France|2|2|0|0
+Albian Hajdari|21|D|23|Kosovo|4|1|0|0
+Alexander Prass|22|D|25|Austria|4|1|2|1
+Koki Machida|28|D|29|Japan|7|1|0|0
+Natnael Abraha|29|D|18|Germany|1|0|0|0
+Vladimír Coufal|34|D|34|Czechia|8|0|0|2
+Mats Rots|39|D|20|Netherlands|8|1|0|0
+Valentin Lässig|47|D|23|Germany|1|1|0|0
+Leon Avdullahu|7|M|22|Kosovo|9|0|1|0
+Patrick Wimmer|8|M|25|Austria|4|2|0|0
+Luis Engelns|16|M|19|Germany||||
+Nathan De Cat|17|M|18|Belgium|2|2|0|0
+Wouter Burger|18|M|25|Netherlands|8|0|0|0
+Bambasé Conté|20|M|23|Germany|7|2|2|2
+Cajetan Lenz|32|M|20|Germany|1|1|0|0
+Klaus Gjasula|52|M|36|Albania|0|0|0|0
+Max Moerstedt|9|F|20|Germany|5|4|1|1
+Adam Hlozek|10|F|24|Czechia|9|2|2|1
+Fisnik Asllani|11|F|24|Kosovo|7|2|1|2
+Adam Daghim|14|F|21|Denmark|9|2|2|2
+Tim Lemperle|19|F|24|Germany|7|2|2|0
+Andrej Kramaric|27|F|35|Croatia|9|7|1|1

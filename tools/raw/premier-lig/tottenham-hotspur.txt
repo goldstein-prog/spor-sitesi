@@ -1,0 +1,31 @@
+Antonín Kinsky|31|G|23|Czechia|11|0||
+Martin Dúbravka|39|G|37|Slovakia|0|0||
+Brandon Austin|40|G|27|England||||
+Luca Gunter|46|G|21|England|0|0||
+Andy Robertson|3|D|32|Scotland|10|2|0|2
+Tosin Adarabioyo|4|D|29|England|2|1|0|0
+Marcos Senesi|5|D|29|Argentina|3|0|0|0
+Jan Paul van Hecke|6|D|26|Netherlands|11|0|2|0
+Destiny Udogie|13|D|23|Italy|6|3|0|0
+Pedro Porro|23|D|27|Spain|7|2|0|1
+Ben Davies|33|D|33|Wales|2|2|1|0
+Micky van de Ven|37|D|25|Netherlands|9|1|0|0
+Xavi Simons|7|M|23|Netherlands||||
+Conor Gallagher|8|M|26|England|9|5|1|0
+James Maddison|10|M|30|England|7|4|1|0
+Archie Gray|14|M|20|England|10|2|1|0
+Lucas Bergvall|15|M|20|Sweden|5|3|0|0
+Sandro Tonali|16|M|26|Italy|10|0|0|1
+Mateus Fernandes|18|M|22|Portugal|11|4|0|0
+Mohammed Kudus|20|M|26|Ghana|10|4|0|3
+Dejan Kulusevski|21|M|26|Sweden|4|4|0|0
+Mykhailo Mudryk|27|M|25|Ukraine|1|1|0|0
+Rodrigo Bentancur|30|M|29|Uruguay|7|3|0|0
+Callum Olusesi|52|M|19|England|0|0|0|0
+Luca Williams-Barnett|68|M|18|England|3|2|1|0
+Richarlison|9|F|29|Brazil|1|0|0|0
+Mathys Tel|11|F|21|France|8|2|1|0
+Sávio|17|F|22|Brazil|5|1|0|0
+Dominic Solanke|19|F|29|England|11|5|2|1
+Omar Marmoush|22|F|27|Egypt|10|2|1|0
+Wilson Odobert|28|F|21|France||||

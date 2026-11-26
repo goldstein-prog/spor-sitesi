@@ -1,0 +1,26 @@
+Aitor Fernández|13|G|35|Spain|6|0||
+Rafa Fernández|31|G|22|Spain|0|0||
+Sergio Herrera|1|G|33|Spain|7|0||
+Diego Rico|15|D|33|Spain|3|0|0|0
+Enzo Boyomo|22|D|25|Cameroon|8|1|0|0
+Iñigo Arguibide|27|D|21|Spain|11|3|0|0
+Jorge Herrando|5|D|25|Spain|3|0|0|0
+Rockson Yeboah|48|D|22|Ghana|3|1|0|0
+Unai Santos|35|D|21|Spain|3|0|0|0
+Valentin Rosier|19|D|30|France|6|1|0|1
+Alejandro Catena|24|D|32|Spain|12|0|1|1
+Abel Bretones|23|D|26|Spain|12|2|0|0
+Aimar Oroz|10|M|24|Spain|4|1|0|0
+Mauro Echegoyen|26|M|21|Spain|1|1|0|0
+Lucas Torró|6|M|32|Spain|10|5|0|0
+Rubén García|14|M|33|Spain|13|3|0|1
+Iker Muñoz|8|M|24|Spain|11|4|0|0
+Asier Osambela|29|M|22|Spain|11|8|1|0
+Jon Moncayola|7|M|28|Spain|13|1|0|0
+Romain Del Castillo|20|F|30|France|2|2|0|0
+Raúl Moro|18|F|23|Spain|10|7|0|0
+Jonathan Dubasin|21|F|26|Spain|12|7|0|0
+Moi Gómez|16|F|32|Spain|10|1|0|2
+Ante Budimir|17|F|35|Croatia|13|2|9|0
+Raúl García|9|F|26|Spain|13|8|1|1
+Enrique Barja|11|F|29|Spain|10|6|1|0

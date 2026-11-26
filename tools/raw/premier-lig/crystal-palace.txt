@@ -1,0 +1,32 @@
+Dean Henderson|1|G|29|England|3|0||
+Remi Matthews|31|G|32|England|0|0||
+Walter Benítez|44|G|33|Argentina|5|0||
+Caleb Kporha||D|20|England||||
+Tyrick Mitchell|3|D|27|England|8|0|2|0
+Chadi Riad|4|D|23|Morocco|1|0|0|0
+Axel Disasi|5|D|28|France|4|1|0|0
+Jaydee Canvot|6|D|20|France|7|0|0|0
+Takehiro Tomiyasu|17|D|27|Japan|4|2|0|0
+Honest Ahanor|21|D|18|Italy|3|1|0|0
+Anan Khalaili|25|D|22|Israel|8|1|1|0
+Chris Richards|26|D|26|USA|8|0|0|0
+Óscar Mingueza|30|D|27|Spain|2|2|0|0
+Ben Chilwell|33|D|29|England|2|2|1|0
+Dean Benamar|54|D|18|England||||
+George King|60|D|19|England||||
+Jefferson Lerma|8|M|32|Colombia|4|3|1|0
+Yéremy Pino|10|M|24|Spain|8|1|1|0
+Daichi Kamada|18|M|30|Japan|8|0|1|3
+Will Hughes|19|M|31|England|3|3|0|0
+Adam Wharton|20|M|22|England|8|0|0|1
+Quinten Timber|23|M|25|Netherlands|5|0|0|1
+Darío Osorio|24|M|22|Chile|2|2|0|0
+Cheick Doucouré|28|M|26|Mali|0|0|0|0
+Sebastian Williams|43|M|19|England||||
+Ismaïla Sarr|7|F|28|Senegal|2|2|0|0
+Eddie Nketiah|9|F|27|England|7|4|0|1
+Dwight McNeil|11|F|26|England|5|3|0|0
+Zavier Gozo|12|F|19|USA|2|2|0|0
+Jean-Philippe Mateta|14|F|29|France|3|1|0|0
+Jørgen Strand Larsen|22|F|26|Norway|7|2|1|0
+Evann Guessand|29|F|25|Ivory Coast|2|2|0|0

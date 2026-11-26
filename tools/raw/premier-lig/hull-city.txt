@@ -1,0 +1,34 @@
+Jack Butland|1|G|33|England|0|0||
+Dillon Phillips|12|G|31|England|0|0||
+Konstantinos Tzolakis|19|G|24|Greece|11|0||
+Archie Howard|55|G|19|England||||
+Lewie Coyle|2|D|31|England|11|0|0|0
+Ryan Giles|3|D|26|England|11|3|0|1
+Charlie Hughes|4|D|18|England||||
+Semi Ajayi|6|D|33|Nigeria|11|0|1|0
+John Egan|15|D|34|Republic of Ireland|10|0|0|0
+Paddy McNair|17|D|31|Northern Ireland|1|1|0|0
+Brooke Norton-Cuffy|18|D|22|England|7|6|0|0
+Lucas Herrington|22|D|19|Australia|8|5|0|0
+Matt Targett|23|D|31|England|1|1|0|0
+Nobel Mendy|32|D|22|Senegal|8|0|1|0
+Hidemasa Morita|5|M|31|Japan|5|4|0|0
+Eliot Matazo|8|M|24|Belgium||||
+Jens Hjerto Dahl|14|M|21|Norway|2|2|0|0
+Óscar Zambrano|20|M|22|Ecuador||||
+Elliot Stroud|21|M|24|Sweden|9|1|0|1
+Darko Gyabi|24|M|22|England||||
+Matt Crooks|25|M|32|England|7|1|0|0
+Kieran Dowell|26|M|29|England|0|0|0|0
+Regan Slater|27|M|27|England|11|0|0|1
+Lucas Gourna-Douath|29|M|23|France|5|3|0|1
+Abdülkadir Ömür|33|M|27|Türkiye||||
+Christos Mouzakitis|36|M|19|Greece|1|1|0|0
+Tim Iroegbunam|42|M|23|England|8|4|1|0
+Sorba Thomas|7|F|27|Wales|6|3|0|1
+Oliver McBurnie|9|F|30|Scotland|11|0|4|2
+Mohamed Belloumi|10|F|24|Algeria|10|1|3|3
+Joe Gelhardt|11|F|24|England|6|5|1|0
+Ilyas Ansah|28|F|22|Germany||||
+Robinio Vaz|47|F|19|France|5|5|0|0
+Mohamed-Ali Cho|50|F|22|France|8|6|1|0

@@ -1,0 +1,26 @@
+Volkan Babacan|1|G|38|Türkiye|0|0|0|0
+Muhammed Şengezer|16|G|29|Türkiye|9|0|0|0
+Deniz Dilmen|98|G|21|Türkiye|3|0|0|0
+Jerome Opoku|3|D|28|Ghana|7|1|0|0
+Onur Bulut|6|D|32|Türkiye|2|2|0|2
+Hamza Güreler|15|D|20|Türkiye|4|4|0|0
+Christopher Operi|21|D|29|Ivory Coast|5|0|1|0
+Emin Bayram|23|D|23|Türkiye|12|0|1|0
+Ousseynou Ba|27|D|31|Senegal|7|1|1|0
+Michał Karbownik|33|D|25|Poland|10|3|0|1
+Saba Kharebashvili|38|D|18|Georgia|7|1|0|1
+Onur Ergün|4|M|34|Türkiye|7|7|0|0
+Olivier Kemen|8|M|30|Cameroon|12|0|0|0
+Edin Višća|10|M|36|Bosnia and Herzegovina|4|4|1|0
+Abbosbek Fayzullaev|11|M|23|Uzbekistan|8|3|1|1
+Jakub Kałuziński|18|M|24|Poland|11|3|0|2
+Berkay Özcan|19|M|28|Türkiye|2|2|0|0
+Umut Güneş|20|M|26|Türkiye|7|1|1|0
+Ömer Şahiner|42|M|34|Türkiye|8|2|0|0
+Andreas Skov Olsen|70|M|26|Denmark|12|0|2|2
+Yusuf Sarı|7|F|28|Türkiye|7|6|0|0
+Davie Selke|9|F|31|Germany|8|4|2|0
+Eldor Shomurodov|14|F|31|Uzbekistan|12|0|9|1
+Umut Bozok|17|F|30|Türkiye|7|4|0|1
+Ivan Brnić|77|F|25|Croatia|10|4|0|5
+Bertuğ Yıldırım|91|F|24|Türkiye|10|7|3|0

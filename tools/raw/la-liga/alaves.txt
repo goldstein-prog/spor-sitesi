@@ -1,0 +1,28 @@
+Antonio Sivera|1|G|30|Spain|13|0||
+Adrián Rodríguez|13|G|25|Argentina|0|0||
+Grégoire Swiderski|31|G|21|Canada|0|0||
+Rúben Montero|33|G|21|Spain|0|0||
+Nicolás Valentini|2|D|25|Argentina|8|2|0|0
+Youssef Lekhedim|3|D|21|Morocco|10|8|0|0
+Facundo Garcés|5|D|27|Malaysia||||
+Ángel Pérez|7|D|24|Spain|12|1|1|4
+Nahuel Tenaglia|14|D|30|Argentina|13|0|1|0
+Ville Koski|16|D|24|Finland|13|1|1|0
+Jonny|17|D|32|Spain|11|1|0|0
+Xanet Oláiz|27|D|21|Spain|2|2|0|0
+Denis Suárez|4|M|32|Spain|11|5|1|0
+Ander Guevara|6|M|29|Spain|8|5|0|0
+Antonio Blanco|8|M|26|Spain|12|1|0|1
+Carles Aleñá|10|M|28|Spain|8|5|0|1
+Mikel Rodriguez|18|M|24|Spain|3|1|1|0
+Pablo Ibáñez|19|M|28|Spain|13|1|1|0
+Carlos Protesoni|23|M|28|Uruguay|6|4|0|0
+Selu Diallo|24|M|23|Guinea|0|0|0|0
+Mariano Díaz|9|F|33|Dominican Republic|13|9|4|4
+Toni Martínez|11|F|29|Spain|12|4|0|0
+Hugo Novoa|12|F|23|Spain|4|4|1|0
+Lucas Boyé|15|F|30|Argentina|12|0|6|1
+Aitor Mañas|20|F|23|Spain|9|8|1|0
+Abde Rebbach|21|F|28|Algeria|13|1|0|0
+Miguel Rodríguez|22|F|23|Spain|3|3|0|0
+Izei Hernandez|29|F|19|Spain|0|0|0|0

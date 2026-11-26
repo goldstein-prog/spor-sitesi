@@ -1,0 +1,28 @@
+Alex Palmer|1|G|30|England||||
+David Button|27|G|37|England||||
+Christian Walton|28|G|31|England|7|0||
+Kjell Scherpen|37|G|26|Netherlands|4|0||
+Darnell Furlong|2|D|31|England|2|1|0|0
+Leif Davis|3|D|26|England|11|0|2|1
+Cedric Kipre|4|D|29|France|0|0|0|0
+Issa Diop|6|D|29|Morocco|11|0|0|0
+Jacob Greaves|24|D|26|England|6|1|0|0
+Dara O'Shea|26|D|27|Republic of Ireland|11|0|1|0
+Abdoul Ouattara|42|D|21|France|11|4|1|2
+Azor Matusiwa|5|M|28|Netherlands|3|3|0|1
+Julio Enciso|10|M|22|Paraguay|11|0|2|2
+Florentino|12|M|27|Portugal|8|3|1|0
+Jack Taylor|14|M|28|England||||
+Kasey McAteer|20|M|25|England|3|3|0|0
+Sasa Lukic|23|M|30|Serbia|7|0|0|1
+Exequiel Palacios|25|M|28|Argentina|10|2|0|0
+Marcelino Núñez|32|M|26|Chile|2|0|0|0
+Anis Mehmeti|33|M|25|Albania||||
+Jack Clarke|47|M|27|England|10|8|2|1
+Fatawu Issahaku|7|F|22|Ghana|10|3|0|1
+Sindre Walle Egeli|8|F|20|Norway|2|2|0|0
+Zian Flemming|9|F|28|Netherlands|9|8|2|0
+Jaden Philogene|11|F|24|England|6|2|0|0
+Emersonn|19|F|22|Brazil|11|1|2|1
+Chuba Akpom|29|F|31|England|8|8|1|0
+Daizen Maeda|38|F|29|Japan|11|4|1|0

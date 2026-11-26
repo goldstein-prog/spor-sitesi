@@ -1,0 +1,34 @@
+Alisson Becker|1|G|34|Brazil|11|0||
+Giorgi Mamardashvili|25|G|26|Georgia|0|0||
+Freddie Woodman|28|G|29|England||||
+Vitezslav Jaros|56|G|25|Czechia||||
+Harvey Davies|95|G|23|England||||
+Joe Gomez|2|D|29|England|4|4|0|0
+Virgil van Dijk|4|D|35|Netherlands|11|0|0|0
+Jérémy Jacquet|5|D|21|France|11|0|0|0
+Milos Kerkez|6|D|23|Hungary|11|1|0|0
+Conor Bradley|12|D|23|Northern Ireland||||
+Giovanni Leoni|15|D|19|Italy||||
+Kostas Tsimikas|21|D|30|Greece|4|3|0|0
+Jeremie Frimpong|30|D|25|Netherlands|6|4|0|0
+Ronald Araujo|33|D|27|Uruguay|11|2|0|0
+Luke Chambers|44|D|22|England||||
+Wellity Lucky|92|D|20|Spain||||
+Wataru Endo|3|M|33|Japan|0|0|0|0
+Florian Wirtz|7|M|23|Germany|11|0|2|4
+Dominik Szoboszlai|8|M|26|Hungary|9|1|2|1
+Alexis Mac Allister|10|M|27|Argentina|11|2|1|0
+Ryan Gravenberch|38|M|24|Netherlands|7|3|0|1
+Trey Nyoni|42|M|19|England|9|8|0|0
+James McConnell|53|M|22|England|0|0|0|0
+Michael Laffey|94|M|21|England||||
+Alexander Isak|9|F|27|Sweden|10|0|7|0
+Federico Chiesa|14|F|29|Italy|1|1|0|0
+Cody Gakpo|18|F|27|Netherlands|8|1|1|3
+Hugo Ekitike|22|F|24|France||||
+Víctor Muñoz|23|F|23|Spain|10|5|3|0
+Bradley Barcola|29|F|24|France|9|1|0|4
+Lewis Koumas|67|F|21|Wales|9|8|0|0
+Rio Ngumoha|73|F|18|England|9|7|1|1
+Jayden Danns|76|F|20|England||||
+Joshua Lambie|82|F|19|England||||

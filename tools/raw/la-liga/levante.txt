@@ -1,0 +1,24 @@
+Pablo Cuñat|1|G|24|Spain|0|0||
+Mathew Ryan|13|G|34|Australia|12|0||
+Alejandro Primo|32|G|22|Spain|0|0||
+Aïssa Mandi|2|D|35|Algeria|10|0|0|0
+Ifeanyi Ndukwe|3|D|18|Austria|8|2|1|0
+Adrián de la Fuente|4|D|27|Spain|11|2|2|0
+Jorge Cabello|14|D|22|Spain|0|0|0|0
+Axel Tape|16|D|19|France|1|1|0|0
+Víctor García|17|D|32|Venezuela|11|8|0|0
+Jeremy Toljan|22|D|32|Germany|11|5|0|1
+Manu Sánchez|23|D|26|Spain|11|0|0|0
+Nacho Pérez|29|D|18|Spain|11|3|1|0
+Huseini Nakoha|35|D|20|Ghana|0|0|0|0
+Hugo Sotelo|5|M|22|Spain|5|3|0|0
+Dani Requena|6|M|22|Spain|9|3|1|1
+Roger Brugué|7|M|30|Spain|11|0|5|1
+Jon Ander Olasagasti|8|M|26|Spain|12|1|1|1
+Enzo Bardeli|18|M|25|France|8|2|1|1
+Orio Rey|20|M|28|Spain|11|4|0|0
+Iván Romero|9|F|25|Spain|13|2|3|0
+Petar Ratkov|10|F|23|Serbia|7|4|0|1
+Etta Eyong|21|F|23|Cameroon|7|5|1|1
+Thiago Fernández|24|F|22|Argentina|11|1|0|1
+Paco Cortés|27|F|19|Spain|6|5|0|0

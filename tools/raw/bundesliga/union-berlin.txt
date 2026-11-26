@@ -1,0 +1,26 @@
+Matheo Raab|31|G|27|Germany|1|0||
+Carl Klaus|25|G|32|Germany|0|0||
+Frederik Ronnow|1|G|34|Denmark|9|0||
+Felix Uduokhai|2|D|29|Germany|6|0|0|0
+Livan Burcu|9|F|22|Türkiye|8|3|1|0
+Andrej Ilić|23|M|26|Serbia|2|1|0|0
+Marin Ljubicic|27|F|24|Croatia|3|1|0|0
+Oliver Burke|7|F|29|Scotland|5|4|0|0
+Aljoscha Kemlein|6|M|22|Germany|9|6|0|0
+Kastriot Imeri|30|M|26|Switzerland|5|0|0|0
+András Schäfer|13|M|27|Hungary|10|2|0|0
+Jeong Woo-Yeong|11|M|27|South Korea|10|5|0|0
+Michel Aebischer|20|M|29|Switzerland|10|0|1|0
+Tim Skarke|21|M|30|Germany|10|5|2|1
+Robert Skov|24|M|30|Denmark|1|1|0|0
+Janik Haberer|19|M|32|Germany|10|3|2|0
+Rani Khedira|8|M|32|Tunisia|10|0|0|0
+Leopold Querfeld|14|D|22|Austria|4|1|1|1
+Tom Rothe|15|D|22|Germany|8|1|0|1
+Zeno Van Den Bosch|4|D|23|Belgium|9|1|0|0
+Derrick Köhn|17|D|27|Ghana|5|2|0|0
+Josip Juranovic|18|D|31|Croatia|3|0|0|2
+Marvin Friedrich|5|D|30|Germany|3|0|0|0
+Christopher Trimmel|28|D|39|Austria|5|4|0|0
+Andrik Markgraf|3|D|20|Germany||||
+Stanley N'Soki|34|D|27|France||||

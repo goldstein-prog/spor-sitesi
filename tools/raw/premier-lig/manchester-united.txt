@@ -1,0 +1,33 @@
+Senne Lammens|1|G|24|Belgium|11|0||
+Karl Darlow|12|G|36|Wales|0|0||
+Tom Heaton|22|G|40|England|0|0||
+Dermot Mee|45|G|24|Northern Ireland||||
+Diogo Dalot|2|D|27|Portugal|11|2|0|0
+Noussair Mazraoui|3|D|29|Morocco|6|4|0|1
+Matthijs de Ligt|4|D|27|Netherlands|1|0|0|0
+Harry Maguire|5|D|33|England|11|1|0|0
+Lisandro Martínez|6|D|28|Argentina|9|1|0|0
+Patrick Dorgu|13|D|22|Denmark|7|4|1|2
+Leny Yoro|15|D|21|France|8|2|0|0
+Luke Shaw|23|D|31|England|5|0|0|1
+Ayden Heaven|26|D|20|England|5|3|0|0
+Harry Amass|41|D|19|England|0|0|0|0
+Jaydan Kamason|56|D|19|England||||
+Daniel Armer|57|D|19|Scotland||||
+Mason Mount|7|M|27|England|6|5|0|0
+Bruno Fernandes|8|M|32|Portugal|10|0|4|2
+Andrey Santos|17|M|22|Brazil|7|3|0|0
+Youri Tielemans|18|M|29|Belgium|10|0|1|1
+Carlos Baleba|20|M|22|Cameroon|4|1|0|0
+Manuel Ugarte|25|M|25|Uruguay||||
+Kobbie Mainoo|37|M|21|England|9|2|0|1
+Jack Fletcher|38|M|19|England|0|0|0|0
+Tyler Fletcher|39|M|19|Scotland|0|0|0|0
+Marcus Rashford|9|F|29|England|6|2|0|0
+Matheus Cunha|10|F|27|Brazil|11|2|1|2
+Joshua Zirkzee|11|F|25|Netherlands|7|7|1|0
+Amad Diallo|16|F|24|Ivory Coast|5|0|0|0
+Bryan Mbeumo|19|F|27|Cameroon|11|0|4|0
+Tynan Thompson|27|F|18|England||||
+Benjamin Sesko|30|F|23|Slovenia|4|4|1|0
+Shea Lacey|31|F|19|England|3|3|0|0

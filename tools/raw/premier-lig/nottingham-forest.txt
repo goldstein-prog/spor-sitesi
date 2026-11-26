@@ -1,0 +1,24 @@
+John Victor|12|G|30|Brazil|0|0||
+Matz Sels|26|G|34|Belgium|11|0||
+Steven Benda|33|G|28|Germany||||
+Ousmane Diomande|2|D|22|Ivory Coast|5|1|0|0
+Neco Williams|3|D|25|Wales|11|0|1|0
+Murillo|5|D|24|Brazil|11|0|0|1
+Jair Cunha|23|D|21|Brazil|9|0|1|0
+Luca Netz|25|D|23|Germany|6|6|0|0
+Daniel Muñoz|27|D|30|Colombia|9|2|0|1
+Nikola Milenkovic|31|D|29|Serbia|7|0|0|0
+Ola Aina|34|D|30|Nigeria|7|1|0|0
+Nicolò Savona|37|D|23|Italy||||
+Ibrahim Sangaré|6|M|28|Ivory Coast|6|5|0|0
+Nicolás Domínguez|8|M|28|Argentina|2|1|0|0
+Morgan Gibbs-White|10|M|26|England|10|0|1|3
+Xaver Schlager|21|M|29|Austria|11|2|0|1
+Ryan Yates|22|M|29|England|3|1|0|0
+James McAtee|24|M|24|England|11|0|0|0
+Callum Hudson-Odoi|7|F|26|England|4|4|0|0
+Chris Wood|9|F|34|New Zealand|9|9|0|0
+Igor Jesus|11|F|25|Brazil|7|5|1|0
+Dan Ndoye|14|F|26|Switzerland|11|1|2|0
+Arnaud Kalimuendo|15|F|24|France|4|4|0|0
+Liam Delap|19|F|23|England|10|1|3|0

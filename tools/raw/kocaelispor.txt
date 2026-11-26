@@ -1,0 +1,28 @@
+Aleksandar Jovanović|1|G|33|Serbia|0|0|0|0
+Onurcan Piri|23|G|32|Türkiye|0|0|0|0
+Serhat Öztaşdelen|83|G|21|Türkiye|11|0|0|0
+Anfernee Dijksteel|2|D|30|Suriname|10|0|0|1
+Muharrem Cinan|3|D|28|Türkiye|7|6|0|0
+Tanguy Zoukrou|4|D|23|France|5|0|0|0
+Emir Ortakaya|5|D|22|Türkiye|9|2|0|0
+Matej Maglica|6|D|28|Croatia|6|3|1|0
+Deniz Ceylan|16|D|18|Türkiye|0|0|0|0
+Massadio Haïdara|21|D|33|Mali|6|0|1|0
+Uğur Kaan Yıldız|22|D|24|Türkiye|11|3|0|1
+Onur Öztonga|41|D|26|Türkiye|2|1|0|0
+Tayfur Bingöl|75|D|33|Türkiye|5|3|0|0
+Tobias Gulliksen|8|M|23|Norway|6|6|0|0
+Berkan Kutlu|10|M|28|Türkiye|11|0|5|1
+Show|14|M|27|Angola|11|0|1|1
+Hulisi Destici|18|M|18|Türkiye|0|0|0|0
+Haydar Karataş|19|M|19|Türkiye|0|0|0|0
+Mahamadou Susoho|20|M|21|Spain|10|1|0|0
+Ege Bilim|27|M|20|Türkiye|4|4|0|0
+Makana Baku|32|M|28|Germany|11|5|1|0
+Daniel Agyei|7|F|29|Ghana|11|3|2|0
+Bruno Petković|9|F|32|Croatia|0|0|0|0
+Gonçalo Santos Sousa|11|F|20|Portugal|10|1|0|2
+Arda Özyar|17|F|19|Türkiye|2|2|0|0
+Metehan Altunbaş|26|F|23|Türkiye|11|8|1|0
+Florian Ayé|97|F|29|France|9|3|1|1
+Rigoberto Rivas|99|F|28|Honduras|6|2|0|2

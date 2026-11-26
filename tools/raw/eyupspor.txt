@@ -1,0 +1,23 @@
+Emre Bilgin|1|G|22|Türkiye|4|1|0|0
+Umut Keseci|23|G|22|Türkiye|0|0|0|0
+Horațiu Moldovan|31|G|28|Romania|8|0|0|0
+Arda Yavuz|3|D|20|Türkiye|3|3|0|0
+Anıl Yaşar|4|D|24|Türkiye|7|2|0|0
+Jawad El Yamiq|5|D|34|Morocco|9|0|0|0
+Talha Ülvan|7|D|25|Türkiye|10|2|0|0
+Simone Giordano|21|D|24|Italy|8|1|0|0
+Zak Jules|33|D|29|Scotland|11|0|1|1
+Berhan Satlı|42|D|20|Türkiye|1|1|0|0
+David Costa|8|M|22|Portugal|10|2|0|0
+Abdelhamid Sabiri|10|M|29|Morocco|6|3|0|1
+Charles-André Raux-Yao|15|M|24|France|11|3|0|0
+Hamza Akman|18|M|22|Türkiye|8|8|0|0
+Tashkin Ilter|28|M|32|Azerbaijan|4|1|0|0
+Chandrel Massanga|88|M|27|Congo|11|0|0|0
+Yusuf Barası|9|F|23|Türkiye|11|7|0|0
+Lenny Pintor|11|F|26|France|10|5|0|0
+Ahmed Abdullahi|29|F|22|Nigeria|9|1|2|0
+Ömer Ceyhan|44|F|19|Türkiye|1|0|0|0
+Mete Demir|70|F|28|Türkiye|6|4|0|0
+Konrad Michalak|77|F|29|Poland|10|2|0|0
+Bilal Boutobba|98|F|28|France|11|3|0|0

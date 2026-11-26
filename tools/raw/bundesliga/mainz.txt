@@ -1,0 +1,24 @@
+Alexander Schwolow|1|G|34|Germany|5|0||
+Robin Zentner|27|G|32|Germany|5|0||
+Maximilian Kinzig|40|G|22|Germany|0|0||
+Phillipp Mwene|2|D|32|Austria|9|0|1|1
+Fabio Gruber|3|D|24|Peru|6|0|0|0
+Stefan Posch|4|D|29|Austria|8|0|0|0
+Stefan Bell|16|D|35|Germany|0|0|0|0
+Anthony Caci|19|D|29|France|10|0|3|3
+Danny da Costa|21|D|33|Germany|10|4|1|1
+Silvan Widmer|30|D|33|Switzerland|6|5|0|0
+Dominik Kohr|31|D|32|Germany|1|0|0|0
+Kacper Potulski|48|D|19|Poland|10|1|0|0
+Eric Martel|5|M|24|Germany|7|6|1|0
+Kaishu Sano|6|M|25|Japan|10|0|0|2
+Lee Jae-Sung|7|M|34|South Korea|8|1|1|1
+Paul Nebel|8|M|24|Germany|5|3|0|0
+Nadiem Amiri|10|M|30|Germany|10|0|0|1
+Lennard Maloney|15|M|27|USA|5|5|0|0
+Sota Kawasaki|24|M|25|Japan|0|0|0|0
+Phillip Tietz|9|F|29|Germany|10|1|6|0
+Ransford-Yeboah Königsdörffer|11|F|25|Ghana|10|9|2|0
+Benedict Hollerbach|17|F|25|Germany|6|6|2|1
+Sheraldo Becker|23|F|31|Suriname|10|0|2|4
+Silas Katompa-Mvumpa|26|F|28|Congo DR||||

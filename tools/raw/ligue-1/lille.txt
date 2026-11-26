@@ -1,0 +1,27 @@
+Berke Özer|1|G|26|Türkiye|9|0||
+Orlando Gill|12|G|26|Paraguay|1|0||
+Zadig Lanssade|40|G|18|France|0|0||
+Loun Srdanovic|2|D|20|Switzerland|0|0|0|0
+Nathan Ngoy|3|D|23|Belgium|9|0|1|0
+Alexsandro|4|D|27|Brazil|9|0|0|0
+Romain Perraud|15|D|29|France|10|2|0|0
+Tiago Santos|22|D|24|Portugal|6|0|2|0
+Tanguy Nianzou|23|D|24|France|4|0|0|1
+Calvin Verdonk|24|D|29|Indonesia|7|5|0|0
+Isaac Cossier|26|D|19|France|3|3|0|0
+Maxima Goffi|38|D|18|France|4|2|0|0
+Nabil Bentaleb|6|M|31|Algeria|10|1|0|1
+Ethan Mbappé|8|M|19|France|9|1|2|0
+Hákon Haraldsson|10|M|23|Iceland|10|1|1|0
+Maurits Kjaergaard|14|M|23|Denmark|6|5|0|2
+Ngal'ayel Mukau|17|M|22|Congo DR|10|3|0|0
+Benjamin André|21|M|36|France|8|1|0|0
+Dilane Bakwa|7|F|24|France|8|5|2|1
+Olivier Giroud|9|F|40|France|9|4|3|2
+Osame Sahraoui|11|F|25|Morocco|4|3|0|0
+Ayase Ueda|18|F|28|Japan|4|2|2|0
+Basar Önal|19|F|22|Türkiye|4|1|0|0
+Gaetan Perrin|28|F|30|France|5|4|0|0
+Hamza Igmane|29|F|24|Morocco||||
+Matah Yondjio|33|F|19|Cameroon|1|1|0|0
+Soriba Diaoune|35|F|19|France|4|1|1|2

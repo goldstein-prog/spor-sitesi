@@ -1,0 +1,24 @@
+Jordan Pickford|1|G|32|England|8|0||
+Mark Travers|12|G|27|Republic of Ireland|0|0||
+Tom King|31|G|31|Wales|0|0||
+Jarrad Branthwaite|4|D|24|England|7|0|0|0
+Michael Keane|5|D|33|England|1|0|0|0
+James Tarkowski|6|D|33|England|8|0|1|1
+Jake O'Brien|15|D|25|Republic of Ireland|4|3|0|0
+Vitaliy Mykolenko|16|D|27|Ukraine|7|0|0|0
+Ainsley Maitland-Niles|2|M|29|England|5|1|1|1
+Kiernan Dewsbury-Hall|8|M|28|England|8|0|2|1
+Jack Grealish|10|M|31|England|5|2|0|0
+Christian Nørgaard|23|M|32|Denmark|1|1|0|0
+Charly Alcaraz|24|M|23|Argentina|4|4|0|0
+Hayden Hackney|30|M|24|England|7|6|0|1
+Merlin Röhl|34|M|24|Germany|5|0|0|0
+James Garner|37|M|25|England|8|1|0|0
+Harrison Armstrong|45|M|19|England|8|0|0|1
+Malik Olayiwola|76|M|17|England||||
+Harvey Foster|81|M|19|England||||
+Thierno Barry|11|F|24|France|8|0|3|0
+Tyrique George|19|F|20|England|8|3|1|0
+Tyler Dibling|20|F|20|England|3|3|0|0
+Brennan Johnson|22|F|25|Wales|8|3|0|0
+Braiden Graham|58|F|18|Northern Ireland|0|0|0|0

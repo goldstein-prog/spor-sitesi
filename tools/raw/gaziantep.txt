@@ -1,0 +1,25 @@
+Kacper Tobiasz|25|G|24|Poland|9|0|0|0
+Mehmet Ataberk Dadadeniz|35|G|27|Türkiye|1|0|0|0
+Cemilhan Aslan|81|G|18|Türkiye|0|0|0|0
+Luis Pérez|2|D|31|Spain|10|0|0|0
+Arda Kızıldağ|4|D|28|Türkiye|6|2|0|0
+Efe Sarıkaya|5|D|20|Türkiye|1|0|0|0
+Myenty Abena|14|D|31|Suriname|9|0|1|0
+Deian Sorescu|18|D|29|Romania|10|0|2|0
+Abakar Sylla|21|D|23|Ivory Coast|6|2|0|0
+Kerim Çalhanoğlu|23|D|24|Germany|8|2|0|0
+Drissa Camara|3|M|24|Ivory Coast|9|4|0|0
+Juninho Bacuna|7|M|29|Curaçao|5|1|0|1
+Victor Gidado|8|M|22|Nigeria|9|2|0|0
+Kacper Kozłowski|10|M|23|Poland|10|0|2|1
+Mirza Cihan|11|M|26|Türkiye|0|0|0|0
+Karamba Gassama|17|M|21|Gambia|5|5|0|0
+Ogün Özçiçek|61|M|27|Türkiye|3|1|0|0
+Mervan Müjdeci|83|M|18|Türkiye|1|1|0|0
+Trivante Stewart|9|F|26|Jamaica|7|2|0|0
+Serdar Dursun|19|F|35|Türkiye|7|7|1|0
+Sontje Hansen|22|F|24|Curaçao|5|4|0|0
+Enver Kulašin|27|F|23|Bosnia and Herzegovina|1|1|0|0
+Halil Dervişoğlu|28|F|26|Türkiye|7|3|1|0
+Ali Osman Kalın|46|F|18|Türkiye|0|0|0|0
+Fuat Bavuk|97|F|26|Türkiye|2|1|0|0

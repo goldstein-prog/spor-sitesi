@@ -1,0 +1,30 @@
+Karl Hein|1|G|24|Estonia|7|0||
+Markus Kolke|25|G|36|Germany||||
+Alexander Schlager|30|G|30|Austria|0|0||
+Stefan Smarkalev|37|G|19|Bulgaria||||
+Olivier Deman|2|D|26|Belgium|7|0|0|0
+Oskar Wójcik|3|D|23|Poland|3|3|0|1
+Niklas Stark|4|D|31|Germany|0|0|0|0
+Amos Pieper|5|D|28|Germany|7|0|0|0
+Mitchell Weiser|8|D|32|Germany|5|4|1|0
+Arthur|13|D|23|Brazil|6|0|0|0
+N'Diaye Moussa|16|D|24|Senegal|0|0|0|0
+Felix Agu|27|D|27|Nigeria||||
+Marco Friedl|32|D|28|Austria|7|0|0|0
+Mick Schmetgens|33|D|19|Germany|6|5|0|0
+Mats Heitmann|36|D|20|Germany||||
+Jens Stage|6|M|29|Denmark||||
+Senne Lynen|14|M|27|Belgium|1|0|0|0
+Ludovit Reis|15|M|26|Netherlands|7|0|2|0
+Chuki|20|M|22|Spain|7|0|0|2
+Dariusz Stalmach|23|M|20|Poland|5|5|1|0
+Skelly Alvero|28|M|24|France||||
+Youri Regeer|44|M|23|Netherlands|6|0|0|0
+Keke Topp|9|F|22|Germany||||
+Niclas Füllkrug|10|F|33|Germany|7|0|8|0
+Justin Njinmah|11|F|25|Germany|1|0|0|0
+Marco Grüll|17|F|28|Austria|7|0|2|5
+Eren Dinkci|18|F|24|Türkiye|7|2|1|1
+Kenny Quetant|19|F|20|France|0|0|0|0
+Cedric Itten|26|F|29|Switzerland|5|5|0|0
+Salim Musah|29|F|20|Germany|3|3|0|0

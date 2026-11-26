@@ -1,0 +1,29 @@
+Mark Flekken|1|G|33|Netherlands|8|0||
+Janis Blaswich|28|G|35|Germany|0|0||
+Niklas Lomb|36|G|33|Germany||||
+Ibrahim Maza|30|M|20|Algeria|8|0|3|2
+Facundo Medina|2|D|27|Argentina|8|1|1|0
+Afonso Moreira|9|F|21|Portugal|8|1|0|1
+Jarell Quansah|4|D|23|England|8|1|1|1
+Miguel Gutiérrez|3|D|25|Spain|8|0|1|4
+Christian Kofane|35|F|20|Cameroon|4|3|2|0
+Patrik Schick|14|F|30|Czechia|8|1|7|2
+Moussa Diaby|19|F|27|France|6|1|1|0
+Ezequiel Fernández|6|M|24|Argentina|8|1|1|0
+Robert Andrich|8|M|32|Germany|5|4|1|0
+Malik Tillman|10|M|24|USA|7|5|0|1
+Aleix García|24|M|29|Spain|8|0|0|2
+Jonas Hofmann|7|M|29|Germany|5|5|0|0
+Guela Doué|20|D|24|Ivory Coast|1|1|0|0
+Loïc Badé|5|D|26|France|3|2|0|0
+Edmond Tapsoba|12|D|27|Burkina Faso|8|0|0|1
+Lucas Vázquez|17|D|35|Spain|5|3|0|0
+Martin Terrier|11|F|29|France|2|2|0|0
+Victor Boniface|22|F|25|Nigeria|2|2|0|0
+Nathan Tella|23|F|27|Nigeria|3|2|0|0
+Kenan Doganay|39|M|17|France|0|0|0|0
+Montrell Culbreath|42|M|19|Germany|0|0|0|0
+Tim Oermann|15|D|23|Germany|0|0|0|0
+Eliesse Ben Seghir|29|F|21|Morocco||||
+Kennet Eichhorn|18|M|17|Germany||||
+Ben Hawighorst|43|D|18|Germany||||

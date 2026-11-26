@@ -1,0 +1,21 @@
+Ertuğrul Taşkıran|1|G|36|Türkiye|8|0|0|0
+Erkan Anapa|17|G|28|Türkiye|0|0|0|0
+Matija Orbanić|31|G|26|Croatia|2|0|0|0
+Festy Ebosele|2|D|24|Republic of Ireland|6|6|0|0
+Amar Gerxhaliu|4|D|24|Kosovo|10|0|1|0
+Guram Giorbelidze|15|D|30|Georgia|8|0|1|2
+Nihad Mujakić|18|D|28|Bosnia and Herzegovina|10|0|0|0
+Mustafa Yumlu|22|D|39|Türkiye|7|0|0|1
+Cengizhan Bayrak|23|D|26|Türkiye|1|1|0|0
+Orhan Ovacıklı|53|D|37|Türkiye|10|0|0|1
+Brandon Baiye|6|M|25|Belgium|10|0|0|0
+Sefa Akgün|8|M|26|Türkiye|7|6|0|0
+Miguel Cardoso|20|M|32|Portugal|9|3|3|0
+Elisha Owusu|42|M|28|Ghana|9|0|0|0
+Martín Rodríguez|65|M|32|Chile|10|0|0|0
+Lawrence Agyekum|77|M|22|Ghana|1|1|0|0
+Gyrano Kerk|9|F|30|Suriname|7|6|0|1
+Eren Tozlu|10|F|35|Türkiye|10|0|3|1
+Ibrahim Diabaté|19|F|26|Ivory Coast|8|8|1|0
+Nariman Akhundzade|90|F|22|Azerbaijan|3|3|0|0
+Mustafa Fettahoğlu|99|F|25|Türkiye|8|4|0|1

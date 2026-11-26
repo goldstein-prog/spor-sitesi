@@ -1,0 +1,26 @@
+Lukas Hradecky|1|G|36|Finland|10|0||
+Philipp Köhn|16|G|28|Switzerland|0|0||
+Jules Stawiecki|40|G|19|France||||
+Vanderson|2|D|25|Brazil|10|0|0|1
+Jordan Teze|4|D|27|Netherlands|5|4|0|2
+Christian Mawissa|13|D|21|France|4|4|0|0
+Eric Dier|15|D|32|England|8|0|1|1
+Názinho|20|D|23|Portugal|10|0|1|1
+Mohammed Salisu|22|D|27|Ghana|2|1|0|0
+Sadibou Sané|72|D|22|Senegal|10|0|0|0
+Denis Zakaria|6|M|30|Switzerland|10|0|0|0
+Lamine Camara|8|M|22|Senegal|10|0|0|1
+Aleksandr Golovin|10|M|30|Russia|10|0|0|3
+Stanis Idumbo|17|M|21|Belgium|5|1|1|0
+Takumi Minamino|18|M|31|Japan|3|2|0|0
+Pape Cabral|19|M|19|France|1|1|0|0
+Mamadou Coulibaly|28|M|23|France|5|0|1|0
+Edan Diop|37|M|22|France|5|2|2|1
+Samuel Nibombé|44|M|19|Belgium||||
+Ilane Touré|49|M|20|France|1|1|0|0
+Mathys Detourbet|7|F|19|France|8|6|0|0
+Folarin Balogun|9|F|25|USA|6|6|1|0
+Matthis Abline|11|F|23|France|9|4|1|1
+Mika Biereth|14|F|23|Denmark|3|3|0|0
+Paris Brunner|29|F|20|Germany|8|1|4|0
+Ansu Fati|31|F|24|Spain|3|1|0|0

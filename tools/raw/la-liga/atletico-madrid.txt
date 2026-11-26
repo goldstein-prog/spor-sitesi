@@ -1,0 +1,29 @@
+Juan Musso|1|G|32|Argentina|0|0||
+Jan Oblak|13|G|33|Slovenia|10|0||
+Salvi Esquivel|25|G|21|Spain|0|0||
+Dávid Hancko|17|D|28|Slovakia|10|2|0|2
+Marc Pubill|18|D|23|Spain|8|1|1|0
+Cristian Romero|21|D|28|Argentina|6|1|1|0
+Alejandro Grimaldo|22|D|31|Spain|9|1|3|2
+Robin Le Normand|24|D|29|Spain|6|2|1|0
+Jorge Domínguez|27|D|16|Spain|1|0|0|0
+Daniel Martinez|30|D|22|Spain|2|0|0|0
+Arnau Solà|32|D|23|Spain||||
+Javier Gil|45|D|20|Spain|0|0|0|0
+Obed Vargas|3|M|21|Mexico|0|0|0|0
+Rodrigo Mendoza|4|M|21|Spain|5|3|0|0
+Johnny Cardoso|5|M|25|USA|6|3|0|1
+Koke|6|M|34|Spain|8|4|0|0
+Lee Kang-In|7|M|25|South Korea|10|2|2|1
+Pablo Barrios|8|M|23|Spain|7|1|0|1
+Álex Baena|10|M|25|Spain|10|4|5|2
+Marcos Llorente|14|M|31|Spain|10|3|0|1
+Morten Hjulmand|23|M|27|Denmark|9|3|0|0
+Jorge Castillo|46|M|20|Spain|0|0|0|0
+Alexander Sørloth|9|F|30|Norway|2|2|0|0
+Ademola Lookman|11|F|29|Nigeria|10|1|1|0
+Jonathan David|15|F|26|Canada|5|1|3|2
+Arnau Ortiz|16|F|24|Spain|5|4|0|0
+Julián Álvarez|19|F|26|Argentina|6|5|1|1
+Giuliano Simeone|20|F|23|Argentina|10|3|2|2
+Miguel Cubo|29|F|18|Spain|0|0|0|0

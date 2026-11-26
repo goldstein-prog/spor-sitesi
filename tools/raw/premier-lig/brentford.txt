@@ -1,0 +1,29 @@
+Caoimhín Kelleher|1|G|28|Republic of Ireland|11|0||
+Hákon Valdimarsson|12|G|25|Iceland|0|0||
+Ellery Balcombe|31|G|27|England|0|0||
+Aaron Hickey|2|D|24|Scotland|10|7|0|0
+Rico Henry|3|D|29|Jamaica|1|1|0|0
+Sepp van den Berg|4|D|24|Netherlands|5|0|0|0
+Kristoffer Ajer|20|D|28|Norway|11|0|1|0
+Nathan Collins|22|D|25|Republic of Ireland|4|1|0|0
+El Hadji Malick Diouf|25|D|21|Senegal|7|6|0|0
+Michael Kayode|33|D|22|Italy|11|1|1|0
+Kim Ji-Soo|36|D|21|South Korea||||
+Jannik Schuster|44|D|20|Austria|4|1|0|1
+Benjamin Fredrick|48|D|21|Nigeria|0|0|0|0
+Yehor Yarmoliuk|6|M|22|Ukraine|9|4|1|1
+Kevin Schade|7|M|24|Germany|11|2|3|0
+Mathias Jensen|8|M|30|Denmark|7|3|0|1
+Josh Dasilva|10|M|28|England||||
+Fábio Carvalho|14|M|24|Portugal|2|2|2|0
+Antoni Milambo|17|M|21|Netherlands||||
+Mamadou Sangare|18|M|24|Mali|11|4|0|1
+Mikkel Damsgaard|24|M|26|Denmark|9|5|0|0
+Vitaly Janelt|27|M|28|Germany|10|0|3|0
+Igor Thiago|9|F|25|Brazil|10|0|2|2
+Dango Ouattara|11|F|24|Burkina Faso|11|4|1|0
+Callum Wilson|13|F|34|England|8|7|0|0
+Jaidon Anthony|19|F|26|England|10|4|1|4
+Keane Lewis-Potter|23|F|25|England|11|0|4|1
+Gustavo Nunes|39|F|21|Brazil|0|0|0|0
+Kaye Furo|47|F|19|Belgium||||

@@ -1,0 +1,24 @@
+Obed Nkambadio|16|G|23|France|1|0||
+Kevin Trapp|1|G|36|Germany|10|0||
+Nhoa Sangui|19|D|20|France||||
+Hamari Traoré|14|D|34|Mali|8|1|0|0
+Thibault De Smet|28|D|28|Belgium|2|2|0|0
+Moustapha Mbow|5|D|26|Senegal|8|5|0|0
+Samir Chergui|31|D|27|Algeria|7|0|1|0
+Otavio|6|D|24|Brazil|8|2|0|0
+Yoan Koré|25|D|22|France|0|0|0|0
+Diego Coppola|42|D|22|Italy|11|0|1|1
+Emmanuel Mbemba|3|D|18|France|3|3|0|0
+Vincent Marchetti|4|M|29|France|3|3|1|0
+Pierre Lees-Melou|33|M|33|France|11|0|0|0
+Maxime López|20|M|28|France|11|1|3|2
+Ilan Kebbal|10|M|28|Algeria|11|0|1|1
+Adama Camara|17|M|30|France|9|1|0|0
+Rudy Matondo|23|M|18|France|11|8|0|0
+Moses Simon|27|F|31|Nigeria|8|5|0|1
+Jonathan Ikoné|93|F|28|France|3|3|0|0
+Jean-Phillipe Krasso|11|F|29|Ivory Coast|2|2|0|0
+Lassine Sinayoko|9|F|26|Mali|10|0|9|5
+Pablo Pagis|7|F|23|France|11|0|2|3
+Luca Koleosho|15|F|22|Italy|9|1|2|1
+Omar Sissoko|18|F|20|France|5|5|0|0

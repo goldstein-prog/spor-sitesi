@@ -1,0 +1,28 @@
+Matías Dituro|1|G|39|Argentina|13|0||
+Alejandro Iturbe|13|G|23|Spain|0|0||
+Buba Sangaré|2|D|19|Spain|11|0|1|0
+Roy Revivo|3|D|23|Israel|10|1|1|2
+Bambo Diaby|4|D|28|Spain|0|0|0|0
+Pedro Bigas|6|D|36|Spain|6|4|0|0
+Kevin Lomónaco|15|D|24|Argentina|0|0|0|0
+Rubén Sánchez|22|D|25|Spain|7|5|0|0
+Víctor Chust|23|D|26|Spain|13|0|0|1
+Matia Barzic|26|D|22|Croatia|2|2|0|0
+Federico Redondo|5|M|23|Argentina|10|1|1|0
+Marc Aguado|8|M|26|Spain|6|0|1|0
+Facundo Buonanotte|10|M|21|Argentina|8|5|1|1
+Gonzalo Villar|12|M|28|Spain|12|0|0|1
+Martim Neto|16|M|23|Portugal|9|6|0|0
+Josan|17|M|36|Spain|3|3|0|1
+Thomas Lemar|18|M|31|France|9|4|1|0
+Javier Morcillo|47|M|20|Spain|11|2|0|0
+Yago Alonso|7|F|23|Spain||||
+Ezequiel Ponce|9|F|29|Argentina|3|2|0|0
+Germán Valera|11|F|24|Spain|13|0|2|1
+Fer Niño|14|F|26|Spain|13|2|6|0
+Grady Diangana|19|F|28|Congo DR|3|3|0|0
+José Antonio Morente|20|F|29|Spain|13|8|0|3
+Lucas Cepeda|21|F|24|Chile|13|7|0|2
+Abiel Osorio|24|F|24|Argentina|10|7|1|0
+Ali Houary|29|F|21|Morocco|4|0|0|0
+Adam Boayar|32|F|21|Morocco||||

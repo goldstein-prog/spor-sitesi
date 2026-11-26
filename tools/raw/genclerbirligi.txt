@@ -1,0 +1,27 @@
+Gökhan Akkan|23|G|31|Türkiye|0|0|0|0
+İrfan Can Eğribayat|70|G|28|Türkiye|12|0|0|0
+Thalisson Kelven|2|D|28|Brazil|8|0|1|0
+Yiğit Hamza Aydar|3|D|18|Türkiye|4|1|0|0
+Dimitrios Goutas|6|D|32|Greece|9|0|0|1
+Pedro Pereira|13|D|28|Portugal|7|1|0|0
+Arda Çelik|15|D|21|Türkiye|3|0|0|0
+Bilal Sarı|60|D|18|Türkiye|0|0|0|0
+Abdurrahim Dursun|77|D|27|Türkiye|7|1|0|1
+Fıratcan Üzüm|88|D|27|Türkiye|9|5|0|0
+Metehan Baltacı|90|D|24|Türkiye|9|4|0|0
+Peter Etebo|5|M|31|Nigeria|1|1|0|0
+Franco Tongya|10|M|24|Italy|12|0|2|2
+Erk Aslan|17|M|18|Türkiye|0|0|0|0
+Cheikh Niasse|19|M|26|Senegal|4|1|0|0
+Oğulcan Ülgün|35|M|28|Türkiye|11|2|2|2
+Ousmane Diabaté|42|M|19|Guinea|11|1|1|1
+Salih Uçan|48|M|32|Türkiye|11|9|0|0
+Göktuğ Erdem|52|M|23|Türkiye|1|1|0|0
+Rafael Luís|83|M|21|Portugal|9|5|1|0
+Tiago Gouveia|7|F|25|Portugal|11|1|2|1
+Pedro Mendes|9|F|27|Portugal|9|1|1|0
+Victor Orakpo|12|F|20|Nigeria|6|6|0|0
+Adama Traoré|14|F|31|Mali|10|1|2|2
+Sékou Koïta|20|F|26|Mali|10|5|1|1
+Prince Martor|45|F|19|Liberia|5|5|0|0
+Furkan Ayaz|99|F|17|Türkiye|1|1|0|0
