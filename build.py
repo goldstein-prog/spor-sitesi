@@ -1,149 +1,303 @@
 #!/usr/bin/env python3
-"""SporDurak statik site üreticisi.
+"""PiyasaDeğeri statik site üreticisi.  Kullanım: python3 build.py [--no-history]
 
-Kullanım: python3 build.py
-data/ ve i18n/ klasörlerindeki JSON dosyalarından docs/ klasörüne site üretir.
-Yeni dil eklemek: i18n/<dil>.json oluştur, config.json -> languages listesine ekle.
+data/clubs/*.json  -> kulüp kadroları (oyuncu: name,num,pos,age,nat,apps,sub,goals,assists,minutes,class)
+data/standings.json, data/transfers.json
+data/value_history.json -> her derlemede bugünün değerleri eklenir (değer geçmişi grafiği)
+Çıktı: docs/  (GitHub Pages)
 """
-import json, os, shutil, html
-from datetime import datetime
+import json, os, re, shutil, sys, unicodedata, html
+from datetime import date
+from valuation import value, fmt, POS_NAME
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 OUT = os.path.join(ROOT, "docs")
-CONFIG = json.load(open(os.path.join(ROOT, "config.json"), encoding="utf-8"))
-CATALOG = json.load(open(os.path.join(ROOT, "data/catalog.json"), encoding="utf-8"))
-BASE = CONFIG["base_path"].rstrip("/")  # ör. "/spor-sitesi" veya "" (kendi alan adında)
-SITE_URL = CONFIG["site_url"].rstrip("/")
+C = json.load(open(os.path.join(ROOT, "config.json"), encoding="utf-8"))
+BASE, URL, L, SN = C["base_path"].rstrip("/"), C["site_url"].rstrip("/"), C["lang"], C["site_name"]
+TODAY = date.today().isoformat()
 e = html.escape
 sitemap = []
+TRMAP = str.maketrans("çğıöşüÇĞİÖŞÜ", "cgiosuCGIOSU")
 
 
-def load(path):
-    p = os.path.join(ROOT, "data", path)
-    return json.load(open(p, encoding="utf-8")) if os.path.exists(p) else None
+def slug(s):
+    s = unicodedata.normalize("NFKD", s.translate(TRMAP)).encode("ascii", "ignore").decode()
+    return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
 
 
-def fmt_date(iso, T):
-    d = datetime.fromisoformat(iso)
-    return f"{d.day} {T['months'][d.month-1]} {T['days'][d.weekday()]}, {d:%H:%M}"
+def load(p):
+    return json.load(open(os.path.join(ROOT, "data", p), encoding="utf-8"))
 
 
-def url(lang, *parts):
-    return BASE + "/" + "/".join([lang, *parts]) + ("/" if parts or True else "")
+def link(*parts):
+    return f"{BASE}/{L}/" + "".join(p + "/" for p in parts)
 
 
-def write(rel, content, lang, indexable=True):
-    path = os.path.join(OUT, rel.strip("/"), "index.html")
+def write(parts, title, desc, body, crumbs=(), jsonld=None, noindex=False):
+    rel = "/".join([L, *parts])
+    path = os.path.join(OUT, rel, "index.html")
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    open(path, "w", encoding="utf-8").write(content)
-    if indexable:
-        sitemap.append(SITE_URL + "/" + rel.strip("/") + "/")
-
-
-def page(lang, T, title, desc, body, crumbs, path, noindex=False):
-    nav = "".join(f'<a href="{url(lang, s["slug"][lang])}">{s["icon"]} {e(s["name"][lang])}</a>' for s in CATALOG["sports"])
-    bc = " › ".join(f'<a href="{h}">{e(n)}</a>' if h else e(n) for n, h in crumbs)
-    alts = "".join(f'<link rel="alternate" hreflang="{l}" href="{SITE_URL}/{l}/">' for l in CONFIG["languages"])
-    robots = '<meta name="robots" content="noindex,follow">' if noindex else ""
-    return f"""<!DOCTYPE html>
-<html lang="{lang}"><head><meta charset="utf-8">
+    bc = "" if not crumbs else '<div class="crumbs">' + " › ".join(
+        f'<a href="{h}">{e(n)}</a>' if h else e(n) for n, h in [("Ana Sayfa", link()), *crumbs]) + "</div>"
+    ld = f'<script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>' if jsonld else ""
+    nav = "".join(f'<a href="{link(*p)}">{n}</a>' for n, p in [(f"{lg['flag']} {lg['short']}", ["lig", lg["id"]]) for lg in leagues] + [
+        ("Oyuncular", ["en-degerli-oyuncular"]), ("Kulüpler", ["kulupler"]), ("Genç Yetenekler", ["genc-yetenekler"]),
+        ("Transferler", ["transferler"]), ("Nasıl Hesaplıyoruz?", ["nasil-hesapliyoruz"])])
+    open(path, "w", encoding="utf-8").write(f"""<!DOCTYPE html><html lang="{L}"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{e(title)} | {e(T['site_name'])}</title>
-<meta name="description" content="{e(desc)}">{robots}
-<link rel="canonical" href="{SITE_URL}/{path.strip('/')}/">{alts}
-<meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}">
-<link rel="stylesheet" href="{BASE}/assets/style.css">
-</head><body>
-<header><div class="wrap"><a class="logo" href="{url(lang)}">🏆 {e(T['site_name'])}</a><nav>{nav}</nav></div></header>
-<main class="wrap"><div class="crumbs">{bc}</div>{body}</main>
-<footer><div class="wrap">{e(T['footer'])} · © {datetime.now().year} {e(T['site_name'])}</div></footer>
-</body></html>"""
+<title>{e(title)} | {SN}</title><meta name="description" content="{e(desc)}">
+{'<meta name="robots" content="noindex">' if noindex else ''}<link rel="canonical" href="{URL}/{rel}/">
+<link rel="alternate" hreflang="{L}" href="{URL}/{rel}/">
+<meta property="og:title" content="{e(title)}"><meta property="og:description" content="{e(desc)}"><meta property="og:type" content="website">
+<link rel="stylesheet" href="{BASE}/assets/style.css">{ld}</head><body>
+<header><div class="wrap top"><a class="logo" href="{link()}"><span>€</span>{SN}</a>
+<div class="search"><input id="q" type="search" placeholder="Oyuncu veya kulüp ara..." autocomplete="off"><div id="res"></div></div></div>
+<nav class="wrap">{nav}</nav></header>
+<main class="wrap">{bc}{body}</main>
+<footer><div class="wrap"><p><b>{SN}</b> · Futbolcu piyasa değerleri, kadrolar ve transferler: {", ".join(lg["name"] for lg in leagues)}.</p>
+<p>Değerler, açık formülümüz ve editör değerlendirmesiyle hesaplanan <b>tahminlerdir</b>; resmi transfer bedeli değildir. <a href="{link('nasil-hesapliyoruz')}">Nasıl hesaplıyoruz?</a></p>
+<p>Son güncelleme: {TODAY}</p></div></footer>
+<script>window.BASE="{BASE}";window.LANG="{L}";</script><script src="{BASE}/assets/search.js" defer></script>
+</body></html>""")
+    if not noindex:
+        sitemap.append(f"{URL}/{rel}/")
 
 
-def standings_table(data, T):
-    if data["type"] == "football":
-        rows = "".join(
-            f'<tr class="{ "top" if i < 4 else ("low" if i >= len(data["rows"])-3 else "")}"><td>{i+1}</td><td class="t">{e(r["team"])}</td>'
-            f'<td>{r["w"]+r["d"]+r["l"]}</td><td>{r["w"]}</td><td>{r["d"]}</td><td>{r["l"]}</td><td><b>{r["pts"]}</b></td></tr>'
-            for i, r in enumerate(data["rows"]))
-        return f'<table><thead><tr><th>#</th><th class="t">{T["team"]}</th><th>{T["played"]}</th><th>{T["won"]}</th><th>{T["drawn"]}</th><th>{T["lost"]}</th><th>{T["points"]}</th></tr></thead><tbody>{rows}</tbody></table>'
-    out = ""
-    for g in data["groups"]:
-        rows = "".join(
-            f'<tr><td>{i+1}</td><td class="t">{e(r["team"])}</td><td>{r["w"]}</td><td>{r["l"]}</td><td>{r["w"]/(r["w"]+r["l"]):.3f}</td></tr>'
-            for i, r in enumerate(g["rows"]))
-        out += f'<h2>{e(g["name"])}</h2><table><thead><tr><th>#</th><th class="t">{T["team"]}</th><th>{T["won"]}</th><th>{T["lost"]}</th><th>{T["pct"]}</th></tr></thead><tbody>{rows}</tbody></table>'
-    return out
+# ---------- veri hazırlığı ----------
+leagues = load("leagues.json")
+clubs = []
+for lg in leagues:
+    d = os.path.join(ROOT, "data/clubs", lg["id"])
+    lg["clubs"] = []
+    for f in sorted(os.listdir(d)) if os.path.isdir(d) else []:
+        c = load(f"clubs/{lg['id']}/{f}")
+        c["league"] = lg
+        for p in c["players"]:
+            p["value"], p["parts"], p["share"] = value(p, c, lg["base"])
+            p["slug"] = slug(p["name"])
+            p["club"] = c
+        c["total"] = round(sum(p["value"] for p in c["players"]), 1)
+        c["avg_age"] = round(sum(p["age"] for p in c["players"]) / len(c["players"]), 1)
+        c["foreign"] = sum(1 for p in c["players"] if p["nat"] != lg["country"])
+        clubs.append(c)
+        lg["clubs"].append(c)
+    lg["clubs"].sort(key=lambda c: -c["total"])
+leagues = [lg for lg in leagues if lg["clubs"]]
+clubs.sort(key=lambda c: -c["total"])
+seen = {}
+for c in clubs:  # aynı isimli oyuncular için benzersiz adres
+    for p in c["players"]:
+        if p["slug"] in seen:
+            p["slug"] += "-" + c["slug"]
+        seen[p["slug"]] = 1
+players = sorted((p for c in clubs for p in c["players"]), key=lambda p: -p["value"])
+for i, p in enumerate(players):
+    p["rank"] = i + 1
+
+hist_path = os.path.join(ROOT, "data/value_history.json")
+hist = json.load(open(hist_path, encoding="utf-8"))
+if "--no-history" not in sys.argv:
+    for p in players:
+        h = hist.setdefault(p["slug"], [])
+        if h and h[-1]["d"] == TODAY:
+            h[-1]["v"] = p["value"]
+        elif not h or h[-1]["v"] != p["value"]:
+            h.append({"d": TODAY, "v": p["value"], "club": p["club"]["slug"]})
+    json.dump(hist, open(hist_path, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
 
 
-def match_list(matches, T):
-    def item(m):
-        tr = any(k in m["home"] + m["away"] for k in T["turkish_keywords"])
-        score = f'{m["hs"]} - {m["as"]}' if m["hs"] is not None else T["vs"]
-        return (f'<li class="{"tr" if tr else ""}"><span class="d">{fmt_date(m["time"], T)}</span>'
-                f'<span class="h">{e(m["home"])}</span><span class="s">{score}</span><span class="a">{e(m["away"])}</span></li>')
-    return '<ul class="matches">' + "".join(item(m) for m in matches) + "</ul>"
+# ---------- bileşenler ----------
+def plink(p):
+    return f'<a href="{link("oyuncu", p["slug"])}">{e(p["name"])}</a>'
 
 
-def build_lang(lang):
-    T = json.load(open(os.path.join(ROOT, "i18n", f"{lang}.json"), encoding="utf-8"))
-    home = [(T["home"], url(lang))]
-    featured = ""
-
-    for s in CATALOG["sports"]:
-        sname, sslug = s["name"][lang], s["slug"][lang]
-        cards = ""
-        for L in s["leagues"]:
-            lname = L["name"][lang]
-            links = []
-            if L.get("standings"):
-                data = load(f"standings/{L['standings']}.json")
-                p = f"{lang}/{sslug}/{L['id']}/puan-durumu"
-                body = f'<h1>{e(T["standings_title"].format(league=lname))}</h1><p class="upd">{T["updated"]}: {data["updated"]}</p>{standings_table(data, T)}'
-                write(p, page(lang, T, T["standings_title"].format(league=lname), T["standings_desc"].format(league=lname), body,
-                              home + [(sname, url(lang, sslug)), (lname, None)], p), lang)
-                links.append(f'<a href="{BASE}/{p}/">{T["standings"]}</a>')
-            if L.get("matches"):
-                data = load(f"matches/{L['matches']}.json")
-                past = [m for m in data["matches"] if m["hs"] is not None]
-                fut = [m for m in data["matches"] if m["hs"] is None]
-                p = f"{lang}/{sslug}/{L['id']}/fikstur"
-                body = (f'<h1>{e(T["fixtures_title"].format(league=lname))}</h1><p class="upd">{T["updated"]}: {data["updated"]} · {T["time_note"]}</p>'
-                        f'<h2>{T["results"]}</h2>{match_list(past[::-1], T)}<h2>{T["upcoming"]}</h2>{match_list(fut, T)}')
-                write(p, page(lang, T, T["fixtures_title"].format(league=lname), T["fixtures_desc"].format(league=lname), body,
-                              home + [(sname, url(lang, sslug)), (lname, None)], p), lang)
-                links.append(f'<a href="{BASE}/{p}/">{T["fixtures"]}</a>')
-                featured += f'<section class="card wide"><h2>{s["icon"]} {e(lname)}: {T["results"]}</h2>{match_list(past[::-1][:6], T)}<a class="more" href="{BASE}/{p}/">{T["fixtures"]} →</a></section>'
-            inner = " · ".join(links) if links else f'<span class="soon">{T["soon"]}</span>'
-            cards += f'<div class="card"><small>{e(L["country"][lang])}</small><h3>{e(lname)}</h3>{inner}</div>'
-        p = f"{lang}/{sslug}"
-        has_data = any(L.get("standings") or L.get("matches") for L in s["leagues"])
-        body = f'<h1>{s["icon"]} {e(sname)}</h1><h2>{T["leagues"]}</h2><div class="grid">{cards}</div>'
-        write(p, page(lang, T, T["sport_title"].format(sport=sname), T["sport_desc"].format(sport=sname), body,
-                      home + [(sname, None)], p, noindex=not has_data), lang, indexable=has_data)
-
-    tiles = "".join(f'<a class="tile" href="{url(lang, s["slug"][lang])}"><span>{s["icon"]}</span>{e(s["name"][lang])}</a>' for s in CATALOG["sports"])
-    body = f'<section class="hero"><h1>{e(T["site_name"])}</h1><p>{e(T["tagline"])}</p></section><div class="tiles">{tiles}</div>{featured}'
-    write(lang, page(lang, T, T["tagline"], T["tagline"], body, [(T["home"], None)], lang), lang)
+def clink(c):
+    return f'<span title="{e(c["league"]["name"])}">{c["league"]["flag"]}</span> <a href="{link("kulup", c["slug"])}">{e(c["name"])}</a>'
 
 
-def main():
+def player_table(ps, show_club=True, rank=True, compact=False):
+    hx = " style='display:none'" if compact else ""
+    head = ("<th>#</th>" if rank else "") + "<th class='l'>Oyuncu</th>" + ("<th class='l'>Kulüp</th>" if show_club else "") + \
+        f"<th>Mevki</th><th>Yaş</th><th class='l hide-s'{hx}>Uyruk</th><th{hx}>Maç</th><th{hx}>Gol</th><th class='r'>Piyasa Değeri</th>"
+    rows = ""
+    for i, p in enumerate(ps):
+        g = "-" if p.get("goals") is None else p["goals"]
+        rows += ("<tr>" + (f"<td>{i+1}</td>" if rank else "") + f"<td class='l'><b>{plink(p)}</b></td>" +
+                 (f"<td class='l'>{clink(p['club'])}</td>" if show_club else "") +
+                 f"<td><span class='pos {p['pos']}'>{p['pos']}</span></td><td>{p['age']}</td><td class='l hide-s'{hx}>{e(p['nat'])}</td>"
+                 f"<td{hx}>{'-' if p['apps'] is None else p['apps']}</td><td{hx}>{g}</td><td class='r val'>{fmt(p['value'])}</td></tr>")
+    return f"<div class='tbl'><table><thead><tr>{head}</tr></thead><tbody>{rows}</tbody></table></div>"
+
+
+def club_table(cs, compact=False):
+    hx = " style='display:none'" if compact else ""
+    rows = "".join(f"<tr><td>{i+1}</td><td class='l'><b>{clink(c)}</b></td><td>{len(c['players'])}</td><td{hx}>{c['avg_age']}</td>"
+                   f"<td class='hide-s'{hx}>{c['foreign']}</td><td class='r val'>{fmt(c['total'])}</td><td class='r hide-s'{hx}>{fmt(c['total']/len(c['players']))}</td></tr>"
+                   for i, c in enumerate(cs))
+    return (f"<div class='tbl'><table><thead><tr><th>#</th><th class='l'>Kulüp</th><th>Kadro</th><th{hx}>Yaş ort.</th><th class='hide-s'{hx}>Yabancı</th>"
+            f"<th class='r'>Toplam Değer</th><th class='r hide-s'{hx}>Ortalama</th></tr></thead><tbody>{rows}</tbody></table></div>")
+
+
+def chart(h):
+    if len(h) < 2:
+        return "<p class='muted'>Değer geçmişi bugünden itibaren kaydediliyor; her değişiklik bu grafikte görünecek.</p>"
+    vs = [x["v"] for x in h]
+    lo, hi = min(vs) * .9, max(vs) * 1.1
+    W, H, n = 600, 180, len(h)
+    pts = [(30 + i * (W - 60) / (n - 1), H - 25 - (x["v"] - lo) / (hi - lo or 1) * (H - 50)) for i, x in enumerate(h)]
+    line = " ".join(f"{x:.1f},{y:.1f}" for x, y in pts)
+    dots = "".join(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="4"><title>{h[i]["d"]}: {fmt(h[i]["v"])}</title></circle>' for i, (x, y) in enumerate(pts))
+    lbl = f'<text x="30" y="{H-5}">{h[0]["d"]}</text><text x="{W-30}" y="{H-5}" text-anchor="end">{h[-1]["d"]}</text>'
+    return f'<svg class="chart" viewBox="0 0 {W} {H}"><polyline points="{line}"/>{dots}{lbl}</svg>'
+
+
+# ---------- sayfalar ----------
+def build():
     if os.path.exists(OUT):
         shutil.rmtree(OUT)
-    os.makedirs(OUT)
     shutil.copytree(os.path.join(ROOT, "assets"), os.path.join(OUT, "assets"))
-    for lang in CONFIG["languages"]:
-        build_lang(lang)
-    d = CONFIG["languages"][0]
-    open(os.path.join(OUT, "index.html"), "w", encoding="utf-8").write(
-        f'<!DOCTYPE html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url={BASE}/{d}/"><link rel="canonical" href="{SITE_URL}/{d}/">')
-    open(os.path.join(OUT, "sitemap.xml"), "w").write(
-        '<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
-        + "".join(f"<url><loc>{u}</loc></url>" for u in sitemap) + "</urlset>")
-    open(os.path.join(OUT, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {SITE_URL}/sitemap.xml\n")
-    open(os.path.join(OUT, ".nojekyll"), "w").write("")
-    print(f"{len(sitemap)} sayfa üretildi -> docs/")
+    tr = load("transfers.json")
+    young = [p for p in players if p["age"] <= 21]
+    for lg in leagues:
+        lg["players"] = [p for p in players if p["club"]["league"] is lg]
+        for i, p in enumerate(lg["players"]):
+            p["lrank"] = i + 1
+        sp = os.path.join(ROOT, "data/standings", lg["id"] + ".json")
+        lg["standings"] = json.load(open(sp, encoding="utf-8")) if os.path.exists(sp) else None
 
+    def standings_rows(lg, n=None):
+        st, known = lg["standings"], {c["name"]: c for c in lg["clubs"]}
+        z = lg.get("zones", {"cl": 2, "el": 5, "rel": 3})
+        rows = st["rows"][:n] if n else st["rows"]
+        out = ""
+        for i, r in enumerate(rows):
+            cls = "cl" if i < z["cl"] else "el" if i < z["el"] else "rel" if i >= len(st["rows"]) - z["rel"] else ""
+            name = clink(known[r["team"]]) if r["team"] in known else e(r["team"])
+            wdl = f"<td>{r['w']}</td><td>{r['d']}</td><td>{r['l']}</td>" if "w" in r else ""
+            av = f"<td>{r['av']:+d}</td>" if "av" in r else ""
+            out += f"<tr class='{cls}'><td>{i+1}</td><td class='l'><b>{name}</b></td><td>{r['o']}</td>{wdl}{av}<td><b>{r['p']}</b></td></tr>"
+        r0 = st["rows"][0]
+        head = "<th>O</th>" + ("<th>G</th><th>B</th><th>M</th>" if "w" in r0 else "") + ("<th>Av</th>" if "av" in r0 else "") + "<th>P</th>"
+        return f"<div class='tbl'><table><thead><tr><th>#</th><th class='l'>Takım</th>{head}</tr></thead><tbody>{out}</tbody></table></div>"
+
+    # oyuncu sayfaları
+    for p in players:
+        c = p["club"]
+        lg = c["league"]
+        parts = "".join(f"<tr><td class='l'>{k}</td><td class='r'>×{v:.2f}</td></tr>" for k, v in p["parts"].items())
+        stats = [("Maç", p["apps"]), ("Gol", p.get("goals")), ("Asist", p.get("assists")), ("Dakika", p.get("minutes"))]
+        stats = "".join(f"<div><b>{'-' if v is None else v}</b><small>{k}</small></div>" for k, v in stats)
+        near = sorted((x for x in players if x["pos"] == p["pos"] and x is not p), key=lambda x: abs(x["value"] - p["value"]))[:6]
+        body = f"""<section class="profile"><div><small class="muted">#{p['num'] or '-'} · {POS_NAME[p['pos']]}</small><h1>{e(p['name'])}</h1>
+<p>{clink(c)} · {p['age']} yaş · {e(p['nat'])}</p></div>
+<div class="bigval"><small>Piyasa Değeri</small><b>{fmt(p['value'])}</b><small>{e(lg['short'])}'de {p['lrank']}. · Genelde {p['rank']}. sırada</small></div></section>
+<div class="cards">{stats}</div>
+<div class="two"><section class="card"><h2>Değer geçmişi</h2>{chart(hist.get(p['slug'], []))}</section>
+<section class="card"><h2>Değer nasıl hesaplandı?</h2><table class="mini">{parts}</table>
+<p class="muted">Formülün tamamı: <a href="{link('nasil-hesapliyoruz')}">Nasıl hesaplıyoruz?</a></p></section></div>
+<section class="card"><h2>Benzer değerdeki {POS_NAME[p['pos']].lower()} oyuncuları</h2>{player_table(near)}</section>
+<p class="muted">Sezon istatistikleri ({'tüm turnuvalar' if c.get('apps_scope') == 'all' else 'lig maçları'}): {e(c['source'])}, {c['updated']}.</p>"""
+        ld = {"@context": "https://schema.org", "@type": "Person", "name": p["name"], "nationality": p["nat"],
+              "affiliation": {"@type": "SportsTeam", "name": c["name"]}}
+        write(["oyuncu", p["slug"]], f"{p['name']} Piyasa Değeri ({fmt(p['value'])}) - {c['name']}",
+              f"{p['name']} güncel piyasa değeri {fmt(p['value'])}. {c['name']} oyuncusu {p['name']}: yaş, mevki, maç, gol ve değer geçmişi.",
+              body, [(lg["short"], link("lig", lg["id"])), (c["name"], link("kulup", c["slug"])), (p["name"], None)], ld)
+
+    # kulüp sayfaları
+    for c in clubs:
+        lg = c["league"]
+        byp = ""
+        for pos in ["KL", "DF", "OS", "FV"]:
+            ps = sorted((p for p in c["players"] if p["pos"] == pos), key=lambda p: -p["value"])
+            if ps:
+                byp += f"<h2>{POS_NAME[pos]}</h2>{player_table(ps, show_club=False, rank=False)}"
+        top = max(c["players"], key=lambda p: p["value"])
+        body = f"""<section class="profile"><div><h1>{e(c['name'])} Kadro Değeri</h1><p>{lg['flag']} <a href="{link('lig', lg['id'])}">{e(lg['name'])}</a> · {e(c['city'])}{' · ' + e(c['stadium']) if c.get('stadium') else ''}</p></div>
+<div class="bigval"><small>Toplam Kadro Değeri</small><b>{fmt(c['total'])}</b><small>{e(lg['short'])}'de {lg['clubs'].index(c)+1}. sırada</small></div></section>
+<div class="cards"><div><b>{len(c['players'])}</b><small>Oyuncu</small></div><div><b>{c['avg_age']}</b><small>Yaş ortalaması</small></div>
+<div><b>{c['foreign']}</b><small>Yabancı</small></div><div><b>{e(top['name'])}</b><small>En değerli oyuncu</small></div></div>{byp}
+<p class="muted">Kaynak: {e(c['source'])}, {c['updated']}.</p>"""
+        write(["kulup", c["slug"]], f"{c['name']} Kadro Değeri ve Oyuncuları {C['season']}",
+              f"{c['name']} {C['season']} kadrosu ve piyasa değerleri: toplam {fmt(c['total'])}. En değerli oyuncu {top['name']} ({fmt(top['value'])}).",
+              body, [(lg["short"], link("lig", lg["id"])), (c["name"], None)],
+              {"@context": "https://schema.org", "@type": "SportsTeam", "name": c["name"], "sport": "Football"})
+
+    # lig sayfaları
+    for lg in leagues:
+        stp = ""
+        if lg["standings"]:
+            st = lg["standings"]
+            write(["lig", lg["id"], "puan-durumu"], f"{lg['name']} Puan Durumu {C['season']}", f"{lg['name']} {C['season']} güncel puan durumu ({st['week']}. hafta).",
+                  f"<h1>{lg['flag']} {e(lg['name'])} Puan Durumu</h1><p class='muted'>{st['week']}. hafta sonu · güncelleme {st['updated']}</p>{standings_rows(lg)}",
+                  [(lg["short"], link("lig", lg["id"])), ("Puan Durumu", None)])
+            stp = f"<h2>Puan durumu</h2>{standings_rows(lg, 8)}<a class='more' href='{link('lig', lg['id'], 'puan-durumu')}'>Tam tablo →</a>"
+        lyoung = [p for p in lg["players"] if p["age"] <= 21]
+        body = f"""<section class="profile"><div><h1>{lg['flag']} {e(lg['name'])} Piyasa Değerleri</h1><p>{e(lg['country'])} · {len(lg['clubs'])} kulüp · {len(lg['players'])} oyuncu</p></div>
+<div class="bigval"><small>Toplam Değer</small><b>{fmt(sum(c['total'] for c in lg['clubs']))}</b><small>eklenen kulüplerin toplamı</small></div></section>
+<div class="two"><section class="card"><h2>En değerli oyuncular</h2>{player_table(lg['players'][:15], compact=True)}</section>
+<section class="card"><h2>Kulüp değerleri</h2>{club_table(lg['clubs'], compact=True)}{stp}</section></div>
+<section class="card"><h2>En değerli genç yetenekler (21 yaş altı)</h2>{player_table(lyoung[:10])}</section>"""
+        write(["lig", lg["id"]], f"{lg['name']} Oyuncu Piyasa Değerleri ve Kadro Değerleri {C['season']}",
+              f"{lg['name']} en değerli oyuncular, kulüplerin kadro değerleri ve puan durumu.", body, [(lg["short"], None)])
+
+    write(["en-degerli-oyuncular"], f"En Değerli Futbolcular {C['season']}",
+          "En değerli futbolcular: güncel piyasa değeri sıralaması, yaş, mevki ve sezon istatistikleri.",
+          f"<h1>En Değerli Futbolcular</h1><p class='muted'>{len(players)} oyuncu · {len(clubs)} kulüp · {len(leagues)} lig</p>{player_table(players)}",
+          [("Oyuncular", None)])
+    write(["genc-yetenekler"], "En Değerli Genç Yetenekler (21 yaş altı)",
+          "21 yaş ve altındaki en değerli genç futbolcular.",
+          f"<h1>En Değerli Genç Yetenekler</h1><p class='muted'>21 yaş ve altı</p>{player_table(young)}", [("Genç Yetenekler", None)])
+    write(["kulupler"], f"Kulüplerin Kadro Değerleri {C['season']}",
+          "Kulüplerin toplam kadro değerleri, yaş ortalamaları ve yabancı oyuncu sayıları.",
+          f"<h1>Kulüplerin Kadro Değerleri</h1>{club_table(clubs)}"
+          f"<p class='muted'>Kulüpler doğrulandıkça ekleniyor.</p>", [("Kulüpler", None)])
+
+    trs = "".join(f"<tr><td>{t['date']}</td><td class='l'><b>{e(t['player'])}</b></td><td class='l'>{e(t['from'])}</td><td class='l'>{e(t['to'])}</td>"
+                  f"<td class='l hide-s'>{e(t['type'])}{' · ' + e(t['fee']) if t.get('fee') else ''}</td></tr>" for t in tr["items"])
+    write(["transferler"], f"Transferler {C['season']}", "2026-27 sezonu gelen ve giden transferler.",
+          f"<h1>Transferler</h1><div class='tbl'><table><thead><tr><th>Tarih</th><th class='l'>Oyuncu</th><th class='l'>Eski kulüp</th>"
+          f"<th class='l'>Yeni kulüp</th><th class='l hide-s'>Tür</th></tr></thead><tbody>{trs}</tbody></table></div>", [("Transferler", None)])
+
+    write(["nasil-hesapliyoruz"], "Piyasa Değerlerini Nasıl Hesaplıyoruz?", "PiyasaDeğeri oyuncu değer formülü: lig, yaş, mevki, oynama süresi, performans ve seviye.",
+          METHOD, [("Nasıl Hesaplıyoruz?", None)])
+
+    # ana sayfa
+    lcards = "".join(f"<a class='tile' href='{link('lig', lg['id'])}'><span>{lg['flag']}</span><b>{e(lg['name'])}</b><small>{len(lg['clubs'])} kulüp · {len(lg['players'])} oyuncu</small></a>" for lg in leagues)
+    body = f"""<section class="hero"><h1>Futbolcuların piyasa değerleri</h1>
+<p>{len(players)} oyuncunun güncel değeri, kulüplerin kadro değerleri ve transferler. Açık formül, şeffaf hesap.</p></section>
+<div class="tiles">{lcards}</div>
+<div class="two"><section class="card"><h2>En değerli 10 oyuncu</h2>{player_table(players[:10], compact=True)}<a class="more" href="{link('en-degerli-oyuncular')}">Tüm liste →</a></section>
+<section class="card"><h2>En değerli kulüpler</h2>{club_table(clubs[:10], compact=True)}<a class="more" href="{link('kulupler')}">Tüm kulüpler →</a></section></div>
+<div class="two"><section class="card"><h2>En değerli genç yetenekler</h2>{player_table(young[:8], compact=True)}<a class="more" href="{link('genc-yetenekler')}">Tümü →</a></section>
+<section class="card"><h2>Son transferler</h2><div class='tbl'><table><tbody>{''.join(trs.split('</tr>')[i] + '</tr>' for i in range(min(8, len(tr['items']))))}</tbody></table></div>
+<a class="more" href="{link('transferler')}">Tüm transferler →</a></section></div>"""
+    write([], "Futbolcu Piyasa Değerleri, Kadro Değerleri ve Transferler", "Süper Lig ve Avrupa liglerinde futbolcuların güncel piyasa değerleri, kulüp kadro değerleri ve transferler.", body)
+
+    # arama dizini, yönlendirme, sitemap
+    idx = [{"n": p["name"], "u": link("oyuncu", p["slug"]), "c": p["club"]["name"], "v": fmt(p["value"])} for p in players] + \
+          [{"n": c["name"], "u": link("kulup", c["slug"]), "c": "Kulüp", "v": fmt(c["total"])} for c in clubs]
+    json.dump(idx, open(os.path.join(OUT, "assets", "index.json"), "w", encoding="utf-8"), ensure_ascii=False)
+    open(os.path.join(OUT, "index.html"), "w").write(f'<!DOCTYPE html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url={link()}"><link rel="canonical" href="{URL}/{L}/">')
+    open(os.path.join(OUT, "sitemap.xml"), "w").write('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
+                                                       + "".join(f"<url><loc>{u}</loc><lastmod>{TODAY}</lastmod></url>" for u in sitemap) + "</urlset>")
+    open(os.path.join(OUT, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {URL}/sitemap.xml\n")
+    open(os.path.join(OUT, ".nojekyll"), "w").write("")
+    print(f"{len(players)} oyuncu, {len(clubs)} kulüp, {len(sitemap)} sayfa -> docs/")
+
+
+METHOD = """<h1>Piyasa değerlerini nasıl hesaplıyoruz?</h1>
+<p>PiyasaDeğeri'ndeki her değer, herkesin görebileceği bir formülle hesaplanır. Bir oyuncunun sayfasında değerin hangi çarpanlardan oluştuğunu tek tek görebilirsiniz.</p>
+<div class="card formula">Değer = Lig tabanı × Yaş × Mevki × Oynama süresi × Performans × Seviye</div>
+<h2>Çarpanlar</h2><ul>
+<li><b>Lig tabanı:</b> Ligin ekonomik büyüklüğü ve transfer piyasası: Süper Lig 2,0 · Serie A 5,5. Yeni ligler eklendikçe her ligin kendi tabanı olur.</li>
+<li><b>Yaş:</b> Değer 22-26 yaş arasında zirve yapar. 21 yaş altına gelişim primi verilir, 29 yaştan sonra her yıl belirgin düşüş uygulanır.</li>
+<li><b>Mevki:</b> Transfer piyasasında forvetler en, kaleciler en düşük fiyatlanır: Forvet 1,30 · Orta saha 1,15 · Defans 0,95 · Kaleci 0,75.</li>
+<li><b>Oynama süresi:</b> Oyuncunun kulübündeki en çok oynayan oyuncuya göre süre payı. Hiç oynamayan oyuncu 0,60, takımın vazgeçilmezi 1,20 alır.</li>
+<li><b>Performans:</b> Maç başına gol ve asist katkısının, mevkisinden beklenene oranı (forvet için maç başı 0,55 katkı beklenir). En az 3 maç gerekir; veri yoksa ya da maç ve gol sayıları farklı turnuvaları kapsıyorsa nötr (1,00) kalır. Sınırlar: 0,80 - 1,60.</li>
+<li><b>Seviye (1-10):</b> Oyuncunun gerçek kalitesi: geçmiş kulüpleri, milli takım düzeyi, uluslararası itibar ve gelişim potansiyeli. 5, kendi liginin ortalama oyuncusudur; her +1 puan değeri yaklaşık 1,75 katına çıkarır. Bu puanı editörümüz belirler ve sakatlık, form ve haberlere göre günceller.</li></ul>
+<h2>Bu değerler ne değildir?</h2>
+<p>Bu değerler bir transfer bedeli ya da kulüplerin açıkladığı rakamlar değildir. Bir oyuncunun bugünkü piyasada yaklaşık ne edeceğine dair tahminimizdir. Sözleşme süresi, maaş ve kulübün satma isteği gibi etkenler gerçek bedeli değiştirebilir.</p>
+<h2>Veriler</h2><p>Kadro ve sezon istatistikleri, birden fazla açık kaynakla karşılaştırılarak düzenli güncellenir. Her kulüp sayfasının altında kaynağı ve güncelleme tarihi yazar. Bir hata görürseniz bize bildirin.</p>"""
 
 if __name__ == "__main__":
-    main()
+    build()

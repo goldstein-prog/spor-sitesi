@@ -1,0 +1,28 @@
+[
+ {
+  "id": "super-lig",
+  "name": "Trendyol Süper Lig",
+  "short": "Süper Lig",
+  "country": "Türkiye",
+  "flag": "🇹🇷",
+  "base": 2.0,
+  "zones": {
+   "cl": 2,
+   "el": 5,
+   "rel": 3
+  }
+ },
+ {
+  "id": "serie-a",
+  "name": "Serie A",
+  "short": "Serie A",
+  "country": "İtalya",
+  "flag": "🇮🇹",
+  "base": 5.5,
+  "zones": {
+   "cl": 4,
+   "el": 6,
+   "rel": 3
+  }
+ }
+]

@@ -1,0 +1,182 @@
+{
+ "updated": "2026-11-26",
+ "items": [
+  {
+   "date": "2026-09-03",
+   "player": "Çağlar Söyüncü",
+   "from": "Fenerbahçe",
+   "to": "Çorum FK",
+   "type": "Bonservissiz"
+  },
+  {
+   "date": "2026-09-03",
+   "player": "Talisca",
+   "from": "Fenerbahçe",
+   "to": "Al-Jazira",
+   "type": "Bonservissiz"
+  },
+  {
+   "date": "2026-08-27",
+   "player": "Sofyan Amrabat",
+   "from": "Fenerbahçe",
+   "to": "Ajax",
+   "type": "Bonservissiz"
+  },
+  {
+   "date": "2026-08-27",
+   "player": "Kojo Oppong",
+   "from": "Nice",
+   "to": "Fenerbahçe",
+   "type": "Bonservisli"
+  },
+  {
+   "date": "2026-08-27",
+   "player": "Cengiz Ünder",
+   "from": "Fenerbahçe",
+   "to": "Çorum FK",
+   "type": "Bonservissiz"
+  },
+  {
+   "date": "2026-08-26",
+   "player": "Dominik Livaković",
+   "from": "Fenerbahçe",
+   "to": "Barcelona",
+   "type": "Bonservisli"
+  },
+  {
+   "date": "2026-08-23",
+   "player": "Fabinho",
+   "from": "Al-Ittihad",
+   "to": "Trabzonspor",
+   "type": "Bonservissiz"
+  },
+  {
+   "date": "2026-08-21",
+   "player": "Curtis Jones",
+   "from": "Liverpool",
+   "to": "Inter",
+   "type": "Bonservisli",
+   "fee": "€35 mn"
+  },
+  {
+   "date": "2026-08-11",
+   "player": "Romelu Lukaku",
+   "from": "Napoli",
+   "to": "Fenerbahçe",
+   "type": "Bonservisli"
+  },
+  {
+   "date": "2026-08-03",
+   "player": "Mohamed Salah",
+   "from": "Liverpool",
+   "to": "Trabzonspor",
+   "type": "Bonservissiz"
+  },
+  {
+   "date": "2026-07-17",
+   "player": "Cenk Özkacar",
+   "from": "Valencia",
+   "to": "Trabzonspor",
+   "type": "Bonservisli"
+  },
+  {
+   "date": "2026-07-13",
+   "player": "Mason Greenwood",
+   "from": "Marseille",
+   "to": "Fenerbahçe",
+   "type": "Bonservisli"
+  },
+  {
+   "date": "2026-07-07",
+   "player": "Aral Şimşir",
+   "from": "Midtjylland",
+   "to": "Trabzonspor",
+   "type": "Bonservisli"
+  },
+  {
+   "date": "2026-07-02",
+   "player": "Nathan Aké",
+   "from": "Manchester City",
+   "to": "Fenerbahçe",
+   "type": "Bonservisli"
+  },
+  {
+   "date": "2026-07-02",
+   "player": "André Onana",
+   "from": "Manchester United",
+   "to": "Trabzonspor",
+   "type": "Kiralık"
+  },
+  {
+   "date": "2026-06-30",
+   "player": "Vedat Muriqi",
+   "from": "Mallorca",
+   "to": "Fenerbahçe",
+   "type": "Bonservisli"
+  },
+  {
+   "date": "2026-06-30",
+   "player": "Sidny Lopes Cabral",
+   "from": "Benfica",
+   "to": "Trabzonspor",
+   "type": "Bonservisli"
+  },
+  {
+   "date": "2026-06-30",
+   "player": "Samet Akaydın",
+   "from": "Çaykur Rizespor",
+   "to": "Trabzonspor",
+   "type": "Bonservissiz"
+  },
+  {
+   "date": "2026-06-30",
+   "player": "Noah Saviolo",
+   "from": "Vitória SC",
+   "to": "Trabzonspor",
+   "type": "Bonservisli"
+  },
+  {
+   "date": "2026-06-30",
+   "player": "Metehan Mimaroğlu",
+   "from": "Gençlerbirliği",
+   "to": "Trabzonspor",
+   "type": "Bonservissiz"
+  },
+  {
+   "date": "2026-06-30",
+   "player": "Melih Kabasakal",
+   "from": "Gaziantep FK",
+   "to": "Trabzonspor",
+   "type": "Bonservisli"
+  },
+  {
+   "date": "Yaz 2026",
+   "player": "Djed Spence",
+   "from": "-",
+   "to": "Inter",
+   "type": "Bonservisli",
+   "fee": "€30 mn"
+  },
+  {
+   "date": "Yaz 2026",
+   "player": "Dušan Vlahović",
+   "from": "Juventus",
+   "to": "Beşiktaş",
+   "type": "Bonservisli"
+  },
+  {
+   "date": "Yaz 2026",
+   "player": "Leandro Trossard",
+   "from": "Brighton",
+   "to": "Beşiktaş",
+   "type": "Bonservisli"
+  },
+  {
+   "date": "Yaz 2026",
+   "player": "Alexander Nübel",
+   "from": "Bayern Münih",
+   "to": "Beşiktaş",
+   "type": "Kiralık"
+  }
+ ]
+}
