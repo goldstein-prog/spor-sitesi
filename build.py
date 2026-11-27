@@ -116,11 +116,27 @@ REVALUE = "--revalue" in sys.argv or not snap["values"]
 all_players = [p for c in clubs for p in c["players"]]
 if REVALUE:
     snap = {"date": TODAY, "values": {}}
+# Olay bazlı tek oyuncu değerlemesi: data/revalue_requests.json -> [{"slug", "reason"}]
+_rq_path = os.path.join(ROOT, "data/revalue_requests.json")
+_requests = {r["slug"]: r.get("reason", "") for r in (json.load(open(_rq_path, encoding="utf-8")) if os.path.exists(_rq_path) else [])}
+_done_requests = set()
 for p in all_players:
     s = snap["values"].get(p["slug"])
+    if s and not REVALUE and p["slug"] in _requests:
+        _done_requests.add(p["slug"])
+        snap["values"][p["slug"]] = {"v": p["value"], "parts": p["parts"], "d": TODAY, "r": _requests[p["slug"]]}
+        p["valued"], p["vreason"] = TODAY, _requests[p["slug"]]
+        h = hist.setdefault(p["slug"], [])
+        pt = {"d": TODAY, "v": p["value"], "club": p["club"]["slug"], "r": _requests[p["slug"]]}
+        if h and h[-1]["d"] == TODAY:
+            h[-1] = pt
+        else:
+            h.append(pt)
+        continue
     if s and not REVALUE:
         p["value"], p["parts"] = s["v"], s["parts"]
         p["valued"] = s.get("d", snap["date"])
+        p["vreason"] = s.get("r")
     else:  # yeniden değerleme ya da yeni eklenen oyuncu
         snap["values"][p["slug"]] = {"v": p["value"], "parts": p["parts"], "d": TODAY}
         p["valued"] = TODAY
@@ -130,6 +146,9 @@ for p in all_players:
         else:
             h[-1]["v"] = p["value"]
 json.dump(snap, open(snap_path, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
+if os.path.exists(_rq_path):  # işlenen talepleri temizle, bulunamayanları bırak
+    json.dump([{"slug": k, "reason": v} for k, v in _requests.items() if k not in _done_requests],
+              open(_rq_path, "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 json.dump(hist, open(hist_path, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
 VALUE_DATE = snap["date"]
 for c in clubs:
@@ -231,7 +250,8 @@ def club_table(cs, compact=False):
 
 def chart(h):
     if len(h) < 2:
-        return "<p class='muted'>Değer geçmişi bugünden itibaren kaydediliyor; her değişiklik bu grafikte görünecek.</p>"
+        first = f"<p>{fmt_d(h[0]['d'])}: <b>{fmt(h[0]['v'])}</b> (ilk değerleme)</p>" if h else ""
+        return first + "<p class='muted'>Değer sadece transfer dönemlerinden önce veya önemli bir olayda (transfer, uzun sakatlık vb.) yeniden hesaplanır; her değişiklik burada görünecek.</p>"
     vs = [x["v"] for x in h]
     lo, hi = min(vs) * .9, max(vs) * 1.1
     W, H, n = 600, 180, len(h)
@@ -239,7 +259,9 @@ def chart(h):
     line = " ".join(f"{x:.1f},{y:.1f}" for x, y in pts)
     dots = "".join(f'<circle cx="{x:.1f}" cy="{y:.1f}" r="4"><title>{h[i]["d"]}: {fmt(h[i]["v"])}</title></circle>' for i, (x, y) in enumerate(pts))
     lbl = f'<text x="30" y="{H-5}">{h[0]["d"]}</text><text x="{W-30}" y="{H-5}" text-anchor="end">{h[-1]["d"]}</text>'
-    return f'<svg class="chart" viewBox="0 0 {W} {H}"><polyline points="{line}"/>{dots}{lbl}</svg>'
+    log = "".join(f"<tr><td class='l'>{fmt_d(x['d'])}</td><td class='l'>{e(x.get('r') or ('ilk değerleme' if i == 0 else 'dönemsel değerleme'))}</td><td class='r val'>{fmt(x['v'])}</td></tr>"
+                  for i, x in reversed(list(enumerate(h))))
+    return f'<svg class="chart" viewBox="0 0 {W} {H}"><polyline points="{line}"/>{dots}{lbl}</svg><table class="mini">{log}</table>'
 
 
 # ---------- sayfalar ----------
@@ -289,7 +311,7 @@ def build():
         kit = kits.svg(kits.kit_for(c["slug"], p["pos"] == "KL"), uid="pk", number=p.get("num"))
         body = f"""<section class="profile"><div class="kitbig" title="Forma çizimi: kulüp renkleri">{kit}</div><div class="pinfo"><small class="muted">#{p['num'] or '-'} · {POS_NAME[p['pos']]}</small><h1>{e(p['name'])}</h1>
 <p>{clink(c)} · {p['age']} yaş · {e(p['nat'])}</p></div>
-<div class="bigval"><small>Piyasa Değeri</small><b>{fmt(p['value'])}</b><small>{e(lg['short'])}'de {p['lrank']}. · Genelde {p['rank']}. sırada</small><small>Değer tarihi: {fmt_d(p['valued'])}</small></div></section>
+<div class="bigval"><small>Piyasa Değeri</small><b>{fmt(p['value'])}</b><small>{e(lg['short'])}'de {p['lrank']}. · Genelde {p['rank']}. sırada</small><small>Değer tarihi: {fmt_d(p['valued'])}</small>{f"<small>Neden: {e(p['vreason'])}</small>" if p.get('vreason') else ''}</div></section>
 <div class="cards">{stats}</div>
 {career_rows(p, _club_index, _countries)}
 <div class="two"><section class="card"><h2>Değer geçmişi</h2>{chart(hist.get(p['slug'], []))}</section>

@@ -13,3 +13,14 @@ Futbolcu piyasa değerleri, kulüp kadro değerleri, transferler ve puan durumla
 
 ## Derleme
 `python3 build.py` → `docs/` (GitHub Pages buradan yayınlar)
+
+## Olay bazlı değerleme
+Her oyuncu siteye eklendiği gün ilk değerini alır. Sonra değer sadece iki durumda değişir:
+1. **Transfer dönemlerinden önceki gece** tüm oyuncular (`python3 build.py --revalue`).
+2. **Önemli bir olayda** sadece o oyuncu: `data/revalue_requests.json` dosyasına `{"slug": "...", "reason": "kısa Türkçe gerekçe"}` eklenir, sonraki normal `python3 build.py` sadece o oyuncunun değerini yeniden hesaplar, değer geçmişine nedeniyle birlikte yazar ve talebi siler.
+
+Geçerli olaylar (iki kaynakla doğrulanmış olmalı):
+- Resmîleşmiş transfer veya kiralık (oyuncu yeni kulübüne taşınır, değer yeni ligin tabanıyla hesaplanır).
+- Resmî açıklamayla en az 3 ay sürecek sakatlık (seviye en fazla -0,5).
+- Kariyer değiştiren gelişme: ilk A milli takım çağrısı, emeklilik kararı (seviye en fazla ±0,5).
+Form dalgalanması, söylenti ve tek maçlık performans olay sayılmaz; transfer dönemini bekler. Transfer dışında bir oyuncu 30 günde en fazla bir kez olayla yeniden değerlenir. Seviye değişiklikleri `data/editor_log.json`'a yazılır.
