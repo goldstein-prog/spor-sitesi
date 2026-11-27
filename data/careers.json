@@ -1,5 +1,5 @@
 {
- "_not": "Oyuncuların kulüp geçmişi. Kaynak: ESPN oyuncu biyografi sayfası (Career History). En yeni kulüp başta. s = ESPN'de yazan sezon sayısı (yazmıyorsa null). Milli takımlar build sırasında ayıklanır. Sadece kaynakta açıkça yazanlar girilir. İsteğe bağlı 3. öğe: kulüpteki lig istatistiği {comp, st (ilk 11), sub (yedek, biliniyorsa), g, a, yc, rc} — ESPN oyuncu istatistik sayfasındaki lig sezon satırlarının toplamı.",
+ "_not": "Oyuncuların kulüp geçmişi. Kaynak: ESPN oyuncu biyografi sayfası (Career History). En yeni kulüp başta. s = ESPN'de yazan sezon sayısı (yazmıyorsa null). Milli takımlar build sırasında ayıklanır. Sadece kaynakta açıkça yazanlar girilir. İsteğe bağlı 3. öğe: kulüpteki lig istatistiği {comp, st (ilk 11), sub (yedek, biliniyorsa), g, a, yc, rc} — ESPN oyuncu istatistik sayfasındaki lig sezon satırlarının toplamı. İsteğe bağlı \"nt\": A milli takım toplamı {team (Türkçe), caps, g, a, yc, rc (bilinmiyorsa null), asof (kaynağın güncellik tarihi), src}.",
  "victor-osimhen": {
   "d": "2026-11-27",
   "src": "ESPN",
@@ -42,7 +42,17 @@
     "VfL Wolfsburg",
     2
    ]
-  ]
+  ],
+  "nt": {
+   "team": "Nijerya",
+   "caps": 51,
+   "g": 35,
+   "a": null,
+   "yc": null,
+   "rc": null,
+   "asof": "2026-04-02",
+   "src": "RSSSF"
+  }
  },
  "ilkay-gundogan": {
   "d": "2026-11-27",

@@ -61,3 +61,4 @@ img.kit{width:22px;height:22px;vertical-align:-6px;margin-right:7px}
 .pinfo{flex:1;min-width:200px}
 @media(max-width:640px){.kitbig{width:72px;height:72px}}
 table.career th,table.career td{padding:7px 4px;font-size:13.5px}table.career td.l{white-space:normal;min-width:120px}table.career img.kit{margin-right:5px}
+table.career tr.nt-head td{background:#f1efe9;font-size:12px;text-transform:uppercase;letter-spacing:.04em;padding-top:10px}

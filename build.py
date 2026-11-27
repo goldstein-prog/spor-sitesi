@@ -202,13 +202,19 @@ def career_rows(p, club_index, countries):
         else:
             cells = "<td>-</td><td>-</td><td>-</td><td>-</td><td>-</td>"
         rows += f"<tr><td class='l'><b>{label}</b></td><td>{'-' if seasons is None else seasons}</td>{cells}</tr>"
+    nt = c.get("nt")
+    if nt:
+        dash = lambda v: "-" if v is None else v
+        rows += (f"<tr class='nt-head'><td class='l' colspan='7'><b>A Milli Takım</b></td></tr>"
+                 f"<tr><td class='l'><b>{e(nt['team'])}</b><br><small class='muted'>{e(nt.get('src', ''))}, {fmt_d(nt['asof'])} itibarıyla</small></td>"
+                 f"<td>-</td><td>{dash(nt.get('caps'))}</td><td>{dash(nt.get('g'))}</td><td>{dash(nt.get('a'))}</td><td>{dash(nt.get('yc'))}</td><td>{dash(nt.get('rc'))}</td></tr>")
     if not rows:
         return ""
     note = " Maç sayılarının bir kısmı sadece ilk 11 çıkışlarıdır (yedek girişler kaynakta yok)." if partial else ""
     stat_note = f" Sz: sezon, M: maç, G: gol, A: asist, SK/KK: sarı/kırmızı kart. İstatistikler o kulüpteki lig maçlarıdır.{note}" if has_stats else ""
     head = "<tr><th class='l'>Kulüp</th><th title='Sezon'>Sz</th><th title='Maç'>M</th><th title='Gol'>G</th><th title='Asist'>A</th><th title='Sarı kart'>SK</th><th title='Kırmızı kart'>KK</th></tr>"
     return (f"<section class='card'><h2>Kariyer</h2><div class='tbl'><table class='career'><thead>{head}</thead><tbody>{rows}</tbody></table></div>"
-            f"<p class='muted'>En yeni kulüp en üstte. Kaynak: {e(c.get('src', 'ESPN'))} oyuncu biyografisi ve istatistik sayfaları, {fmt_d(c['d'])}. Milli takımlar gösterilmez.{stat_note}</p></section>")
+            f"<p class='muted'>En yeni kulüp en üstte. Kaynak: {e(c.get('src', 'ESPN'))} oyuncu biyografisi ve istatistik sayfaları, {fmt_d(c['d'])}. Kulüp satırlarında milli takımlar yok; A milli takım toplamı en altta ayrı gösterilir.{stat_note}</p></section>")
 
 
 # ---------- bileşenler ----------
