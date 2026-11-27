@@ -1,0 +1,98 @@
+{
+ "updated": "2026-11-27",
+ "careers": 11,
+ "queue": [
+  {
+   "club": "VfL Wolfsburg",
+   "links": 2,
+   "players": [
+    "victor-osimhen",
+    "salih-ozcan"
+   ]
+  },
+  {
+   "club": "Lille",
+   "links": 1,
+   "players": [
+    "victor-osimhen"
+   ]
+  },
+  {
+   "club": "Royal Charleroi SC",
+   "links": 1,
+   "players": [
+    "victor-osimhen"
+   ]
+  },
+  {
+   "club": "Schalke 04",
+   "links": 1,
+   "players": [
+    "leroy-sane"
+   ]
+  },
+  {
+   "club": "Benfica",
+   "links": 1,
+   "players": [
+    "kerem-akturkoglu"
+   ]
+  },
+  {
+   "club": "Paris Saint-Germain",
+   "links": 1,
+   "players": [
+    "milan-skriniar"
+   ]
+  },
+  {
+   "club": "Sampdoria",
+   "links": 1,
+   "players": [
+    "milan-skriniar"
+   ]
+  },
+  {
+   "club": "MSK Zilina",
+   "links": 1,
+   "players": [
+    "milan-skriniar"
+   ]
+  },
+  {
+   "club": "Adanaspor",
+   "links": 1,
+   "players": [
+    "irfan-can-egribayat"
+   ]
+  },
+  {
+   "club": "Norwich City",
+   "links": 1,
+   "players": [
+    "milot-rashica"
+   ]
+  },
+  {
+   "club": "Vitesse",
+   "links": 1,
+   "players": [
+    "milot-rashica"
+   ]
+  },
+  {
+   "club": "Holstein Kiel",
+   "links": 1,
+   "players": [
+    "salih-ozcan"
+   ]
+  },
+  {
+   "club": "Racing Genk",
+   "links": 1,
+   "players": [
+    "thibaut-courtois"
+   ]
+  }
+ ]
+}

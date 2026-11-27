@@ -142,6 +142,42 @@ for i, p in enumerate(players):
     p["rank"] = i + 1
 
 
+
+
+# ---------- kariyer geçmişi ----------
+_cp = os.path.join(ROOT, "data/careers.json")
+CAREERS = {k: v for k, v in (json.load(open(_cp, encoding="utf-8")) if os.path.exists(_cp) else {}).items() if not k.startswith("_")}
+_CAREER_ALIAS = {"internazionale": "inter", "inter milan": "inter", "cologne": "fc-koln", "1 koln": "fc-koln",
+                 "bayern munchen": "bayern-munich", "athletic bilbao": "athletic-club", "wolverhampton wanderers": "wolves"}
+_NT = re.compile(r"\b(u\s?1[5-9]|u\s?2[0-3]|olympic)\b", re.I)
+
+
+def _cnorm(x):
+    x = unicodedata.normalize("NFKD", x).encode("ascii", "ignore").decode().lower()
+    x = re.sub(r"[^a-z0-9 ]", " ", x)
+    x = re.sub(r"\b(fc|cf|ac|sc|afc|ssc|as|club|sk|calcio)\b", " ", x)
+    return " ".join(x.split())
+
+
+def career_rows(p, club_index, countries):
+    c = CAREERS.get(p["slug"])
+    if not c:
+        return ""
+    rows = ""
+    for name, seasons in c["clubs"]:
+        if _NT.search(name) or _cnorm(name) in countries:
+            continue
+        key = _cnorm(name)
+        slug = _CAREER_ALIAS.get(key) or club_index.get(key)
+        cl = next((x for x in clubs if x["slug"] == slug), None) if slug else None
+        label = f'<img class="kit" src="{BASE}/assets/kits/{cl["slug"]}.svg" alt="" width="22" height="22" loading="lazy"><a href="{link("kulup", cl["slug"])}">{e(cl["name"])}</a>' if cl else e(name)
+        rows += f"<tr><td class='l'><b>{label}</b></td><td class='r'>{'' if seasons is None else str(seasons) + ' sezon'}</td></tr>"
+    if not rows:
+        return ""
+    return (f"<section class='card'><h2>Kariyer</h2><table class='mini'>{rows}</table>"
+            f"<p class='muted'>En yeni kulüp en üstte. Kaynak: {e(c.get('src', 'ESPN'))} oyuncu biyografisi, {fmt_d(c['d'])}. Milli takımlar gösterilmez.</p></section>")
+
+
 # ---------- bileşenler ----------
 def plink(p):
     return f'<a href="{link("oyuncu", p["slug"])}">{e(p["name"])}</a>'
@@ -223,6 +259,12 @@ def build():
         return f"<div class='tbl'><table><thead><tr><th>#</th><th class='l'>Takım</th>{head}</tr></thead><tbody>{out}</tbody></table></div>"
 
     # oyuncu sayfaları
+    from tools_import import NAT as _NATMAP
+    _countries = {_cnorm(x) for x in list(_NATMAP.keys())} | {"turkey", "turkiye", "england", "scotland", "wales", "northern ireland"}
+    _club_index = {}
+    for _c in clubs:
+        _club_index[_cnorm(_c["name"])] = _c["slug"]
+        _club_index[_cnorm(_c["slug"].replace("-", " "))] = _c["slug"]
     for p in players:
         c = p["club"]
         lg = c["league"]
@@ -235,6 +277,7 @@ def build():
 <p>{clink(c)} · {p['age']} yaş · {e(p['nat'])}</p></div>
 <div class="bigval"><small>Piyasa Değeri</small><b>{fmt(p['value'])}</b><small>{e(lg['short'])}'de {p['lrank']}. · Genelde {p['rank']}. sırada</small><small>Değer tarihi: {fmt_d(p['valued'])}</small></div></section>
 <div class="cards">{stats}</div>
+{career_rows(p, _club_index, _countries)}
 <div class="two"><section class="card"><h2>Değer geçmişi</h2>{chart(hist.get(p['slug'], []))}</section>
 <section class="card"><h2>Değer nasıl hesaplandı?</h2><table class="mini">{parts}</table>
 <p class="muted">Formülün tamamı: <a href="{link('nasil-hesapliyoruz')}">Nasıl hesaplıyoruz?</a></p></section></div>

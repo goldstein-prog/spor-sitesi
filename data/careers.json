@@ -1,0 +1,14 @@
+{
+ "_not": "Oyuncuların kulüp geçmişi. Kaynak: ESPN oyuncu biyografi sayfası (Career History). En yeni kulüp başta. s = ESPN'de yazan sezon sayısı (yazmıyorsa null). Milli takımlar build sırasında ayıklanır. Sadece kaynakta açıkça yazanlar girilir.",
+ "victor-osimhen": {"d": "2026-11-27", "src": "ESPN", "clubs": [["Galatasaray", 3], ["Napoli", 4], ["Lille", 1], ["Royal Charleroi SC", 1], ["VfL Wolfsburg", 2]]},
+ "ilkay-gundogan": {"d": "2026-11-27", "src": "ESPN", "clubs": [["Galatasaray", 2], ["Manchester City", 9], ["Barcelona", 2], ["Borussia Dortmund", 5]]},
+ "leroy-sane": {"d": "2026-11-27", "src": "ESPN", "clubs": [["Galatasaray", 2], ["Bayern Munich", null], ["Manchester City", 4], ["Schalke 04", 3]]},
+ "lucas-torreira": {"d": "2026-11-27", "src": "ESPN", "clubs": [["Galatasaray", 5], ["Fiorentina", 1], ["Atlético Madrid", null], ["Arsenal", 2]]},
+ "kerem-akturkoglu": {"d": "2026-11-27", "src": "ESPN", "clubs": [["Fenerbahce", 2], ["Benfica", 2], ["Galatasaray", 5]]},
+ "milan-skriniar": {"d": "2026-11-27", "src": "ESPN", "clubs": [["Fenerbahce", 3], ["Paris Saint-Germain", 2], ["Internazionale", 6], ["Sampdoria", 2], ["MSK Zilina", 1]]},
+ "irfan-can-egribayat": {"d": "2026-11-27", "src": "ESPN", "clubs": [["Fenerbahce", 3], ["Goztepe", 2], ["Adanaspor", 1]]},
+ "milot-rashica": {"d": "2026-11-27", "src": "ESPN", "clubs": [["Besiktas", 4], ["Galatasaray", 1], ["Norwich City", 2], ["Werder Bremen", 4], ["Vitesse", 3]]},
+ "salih-ozcan": {"d": "2026-11-27", "src": "ESPN", "clubs": [["Besiktas", 1], ["Borussia Dortmund", 4], ["VfL Wolfsburg", 1], ["FC Cologne", 5], ["Holstein Kiel", 1]]},
+ "brahim-diaz": {"d": "2026-11-27", "src": "ESPN", "clubs": [["Real Madrid", 6], ["AC Milan", 3], ["Manchester City", 3]]},
+ "thibaut-courtois": {"d": "2026-11-27", "src": "ESPN", "clubs": [["Real Madrid", 9], ["Chelsea", 4], ["Atlético Madrid", 3], ["Racing Genk", 2]]}
+}
