@@ -9,8 +9,7 @@ sys.path.insert(0, ROOT)
 from tools_import import NAT
 
 NT = re.compile(r"\b(u\s?1[5-9]|u\s?2[0-3]|olympic)\b", re.I)
-ALIAS = {"internazionale": "inter", "inter milan": "inter", "cologne": "fc-koln", "1 koln": "fc-koln",
-         "bayern munchen": "bayern-munich", "athletic bilbao": "athletic-club"}
+ALIAS = {k: v for k, v in json.load(open(os.path.join(ROOT, "data/club_aliases.json"), encoding="utf-8")).items() if not k.startswith("_")}
 
 
 def norm(x):
@@ -30,7 +29,7 @@ countries = {norm(k) for k in NAT} | {"turkey", "turkiye", "england", "scotland"
 careers = {k: v for k, v in json.load(open(os.path.join(ROOT, "data/careers.json"), encoding="utf-8")).items() if not k.startswith("_")}
 queue = {}
 for slug, c in careers.items():
-    for name, _ in c["clubs"]:
+    for name, *_ in c["clubs"]:
         n = norm(name)
         if NT.search(name) or n in countries or n in known or n in ALIAS:
             continue

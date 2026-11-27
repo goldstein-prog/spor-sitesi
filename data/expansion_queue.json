@@ -1,7 +1,52 @@
 {
  "updated": "2026-11-27",
- "careers": 11,
+ "careers": 57,
  "queue": [
+  {
+   "club": "Paris Saint-Germain",
+   "links": 4,
+   "players": [
+    "milan-skriniar",
+    "kylian-mbappe",
+    "marco-asensio",
+    "hugo-ekitike"
+   ]
+  },
+  {
+   "club": "Benfica",
+   "links": 3,
+   "players": [
+    "kerem-akturkoglu",
+    "enzo-fernandez",
+    "orkun-kokcu"
+   ]
+  },
+  {
+   "club": "Racing Genk",
+   "links": 3,
+   "players": [
+    "thibaut-courtois",
+    "leandro-trossard",
+    "wilfred-ndidi"
+   ]
+  },
+  {
+   "club": "RB Salzburg",
+   "links": 3,
+   "players": [
+    "erling-haaland",
+    "dominik-szoboszlai",
+    "dayot-upamecano"
+   ]
+  },
+  {
+   "club": "Lille",
+   "links": 2,
+   "players": [
+    "victor-osimhen",
+    "rafael-leao"
+   ]
+  },
   {
    "club": "VfL Wolfsburg",
    "links": 2,
@@ -11,10 +56,51 @@
    ]
   },
   {
-   "club": "Lille",
-   "links": 1,
+   "club": "Norwich City",
+   "links": 2,
    "players": [
-    "victor-osimhen"
+    "milot-rashica",
+    "harry-kane"
+   ]
+  },
+  {
+   "club": "Vitesse",
+   "links": 2,
+   "players": [
+    "milot-rashica",
+    "martin-degaard"
+   ]
+  },
+  {
+   "club": "AS Monaco",
+   "links": 2,
+   "players": [
+    "kylian-mbappe",
+    "wilfried-singo"
+   ]
+  },
+  {
+   "club": "Sporting CP",
+   "links": 2,
+   "players": [
+    "raphinha",
+    "rafael-leao"
+   ]
+  },
+  {
+   "club": "Leicester City",
+   "links": 2,
+   "players": [
+    "harry-kane",
+    "wilfred-ndidi"
+   ]
+  },
+  {
+   "club": "Ajax Amsterdam",
+   "links": 2,
+   "players": [
+    "andre-onana",
+    "davinson-sanchez"
    ]
   },
   {
@@ -29,20 +115,6 @@
    "links": 1,
    "players": [
     "leroy-sane"
-   ]
-  },
-  {
-   "club": "Benfica",
-   "links": 1,
-   "players": [
-    "kerem-akturkoglu"
-   ]
-  },
-  {
-   "club": "Paris Saint-Germain",
-   "links": 1,
-   "players": [
-    "milan-skriniar"
    ]
   },
   {
@@ -67,20 +139,6 @@
    ]
   },
   {
-   "club": "Norwich City",
-   "links": 1,
-   "players": [
-    "milot-rashica"
-   ]
-  },
-  {
-   "club": "Vitesse",
-   "links": 1,
-   "players": [
-    "milot-rashica"
-   ]
-  },
-  {
    "club": "Holstein Kiel",
    "links": 1,
    "players": [
@@ -88,10 +146,283 @@
    ]
   },
   {
-   "club": "Racing Genk",
+   "club": "Molde",
    "links": 1,
    "players": [
-    "thibaut-courtois"
+    "erling-haaland"
+   ]
+  },
+  {
+   "club": "Birmingham City",
+   "links": 1,
+   "players": [
+    "jude-bellingham"
+   ]
+  },
+  {
+   "club": "Willem II",
+   "links": 1,
+   "players": [
+    "alexander-isak"
+   ]
+  },
+  {
+   "club": "AIK",
+   "links": 1,
+   "players": [
+    "alexander-isak"
+   ]
+  },
+  {
+   "club": "Reading",
+   "links": 1,
+   "players": [
+    "michael-olise"
+   ]
+  },
+  {
+   "club": "Lyon",
+   "links": 1,
+   "players": [
+    "rayan-cherki"
+   ]
+  },
+  {
+   "club": "Las Palmas",
+   "links": 1,
+   "players": [
+    "pedri"
+   ]
+  },
+  {
+   "club": "Flamengo",
+   "links": 1,
+   "players": [
+    "vinicius-junior"
+   ]
+  },
+  {
+   "club": "Stade Rennais",
+   "links": 1,
+   "players": [
+    "raphinha"
+   ]
+  },
+  {
+   "club": "Vitória de Guimaraes",
+   "links": 1,
+   "players": [
+    "raphinha"
+   ]
+  },
+  {
+   "club": "Avaí",
+   "links": 1,
+   "players": [
+    "raphinha"
+   ]
+  },
+  {
+   "club": "Watford",
+   "links": 1,
+   "players": [
+    "joao-pedro"
+   ]
+  },
+  {
+   "club": "Fluminense",
+   "links": 1,
+   "players": [
+    "joao-pedro"
+   ]
+  },
+  {
+   "club": "Heerenveen",
+   "links": 1,
+   "players": [
+    "martin-degaard"
+   ]
+  },
+  {
+   "club": "Stromsgodset",
+   "links": 1,
+   "players": [
+    "martin-degaard"
+   ]
+  },
+  {
+   "club": "West Ham United",
+   "links": 1,
+   "players": [
+    "declan-rice"
+   ]
+  },
+  {
+   "club": "Millwall",
+   "links": 1,
+   "players": [
+    "harry-kane"
+   ]
+  },
+  {
+   "club": "Leyton Orient",
+   "links": 1,
+   "players": [
+    "harry-kane"
+   ]
+  },
+  {
+   "club": "Peñarol",
+   "links": 1,
+   "players": [
+    "federico-valverde"
+   ]
+  },
+  {
+   "club": "Dinamo Zagreb",
+   "links": 1,
+   "players": [
+    "josko-gvardiol"
+   ]
+  },
+  {
+   "club": "Guingamp",
+   "links": 1,
+   "players": [
+    "marcus-thuram"
+   ]
+  },
+  {
+   "club": "Sochaux",
+   "links": 1,
+   "players": [
+    "marcus-thuram"
+   ]
+  },
+  {
+   "club": "Boca Juniors",
+   "links": 1,
+   "players": [
+    "alexis-mac-allister"
+   ]
+  },
+  {
+   "club": "Argentinos Juniors",
+   "links": 1,
+   "players": [
+    "alexis-mac-allister"
+   ]
+  },
+  {
+   "club": "River Plate",
+   "links": 1,
+   "players": [
+    "enzo-fernandez"
+   ]
+  },
+  {
+   "club": "Defensa y Justicia",
+   "links": 1,
+   "players": [
+    "enzo-fernandez"
+   ]
+  },
+  {
+   "club": "FC Porto",
+   "links": 1,
+   "players": [
+    "luis-diaz"
+   ]
+  },
+  {
+   "club": "Atlético Junior",
+   "links": 1,
+   "players": [
+    "luis-diaz"
+   ]
+  },
+  {
+   "club": "Marseille",
+   "links": 1,
+   "players": [
+    "mason-greenwood"
+   ]
+  },
+  {
+   "club": "Feyenoord Rotterdam",
+   "links": 1,
+   "players": [
+    "orkun-kokcu"
+   ]
+  },
+  {
+   "club": "FC Basel",
+   "links": 1,
+   "players": [
+    "mohamed-salah"
+   ]
+  },
+  {
+   "club": "OH Leuven",
+   "links": 1,
+   "players": [
+    "leandro-trossard"
+   ]
+  },
+  {
+   "club": "Atlético Nacional",
+   "links": 1,
+   "players": [
+    "davinson-sanchez"
+   ]
+  },
+  {
+   "club": "Mallorca",
+   "links": 1,
+   "players": [
+    "marco-asensio"
+   ]
+  },
+  {
+   "club": "Torino",
+   "links": 1,
+   "players": [
+    "wilfried-singo"
+   ]
+  },
+  {
+   "club": "Legia Warsaw",
+   "links": 1,
+   "players": [
+    "ernest-muci"
+   ]
+  },
+  {
+   "club": "SK Tirana",
+   "links": 1,
+   "players": [
+    "ernest-muci"
+   ]
+  },
+  {
+   "club": "Beerschot",
+   "links": 1,
+   "players": [
+    "moises-caicedo"
+   ]
+  },
+  {
+   "club": "Stade de Reims",
+   "links": 1,
+   "players": [
+    "hugo-ekitike"
+   ]
+  },
+  {
+   "club": "Vejle Boldklub",
+   "links": 1,
+   "players": [
+    "hugo-ekitike"
    ]
   }
  ]

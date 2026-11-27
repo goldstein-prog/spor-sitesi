@@ -166,8 +166,7 @@ for i, p in enumerate(players):
 # ---------- kariyer geçmişi ----------
 _cp = os.path.join(ROOT, "data/careers.json")
 CAREERS = {k: v for k, v in (json.load(open(_cp, encoding="utf-8")) if os.path.exists(_cp) else {}).items() if not k.startswith("_")}
-_CAREER_ALIAS = {"internazionale": "inter", "inter milan": "inter", "cologne": "fc-koln", "1 koln": "fc-koln",
-                 "bayern munchen": "bayern-munich", "athletic bilbao": "athletic-club", "wolverhampton wanderers": "wolves"}
+_CAREER_ALIAS = {k: v for k, v in json.load(open(os.path.join(ROOT, "data/club_aliases.json"), encoding="utf-8")).items() if not k.startswith("_")}
 _NT = re.compile(r"\b(u\s?1[5-9]|u\s?2[0-3]|olympic)\b", re.I)
 
 

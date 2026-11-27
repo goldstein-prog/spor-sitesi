@@ -843,5 +843,382 @@
     3
    ]
   ]
+ },
+ "dusan-vlahovic": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Besiktas",
+    1
+   ],
+   [
+    "Juventus",
+    5
+   ],
+   [
+    "Fiorentina",
+    4
+   ]
+  ]
+ },
+ "mason-greenwood": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Fenerbahce",
+    1
+   ],
+   [
+    "Marseille",
+    2
+   ],
+   [
+    "Getafe",
+    1
+   ],
+   [
+    "Manchester United",
+    4
+   ]
+  ]
+ },
+ "rafael-leao": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Galatasaray",
+    1
+   ],
+   [
+    "AC Milan",
+    7
+   ],
+   [
+    "Lille",
+    1
+   ],
+   [
+    "Sporting CP",
+    1
+   ]
+  ]
+ },
+ "orkun-kokcu": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Besiktas",
+    1
+   ],
+   [
+    "Benfica",
+    3
+   ],
+   [
+    "Feyenoord Rotterdam",
+    6
+   ]
+  ]
+ },
+ "mohamed-salah": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Trabzonspor",
+    1
+   ],
+   [
+    "Liverpool",
+    9
+   ],
+   [
+    "AS Roma",
+    2
+   ],
+   [
+    "Fiorentina",
+    1
+   ],
+   [
+    "Chelsea",
+    2
+   ],
+   [
+    "FC Basel",
+    2
+   ]
+  ],
+  "nt": {
+   "team": "Mısır",
+   "caps": 123,
+   "g": 70,
+   "a": null,
+   "yc": null,
+   "rc": null,
+   "asof": "2026-11-14",
+   "src": "ESPN"
+  }
+ },
+ "leandro-trossard": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Besiktas",
+    1
+   ],
+   [
+    "Arsenal",
+    4
+   ],
+   [
+    "Brighton & Hove Albion",
+    4
+   ],
+   [
+    "Racing Genk",
+    3
+   ],
+   [
+    "OH Leuven",
+    1
+   ]
+  ]
+ },
+ "andre-onana": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Trabzonspor",
+    2
+   ],
+   [
+    "Manchester United",
+    3
+   ],
+   [
+    "Internazionale",
+    1
+   ],
+   [
+    "Ajax Amsterdam",
+    8
+   ]
+  ]
+ },
+ "davinson-sanchez": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Galatasaray",
+    null
+   ],
+   [
+    "Tottenham Hotspur",
+    7
+   ],
+   [
+    "Ajax Amsterdam",
+    1
+   ],
+   [
+    "Atlético Nacional",
+    4
+   ]
+  ]
+ },
+ "wilfred-ndidi": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Besiktas",
+    1
+   ],
+   [
+    "Leicester City",
+    9
+   ],
+   [
+    "Racing Genk",
+    3
+   ]
+  ]
+ },
+ "marco-asensio": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Fenerbahce",
+    2
+   ],
+   [
+    "Aston Villa",
+    1
+   ],
+   [
+    "Paris Saint-Germain",
+    2
+   ],
+   [
+    "Real Madrid",
+    8
+   ],
+   [
+    "Espanyol",
+    1
+   ],
+   [
+    "Mallorca",
+    2
+   ]
+  ]
+ },
+ "wilfried-singo": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Galatasaray",
+    2
+   ],
+   [
+    "AS Monaco",
+    3
+   ],
+   [
+    "Torino",
+    6
+   ]
+  ]
+ },
+ "ernest-muci": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Trabzonspor",
+    1
+   ],
+   [
+    "Besiktas",
+    3
+   ],
+   [
+    "Legia Warsaw",
+    2
+   ],
+   [
+    "SK Tirana",
+    1
+   ]
+  ]
+ },
+ "dominik-szoboszlai": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Liverpool",
+    4,
+    {
+     "comp": "Premier Lig",
+     "st": 97,
+     "sub": null,
+     "g": 16,
+     "a": 17,
+     "yc": 16,
+     "rc": 1
+    }
+   ],
+   [
+    "RB Leipzig",
+    2
+   ],
+   [
+    "RB Salzburg",
+    4
+   ]
+  ]
+ },
+ "moises-caicedo": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Chelsea",
+    4
+   ],
+   [
+    "Brighton & Hove Albion",
+    3
+   ],
+   [
+    "Beerschot",
+    1
+   ]
+  ]
+ },
+ "phil-foden": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Manchester City",
+    11
+   ]
+  ]
+ },
+ "hugo-ekitike": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Liverpool",
+    1
+   ],
+   [
+    "Eintracht Frankfurt",
+    2
+   ],
+   [
+    "Paris Saint-Germain",
+    2
+   ],
+   [
+    "Stade de Reims",
+    2
+   ],
+   [
+    "Vejle Boldklub",
+    null
+   ]
+  ]
+ },
+ "dayot-upamecano": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Bayern Munich",
+    6
+   ],
+   [
+    "RB Leipzig",
+    5
+   ],
+   [
+    "RB Salzburg",
+    1
+   ]
+  ]
  }
 }
