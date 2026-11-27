@@ -1,0 +1,41 @@
+{
+ "_not": "Olay sayılmayan gelişmeler (form, söylenti, kısa sakatlık, doğrulanamayan haber). Değer etkilemez; transfer dönemi yeniden değerlemesinde göz önüne alınabilir.",
+ "items": [
+  {
+   "date": "2026-11-27",
+   "player": "Harry Kane",
+   "club": "Bayern Münih",
+   "note": "Ayak bileği bağ yırtığı ameliyatı, yaklaşık 3 ay (21.11.2026). Süre 3 ay eşiğinde ve 2. bağımsız kaynakla doğrulanamadı; olay sayılmadı."
+  },
+  {
+   "date": "2026-11-27",
+   "player": "Àlex Calatrava",
+   "club": "Espanyol",
+   "note": "Ön çapraz bağ ameliyatı (24.11.2026), sezonu kapattı. Oyuncu sitedeki Espanyol kadrosunda yok."
+  },
+  {
+   "date": "2026-11-27",
+   "player": "Hakan Çalhanoğlu",
+   "club": "Inter",
+   "note": "Uyluk kası zorlanması, yaklaşık 1 ay (24.11.2026). 3 ay eşiğinin altında."
+  },
+  {
+   "date": "2026-11-27",
+   "player": "Deniz Gül",
+   "club": "Galatasaray",
+   "note": "Burun kırığı şüphesi, operasyon (25.11.2026). Kısa süreli."
+  },
+  {
+   "date": "2026-11-27",
+   "player": "Emre Mor",
+   "club": "-",
+   "note": "Sağlık nedeniyle kariyerine ara verdi, NEC ile sözleşmesi feshedildi (23.11.2026). Sitedeki liglerin dışında."
+  },
+  {
+   "date": "2026-11-27",
+   "player": "Samuele Inacio",
+   "club": "Borussia Dortmund",
+   "note": "Menisküs ameliyatı, 'birkaç ay' (20.11.2026). Süre resmî olarak belirtilmedi."
+  }
+ ]
+}

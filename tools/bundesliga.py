@@ -17,6 +17,11 @@ META = {
     "borussia-monchengladbach": ("Borussia Mönchengladbach", "Mönchengladbach", "Borussia-Park"),
     "hamburger-sv": ("Hamburger SV", "Hamburg", "Volksparkstadion"),
     "union-berlin": ("Union Berlin", "Berlin", "Stadion An der Alten Försterei"),
+    "sc-freiburg": ("SC Freiburg", "Freiburg", "Europa-Park Stadion"),
+    "fc-augsburg": ("FC Augsburg", "Augsburg", "WWK Arena"),
+    "sv-elversberg": ("SV Elversberg", "Spiesen-Elversberg", "Ursapharm-Arena an der Kaiserlinde"),
+    "sc-paderborn": ("SC Paderborn", "Paderborn", "Home Deluxe Arena"),
+    "schalke-04": ("Schalke 04", "Gelsenkirchen", "Veltins-Arena"),
 }
 
 C = """
@@ -33,6 +38,11 @@ fc-koln: Marvin Schwäbe 5|Ron-Robert Zieler 3|Joel Schmied 5|Borna Sosa 5|Timo 
 borussia-monchengladbach: Moritz Nicolas 5.5|Daniel Batz 4|Fabio Chiarodia 6|Kevin Diks 5|Jan Leszczynski 5.5|Kou Itakura 5.5|Daiki Hashioka 5|David Herold 5|Lukas Ullrich 6|Joe Scally 6.5|Kevin Stöger 4.5|Franck Honorat 5.5|Florian Neuhaus 5.5|Philipp Sander 5.5|Jens Castrop 6|Robin Hack 5.5|Mathieu Nguefack 5|Wael Mohya 7|Hugo Bolin 5.5|Zento Uno 5.5|Isac Lidberg 5|Tim Kleindienst 5|Shuto Machino 5.5|Nicolas Kühn 6
 hamburger-sv: Daniel Heuer Fernandes 4.5|Terem Moffi 6|Martin Adeline 6|Albert Grønbaek 6|David Møller Wolfe 5.5|Otto Stange 5.5|Zakaria El Ouahdi 6|Warmed Omari 5.5|Patson Daka 5.5|Yussuf Poulsen 4.5|Nicolás Capaldo 5.5|Albert Sambi Lokonga 5.5|Fabio Vieira 6|Sebastiaan Bornauw 5.5|Louis Lemke 5|Miro Muheim 5.5|Kofi Amoako 5.5|Nicolai Remberg 5|Shafiq Nandja 5|Jordan Torunarigha 5|Bilal Nadir 5.5|Bakery Jatta 4.5|Mario Vuskovic 5.5
 union-berlin: Frederik Ronnow 5|Matheo Raab 4.5|Felix Uduokhai 5|Livan Burcu 6|Andrej Ilić 5|Marin Ljubicic 5|Oliver Burke 4.5|Aljoscha Kemlein 6|Kastriot Imeri 5|András Schäfer 5.5|Jeong Woo-Yeong 5.5|Michel Aebischer 5.5|Tim Skarke 5|Janik Haberer 4.5|Rani Khedira 4.5|Leopold Querfeld 6|Tom Rothe 6|Zeno Van Den Bosch 5.5|Derrick Köhn 5|Josip Juranovic 5|Marvin Friedrich 4.5|Christopher Trimmel 2.5
+sc-freiburg: Mio Backhaus 6|Philipp Lienhart 6|Matthias Ginter 6|Lukas Kübler 5|Philipp Treu 6|Jordy Makengo 6|Maximilian Eggestein 6.5|Yuito Suzuki 6.5|Yannick Engelhardt 6|Niklas Beste 6|Vincenzo Grifo 5.5|Derry Scherhant 6|Lucas Höler 5|Cyriaque Irié 6|Igor Matanovic 6.5|Keisuke Goto 6|Patrick Osterhage 5.5|Christian Günter 4.5|Anthony Jung 4
+fc-augsburg: Finn Dahmen 6|Calvin Brackelmann 5.5|Chrislain Matsima 6|Jeffrey Gouweleeuw 4.5|Seol Young-Woo 6|Hennes Behrens 5.5|Marius Wolf 5|Juma Bah 6|Noahkai Banks 5.5|Han-Noah Massengo 6|Mert Kömür 6.5|Yannik Keitel 5.5|Robin Fellhauer 5.5|Alexis Claude-Maurice 6|Arijon Ibrahimovic 6|Anton Kade 6|Fabian Rieder 6.5|Rodrigo Ribeiro 6|Michael Gregoritsch 5.5
+sv-elversberg: Nicolas Kristof 5.5|Lukas Finn Pinckert 5|Lasse Günther 5.5|Luca Sirch 5|Jan Gyamerah 5|Maximilian Rohr 5|Felix Keidel 5.5|Maurice Krattenmacher 6|Lukasz Poreba 5.5|Lukas Petkov 5.5|Cole Campbell 6|David Mokwa 5.5|Noel Futkeu 5.5|Noah Darvich 5.5
+sc-paderborn: Nahuel Nicolas Noll 5|Laurin Curda 5|Jano Horst 5|Mattes Hansen 5|Tjark Scheller 5|Santiago Castaneda 5.5|Raphael Obermair 5|Laurin Ulrich 5|Marvin Pieringer 5|Steffen Tigges 5|Stefano Marino 5|Gabriel Vidovic 5.5|Rayan Philippe 5|Sven Michel 4
+schalke-04: Loris Karius 5|Hasan Kurucay 5|Timo Becker 5|Robin Gosens 5|Nikola Katic 5|Vitalie Becker 5.5|Maximilian Wöber 5.5|Satoshi Tanaka 5.5|Soufian El-Faouzi 5.5|Adil Aouchiche 5.5|Junior Dina Ebimbe 5.5|Hwang Hee-Chan 5.5|Moussa Sylla 5.5|Edin Dzeko 3.5|Kenan Karaman 4.5|Junior Adamu 5.5|Dejan Ljubicic 5
 """
 
 if __name__ == "__main__":

@@ -1,0 +1,27 @@
+Théo Collin|1|G|||0|0||
+Guillaume Restes|16|G|21|France|10|0||
+Naime Said Mchindra|40|G|21|France||||
+Mathys Niflore|60|G|19|France|2|1||
+Rasmus Nicolaisen|2|D|29|Denmark|8|0|0|1
+Mark McKenzie|3|D|27|USA|11|0|1|0
+Seny Koumbassa|5|D|19|France|7|4|0|0
+Christ Tapé|12|D|20||11|0|1|0
+David Odogu|19|D|20|Germany|0|0|0|0
+Gaetan Bakhouche|44|D|21|France|0|0|0|0
+Ismail Diallo|94|D|23|France|8|3|0|0
+Alexis Vossah|6|M|18|France|9|6|0|0
+Thomas Jørgensen|8|M|21|Denmark|11|0|3|1
+Niko Sigur|14|M|23|Canada|8|2|0|0
+Aron Donnum|15|M|28|Norway|5|2|1|1
+Abu Francis|17|M|25|Ghana|0|0|0|0
+Mathis Amougou|18|M|20|France|0|0|0|0
+Rafik Messali|22|M|23|Algeria|8|2|0|0
+Cristian Cásseres Jr.|23|M|26|Venezuela|11|0|0|6
+Niklas Schmidt|31|M|28|Germany|6|4|0|0
+Julián Vignolo|7|F|19|Argentina|5|3|0|0
+Santiago Hidalgo|9|F|21|Argentina|10|5|1|0
+Sion Oppong|11|F|19|Sweden|8|7|1|1
+Jacen Russell-Rowe|13|F|24|Canada|11|2|3|0
+Casper Tengstedt|20|F|26|Denmark|9|2|5|1
+Ilyas Azizi|37|F|18|France|7|3|0|0
+Aymen Ammaouch|49|F|17|France|1|1|0|0

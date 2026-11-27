@@ -1,0 +1,31 @@
+Yehvann Diouf|23|G|27|Senegal|11|0||
+Martin Ponsot|60|G||||||
+Teddy Boulhendi|77|G|25|Algeria|0|0||
+Ali Abdi|2|D|32|Tunisia|4|4|1|0
+Mohamed Abdelmoneim|5|D|27|Egypt|10|1|0|0
+Niels Nkounkou|27|D|26|France|9|0|0|0
+Antoine Mendy|33|D|22|Senegal|3|2|0|0
+Alidu Seidu|36|D|26|Ghana|5|2|0|0
+Moïse Bombito|64|D|26|Canada||||
+Hamza Koutoune|84|D|20|Morocco|4|4|0|0
+Jonathan Clauss|92|D|34|France|11|0|3|3
+Hicham Boudaoui|6|M|27|Algeria|7|2|0|0
+Gauthier Hein|7|M|30|France|11|4|0|3
+Morgan Sanson|8|M|32|France|4|4|0|0
+Sofiane Diop|10|M|26|Morocco|11|5|2|3
+Laurent Abergel|19|M|33|France||||
+Issiaga Camara|22|M|21|Guinea|0|0|0|0
+Axel Witsel|28|M|37|Belgium|9|1|0|0
+Nassim Laarej|34|M||||||
+Xavier Junior Mandza Tsiendi|35|M|||10|1|0|0
+Aboulaye Camara|38|M|||1|1|0|0
+Djibril Coulibaly|39|M|18|France|10|2|0|0
+Youssouf Ndayishimiye|55|M|28|Burundi|11|0|0|0
+Everton Pereira|87|M|19|France|3|2|0|0
+Salis Abdul Samed|99|M|26|Ghana||||
+Mohamed Amoura|9|F|26|Algeria|9|1|3|2
+Elye Wahi|11|F|23|Ivory Coast|10|1|6|2
+Isak Jansson|21|F|24|Sweden|5|5|0|0
+Nathan N'Goumou|29|F|26|Cameroon|8|6|0|0
+Djelan Morana|41|F|||1|1|0|0
+Zoumana Diallo|44|F|21|France|1|0|0|0

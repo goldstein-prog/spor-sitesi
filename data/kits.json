@@ -439,5 +439,140 @@
   "#d4011d",
   "#ffffff",
   "duz"
+ ],
+ "psg": [
+  "#0a1f44",
+  "#da291c",
+  "duz"
+ ],
+ "marseille": [
+  "#ffffff",
+  "#2faee0",
+  "duz"
+ ],
+ "lyon": [
+  "#ffffff",
+  "#1b3f8b",
+  "duz"
+ ],
+ "lille": [
+  "#e01e13",
+  "#1b2a4a",
+  "duz"
+ ],
+ "monaco": [
+  "#e30613",
+  "#ffffff",
+  "yarim"
+ ],
+ "paris-fc": [
+  "#1b2a4a",
+  "#a7c7e7",
+  "duz"
+ ],
+ "lens": [
+  "#fcd116",
+  "#d71920",
+  "duz"
+ ],
+ "rennes": [
+  "#e30613",
+  "#111111",
+  "duz"
+ ],
+ "nice": [
+  "#d71920",
+  "#111111",
+  "cizgili"
+ ],
+ "strasbourg": [
+  "#0066b3",
+  "#ffffff",
+  "duz"
+ ],
+ "toulouse": [
+  "#5b2c83",
+  "#ffffff",
+  "duz"
+ ],
+ "brest": [
+  "#e30613",
+  "#ffffff",
+  "duz"
+ ],
+ "lorient": [
+  "#f47b20",
+  "#111111",
+  "duz"
+ ],
+ "auxerre": [
+  "#ffffff",
+  "#0055a5",
+  "duz"
+ ],
+ "angers": [
+  "#111111",
+  "#ffffff",
+  "cizgili"
+ ],
+ "le-havre": [
+  "#87ceeb",
+  "#1b2a4a",
+  "yarim"
+ ],
+ "le-mans": [
+  "#d71920",
+  "#f2c300",
+  "duz"
+ ],
+ "troyes": [
+  "#0055a5",
+  "#ffffff",
+  "duz"
+ ],
+ "sc-freiburg": [
+  "#d71920",
+  "#111111",
+  "duz"
+ ],
+ "fc-augsburg": [
+  "#ffffff",
+  "#ba3733",
+  "duz"
+ ],
+ "sv-elversberg": [
+  "#111111",
+  "#ffffff",
+  "duz"
+ ],
+ "sc-paderborn": [
+  "#0055a5",
+  "#111111",
+  "duz"
+ ],
+ "schalke-04": [
+  "#004d9d",
+  "#ffffff",
+  "duz"
+ ],
+ "real-betis": [
+  "#0b9a46",
+  "#ffffff",
+  "cizgili"
+ ],
+ "racing-santander": [
+  "#ffffff",
+  "#0b7a3b",
+  "duz"
+ ],
+ "torino": [
+  "#8b1a1a",
+  "#ffffff",
+  "duz"
+ ],
+ "frosinone": [
+  "#f2c300",
+  "#0055a5",
+  "duz"
  ]
 }

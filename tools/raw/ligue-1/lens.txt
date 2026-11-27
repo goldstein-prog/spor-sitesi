@@ -1,0 +1,31 @@
+Régis Gurtner|1|G|39|France||||
+Mathieu Gorgelin|16|G|36|France|0|0||
+Robin Risser|40|G|21|France|11|0||
+Ilan Jourdren|60|G|18|France||||
+Ruben Aguilar|2|D|33|France|10|2|1|1
+Maik Nawrocki|3|D|25|Poland|2|0|0|0
+Nidal Celik|4|D|20|Bosnia and Herzegovina|0|0|0|0
+Samson Baidoo|6|D|22|Austria|6|2|0|0
+Jhoanner Chavez|13|D|24|Ecuador|1|0|0|0
+Matthieu Udol|14|D|30|France|10|0|2|0
+Jean-Clair Todibo|20|D|26|France|7|1|0|0
+Saud Abdulhamid|23|D|27|Saudi Arabia|6|2|1|0
+Jonathan Gradit|24|D|34|France|4|1|0|0
+Pierre Ganiou|25|D|21|France|6|1|1|0
+Souleymane Sagnan|31|D|21|Mali|3|1|0|0
+Kyllian Antonio|32|D|18|France|7|2|0|0
+Moussa Diarra|37|D|26|Mali|0|0|0|0
+Andrija Bulatovic|5|M|19|Montenegro|8|6|0|0
+Yassine Titraoui|8|M|23|Algeria|9|2|0|0
+Thorgan Hazard|9|M|33|Belgium|8|5|1|1
+Amadou Haidara|21|M|28|Mali|10|5|0|0
+Michaël Cuisance|27|M|27|France|10|2|1|0
+Leopold Joursky|34|M||||||
+Mezian Soares|38|M|17|Portugal|6|4|0|0
+Florian Sotoca|7|F|36|France|8|2|1|1
+Florian Thauvin|10|F|33|France|11|0|5|7
+Odsonne Édouard|11|F|28|France|6|3|1|0
+Abdallah Sima|19|F|25|Senegal|6|1|1|1
+Michal Skoras|22|F|26|Poland|9|5|0|1
+Junior Kadile|28|F|23|France|5|4|0|0
+Franjo Ivanovic|29|F|23|Croatia|7|4|2|0

@@ -1,0 +1,31 @@
+Ewan Hatfout|1|G|26|France|3|1||
+Augustin Delbecque|55|G|24|France|0|0||
+Nicolas Kocik|98|G|28|France|9|0||
+Harold Voyer|5|D|29|Martinique|8|0|0|0
+João Almeida|12|D|20|Brazil||||
+Noa Boissé|15|D|20|France|10|4|0|0
+Raúl Torrente|16|D|25|Spain|5|2|0|0
+Samuel Yohou|17|D|35|France|9|1|0|0
+Lucas Buades|18|D|28|France|7|0|1|0
+Djibril Sidibé|19|D|34|France|5|2|0|0
+Théo Eyoum|21|D|24|France|2|0|0|0
+Lucas Calodat|22|D|24|France|11|3|1|2
+Rayan Bamba|26|D|22|France|9|2|0|2
+Yasser Larouci|76|D|25|Algeria|6|3|0|0
+Edwin Quarshie|6|M|31|Ghana||||
+Brahimi Bilal|7|M|26|France|6|6|0|0
+Alexandre Lauray|8|M|29|France|8|2|0|0
+Jean Vercruysse|10|M|26|France|10|4|1|1
+Adil Bourabaa|11|M|21|France|5|0|3|2
+Martin Rossignol|27|M|23|France||||
+Lucas Bretelle|29|M|24|France|10|1|0|2
+Lenny Videira|36|M|||0|0|0|0
+Antoine Rabillard|9|F|31|France|9|5|0|0
+Habib Diallo|13|F|31|Senegal|7|3|1|0
+Louis Mafouta|14|F|32|Central African Republic|11|0|5|1
+William Harhouz|20|F|26|France|5|5|0|0
+Daouda Traoré|23|F|20|Mali|5|2|0|0
+Dame Guèye|25|F|31|Senegal|11|4|1|0
+Erwan Colas|28|F|29|France|3|3|2|0
+Adnane Hamza Kharroubi|37|F|||1|1|0|0
+Enzo Vágner|99|F|20|Brazil||||

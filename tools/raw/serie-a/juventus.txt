@@ -1,0 +1,39 @@
+Kamil Grabara|1|G|27|Poland|0|0||
+Carlo Pinsoglio|23|G|36|Italy|0|0||
+Guglielmo Vicario|25|G|30|Italy|12|0||
+Neto|33|G|37|Brazil|0|0||
+Riccardo Radu|40|G|19|Romania|0|0||
+Stefano Mangiapoco|61|G|22|Italy||||
+Zeki Çelik|2|D|29|Türkiye|9|1|0|1
+Bremer|3|D|29|Brazil|12|0|3|0
+Federico Gatti|4|D|28|Italy|6|4|1|1
+Lloyd Kelly|6|D|28|England|6|4|0|0
+Pierre Kalulu|15|D|26|France|11|0|0|0
+Andrea Cambiaso|20|D|26|Italy|8|6|0|1
+Daniele Rugani|24|D|32|Italy|0|0|0|0
+Jhon Lucumí|26|D|28|Colombia|10|0|0|0
+Juan Cabal|32|D|25|Colombia|5|2|1|0
+Niccolò Rizzo|44|D|19|Italy||||
+Manuel Locatelli|5|M|28|Italy|3|0|0|1
+Teun Koopmeiners|8|M|28|Netherlands|11|6|2|1
+Douglas Luiz|12|M|28|Brazil|12|0|1|2
+Khéphren Thuram|19|M|25|France|0|0|0|0
+Weston McKennie|22|M|28|USA|9|0|1|0
+Pape Matar Sarr|29|M|24|Senegal|7|4|0|0
+Augusto Owusu|41|M|21|Italy|0|0|0|0
+Filippo Pagnucco|43|M|20|Italy|0|0|0|0
+Grady Makiobo Makiobo|49|M|||0|0|0|0
+Francisco Conceição|7|F|23|Portugal|7|1|1|1
+Randal Kolo Muani|9|F|27|France|12|0|2|2
+Kenan Yildiz|10|F|21|Türkiye|1|0|0|0
+Edon Zhegrova|11|F|27|Kosovo|10|9|2|3
+Jérémie Boga|13|F|29|Ivory Coast|9|7|1|0
+Arkadiusz Milik|14|F|32|Poland|0|0|0|0
+Kerim Alajbegovic|17|F|19|Bosnia and Herzegovina|11|4|1|1
+Jeff Ekhator|18|F|20|Italy|1|1|0|0
+Nick Woltemade|27|F|24|Germany|10|7|2|1
+Nico González|31|F|28|Argentina|6|1|1|0
+Justin Oboavwoduo|45|F|20|England|1|1|0|0
+Arman Durmiši|47|F|||0|0|0|0
+Destiny Elimoghale|48|F|17|Italy||||
+Antonio Stefano Merola|51|F||||||

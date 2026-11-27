@@ -1,0 +1,27 @@
+Frank Lehmann|1|G|37|Germany||||
+Elias Etringer|12|G||||||
+Nicolas Kristof|20|G|26|Austria|10|0||
+Tim Boss|28|G|33|Germany|0|0||
+Nicholas Mickelson|2|D|27|Thailand|5|5|0|1
+Florian Le Joncour|3|D|31|France|2|2|0|1
+Luis Seifert|4|D|22|Germany||||
+Lukas Finn Pinckert|19|D|26|Germany|10|0|0|1
+Lasse Günther|21|D|23|Germany|10|0|1|0
+Luca Sirch|26|D|27|Germany|9|6|0|0
+Jan Gyamerah|30|D|31|Ghana|7|0|0|0
+Maximilian Rohr|31|D|31|Germany|10|0|1|0
+Felix Keidel|43|D|23|Germany|10|0|2|1
+Amara Conde|6|M|29|Germany|3|3|0|0
+Maurice Krattenmacher|7|M|21|Germany|10|6|4|1
+Lukasz Poreba|8|M|26|Poland|10|0|0|0
+Noah Darvich|10|M|20|Germany|5|2|0|1
+Frederik Schmahl|17|M|23|Germany|4|3|1|0
+Luca Schnellbacher|24|M|32|Germany|3|3|0|0
+Francis-Ikechukwu Onyeka|40|M|19|Germany|8|2|1|1
+Noel Futkeu|9|F|23|Germany|8|7|1|1
+Raif Adam|15|F|21|Germany|5|5|0|0
+Luca Pfeiffer|16|F|30|Germany||||
+Lukas Petkov|25|F|26|Bulgaria|10|0|2|2
+Tom Zimmerschied|29|F|28|Germany|2|1|0|0
+Cole Campbell|39|F|20|USA|9|4|2|0
+David Mokwa|42|F|22|France|10|1|2|1

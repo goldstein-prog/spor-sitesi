@@ -1,0 +1,30 @@
+Luca Lezzerini|19|G|31|Italy|0|0||
+David de Gea|43|G|35|Spain|9|0||
+Oliver Christensen|53|G|27|Denmark|0|0||
+Dodô|2|D|27|Brazil|4|3|0|0
+Radu Dragusin|3|D|24|Romania|9|0|0|1
+Marin Pongracic|5|D|29|Croatia|5|2|1|0
+Luca Ranieri|6|D|27|Italy|4|0|0|0
+João Mário|17|D|26|Portugal|5|2|1|0
+Álex Jiménez|20|D|21|Spain|8|1|2|2
+Víctor Valdepeñas|21|D|20|Spain|7|3|0|0
+Viery|33|D|21|Brazil|8|3|0|0
+Fabiano Parisi|65|D|25|Italy||||
+Arnis Ademi|74|D|||0|0|0|0
+Dennis Beldenti|75|D|||0|0|0|0
+Marco Brescianini|4|M|26|Italy|7|3|0|0
+Arthur Atta|14|M|23|France|5|1|0|0
+Cher Ndour|27|M|22|Italy|9|1|0|1
+Pedro Gonçalves|28|M|28|Portugal|6|5|0|0
+Christ Inao Oulaï|42|M|20|Ivory Coast|5|2|0|0
+Nicolò Fagioli|44|M|25|Italy|9|1|0|2
+Salvatore Cianciulli|71|M|18|Italy||||
+Antonio Pirrò|73|M|18|Italy|0|0|0|0
+Beto|23|F|28|Guinea-Bissau|7|5|0|1
+Alieu Njie|25|F|21|Sweden|7|1|1|1
+Wilfried Gnonto|29|F|22|Italy|7|6|0|0
+Franco Mastantuono|30|F|19|Argentina|9|0|3|0
+Mateo Pellegrino|32|F|25|Argentina|9|2|2|0
+Federico Croci|70|F|16|Italy|0|0|0|0
+Sulayman Jallow|71|F|19|Gambia|0|0|0|0
+Brando Mazzeo|72|F|||0|0|0|0

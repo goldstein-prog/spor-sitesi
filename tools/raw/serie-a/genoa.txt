@@ -1,0 +1,34 @@
+Justin Bijlow|1|G|28|Netherlands|12|0||
+Daniele Sommariva|39|G|29|Italy|0|0||
+Rendijs Mihelsons|93|G|18|Latvia||||
+Franz Stolz|99|G|25|Austria|0|0||
+Mario Mitaj|2|D|23|Albania|2|1|0|0
+Kingsley Ehizibue|3|D|31|Netherlands|8|2|1|0
+Leo Østigard|5|D|26|Norway|12|0|0|0
+Lukas Klisys|14|D|19|Lithuania|0|0|0|0
+Cody Drameh|16|D|24|England|0|0|0|0
+Stefano Sabelli|20|D|33|Italy|2|1|0|0
+Johan Vásquez|22|D|28|Mexico|11|0|1|0
+Alessandro Marcandalli|27|D|24|Italy|12|2|0|0
+David Puczka|31|D|21|Austria|4|3|0|0
+Sebastian Otoa|34|D|22|Denmark|4|1|0|0
+Mamedi Doucouré|74|D|19|France|0|0|0|0
+Marcelo Vaz|85|D|||0|0|0|0
+Alexsandro Amorim|4|M|21|Brazil|8|5|0|0
+Tommaso Baldanzi|8|M|23|Italy|8|1|1|2
+Ethan Meichtry|11|M|21|Switzerland|8|8|0|0
+Hamed Traoré|25|M|26|Ivory Coast|6|1|0|1
+Morten Frendrup|32|M|25|Denmark|11|2|0|0
+Samuel Wiafe|71|M|18|Italy|7|3|0|0
+Gaël Lafont|75|M|20|France|0|0|0|0
+Mikael Ellertsson|77|M|24|Iceland|12|0|2|1
+Djibril Sow|97|M|29|Switzerland|7|3|0|1
+Vitinha|9|F|26|Portugal|11|7|0|0
+Junior Messias|10|F|35|Brazil|12|5|2|1
+Elias Havel|17|F|23|Austria|0|0|0|0
+Milutin Osmajic|18|F|27|Montenegro|11|1|6|1
+Joi Nuredini|19|F|19|Albania||||
+Robinho Junior|21|F|18|Brazil|1|1|0|0
+Lorenzo Colombo|29|F|24|Italy|10|6|0|2
+Lorenzo Venturino|76|F|20|Italy|0|0|0|0
+Stephan El Shaarawy|92|F|34|Italy|7|3|0|0

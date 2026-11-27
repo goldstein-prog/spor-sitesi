@@ -1,0 +1,29 @@
+Lukasz Skorupski|1|G|35|Poland|5|0||
+Massimo Pessina|25|G|18|Italy|2|0||
+Ukko Happonen|72|G|19|Finland|0|0||
+Matteo Franceschelli|82|G|18|Italy|0|0||
+Emil Holm|2|D|26|Sweden|5|2|0|0
+Arthur Theate|3|D|26|Belgium|4|0|0|0
+Eivind Helland|5|D|21|Norway|5|2|0|0
+Torbjørn Heggem|14|D|27|Norway|6|0|0|0
+Nicolo Casale|16|D|28|Italy|2|0|0|0
+Nadir Zortea|20|D|27|Italy|5|1|0|0
+Rahim Alhassane|23|D|24|Niger|3|1|0|0
+Lorenzo De Silvestri|29|D|38|Italy|1|1|0|0
+Juan Miranda|33|D|26|Spain|6|1|0|2
+Matteo Darmian|36|D|36|Italy|2|0|0|0
+Martin Vitík|41|D|23|Czechia|0|0|0|0
+Tommaso Pobega|4|M|27|Italy|6|0|1|0
+Nikola Moro|6|M|28|Croatia|5|5|0|0
+Mikel Amondarain|8|M|21|Argentina|3|2|0|0
+Oussama El Azzouzi|17|M|25|Morocco|2|1|0|0
+Marco Libra|18|M|18|Venezuela|2|2|0|0
+Lewis Ferguson|19|M|27|Scotland|7|0|0|0
+Riccardo Orsolini|7|F|29|Italy|4|2|1|0
+Artem Dovbyk|9|F|29|Ukraine|4|4|1|0
+Federico Bernardeschi|10|F|32|Italy|7|2|1|0
+Samuel Mbangula|11|F|22|Belgium|2|2|0|0
+Jens Odgaard|21|F|27|Denmark|5|2|0|0
+Jay Enem|22|F|23|Netherlands|3|3|1|0
+Nicolò Cambiaghi|28|F|25|Italy|7|0|0|2
+Roberto Piccoli|91|F|25|Italy|7|0|1|0

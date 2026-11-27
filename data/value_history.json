@@ -1271,6 +1271,12 @@
 "d": "2026-11-26",
 "v": 10.5,
 "club": "genoa"
+},
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "genoa",
+"r": "Sakatlık: ön çapraz bağ, yaklaşık 6 ay yok"
 }
 ],
 "alessandro-romano": [
@@ -14296,8 +14302,9 @@
 "manu-sanchez": [
 {
 "d": "2026-11-27",
-"v": 6.5,
-"club": "levante"
+"v": 4.9,
+"club": "levante",
+"r": "Sakatlık: ön çapraz bağ kopması, sezonu kapattı"
 }
 ],
 "nacho-perez": [
@@ -16958,6 +16965,5305 @@
 "d": "2026-11-27",
 "v": 4.9,
 "club": "mainz"
+}
+],
+"alessandro-longoni": [
+{
+"d": "2026-11-27",
+"v": 1.1,
+"club": "psg"
+}
+],
+"lucas-chevalier": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "psg"
+}
+],
+"matvei-safonov": [
+{
+"d": "2026-11-27",
+"v": 12.5,
+"club": "psg"
+}
+],
+"achraf-hakimi": [
+{
+"d": "2026-11-27",
+"v": 48.0,
+"club": "psg"
+}
+],
+"lucas-beraldo": [
+{
+"d": "2026-11-27",
+"v": 16.5,
+"club": "psg"
+}
+],
+"marquinhos": [
+{
+"d": "2026-11-27",
+"v": 12.5,
+"club": "psg"
+}
+],
+"illia-zabarnyi": [
+{
+"d": "2026-11-27",
+"v": 28.0,
+"club": "psg"
+}
+],
+"lucas-digne": [
+{
+"d": "2026-11-27",
+"v": 1.4,
+"club": "psg"
+}
+],
+"lucas-hernandez": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "psg"
+}
+],
+"nuno-mendes": [
+{
+"d": "2026-11-27",
+"v": 21.0,
+"club": "psg"
+}
+],
+"david-boly": [
+{
+"d": "2026-11-27",
+"v": 1.3,
+"club": "psg"
+}
+],
+"willian-pacho": [
+{
+"d": "2026-11-27",
+"v": 20.0,
+"club": "psg"
+}
+],
+"fabian-ruiz": [
+{
+"d": "2026-11-27",
+"v": 12.5,
+"club": "psg"
+}
+],
+"maghnes-akliouche": [
+{
+"d": "2026-11-27",
+"v": 19.5,
+"club": "psg"
+}
+],
+"vitinha-psg": [
+{
+"d": "2026-11-27",
+"v": 44.0,
+"club": "psg"
+}
+],
+"senny-mayulu": [
+{
+"d": "2026-11-27",
+"v": 21.0,
+"club": "psg"
+}
+],
+"dro-fernandez": [
+{
+"d": "2026-11-27",
+"v": 8.5,
+"club": "psg"
+}
+],
+"warren-zaire-emery": [
+{
+"d": "2026-11-27",
+"v": 26.0,
+"club": "psg"
+}
+],
+"joao-neves": [
+{
+"d": "2026-11-27",
+"v": 35.0,
+"club": "psg"
+}
+],
+"khvicha-kvaratskhelia": [
+{
+"d": "2026-11-27",
+"v": 44.0,
+"club": "psg"
+}
+],
+"ferran-torres": [
+{
+"d": "2026-11-27",
+"v": 20.0,
+"club": "psg"
+}
+],
+"ousmane-dembele": [
+{
+"d": "2026-11-27",
+"v": 29.0,
+"club": "psg"
+}
+],
+"desire-doue": [
+{
+"d": "2026-11-27",
+"v": 29.0,
+"club": "psg"
+}
+],
+"mika-godts": [
+{
+"d": "2026-11-27",
+"v": 15.5,
+"club": "psg"
+}
+],
+"quentin-ndjantou": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "psg"
+}
+],
+"stefano-mangiapoco": [
+{
+"d": "2026-11-27",
+"v": 3.7,
+"club": "juventus"
+}
+],
+"justin-oboavwoduo": [
+{
+"d": "2026-11-27",
+"v": 4.5,
+"club": "juventus"
+}
+],
+"tommaso-de-nipoti": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "atalanta"
+}
+],
+"alessio-furlanetto": [
+{
+"d": "2026-11-27",
+"v": 3.7,
+"club": "lazio"
+}
+],
+"alejandro-postigo": [
+{
+"d": "2026-11-27",
+"v": 3.3,
+"club": "real-betis"
+}
+],
+"alvaro-valles": [
+{
+"d": "2026-11-27",
+"v": 9.5,
+"club": "real-betis"
+}
+],
+"diego-conde": [
+{
+"d": "2026-11-27",
+"v": 2.3,
+"club": "real-betis"
+}
+],
+"manu-gonzalez": [
+{
+"d": "2026-11-27",
+"v": 1.7,
+"club": "real-betis"
+}
+],
+"alvaro-de-pablo": [
+{
+"d": "2026-11-27",
+"v": 2.7,
+"club": "real-betis"
+}
+],
+"hector-bellerin": [
+{
+"d": "2026-11-27",
+"v": 4.2,
+"club": "real-betis"
+}
+],
+"diego-llorente": [
+{
+"d": "2026-11-27",
+"v": 1.4,
+"club": "real-betis"
+}
+],
+"natan": [
+{
+"d": "2026-11-27",
+"v": 15.5,
+"club": "real-betis"
+}
+],
+"marc-bartra": [
+{
+"d": "2026-11-27",
+"v": 1.5,
+"club": "real-betis"
+}
+],
+"fran-garcia": [
+{
+"d": "2026-11-27",
+"v": 9.0,
+"club": "real-betis"
+}
+],
+"angel-ortiz": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "real-betis"
+}
+],
+"valentin-gomez": [
+{
+"d": "2026-11-27",
+"v": 17.5,
+"club": "real-betis"
+}
+],
+"junior-firpo": [
+{
+"d": "2026-11-27",
+"v": 2.7,
+"club": "real-betis"
+}
+],
+"ivan-corralejo": [
+{
+"d": "2026-11-27",
+"v": 3.5,
+"club": "real-betis"
+}
+],
+"facundo-bernal": [
+{
+"d": "2026-11-27",
+"v": 9.0,
+"club": "real-betis"
+}
+],
+"pablo-fornals": [
+{
+"d": "2026-11-27",
+"v": 9.5,
+"club": "real-betis"
+}
+],
+"alvaro-fidalgo": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "real-betis"
+}
+],
+"rodrigo-riquelme": [
+{
+"d": "2026-11-27",
+"v": 14.5,
+"club": "real-betis"
+}
+],
+"nelson-deossa": [
+{
+"d": "2026-11-27",
+"v": 12.0,
+"club": "real-betis"
+}
+],
+"giovani-lo-celso": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "real-betis"
+}
+],
+"marc-roca": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "real-betis"
+}
+],
+"isco": [
+{
+"d": "2026-11-27",
+"v": 3.7,
+"club": "real-betis"
+}
+],
+"dani-ceballos": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "real-betis"
+}
+],
+"rodrigo-marina": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "real-betis"
+}
+],
+"antony": [
+{
+"d": "2026-11-27",
+"v": 20.0,
+"club": "real-betis"
+}
+],
+"cucho-hernandez": [
+{
+"d": "2026-11-27",
+"v": 14.0,
+"club": "real-betis"
+}
+],
+"abde-ezzalzouli": [
+{
+"d": "2026-11-27",
+"v": 20.0,
+"club": "real-betis"
+}
+],
+"iker-losada": [
+{
+"d": "2026-11-27",
+"v": 4.6,
+"club": "real-betis"
+}
+],
+"troy-parrott": [
+{
+"d": "2026-11-27",
+"v": 13.5,
+"club": "real-betis"
+}
+],
+"aitor-ruibal": [
+{
+"d": "2026-11-27",
+"v": 2.9,
+"club": "real-betis"
+}
+],
+"jose-morante": [
+{
+"d": "2026-11-27",
+"v": 3.1,
+"club": "real-betis"
+}
+],
+"jeffrey-de-lange": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "marseille"
+}
+],
+"jelle-van-neck": [
+{
+"d": "2026-11-27",
+"v": 3.1,
+"club": "marseille"
+}
+],
+"ibrahim-gomis": [
+{
+"d": "2026-11-27",
+"v": 3.0,
+"club": "marseille"
+}
+],
+"theo-vermot": [
+{
+"d": "2026-11-27",
+"v": 1.7,
+"club": "marseille"
+}
+],
+"cj-egan-riley": [
+{
+"d": "2026-11-27",
+"v": 19.0,
+"club": "marseille"
+}
+],
+"derek-cornelius": [
+{
+"d": "2026-11-27",
+"v": 2.6,
+"club": "marseille"
+}
+],
+"bamo-meite": [
+{
+"d": "2026-11-27",
+"v": 2.8,
+"club": "marseille"
+}
+],
+"nayef-aguerd": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "marseille"
+}
+],
+"ulisses-garcia": [
+{
+"d": "2026-11-27",
+"v": 2.8,
+"club": "marseille"
+}
+],
+"emerson": [
+{
+"d": "2026-11-27",
+"v": 4.9,
+"club": "marseille"
+}
+],
+"alexi-koum": [
+{
+"d": "2026-11-27",
+"v": 2.7,
+"club": "marseille"
+}
+],
+"rayan-bang-na": [
+{
+"d": "2026-11-27",
+"v": 2.4,
+"club": "marseille"
+}
+],
+"anis-doubal": [
+{
+"d": "2026-11-27",
+"v": 3.5,
+"club": "marseille"
+}
+],
+"kelyann-bezahaf": [
+{
+"d": "2026-11-27",
+"v": 2.4,
+"club": "marseille"
+}
+],
+"hilan-slimani": [
+{
+"d": "2026-11-27",
+"v": 3.5,
+"club": "marseille"
+}
+],
+"mathis-clement": [
+{
+"d": "2026-11-27",
+"v": 3.5,
+"club": "marseille"
+}
+],
+"tochukwu-nnadi": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "marseille"
+}
+],
+"angel-gomes": [
+{
+"d": "2026-11-27",
+"v": 14.0,
+"club": "marseille"
+}
+],
+"himad-abdelli": [
+{
+"d": "2026-11-27",
+"v": 14.0,
+"club": "marseille"
+}
+],
+"geoffrey-kondogbia": [
+{
+"d": "2026-11-27",
+"v": 2.0,
+"club": "marseille"
+}
+],
+"pierre-emile-hjbjerg": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "marseille"
+}
+],
+"nouhoum-kamissoko": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "marseille"
+}
+],
+"amine-harit": [
+{
+"d": "2026-11-27",
+"v": 13.0,
+"club": "marseille"
+}
+],
+"amine-gouiri": [
+{
+"d": "2026-11-27",
+"v": 40.0,
+"club": "marseille"
+}
+],
+"neal-maupay": [
+{
+"d": "2026-11-27",
+"v": 3.9,
+"club": "marseille"
+}
+],
+"igor-paixao": [
+{
+"d": "2026-11-27",
+"v": 18.5,
+"club": "marseille"
+}
+],
+"timothy-weah": [
+{
+"d": "2026-11-27",
+"v": 13.0,
+"club": "marseille"
+}
+],
+"faris-moumbagna": [
+{
+"d": "2026-11-27",
+"v": 4.8,
+"club": "marseille"
+}
+],
+"tadjidine-mmadi": [
+{
+"d": "2026-11-27",
+"v": 2.6,
+"club": "marseille"
+}
+],
+"keyliane-abdallah": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "marseille"
+}
+],
+"ugo-el-kadmiri": [
+{
+"d": "2026-11-27",
+"v": 3.2,
+"club": "marseille"
+}
+],
+"matteo-pisseri": [
+{
+"d": "2026-11-27",
+"v": 0.8,
+"club": "frosinone"
+}
+],
+"lorenzo-palmisani": [
+{
+"d": "2026-11-27",
+"v": 9.5,
+"club": "frosinone"
+}
+],
+"sebastiano-desplanches": [
+{
+"d": "2026-11-27",
+"v": 2.8,
+"club": "frosinone"
+}
+],
+"giorgio-cittadini": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "frosinone"
+}
+],
+"gabriele-calvani": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "frosinone"
+}
+],
+"wisdom-amey": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "frosinone"
+}
+],
+"anthony-oyono": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "frosinone"
+}
+],
+"kevin-akpoguma": [
+{
+"d": "2026-11-27",
+"v": 1.9,
+"club": "frosinone"
+}
+],
+"ilario-monterisi": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "frosinone"
+}
+],
+"aleksa-terzic": [
+{
+"d": "2026-11-27",
+"v": 8.5,
+"club": "frosinone"
+}
+],
+"omar-fayed": [
+{
+"d": "2026-11-27",
+"v": 3.9,
+"club": "frosinone"
+}
+],
+"gabriele-bracaglia": [
+{
+"d": "2026-11-27",
+"v": 14.0,
+"club": "frosinone"
+}
+],
+"enzo-tchato": [
+{
+"d": "2026-11-27",
+"v": 4.0,
+"club": "frosinone"
+}
+],
+"ben-lhassine-kone": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "frosinone"
+}
+],
+"romano-schmid": [
+{
+"d": "2026-11-27",
+"v": 17.5,
+"club": "frosinone"
+}
+],
+"giacomo-calo": [
+{
+"d": "2026-11-27",
+"v": 12.0,
+"club": "frosinone"
+}
+],
+"matteo-cichella": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "frosinone"
+}
+],
+"florian-grillitsch": [
+{
+"d": "2026-11-27",
+"v": 2.5,
+"club": "frosinone"
+}
+],
+"anouar-el-azzouzi": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "frosinone"
+}
+],
+"luis-hasa": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "frosinone"
+}
+],
+"patrizio-masini": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "frosinone"
+}
+],
+"francesco-gelli": [
+{
+"d": "2026-11-27",
+"v": 3.8,
+"club": "frosinone"
+}
+],
+"fares-ghedjemis": [
+{
+"d": "2026-11-27",
+"v": 10.5,
+"club": "frosinone"
+}
+],
+"antonio-raimondo": [
+{
+"d": "2026-11-27",
+"v": 27.0,
+"club": "frosinone"
+}
+],
+"daniel-birligea": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "frosinone"
+}
+],
+"giorgi-kvernadze": [
+{
+"d": "2026-11-27",
+"v": 17.0,
+"club": "frosinone"
+}
+],
+"alessio-zerbin": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "frosinone"
+}
+],
+"seydou-fini": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "frosinone"
+}
+],
+"tomas-bobcek": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "frosinone"
+}
+],
+"lukas-hradecky": [
+{
+"d": "2026-11-27",
+"v": 1.4,
+"club": "monaco"
+}
+],
+"philipp-kohn": [
+{
+"d": "2026-11-27",
+"v": 3.3,
+"club": "monaco"
+}
+],
+"jules-stawiecki": [
+{
+"d": "2026-11-27",
+"v": 1.9,
+"club": "monaco"
+}
+],
+"vanderson": [
+{
+"d": "2026-11-27",
+"v": 16.0,
+"club": "monaco"
+}
+],
+"jordan-teze": [
+{
+"d": "2026-11-27",
+"v": 12.5,
+"club": "monaco"
+}
+],
+"christian-mawissa": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "monaco"
+}
+],
+"eric-dier": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "monaco"
+}
+],
+"nazinho": [
+{
+"d": "2026-11-27",
+"v": 15.0,
+"club": "monaco"
+}
+],
+"mohammed-salisu": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "monaco"
+}
+],
+"sadibou-sane": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "monaco"
+}
+],
+"denis-zakaria": [
+{
+"d": "2026-11-27",
+"v": 11.5,
+"club": "monaco"
+}
+],
+"lamine-camara": [
+{
+"d": "2026-11-27",
+"v": 17.0,
+"club": "monaco"
+}
+],
+"aleksandr-golovin": [
+{
+"d": "2026-11-27",
+"v": 9.0,
+"club": "monaco"
+}
+],
+"stanis-idumbo": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "monaco"
+}
+],
+"takumi-minamino": [
+{
+"d": "2026-11-27",
+"v": 3.2,
+"club": "monaco"
+}
+],
+"pape-cabral": [
+{
+"d": "2026-11-27",
+"v": 2.2,
+"club": "monaco"
+}
+],
+"mamadou-coulibaly": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "monaco"
+}
+],
+"edan-diop": [
+{
+"d": "2026-11-27",
+"v": 11.5,
+"club": "monaco"
+}
+],
+"samuel-nibombe": [
+{
+"d": "2026-11-27",
+"v": 2.9,
+"club": "monaco"
+}
+],
+"ilane-toure": [
+{
+"d": "2026-11-27",
+"v": 3.3,
+"club": "monaco"
+}
+],
+"mathys-detourbet": [
+{
+"d": "2026-11-27",
+"v": 2.9,
+"club": "monaco"
+}
+],
+"folarin-balogun": [
+{
+"d": "2026-11-27",
+"v": 12.0,
+"club": "monaco"
+}
+],
+"matthis-abline": [
+{
+"d": "2026-11-27",
+"v": 16.5,
+"club": "monaco"
+}
+],
+"mika-biereth": [
+{
+"d": "2026-11-27",
+"v": 8.5,
+"club": "monaco"
+}
+],
+"paris-brunner": [
+{
+"d": "2026-11-27",
+"v": 13.5,
+"club": "monaco"
+}
+],
+"ansu-fati": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "monaco"
+}
+],
+"lucas-perri": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "torino"
+}
+],
+"diego-mascardi": [
+{
+"d": "2026-11-27",
+"v": 3.0,
+"club": "torino"
+}
+],
+"lapo-siviero": [
+{
+"d": "2026-11-27",
+"v": 1.7,
+"club": "torino"
+}
+],
+"franco-israel": [
+{
+"d": "2026-11-27",
+"v": 4.6,
+"club": "torino"
+}
+],
+"francesco-cereser": [
+{
+"d": "2026-11-27",
+"v": 1.9,
+"club": "torino"
+}
+],
+"nathan-patterson": [
+{
+"d": "2026-11-27",
+"v": 4.5,
+"club": "torino"
+}
+],
+"cristiano-biraghi": [
+{
+"d": "2026-11-27",
+"v": 0.75,
+"club": "torino"
+}
+],
+"eray-comert": [
+{
+"d": "2026-11-27",
+"v": 8.5,
+"club": "torino"
+}
+],
+"ricardo-rodriguez": [
+{
+"d": "2026-11-27",
+"v": 0.85,
+"club": "torino"
+}
+],
+"pietro-comuzzo": [
+{
+"d": "2026-11-27",
+"v": 17.5,
+"club": "torino"
+}
+],
+"saul-coco": [
+{
+"d": "2026-11-27",
+"v": 9.0,
+"club": "torino"
+}
+],
+"niccolo-fortini": [
+{
+"d": "2026-11-27",
+"v": 4.8,
+"club": "torino"
+}
+],
+"adrian-ismajli": [
+{
+"d": "2026-11-27",
+"v": 4.3,
+"club": "torino"
+}
+],
+"rafik-belghali": [
+{
+"d": "2026-11-27",
+"v": 16.5,
+"club": "torino"
+}
+],
+"emirhan-ilkhan": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "torino"
+}
+],
+"rolando-mandragora": [
+{
+"d": "2026-11-27",
+"v": 9.0,
+"club": "torino"
+}
+],
+"nikola-vlasic": [
+{
+"d": "2026-11-27",
+"v": 11.5,
+"club": "torino"
+}
+],
+"gaetano-oristanio": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "torino"
+}
+],
+"daniel-braganca": [
+{
+"d": "2026-11-27",
+"v": 9.0,
+"club": "torino"
+}
+],
+"cesare-casadei": [
+{
+"d": "2026-11-27",
+"v": 11.5,
+"club": "torino"
+}
+],
+"kian-fitz-jim": [
+{
+"d": "2026-11-27",
+"v": 11.5,
+"club": "torino"
+}
+],
+"gvidas-gineitis": [
+{
+"d": "2026-11-27",
+"v": 10.0,
+"club": "torino"
+}
+],
+"alessio-cacciamani": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "torino"
+}
+],
+"zalan-kugyela": [
+{
+"d": "2026-11-27",
+"v": 3.5,
+"club": "torino"
+}
+],
+"zakaria-aboukhlal": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "torino"
+}
+],
+"pietro-pellegri": [
+{
+"d": "2026-11-27",
+"v": 4.6,
+"club": "torino"
+}
+],
+"sandro-kulenovic": [
+{
+"d": "2026-11-27",
+"v": 9.0,
+"club": "torino"
+}
+],
+"giovanni-simeone": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "torino"
+}
+],
+"che-adams": [
+{
+"d": "2026-11-27",
+"v": 9.5,
+"club": "torino"
+}
+],
+"andrea-luongo": [
+{
+"d": "2026-11-27",
+"v": 2.4,
+"club": "torino"
+}
+],
+"duvan-zapata": [
+{
+"d": "2026-11-27",
+"v": 0.6,
+"club": "torino"
+}
+],
+"simon-eriksson": [
+{
+"d": "2026-11-27",
+"v": 2.5,
+"club": "racing-santander"
+}
+],
+"julen-agirrezabala": [
+{
+"d": "2026-11-27",
+"v": 12.5,
+"club": "racing-santander"
+}
+],
+"laro-gomez": [
+{
+"d": "2026-11-27",
+"v": 2.5,
+"club": "racing-santander"
+}
+],
+"alvaro-mantilla": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "racing-santander"
+}
+],
+"aaron-martin": [
+{
+"d": "2026-11-27",
+"v": 3.8,
+"club": "racing-santander"
+}
+],
+"manu": [
+{
+"d": "2026-11-27",
+"v": 3.2,
+"club": "racing-santander"
+}
+],
+"pablo-ramon": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "racing-santander"
+}
+],
+"facundo-gonzalez": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "racing-santander"
+}
+],
+"jorge-salinas": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "racing-santander"
+}
+],
+"pedro-felipe": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "racing-santander"
+}
+],
+"jeanuel-belocian": [
+{
+"d": "2026-11-27",
+"v": 11.5,
+"club": "racing-santander"
+}
+],
+"hector-mejia": [
+{
+"d": "2026-11-27",
+"v": 4.6,
+"club": "racing-santander"
+}
+],
+"inigo-sainz": [
+{
+"d": "2026-11-27",
+"v": 3.4,
+"club": "racing-santander"
+}
+],
+"andre-almeida": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "racing-santander"
+}
+],
+"maguette-gueye": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "racing-santander"
+}
+],
+"matteo-prati": [
+{
+"d": "2026-11-27",
+"v": 10.5,
+"club": "racing-santander"
+}
+],
+"sergio-canales": [
+{
+"d": "2026-11-27",
+"v": 2.1,
+"club": "racing-santander"
+}
+],
+"ivan-martin": [
+{
+"d": "2026-11-27",
+"v": 9.5,
+"club": "racing-santander"
+}
+],
+"andres-vallecillo": [
+{
+"d": "2026-11-27",
+"v": 3.8,
+"club": "racing-santander"
+}
+],
+"mario-solorzano": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "racing-santander"
+}
+],
+"junior-bita": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "racing-santander"
+}
+],
+"giorgi-guliashvili": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "racing-santander"
+}
+],
+"juan-carlos-arana": [
+{
+"d": "2026-11-27",
+"v": 4.2,
+"club": "racing-santander"
+}
+],
+"inigo-vicente": [
+{
+"d": "2026-11-27",
+"v": 11.0,
+"club": "racing-santander"
+}
+],
+"andres-martin": [
+{
+"d": "2026-11-27",
+"v": 8.5,
+"club": "racing-santander"
+}
+],
+"asier-villalibre": [
+{
+"d": "2026-11-27",
+"v": 4.2,
+"club": "racing-santander"
+}
+],
+"pablo-garcia": [
+{
+"d": "2026-11-27",
+"v": 9.0,
+"club": "racing-santander"
+}
+],
+"iker-luque": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "racing-santander"
+}
+],
+"yassir-zabiri": [
+{
+"d": "2026-11-27",
+"v": 33.0,
+"club": "racing-santander"
+}
+],
+"filip-jrgensen": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "strasbourg"
+}
+],
+"milosz-piekutowski": [
+{
+"d": "2026-11-27",
+"v": 2.0,
+"club": "strasbourg"
+}
+],
+"gabriel-kerckaert": [
+{
+"d": "2026-11-27",
+"v": 1.9,
+"club": "strasbourg"
+}
+],
+"hermann-diandaga": [
+{
+"d": "2026-11-27",
+"v": 2.0,
+"club": "strasbourg"
+}
+],
+"jeyland-mitchell": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "strasbourg"
+}
+],
+"ismael-doukoure": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "strasbourg"
+}
+],
+"mateo-del-blanco": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "strasbourg"
+}
+],
+"genesis-antwi": [
+{
+"d": "2026-11-27",
+"v": 2.5,
+"club": "strasbourg"
+}
+],
+"lucas-hgsberg": [
+{
+"d": "2026-11-27",
+"v": 3.2,
+"club": "strasbourg"
+}
+],
+"karim-coulibaly": [
+{
+"d": "2026-11-27",
+"v": 2.3,
+"club": "strasbourg"
+}
+],
+"oso": [
+{
+"d": "2026-11-27",
+"v": 13.5,
+"club": "strasbourg"
+}
+],
+"yoann-becker": [
+{
+"d": "2026-11-27",
+"v": 1.3,
+"club": "strasbourg"
+}
+],
+"maximillian-oyedele": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "strasbourg"
+}
+],
+"giovanni-reyna": [
+{
+"d": "2026-11-27",
+"v": 14.5,
+"club": "strasbourg"
+}
+],
+"sebastian-nanasi": [
+{
+"d": "2026-11-27",
+"v": 12.0,
+"club": "strasbourg"
+}
+],
+"dario-essugo": [
+{
+"d": "2026-11-27",
+"v": 13.0,
+"club": "strasbourg"
+}
+],
+"pape-diop": [
+{
+"d": "2026-11-27",
+"v": 8.5,
+"club": "strasbourg"
+}
+],
+"diogo-sousa": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "strasbourg"
+}
+],
+"omari-kellyman": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "strasbourg"
+}
+],
+"tyrese-noubissie": [
+{
+"d": "2026-11-27",
+"v": 1.5,
+"club": "strasbourg"
+}
+],
+"samir-el-mourabet": [
+{
+"d": "2026-11-27",
+"v": 4.4,
+"club": "strasbourg"
+}
+],
+"benjamin-brantlind": [
+{
+"d": "2026-11-27",
+"v": 1.8,
+"club": "strasbourg"
+}
+],
+"samuel-amo-ameyaw": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "strasbourg"
+}
+],
+"joaquin-panichelli": [
+{
+"d": "2026-11-27",
+"v": 12.0,
+"club": "strasbourg"
+}
+],
+"sekou-mara": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "strasbourg"
+}
+],
+"deivid-washington": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "strasbourg"
+}
+],
+"fabio-balde": [
+{
+"d": "2026-11-27",
+"v": 3.7,
+"club": "strasbourg"
+}
+],
+"martial-godo": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "strasbourg"
+}
+],
+"yaya-dieme": [
+{
+"d": "2026-11-27",
+"v": 2.2,
+"club": "strasbourg"
+}
+],
+"ghianny-kodia": [
+{
+"d": "2026-11-27",
+"v": 2.4,
+"club": "strasbourg"
+}
+],
+"conrad-harder": [
+{
+"d": "2026-11-27",
+"v": 11.5,
+"club": "strasbourg"
+}
+],
+"gessime-yassine": [
+{
+"d": "2026-11-27",
+"v": 13.5,
+"club": "strasbourg"
+}
+],
+"matthias-da-silva": [
+{
+"d": "2026-11-27",
+"v": 1.5,
+"club": "lyon"
+}
+],
+"justin-bengui-joao": [
+{
+"d": "2026-11-27",
+"v": 3.0,
+"club": "lyon"
+}
+],
+"lassine-diarra": [
+{
+"d": "2026-11-27",
+"v": 3.1,
+"club": "lyon"
+}
+],
+"dominik-greif": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "lyon"
+}
+],
+"remy-descamps": [
+{
+"d": "2026-11-27",
+"v": 1.8,
+"club": "lyon"
+}
+],
+"adil-hamdani": [
+{
+"d": "2026-11-27",
+"v": 1.7,
+"club": "lyon"
+}
+],
+"alejandro-rodriguez": [
+{
+"d": "2026-11-27",
+"v": 2.0,
+"club": "lyon"
+}
+],
+"remi-himbert": [
+{
+"d": "2026-11-27",
+"v": 2.3,
+"club": "lyon"
+}
+],
+"noham-kamara": [
+{
+"d": "2026-11-27",
+"v": 1.7,
+"club": "lyon"
+}
+],
+"steeve-kango": [
+{
+"d": "2026-11-27",
+"v": 2.4,
+"club": "lyon"
+}
+],
+"khalis-merah": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "lyon"
+}
+],
+"julien-duranville": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "lyon"
+}
+],
+"kail-boudache": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "lyon"
+}
+],
+"zachary-athekame": [
+{
+"d": "2026-11-27",
+"v": 21.0,
+"club": "lyon"
+}
+],
+"noah-nartey": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "lyon"
+}
+],
+"mohamed-ouedraogo": [
+{
+"d": "2026-11-27",
+"v": 3.2,
+"club": "lyon"
+}
+],
+"ernest-nuamah": [
+{
+"d": "2026-11-27",
+"v": 18.0,
+"club": "lyon"
+}
+],
+"tyler-morton": [
+{
+"d": "2026-11-27",
+"v": 11.0,
+"club": "lyon"
+}
+],
+"ruben-kluivert": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "lyon"
+}
+],
+"mads-bidstrup": [
+{
+"d": "2026-11-27",
+"v": 9.0,
+"club": "lyon"
+}
+],
+"tanner-tessmann": [
+{
+"d": "2026-11-27",
+"v": 10.0,
+"club": "lyon"
+}
+],
+"pavel-sulc": [
+{
+"d": "2026-11-27",
+"v": 15.5,
+"club": "lyon"
+}
+],
+"abner": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "lyon"
+}
+],
+"felix-bacher": [
+{
+"d": "2026-11-27",
+"v": 14.5,
+"club": "lyon"
+}
+],
+"keito-nakamura": [
+{
+"d": "2026-11-27",
+"v": 9.0,
+"club": "lyon"
+}
+],
+"lois-openda": [
+{
+"d": "2026-11-27",
+"v": 14.5,
+"club": "lyon"
+}
+],
+"moussa-niakhate": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "lyon"
+}
+],
+"corentin-tolisso": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "lyon"
+}
+],
+"clinton-mata": [
+{
+"d": "2026-11-27",
+"v": 1.3,
+"club": "lyon"
+}
+],
+"nicolas-tagliafico": [
+{
+"d": "2026-11-27",
+"v": 0.95,
+"club": "lyon"
+}
+],
+"alessandro-sugamele": [
+{
+"d": "2026-11-27",
+"v": 3.1,
+"club": "cagliari"
+}
+],
+"mio-backhaus": [
+{
+"d": "2026-11-27",
+"v": 9.0,
+"club": "sc-freiburg"
+}
+],
+"florian-muller": [
+{
+"d": "2026-11-27",
+"v": 1.9,
+"club": "sc-freiburg"
+}
+],
+"jannik-huth": [
+{
+"d": "2026-11-27",
+"v": 1.1,
+"club": "sc-freiburg"
+}
+],
+"philipp-lienhart": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "sc-freiburg"
+}
+],
+"anthony-jung": [
+{
+"d": "2026-11-27",
+"v": 0.4,
+"club": "sc-freiburg"
+}
+],
+"lukas-kubler": [
+{
+"d": "2026-11-27",
+"v": 1.1,
+"club": "sc-freiburg"
+}
+],
+"berkay-yilmaz": [
+{
+"d": "2026-11-27",
+"v": 3.2,
+"club": "sc-freiburg"
+}
+],
+"matthias-ginter": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "sc-freiburg"
+}
+],
+"philipp-treu": [
+{
+"d": "2026-11-27",
+"v": 10.0,
+"club": "sc-freiburg"
+}
+],
+"christian-gunter": [
+{
+"d": "2026-11-27",
+"v": 0.85,
+"club": "sc-freiburg"
+}
+],
+"jordy-makengo": [
+{
+"d": "2026-11-27",
+"v": 14.5,
+"club": "sc-freiburg"
+}
+],
+"max-rosenfelder": [
+{
+"d": "2026-11-27",
+"v": 2.9,
+"club": "sc-freiburg"
+}
+],
+"ifechukwu-ogbus": [
+{
+"d": "2026-11-27",
+"v": 2.8,
+"club": "sc-freiburg"
+}
+],
+"patrick-osterhage": [
+{
+"d": "2026-11-27",
+"v": 4.6,
+"club": "sc-freiburg"
+}
+],
+"maximilian-eggestein": [
+{
+"d": "2026-11-27",
+"v": 13.5,
+"club": "sc-freiburg"
+}
+],
+"yuito-suzuki": [
+{
+"d": "2026-11-27",
+"v": 22.0,
+"club": "sc-freiburg"
+}
+],
+"yannick-engelhardt": [
+{
+"d": "2026-11-27",
+"v": 12.5,
+"club": "sc-freiburg"
+}
+],
+"niklas-beste": [
+{
+"d": "2026-11-27",
+"v": 9.5,
+"club": "sc-freiburg"
+}
+],
+"rihito-yamamoto": [
+{
+"d": "2026-11-27",
+"v": 4.0,
+"club": "sc-freiburg"
+}
+],
+"florent-muslija": [
+{
+"d": "2026-11-27",
+"v": 4.4,
+"club": "sc-freiburg"
+}
+],
+"vincenzo-grifo": [
+{
+"d": "2026-11-27",
+"v": 2.1,
+"club": "sc-freiburg"
+}
+],
+"rouven-tarnutzer": [
+{
+"d": "2026-11-27",
+"v": 3.2,
+"club": "sc-freiburg"
+}
+],
+"derry-scherhant": [
+{
+"d": "2026-11-27",
+"v": 13.5,
+"club": "sc-freiburg"
+}
+],
+"lucas-holer": [
+{
+"d": "2026-11-27",
+"v": 2.5,
+"club": "sc-freiburg"
+}
+],
+"cyriaque-irie": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "sc-freiburg"
+}
+],
+"igor-matanovic": [
+{
+"d": "2026-11-27",
+"v": 19.5,
+"club": "sc-freiburg"
+}
+],
+"keisuke-goto": [
+{
+"d": "2026-11-27",
+"v": 9.0,
+"club": "sc-freiburg"
+}
+],
+"finn-dahmen": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "fc-augsburg"
+}
+],
+"nediljko-labrovic": [
+{
+"d": "2026-11-27",
+"v": 2.2,
+"club": "fc-augsburg"
+}
+],
+"tom-wisbereit": [
+{
+"d": "2026-11-27",
+"v": 2.1,
+"club": "fc-augsburg"
+}
+],
+"calvin-brackelmann": [
+{
+"d": "2026-11-27",
+"v": 8.5,
+"club": "fc-augsburg"
+}
+],
+"chrislain-matsima": [
+{
+"d": "2026-11-27",
+"v": 8.5,
+"club": "fc-augsburg"
+}
+],
+"jeffrey-gouweleeuw": [
+{
+"d": "2026-11-27",
+"v": 0.65,
+"club": "fc-augsburg"
+}
+],
+"seol-young-woo": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "fc-augsburg"
+}
+],
+"hennes-behrens": [
+{
+"d": "2026-11-27",
+"v": 11.0,
+"club": "fc-augsburg"
+}
+],
+"marius-wolf": [
+{
+"d": "2026-11-27",
+"v": 2.5,
+"club": "fc-augsburg"
+}
+],
+"juma-bah": [
+{
+"d": "2026-11-27",
+"v": 11.0,
+"club": "fc-augsburg"
+}
+],
+"noahkai-banks": [
+{
+"d": "2026-11-27",
+"v": 3.8,
+"club": "fc-augsburg"
+}
+],
+"han-noah-massengo": [
+{
+"d": "2026-11-27",
+"v": 10.5,
+"club": "fc-augsburg"
+}
+],
+"klaus-suso": [
+{
+"d": "2026-11-27",
+"v": 3.7,
+"club": "fc-augsburg"
+}
+],
+"mert-komur": [
+{
+"d": "2026-11-27",
+"v": 10.5,
+"club": "fc-augsburg"
+}
+],
+"yannik-keitel": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "fc-augsburg"
+}
+],
+"tim-breithaupt": [
+{
+"d": "2026-11-27",
+"v": 3.8,
+"club": "fc-augsburg"
+}
+],
+"robin-fellhauer": [
+{
+"d": "2026-11-27",
+"v": 8.5,
+"club": "fc-augsburg"
+}
+],
+"alexis-claude-maurice": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "fc-augsburg"
+}
+],
+"arijon-ibrahimovic": [
+{
+"d": "2026-11-27",
+"v": 8.5,
+"club": "fc-augsburg"
+}
+],
+"anton-kade": [
+{
+"d": "2026-11-27",
+"v": 12.0,
+"club": "fc-augsburg"
+}
+],
+"fabian-rieder": [
+{
+"d": "2026-11-27",
+"v": 24.0,
+"club": "fc-augsburg"
+}
+],
+"tim-schnitzer": [
+{
+"d": "2026-11-27",
+"v": 2.2,
+"club": "fc-augsburg"
+}
+],
+"loris-husic": [
+{
+"d": "2026-11-27",
+"v": 2.0,
+"club": "fc-augsburg"
+}
+],
+"rodrigo-ribeiro": [
+{
+"d": "2026-11-27",
+"v": 9.5,
+"club": "fc-augsburg"
+}
+],
+"michael-gregoritsch": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "fc-augsburg"
+}
+],
+"steve-mounie": [
+{
+"d": "2026-11-27",
+"v": 2.6,
+"club": "fc-augsburg"
+}
+],
+"faik-sakar": [
+{
+"d": "2026-11-27",
+"v": 3.0,
+"club": "fc-augsburg"
+}
+],
+"uchenna-ogundu": [
+{
+"d": "2026-11-27",
+"v": 3.7,
+"club": "fc-augsburg"
+}
+],
+"elias-havel": [
+{
+"d": "2026-11-27",
+"v": 4.8,
+"club": "genoa"
+}
+],
+"berke-ozer": [
+{
+"d": "2026-11-27",
+"v": 9.5,
+"club": "lille"
+}
+],
+"orlando-gill": [
+{
+"d": "2026-11-27",
+"v": 2.3,
+"club": "lille"
+}
+],
+"zadig-lanssade": [
+{
+"d": "2026-11-27",
+"v": 1.1,
+"club": "lille"
+}
+],
+"loun-srdanovic": [
+{
+"d": "2026-11-27",
+"v": 2.6,
+"club": "lille"
+}
+],
+"nathan-ngoy": [
+{
+"d": "2026-11-27",
+"v": 15.0,
+"club": "lille"
+}
+],
+"alexsandro": [
+{
+"d": "2026-11-27",
+"v": 12.0,
+"club": "lille"
+}
+],
+"romain-perraud": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "lille"
+}
+],
+"tiago-santos": [
+{
+"d": "2026-11-27",
+"v": 16.5,
+"club": "lille"
+}
+],
+"tanguy-nianzou": [
+{
+"d": "2026-11-27",
+"v": 10.5,
+"club": "lille"
+}
+],
+"calvin-verdonk": [
+{
+"d": "2026-11-27",
+"v": 4.4,
+"club": "lille"
+}
+],
+"isaac-cossier": [
+{
+"d": "2026-11-27",
+"v": 1.6,
+"club": "lille"
+}
+],
+"maxima-goffi": [
+{
+"d": "2026-11-27",
+"v": 1.5,
+"club": "lille"
+}
+],
+"nabil-bentaleb": [
+{
+"d": "2026-11-27",
+"v": 4.0,
+"club": "lille"
+}
+],
+"ethan-mbappe": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "lille"
+}
+],
+"hakon-haraldsson": [
+{
+"d": "2026-11-27",
+"v": 16.5,
+"club": "lille"
+}
+],
+"maurits-kjaergaard": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "lille"
+}
+],
+"ngal-ayel-mukau": [
+{
+"d": "2026-11-27",
+"v": 12.0,
+"club": "lille"
+}
+],
+"benjamin-andre": [
+{
+"d": "2026-11-27",
+"v": 1.2,
+"club": "lille"
+}
+],
+"dilane-bakwa": [
+{
+"d": "2026-11-27",
+"v": 11.5,
+"club": "lille"
+}
+],
+"olivier-giroud": [
+{
+"d": "2026-11-27",
+"v": 1.1,
+"club": "lille"
+}
+],
+"osame-sahraoui": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "lille"
+}
+],
+"ayase-ueda": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "lille"
+}
+],
+"basar-onal": [
+{
+"d": "2026-11-27",
+"v": 4.2,
+"club": "lille"
+}
+],
+"gaetan-perrin": [
+{
+"d": "2026-11-27",
+"v": 3.6,
+"club": "lille"
+}
+],
+"hamza-igmane": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "lille"
+}
+],
+"matah-yondjio": [
+{
+"d": "2026-11-27",
+"v": 2.5,
+"club": "lille"
+}
+],
+"soriba-diaoune": [
+{
+"d": "2026-11-27",
+"v": 3.4,
+"club": "lille"
+}
+],
+"nicolas-lemaitre": [
+{
+"d": "2026-11-27",
+"v": 2.0,
+"club": "rennes"
+}
+],
+"brice-samba": [
+{
+"d": "2026-11-27",
+"v": 4.3,
+"club": "rennes"
+}
+],
+"kilian-belazzoug": [
+{
+"d": "2026-11-27",
+"v": 2.0,
+"club": "rennes"
+}
+],
+"charlie-cresswell": [
+{
+"d": "2026-11-27",
+"v": 9.0,
+"club": "rennes"
+}
+],
+"goncalo-oliveira": [
+{
+"d": "2026-11-27",
+"v": 3.0,
+"club": "rennes"
+}
+],
+"bryan-reynolds": [
+{
+"d": "2026-11-27",
+"v": 11.5,
+"club": "rennes"
+}
+],
+"mahamadou-nagida": [
+{
+"d": "2026-11-27",
+"v": 11.0,
+"club": "rennes"
+}
+],
+"anthony-rouault": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "rennes"
+}
+],
+"quentin-merlin": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "rennes"
+}
+],
+"abdelhamid-ait-boudlal": [
+{
+"d": "2026-11-27",
+"v": 8.5,
+"club": "rennes"
+}
+],
+"ayanda-sishuba": [
+{
+"d": "2026-11-27",
+"v": 4.5,
+"club": "rennes"
+}
+],
+"djaoui-cisse": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "rennes"
+}
+],
+"sebastian-szymanski": [
+{
+"d": "2026-11-27",
+"v": 16.5,
+"club": "rennes"
+}
+],
+"valentin-rongier": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "rennes"
+}
+],
+"adrien-thomasson": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "rennes"
+}
+],
+"mahdi-camara": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "rennes"
+}
+],
+"przemyslaw-frankowski": [
+{
+"d": "2026-11-27",
+"v": 4.3,
+"club": "rennes"
+}
+],
+"esteban-lepaul": [
+{
+"d": "2026-11-27",
+"v": 17.5,
+"club": "rennes"
+}
+],
+"ludovic-blas": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "rennes"
+}
+],
+"mousa-al-tamari": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "rennes"
+}
+],
+"eliezer-mayenda": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "rennes"
+}
+],
+"boulaye-dia": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "rennes"
+}
+],
+"elias-legendre": [
+{
+"d": "2026-11-27",
+"v": 2.0,
+"club": "rennes"
+}
+],
+"henrick-do-marcolino": [
+{
+"d": "2026-11-27",
+"v": 3.7,
+"club": "rennes"
+}
+],
+"arnaud-nordin": [
+{
+"d": "2026-11-27",
+"v": 4.1,
+"club": "rennes"
+}
+],
+"issa-soumare": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "rennes"
+}
+],
+"obed-nkambadio": [
+{
+"d": "2026-11-27",
+"v": 3.3,
+"club": "paris-fc"
+}
+],
+"kevin-trapp": [
+{
+"d": "2026-11-27",
+"v": 1.4,
+"club": "paris-fc"
+}
+],
+"nhoa-sangui": [
+{
+"d": "2026-11-27",
+"v": 3.5,
+"club": "paris-fc"
+}
+],
+"hamari-traore": [
+{
+"d": "2026-11-27",
+"v": 1.1,
+"club": "paris-fc"
+}
+],
+"thibault-de-smet": [
+{
+"d": "2026-11-27",
+"v": 3.5,
+"club": "paris-fc"
+}
+],
+"moustapha-mbow": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "paris-fc"
+}
+],
+"samir-chergui": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "paris-fc"
+}
+],
+"otavio-paris-fc": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "paris-fc"
+}
+],
+"yoan-kore": [
+{
+"d": "2026-11-27",
+"v": 2.9,
+"club": "paris-fc"
+}
+],
+"diego-coppola": [
+{
+"d": "2026-11-27",
+"v": 19.0,
+"club": "paris-fc"
+}
+],
+"emmanuel-mbemba": [
+{
+"d": "2026-11-27",
+"v": 1.3,
+"club": "paris-fc"
+}
+],
+"vincent-marchetti": [
+{
+"d": "2026-11-27",
+"v": 4.2,
+"club": "paris-fc"
+}
+],
+"pierre-lees-melou": [
+{
+"d": "2026-11-27",
+"v": 2.6,
+"club": "paris-fc"
+}
+],
+"maxime-lopez": [
+{
+"d": "2026-11-27",
+"v": 11.5,
+"club": "paris-fc"
+}
+],
+"ilan-kebbal": [
+{
+"d": "2026-11-27",
+"v": 11.0,
+"club": "paris-fc"
+}
+],
+"adama-camara": [
+{
+"d": "2026-11-27",
+"v": 4.3,
+"club": "paris-fc"
+}
+],
+"rudy-matondo": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "paris-fc"
+}
+],
+"moses-simon": [
+{
+"d": "2026-11-27",
+"v": 4.6,
+"club": "paris-fc"
+}
+],
+"jonathan-ikone": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "paris-fc"
+}
+],
+"jean-phillipe-krasso": [
+{
+"d": "2026-11-27",
+"v": 4.3,
+"club": "paris-fc"
+}
+],
+"lassine-sinayoko": [
+{
+"d": "2026-11-27",
+"v": 26.0,
+"club": "paris-fc"
+}
+],
+"pablo-pagis": [
+{
+"d": "2026-11-27",
+"v": 12.0,
+"club": "paris-fc"
+}
+],
+"luca-koleosho": [
+{
+"d": "2026-11-27",
+"v": 13.0,
+"club": "paris-fc"
+}
+],
+"omar-sissoko": [
+{
+"d": "2026-11-27",
+"v": 3.4,
+"club": "paris-fc"
+}
+],
+"regis-gurtner": [
+{
+"d": "2026-11-27",
+"v": 0.55,
+"club": "lens"
+}
+],
+"mathieu-gorgelin": [
+{
+"d": "2026-11-27",
+"v": 0.4,
+"club": "lens"
+}
+],
+"robin-risser": [
+{
+"d": "2026-11-27",
+"v": 10.0,
+"club": "lens"
+}
+],
+"ilan-jourdren": [
+{
+"d": "2026-11-27",
+"v": 1.5,
+"club": "lens"
+}
+],
+"ruben-aguilar": [
+{
+"d": "2026-11-27",
+"v": 3.7,
+"club": "lens"
+}
+],
+"maik-nawrocki": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "lens"
+}
+],
+"nidal-celik": [
+{
+"d": "2026-11-27",
+"v": 2.6,
+"club": "lens"
+}
+],
+"samson-baidoo": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "lens"
+}
+],
+"jhoanner-chavez": [
+{
+"d": "2026-11-27",
+"v": 3.1,
+"club": "lens"
+}
+],
+"matthieu-udol": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "lens"
+}
+],
+"jean-clair-todibo": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "lens"
+}
+],
+"saud-abdulhamid": [
+{
+"d": "2026-11-27",
+"v": 9.5,
+"club": "lens"
+}
+],
+"jonathan-gradit": [
+{
+"d": "2026-11-27",
+"v": 0.85,
+"club": "lens"
+}
+],
+"pierre-ganiou": [
+{
+"d": "2026-11-27",
+"v": 11.0,
+"club": "lens"
+}
+],
+"souleymane-sagnan": [
+{
+"d": "2026-11-27",
+"v": 2.7,
+"club": "lens"
+}
+],
+"kyllian-antonio": [
+{
+"d": "2026-11-27",
+"v": 1.8,
+"club": "lens"
+}
+],
+"moussa-diarra": [
+{
+"d": "2026-11-27",
+"v": 2.7,
+"club": "lens"
+}
+],
+"andrija-bulatovic": [
+{
+"d": "2026-11-27",
+"v": 4.3,
+"club": "lens"
+}
+],
+"yassine-titraoui": [
+{
+"d": "2026-11-27",
+"v": 8.5,
+"club": "lens"
+}
+],
+"thorgan-hazard": [
+{
+"d": "2026-11-27",
+"v": 2.1,
+"club": "lens"
+}
+],
+"amadou-haidara": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "lens"
+}
+],
+"michael-cuisance": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "lens"
+}
+],
+"mezian-soares": [
+{
+"d": "2026-11-27",
+"v": 1.7,
+"club": "lens"
+}
+],
+"florian-sotoca": [
+{
+"d": "2026-11-27",
+"v": 0.9,
+"club": "lens"
+}
+],
+"florian-thauvin": [
+{
+"d": "2026-11-27",
+"v": 8.5,
+"club": "lens"
+}
+],
+"odsonne-edouard": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "lens"
+}
+],
+"abdallah-sima": [
+{
+"d": "2026-11-27",
+"v": 10.5,
+"club": "lens"
+}
+],
+"michal-skoras": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "lens"
+}
+],
+"junior-kadile": [
+{
+"d": "2026-11-27",
+"v": 4.0,
+"club": "lens"
+}
+],
+"franjo-ivanovic": [
+{
+"d": "2026-11-27",
+"v": 10.5,
+"club": "lens"
+}
+],
+"yehvann-diouf": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "nice"
+}
+],
+"teddy-boulhendi": [
+{
+"d": "2026-11-27",
+"v": 2.2,
+"club": "nice"
+}
+],
+"ali-abdi": [
+{
+"d": "2026-11-27",
+"v": 2.4,
+"club": "nice"
+}
+],
+"mohamed-abdelmoneim": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "nice"
+}
+],
+"niels-nkounkou": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "nice"
+}
+],
+"antoine-mendy": [
+{
+"d": "2026-11-27",
+"v": 2.7,
+"club": "nice"
+}
+],
+"alidu-seidu": [
+{
+"d": "2026-11-27",
+"v": 3.9,
+"club": "nice"
+}
+],
+"moise-bombito": [
+{
+"d": "2026-11-27",
+"v": 8.5,
+"club": "nice"
+}
+],
+"hamza-koutoune": [
+{
+"d": "2026-11-27",
+"v": 2.4,
+"club": "nice"
+}
+],
+"jonathan-clauss": [
+{
+"d": "2026-11-27",
+"v": 3.5,
+"club": "nice"
+}
+],
+"hicham-boudaoui": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "nice"
+}
+],
+"gauthier-hein": [
+{
+"d": "2026-11-27",
+"v": 4.6,
+"club": "nice"
+}
+],
+"morgan-sanson": [
+{
+"d": "2026-11-27",
+"v": 1.9,
+"club": "nice"
+}
+],
+"sofiane-diop": [
+{
+"d": "2026-11-27",
+"v": 15.0,
+"club": "nice"
+}
+],
+"laurent-abergel": [
+{
+"d": "2026-11-27",
+"v": 1.7,
+"club": "nice"
+}
+],
+"issiaga-camara": [
+{
+"d": "2026-11-27",
+"v": 3.4,
+"club": "nice"
+}
+],
+"axel-witsel": [
+{
+"d": "2026-11-27",
+"v": 0.65,
+"club": "nice"
+}
+],
+"djibril-coulibaly": [
+{
+"d": "2026-11-27",
+"v": 2.6,
+"club": "nice"
+}
+],
+"youssouf-ndayishimiye": [
+{
+"d": "2026-11-27",
+"v": 11.0,
+"club": "nice"
+}
+],
+"everton-pereira": [
+{
+"d": "2026-11-27",
+"v": 2.0,
+"club": "nice"
+}
+],
+"salis-abdul-samed": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "nice"
+}
+],
+"mohamed-amoura": [
+{
+"d": "2026-11-27",
+"v": 14.5,
+"club": "nice"
+}
+],
+"elye-wahi": [
+{
+"d": "2026-11-27",
+"v": 19.5,
+"club": "nice"
+}
+],
+"isak-jansson": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "nice"
+}
+],
+"nathan-n-goumou": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "nice"
+}
+],
+"zoumana-diallo": [
+{
+"d": "2026-11-27",
+"v": 4.1,
+"club": "nice"
+}
+],
+"markus-schubert": [
+{
+"d": "2026-11-27",
+"v": 2.1,
+"club": "sc-paderborn"
+}
+],
+"nahuel-nicolas-noll": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "sc-paderborn"
+}
+],
+"florian-pruhs": [
+{
+"d": "2026-11-27",
+"v": 3.0,
+"club": "sc-paderborn"
+}
+],
+"ruben-muller": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "sc-paderborn"
+}
+],
+"jonah-sticker": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "sc-paderborn"
+}
+],
+"nyamekye-awortwie-grant": [
+{
+"d": "2026-11-27",
+"v": 4.0,
+"club": "sc-paderborn"
+}
+],
+"laurin-curda": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "sc-paderborn"
+}
+],
+"felix-gotze": [
+{
+"d": "2026-11-27",
+"v": 4.5,
+"club": "sc-paderborn"
+}
+],
+"jano-horst": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "sc-paderborn"
+}
+],
+"mattes-hansen": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "sc-paderborn"
+}
+],
+"tjark-scheller": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "sc-paderborn"
+}
+],
+"marcel-hoffmeier": [
+{
+"d": "2026-11-27",
+"v": 3.8,
+"club": "sc-paderborn"
+}
+],
+"tristan-zobel": [
+{
+"d": "2026-11-27",
+"v": 4.3,
+"club": "sc-paderborn"
+}
+],
+"santiago-castaneda": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "sc-paderborn"
+}
+],
+"tom-baack": [
+{
+"d": "2026-11-27",
+"v": 4.1,
+"club": "sc-paderborn"
+}
+],
+"oliver-batista-meier": [
+{
+"d": "2026-11-27",
+"v": 3.4,
+"club": "sc-paderborn"
+}
+],
+"luka-djuric": [
+{
+"d": "2026-11-27",
+"v": 4.1,
+"club": "sc-paderborn"
+}
+],
+"raphael-obermair": [
+{
+"d": "2026-11-27",
+"v": 4.1,
+"club": "sc-paderborn"
+}
+],
+"niklas-mohr": [
+{
+"d": "2026-11-27",
+"v": 4.1,
+"club": "sc-paderborn"
+}
+],
+"sebastian-klaas": [
+{
+"d": "2026-11-27",
+"v": 4.4,
+"club": "sc-paderborn"
+}
+],
+"laurin-ulrich": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "sc-paderborn"
+}
+],
+"timur-gayret": [
+{
+"d": "2026-11-27",
+"v": 4.4,
+"club": "sc-paderborn"
+}
+],
+"rayan-philippe": [
+{
+"d": "2026-11-27",
+"v": 4.8,
+"club": "sc-paderborn"
+}
+],
+"sven-michel": [
+{
+"d": "2026-11-27",
+"v": 0.45,
+"club": "sc-paderborn"
+}
+],
+"marvin-pieringer": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "sc-paderborn"
+}
+],
+"albert-millgramm": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "sc-paderborn"
+}
+],
+"steffen-tigges": [
+{
+"d": "2026-11-27",
+"v": 4.5,
+"club": "sc-paderborn"
+}
+],
+"stefano-marino": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "sc-paderborn"
+}
+],
+"lasse-eickel": [
+{
+"d": "2026-11-27",
+"v": 3.0,
+"club": "sc-paderborn"
+}
+],
+"deniz-zeitler": [
+{
+"d": "2026-11-27",
+"v": 2.9,
+"club": "sc-paderborn"
+}
+],
+"gabriel-vidovic": [
+{
+"d": "2026-11-27",
+"v": 9.0,
+"club": "sc-paderborn"
+}
+],
+"paul-nardi": [
+{
+"d": "2026-11-27",
+"v": 1.5,
+"club": "auxerre"
+}
+],
+"mamadou-diop": [
+{
+"d": "2026-11-27",
+"v": 3.3,
+"club": "auxerre"
+}
+],
+"louis-mezerette": [
+{
+"d": "2026-11-27",
+"v": 2.7,
+"club": "auxerre"
+}
+],
+"axel-tuanzebe": [
+{
+"d": "2026-11-27",
+"v": 4.0,
+"club": "auxerre"
+}
+],
+"telli-siwe": [
+{
+"d": "2026-11-27",
+"v": 3.3,
+"club": "auxerre"
+}
+],
+"christ-makosso": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "auxerre"
+}
+],
+"sinaly-diomande": [
+{
+"d": "2026-11-27",
+"v": 3.0,
+"club": "auxerre"
+}
+],
+"fredrik-oppegard": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "auxerre"
+}
+],
+"bryan-okoh": [
+{
+"d": "2026-11-27",
+"v": 3.9,
+"club": "auxerre"
+}
+],
+"lamine-sy": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "auxerre"
+}
+],
+"marvin-senaya": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "auxerre"
+}
+],
+"rayan-mandengue": [
+{
+"d": "2026-11-27",
+"v": 3.8,
+"club": "auxerre"
+}
+],
+"elikya-legros": [
+{
+"d": "2026-11-27",
+"v": 1.5,
+"club": "auxerre"
+}
+],
+"alvin-petit-dol": [
+{
+"d": "2026-11-27",
+"v": 3.5,
+"club": "auxerre"
+}
+],
+"mohamed-coulibaly": [
+{
+"d": "2026-11-27",
+"v": 0.7,
+"club": "auxerre"
+}
+],
+"clement-akpa": [
+{
+"d": "2026-11-27",
+"v": 4.1,
+"club": "auxerre"
+}
+],
+"sekou-fofana": [
+{
+"d": "2026-11-27",
+"v": 2.9,
+"club": "auxerre"
+}
+],
+"kevin-danois": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "auxerre"
+}
+],
+"assane-diousse": [
+{
+"d": "2026-11-27",
+"v": 3.6,
+"club": "auxerre"
+}
+],
+"naouirou-ahamada": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "auxerre"
+}
+],
+"pierre-ekwah": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "auxerre"
+}
+],
+"romain-faivre": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "auxerre"
+}
+],
+"lamfia-dioubate": [
+{
+"d": "2026-11-27",
+"v": 2.0,
+"club": "auxerre"
+}
+],
+"tidiane-devernois": [
+{
+"d": "2026-11-27",
+"v": 2.1,
+"club": "auxerre"
+}
+],
+"yvan-zaddy": [
+{
+"d": "2026-11-27",
+"v": 4.2,
+"club": "auxerre"
+}
+],
+"arthur-piedfort": [
+{
+"d": "2026-11-27",
+"v": 4.6,
+"club": "auxerre"
+}
+],
+"aristide-zossou": [
+{
+"d": "2026-11-27",
+"v": 3.4,
+"club": "auxerre"
+}
+],
+"remy-labeau-lascary": [
+{
+"d": "2026-11-27",
+"v": 4.9,
+"club": "auxerre"
+}
+],
+"cameron-archer": [
+{
+"d": "2026-11-27",
+"v": 13.5,
+"club": "auxerre"
+}
+],
+"danny-namaso": [
+{
+"d": "2026-11-27",
+"v": 8.5,
+"club": "auxerre"
+}
+],
+"ryan-rodin": [
+{
+"d": "2026-11-27",
+"v": 4.7,
+"club": "auxerre"
+}
+],
+"mamoudou-cissokho": [
+{
+"d": "2026-11-27",
+"v": 2.0,
+"club": "auxerre"
+}
+],
+"wei-xiangxin": [
+{
+"d": "2026-11-27",
+"v": 2.7,
+"club": "auxerre"
+}
+],
+"frank-lehmann": [
+{
+"d": "2026-11-27",
+"v": 0.6,
+"club": "sv-elversberg"
+}
+],
+"nicolas-kristof": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "sv-elversberg"
+}
+],
+"tim-boss": [
+{
+"d": "2026-11-27",
+"v": 0.9,
+"club": "sv-elversberg"
+}
+],
+"nicholas-mickelson": [
+{
+"d": "2026-11-27",
+"v": 4.8,
+"club": "sv-elversberg"
+}
+],
+"florian-le-joncour": [
+{
+"d": "2026-11-27",
+"v": 1.9,
+"club": "sv-elversberg"
+}
+],
+"luis-seifert": [
+{
+"d": "2026-11-27",
+"v": 4.3,
+"club": "sv-elversberg"
+}
+],
+"lukas-finn-pinckert": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "sv-elversberg"
+}
+],
+"lasse-gunther": [
+{
+"d": "2026-11-27",
+"v": 9.5,
+"club": "sv-elversberg"
+}
+],
+"luca-sirch": [
+{
+"d": "2026-11-27",
+"v": 3.6,
+"club": "sv-elversberg"
+}
+],
+"jan-gyamerah": [
+{
+"d": "2026-11-27",
+"v": 2.4,
+"club": "sv-elversberg"
+}
+],
+"maximilian-rohr": [
+{
+"d": "2026-11-27",
+"v": 3.9,
+"club": "sv-elversberg"
+}
+],
+"felix-keidel": [
+{
+"d": "2026-11-27",
+"v": 13.5,
+"club": "sv-elversberg"
+}
+],
+"amara-conde": [
+{
+"d": "2026-11-27",
+"v": 2.7,
+"club": "sv-elversberg"
+}
+],
+"maurice-krattenmacher": [
+{
+"d": "2026-11-27",
+"v": 14.0,
+"club": "sv-elversberg"
+}
+],
+"lukasz-poreba": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "sv-elversberg"
+}
+],
+"noah-darvich": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "sv-elversberg"
+}
+],
+"frederik-schmahl": [
+{
+"d": "2026-11-27",
+"v": 4.5,
+"club": "sv-elversberg"
+}
+],
+"luca-schnellbacher": [
+{
+"d": "2026-11-27",
+"v": 1.6,
+"club": "sv-elversberg"
+}
+],
+"francis-ikechukwu-onyeka": [
+{
+"d": "2026-11-27",
+"v": 3.5,
+"club": "sv-elversberg"
+}
+],
+"noel-futkeu": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "sv-elversberg"
+}
+],
+"raif-adam": [
+{
+"d": "2026-11-27",
+"v": 4.2,
+"club": "sv-elversberg"
+}
+],
+"luca-pfeiffer": [
+{
+"d": "2026-11-27",
+"v": 3.9,
+"club": "sv-elversberg"
+}
+],
+"lukas-petkov": [
+{
+"d": "2026-11-27",
+"v": 9.0,
+"club": "sv-elversberg"
+}
+],
+"tom-zimmerschied": [
+{
+"d": "2026-11-27",
+"v": 4.2,
+"club": "sv-elversberg"
+}
+],
+"cole-campbell": [
+{
+"d": "2026-11-27",
+"v": 9.5,
+"club": "sv-elversberg"
+}
+],
+"david-mokwa": [
+{
+"d": "2026-11-27",
+"v": 9.0,
+"club": "sv-elversberg"
+}
+],
+"guillaume-restes": [
+{
+"d": "2026-11-27",
+"v": 9.5,
+"club": "toulouse"
+}
+],
+"naime-said-mchindra": [
+{
+"d": "2026-11-27",
+"v": 3.0,
+"club": "toulouse"
+}
+],
+"mathys-niflore": [
+{
+"d": "2026-11-27",
+"v": 1.6,
+"club": "toulouse"
+}
+],
+"rasmus-nicolaisen": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "toulouse"
+}
+],
+"mark-mckenzie": [
+{
+"d": "2026-11-27",
+"v": 9.5,
+"club": "toulouse"
+}
+],
+"seny-koumbassa": [
+{
+"d": "2026-11-27",
+"v": 2.0,
+"club": "toulouse"
+}
+],
+"christ-tape": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "toulouse"
+}
+],
+"david-odogu": [
+{
+"d": "2026-11-27",
+"v": 2.6,
+"club": "toulouse"
+}
+],
+"gaetan-bakhouche": [
+{
+"d": "2026-11-27",
+"v": 2.8,
+"club": "toulouse"
+}
+],
+"ismail-diallo": [
+{
+"d": "2026-11-27",
+"v": 3.7,
+"club": "toulouse"
+}
+],
+"alexis-vossah": [
+{
+"d": "2026-11-27",
+"v": 2.2,
+"club": "toulouse"
+}
+],
+"thomas-jrgensen": [
+{
+"d": "2026-11-27",
+"v": 12.5,
+"club": "toulouse"
+}
+],
+"niko-sigur": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "toulouse"
+}
+],
+"aron-donnum": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "toulouse"
+}
+],
+"abu-francis": [
+{
+"d": "2026-11-27",
+"v": 3.4,
+"club": "toulouse"
+}
+],
+"mathis-amougou": [
+{
+"d": "2026-11-27",
+"v": 3.1,
+"club": "toulouse"
+}
+],
+"rafik-messali": [
+{
+"d": "2026-11-27",
+"v": 4.6,
+"club": "toulouse"
+}
+],
+"cristian-casseres-jr": [
+{
+"d": "2026-11-27",
+"v": 13.0,
+"club": "toulouse"
+}
+],
+"niklas-schmidt": [
+{
+"d": "2026-11-27",
+"v": 4.2,
+"club": "toulouse"
+}
+],
+"julian-vignolo": [
+{
+"d": "2026-11-27",
+"v": 2.5,
+"club": "toulouse"
+}
+],
+"santiago-hidalgo": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "toulouse"
+}
+],
+"sion-oppong": [
+{
+"d": "2026-11-27",
+"v": 2.7,
+"club": "toulouse"
+}
+],
+"jacen-russell-rowe": [
+{
+"d": "2026-11-27",
+"v": 10.5,
+"club": "toulouse"
+}
+],
+"casper-tengstedt": [
+{
+"d": "2026-11-27",
+"v": 12.0,
+"club": "toulouse"
+}
+],
+"ilyas-azizi": [
+{
+"d": "2026-11-27",
+"v": 2.4,
+"club": "toulouse"
+}
+],
+"aymen-ammaouch": [
+{
+"d": "2026-11-27",
+"v": 1.8,
+"club": "toulouse"
+}
+],
+"benjamin-leroy": [
+{
+"d": "2026-11-27",
+"v": 0.55,
+"club": "lorient"
+}
+],
+"bingourou-kamara": [
+{
+"d": "2026-11-27",
+"v": 1.5,
+"club": "lorient"
+}
+],
+"yvon-mvogo": [
+{
+"d": "2026-11-27",
+"v": 2.7,
+"club": "lorient"
+}
+],
+"alec-georgen": [
+{
+"d": "2026-11-27",
+"v": 2.7,
+"club": "lorient"
+}
+],
+"montassar-talbi": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "lorient"
+}
+],
+"formose-mendy": [
+{
+"d": "2026-11-27",
+"v": 1.4,
+"club": "lorient"
+}
+],
+"dembo-sylla": [
+{
+"d": "2026-11-27",
+"v": 4.5,
+"club": "lorient"
+}
+],
+"srdjan-kuzmic": [
+{
+"d": "2026-11-27",
+"v": 2.6,
+"club": "lorient"
+}
+],
+"nathaniel-adjei": [
+{
+"d": "2026-11-27",
+"v": 4.5,
+"club": "lorient"
+}
+],
+"arsene-kouassi": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "lorient"
+}
+],
+"nosa-obaretin": [
+{
+"d": "2026-11-27",
+"v": 2.8,
+"club": "lorient"
+}
+],
+"panos-katseris": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "lorient"
+}
+],
+"isaak-toure": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "lorient"
+}
+],
+"bandiougou-fadiga": [
+{
+"d": "2026-11-27",
+"v": 3.4,
+"club": "lorient"
+}
+],
+"noah-cadiou": [
+{
+"d": "2026-11-27",
+"v": 4.7,
+"club": "lorient"
+}
+],
+"theo-le-bris": [
+{
+"d": "2026-11-27",
+"v": 3.9,
+"club": "lorient"
+}
+],
+"jean-victor-makengo": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "lorient"
+}
+],
+"daniel-semedo": [
+{
+"d": "2026-11-27",
+"v": 3.5,
+"club": "lorient"
+}
+],
+"gabin-bernardeau": [
+{
+"d": "2026-11-27",
+"v": 4.6,
+"club": "lorient"
+}
+],
+"arthur-avom": [
+{
+"d": "2026-11-27",
+"v": 8.5,
+"club": "lorient"
+}
+],
+"noah-mbamba": [
+{
+"d": "2026-11-27",
+"v": 3.9,
+"club": "lorient"
+}
+],
+"mohamed-bamba": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "lorient"
+}
+],
+"isak-jensen": [
+{
+"d": "2026-11-27",
+"v": 4.1,
+"club": "lorient"
+}
+],
+"tosin-aiyegun": [
+{
+"d": "2026-11-27",
+"v": 3.5,
+"club": "lorient"
+}
+],
+"ibrahima-balde": [
+{
+"d": "2026-11-27",
+"v": 4.9,
+"club": "lorient"
+}
+],
+"souleymane-faye": [
+{
+"d": "2026-11-27",
+"v": 4.6,
+"club": "lorient"
+}
+],
+"mamadou-kone": [
+{
+"d": "2026-11-27",
+"v": 4.6,
+"club": "lorient"
+}
+],
+"loris-karius": [
+{
+"d": "2026-11-27",
+"v": 1.8,
+"club": "schalke-04"
+}
+],
+"kevin-muller": [
+{
+"d": "2026-11-27",
+"v": 0.6,
+"club": "schalke-04"
+}
+],
+"johannes-siebeking": [
+{
+"d": "2026-11-27",
+"v": 2.2,
+"club": "schalke-04"
+}
+],
+"hasan-kurucay": [
+{
+"d": "2026-11-27",
+"v": 3.9,
+"club": "schalke-04"
+}
+],
+"timo-becker": [
+{
+"d": "2026-11-27",
+"v": 3.4,
+"club": "schalke-04"
+}
+],
+"robin-gosens": [
+{
+"d": "2026-11-27",
+"v": 3.1,
+"club": "schalke-04"
+}
+],
+"adrian-gantenbein": [
+{
+"d": "2026-11-27",
+"v": 3.7,
+"club": "schalke-04"
+}
+],
+"nikola-katic": [
+{
+"d": "2026-11-27",
+"v": 3.4,
+"club": "schalke-04"
+}
+],
+"vitalie-becker": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "schalke-04"
+}
+],
+"maximilian-wober": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "schalke-04"
+}
+],
+"mert-can-ayhan": [
+{
+"d": "2026-11-27",
+"v": 3.1,
+"club": "schalke-04"
+}
+],
+"ron-schallenberg": [
+{
+"d": "2026-11-27",
+"v": 3.1,
+"club": "schalke-04"
+}
+],
+"satoshi-tanaka": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "schalke-04"
+}
+],
+"janik-bachmann": [
+{
+"d": "2026-11-27",
+"v": 2.8,
+"club": "schalke-04"
+}
+],
+"dejan-ljubicic": [
+{
+"d": "2026-11-27",
+"v": 3.6,
+"club": "schalke-04"
+}
+],
+"soufian-el-faouzi": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "schalke-04"
+}
+],
+"adil-aouchiche": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "schalke-04"
+}
+],
+"finn-porath": [
+{
+"d": "2026-11-27",
+"v": 2.9,
+"club": "schalke-04"
+}
+],
+"junior-dina-ebimbe": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "schalke-04"
+}
+],
+"luca-vozar": [
+{
+"d": "2026-11-27",
+"v": 2.5,
+"club": "schalke-04"
+}
+],
+"edion-gashi": [
+{
+"d": "2026-11-27",
+"v": 3.4,
+"club": "schalke-04"
+}
+],
+"hwang-hee-chan": [
+{
+"d": "2026-11-27",
+"v": 4.9,
+"club": "schalke-04"
+}
+],
+"moussa-sylla": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "schalke-04"
+}
+],
+"edin-dzeko": [
+{
+"d": "2026-11-27",
+"v": 0.4,
+"club": "schalke-04"
+}
+],
+"bryan-lasme": [
+{
+"d": "2026-11-27",
+"v": 3.8,
+"club": "schalke-04"
+}
+],
+"emil-hojlund": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "schalke-04"
+}
+],
+"kenan-karaman": [
+{
+"d": "2026-11-27",
+"v": 2.1,
+"club": "schalke-04"
+}
+],
+"junior-adamu": [
+{
+"d": "2026-11-27",
+"v": 7.5,
+"club": "schalke-04"
+}
+],
+"ewan-hatfout": [
+{
+"d": "2026-11-27",
+"v": 2.6,
+"club": "le-mans"
+}
+],
+"augustin-delbecque": [
+{
+"d": "2026-11-27",
+"v": 2.2,
+"club": "le-mans"
+}
+],
+"nicolas-kocik": [
+{
+"d": "2026-11-27",
+"v": 3.5,
+"club": "le-mans"
+}
+],
+"harold-voyer": [
+{
+"d": "2026-11-27",
+"v": 3.0,
+"club": "le-mans"
+}
+],
+"joao-almeida": [
+{
+"d": "2026-11-27",
+"v": 3.5,
+"club": "le-mans"
+}
+],
+"noa-boisse": [
+{
+"d": "2026-11-27",
+"v": 3.5,
+"club": "le-mans"
+}
+],
+"raul-torrente": [
+{
+"d": "2026-11-27",
+"v": 3.0,
+"club": "le-mans"
+}
+],
+"samuel-yohou": [
+{
+"d": "2026-11-27",
+"v": 0.5,
+"club": "le-mans"
+}
+],
+"lucas-buades": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "le-mans"
+}
+],
+"djibril-sidibe": [
+{
+"d": "2026-11-27",
+"v": 0.5,
+"club": "le-mans"
+}
+],
+"theo-eyoum": [
+{
+"d": "2026-11-27",
+"v": 3.3,
+"club": "le-mans"
+}
+],
+"lucas-calodat": [
+{
+"d": "2026-11-27",
+"v": 8.5,
+"club": "le-mans"
+}
+],
+"rayan-bamba": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "le-mans"
+}
+],
+"yasser-larouci": [
+{
+"d": "2026-11-27",
+"v": 3.1,
+"club": "le-mans"
+}
+],
+"edwin-quarshie": [
+{
+"d": "2026-11-27",
+"v": 2.6,
+"club": "le-mans"
+}
+],
+"brahimi-bilal": [
+{
+"d": "2026-11-27",
+"v": 3.3,
+"club": "le-mans"
+}
+],
+"alexandre-lauray": [
+{
+"d": "2026-11-27",
+"v": 3.5,
+"club": "le-mans"
+}
+],
+"jean-vercruysse": [
+{
+"d": "2026-11-27",
+"v": 4.5,
+"club": "le-mans"
+}
+],
+"adil-bourabaa": [
+{
+"d": "2026-11-27",
+"v": 10.5,
+"club": "le-mans"
+}
+],
+"martin-rossignol": [
+{
+"d": "2026-11-27",
+"v": 4.7,
+"club": "le-mans"
+}
+],
+"lucas-bretelle": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "le-mans"
+}
+],
+"antoine-rabillard": [
+{
+"d": "2026-11-27",
+"v": 2.8,
+"club": "le-mans"
+}
+],
+"habib-diallo": [
+{
+"d": "2026-11-27",
+"v": 2.6,
+"club": "le-mans"
+}
+],
+"louis-mafouta": [
+{
+"d": "2026-11-27",
+"v": 3.4,
+"club": "le-mans"
+}
+],
+"william-harhouz": [
+{
+"d": "2026-11-27",
+"v": 3.6,
+"club": "le-mans"
+}
+],
+"daouda-traore": [
+{
+"d": "2026-11-27",
+"v": 3.8,
+"club": "le-mans"
+}
+],
+"dame-gueye": [
+{
+"d": "2026-11-27",
+"v": 3.2,
+"club": "le-mans"
+}
+],
+"erwan-colas": [
+{
+"d": "2026-11-27",
+"v": 3.7,
+"club": "le-mans"
+}
+],
+"enzo-vagner": [
+{
+"d": "2026-11-27",
+"v": 4.7,
+"club": "le-mans"
+}
+],
+"egil-selvik": [
+{
+"d": "2026-11-27",
+"v": 4.6,
+"club": "brest"
+}
+],
+"mathieu-patouillet": [
+{
+"d": "2026-11-27",
+"v": 2.3,
+"club": "brest"
+}
+],
+"romain-cagnon": [
+{
+"d": "2026-11-27",
+"v": 1.7,
+"club": "brest"
+}
+],
+"bradley-locko": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "brest"
+}
+],
+"gautier-lloris": [
+{
+"d": "2026-11-27",
+"v": 2.9,
+"club": "brest"
+}
+],
+"brendan-chardonnet": [
+{
+"d": "2026-11-27",
+"v": 2.1,
+"club": "brest"
+}
+],
+"justin-bourgault": [
+{
+"d": "2026-11-27",
+"v": 2.9,
+"club": "brest"
+}
+],
+"luc-zogbe": [
+{
+"d": "2026-11-27",
+"v": 3.0,
+"club": "brest"
+}
+],
+"kenny-lala": [
+{
+"d": "2026-11-27",
+"v": 1.0,
+"club": "brest"
+}
+],
+"raphael-le-guen": [
+{
+"d": "2026-11-27",
+"v": 3.0,
+"club": "brest"
+}
+],
+"mamady-diambou": [
+{
+"d": "2026-11-27",
+"v": 3.9,
+"club": "brest"
+}
+],
+"joseph-nonge": [
+{
+"d": "2026-11-27",
+"v": 4.0,
+"club": "brest"
+}
+],
+"hugo-magnetti": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "brest"
+}
+],
+"joris-chotard": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "brest"
+}
+],
+"kamory-doumbia": [
+{
+"d": "2026-11-27",
+"v": 21.0,
+"club": "brest"
+}
+],
+"lucas-tousart": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "brest"
+}
+],
+"djylian-n-guessan": [
+{
+"d": "2026-11-27",
+"v": 1.8,
+"club": "brest"
+}
+],
+"pathe-mboup": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "brest"
+}
+],
+"giovani-versini": [
+{
+"d": "2026-11-27",
+"v": 4.3,
+"club": "brest"
+}
+],
+"noah-edjouma": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "brest"
+}
+],
+"mama-balde": [
+{
+"d": "2026-11-27",
+"v": 3.0,
+"club": "brest"
+}
+],
+"ludovic-ajorque": [
+{
+"d": "2026-11-27",
+"v": 4.5,
+"club": "brest"
+}
+],
+"ibrahim-kante": [
+{
+"d": "2026-11-27",
+"v": 2.2,
+"club": "brest"
+}
+],
+"mathis-laine": [
+{
+"d": "2026-11-27",
+"v": 2.3,
+"club": "brest"
+}
+],
+"arnaud-bodart": [
+{
+"d": "2026-11-27",
+"v": 2.4,
+"club": "le-havre"
+}
+],
+"alex-teixeira": [
+{
+"d": "2026-11-27",
+"v": 1.4,
+"club": "le-havre"
+}
+],
+"lionel-mpasi": [
+{
+"d": "2026-11-27",
+"v": 1.3,
+"club": "le-havre"
+}
+],
+"gauthier-gallon": [
+{
+"d": "2026-11-27",
+"v": 1.2,
+"club": "le-havre"
+}
+],
+"ahmed-touba": [
+{
+"d": "2026-11-27",
+"v": 3.7,
+"club": "le-havre"
+}
+],
+"elias-jelert": [
+{
+"d": "2026-11-27",
+"v": 3.0,
+"club": "le-havre"
+}
+],
+"ayumu-seko": [
+{
+"d": "2026-11-27",
+"v": 3.9,
+"club": "le-havre"
+}
+],
+"vincent-sasso": [
+{
+"d": "2026-11-27",
+"v": 0.4,
+"club": "le-havre"
+}
+],
+"stephan-zagadou": [
+{
+"d": "2026-11-27",
+"v": 2.0,
+"club": "le-havre"
+}
+],
+"timothee-pembele": [
+{
+"d": "2026-11-27",
+"v": 2.9,
+"club": "le-havre"
+}
+],
+"mouhamed-n-diaye": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "le-havre"
+}
+],
+"junior-mwanga": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "le-havre"
+}
+],
+"amir-richardson": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "le-havre"
+}
+],
+"rassoul-ndiaye": [
+{
+"d": "2026-11-27",
+"v": 4.5,
+"club": "le-havre"
+}
+],
+"kaito-mizuta": [
+{
+"d": "2026-11-27",
+"v": 4.0,
+"club": "le-havre"
+}
+],
+"matheo-bodmer": [
+{
+"d": "2026-11-27",
+"v": 3.5,
+"club": "le-havre"
+}
+],
+"guy-zohouri": [
+{
+"d": "2026-11-27",
+"v": 2.2,
+"club": "le-havre"
+}
+],
+"simon-ebonog": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "le-havre"
+}
+],
+"thomas-rousseau": [
+{
+"d": "2026-11-27",
+"v": 1.8,
+"club": "le-havre"
+}
+],
+"ismail-bouneb": [
+{
+"d": "2026-11-27",
+"v": 2.9,
+"club": "le-havre"
+}
+],
+"daren-mosengo": [
+{
+"d": "2026-11-27",
+"v": 2.9,
+"club": "le-havre"
+}
+],
+"josh-maja": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "le-havre"
+}
+],
+"felix-mambimbi": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "le-havre"
+}
+],
+"joan-tincres": [
+{
+"d": "2026-11-27",
+"v": 4.7,
+"club": "le-havre"
+}
+],
+"mbwana-samatta": [
+{
+"d": "2026-11-27",
+"v": 1.6,
+"club": "le-havre"
+}
+],
+"enzo-koffi": [
+{
+"d": "2026-11-27",
+"v": 4.5,
+"club": "le-havre"
+}
+],
+"sota-nakamura": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "le-havre"
+}
+],
+"rayan-fofana": [
+{
+"d": "2026-11-27",
+"v": 4.6,
+"club": "le-havre"
+}
+],
+"zacharie-boucher": [
+{
+"d": "2026-11-27",
+"v": 0.85,
+"club": "troyes"
+}
+],
+"patrick-beach": [
+{
+"d": "2026-11-27",
+"v": 3.7,
+"club": "troyes"
+}
+],
+"hillel-konate": [
+{
+"d": "2026-11-27",
+"v": 1.7,
+"club": "troyes"
+}
+],
+"lucas-maronnier": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "troyes"
+}
+],
+"anis-ouzenadji": [
+{
+"d": "2026-11-27",
+"v": 6.5,
+"club": "troyes"
+}
+],
+"michel-diaz": [
+{
+"d": "2026-11-27",
+"v": 4.4,
+"club": "troyes"
+}
+],
+"paolo-gozzi-iweru": [
+{
+"d": "2026-11-27",
+"v": 3.0,
+"club": "troyes"
+}
+],
+"adrien-monfray": [
+{
+"d": "2026-11-27",
+"v": 0.6,
+"club": "troyes"
+}
+],
+"ismael-boura": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "troyes"
+}
+],
+"noah-donkor": [
+{
+"d": "2026-11-27",
+"v": 2.6,
+"club": "troyes"
+}
+],
+"yvann-titi": [
+{
+"d": "2026-11-27",
+"v": 2.5,
+"club": "troyes"
+}
+],
+"merwan-ifnaoui": [
+{
+"d": "2026-11-27",
+"v": 4.0,
+"club": "troyes"
+}
+],
+"iron-gomis": [
+{
+"d": "2026-11-27",
+"v": 4.1,
+"club": "troyes"
+}
+],
+"antoine-mille": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "troyes"
+}
+],
+"hugo-picard": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "troyes"
+}
+],
+"alexandre-philiponeau": [
+{
+"d": "2026-11-27",
+"v": 3.0,
+"club": "troyes"
+}
+],
+"dermane-karim": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "troyes"
+}
+],
+"roman-murcy": [
+{
+"d": "2026-11-27",
+"v": 4.2,
+"club": "troyes"
+}
+],
+"kandet-diawara": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "troyes"
+}
+],
+"mouhamed-diop": [
+{
+"d": "2026-11-27",
+"v": 6.0,
+"club": "troyes"
+}
+],
+"jeremy-le-douaron": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "troyes"
+}
+],
+"renaud-ripart": [
+{
+"d": "2026-11-27",
+"v": 2.0,
+"club": "troyes"
+}
+],
+"timothe-nkada": [
+{
+"d": "2026-11-27",
+"v": 4.5,
+"club": "troyes"
+}
+],
+"christ-batola": [
+{
+"d": "2026-11-27",
+"v": 1.8,
+"club": "troyes"
+}
+],
+"anthony-lopes": [
+{
+"d": "2026-11-27",
+"v": 0.8,
+"club": "angers"
+}
+],
+"melvin-zinga": [
+{
+"d": "2026-11-27",
+"v": 2.2,
+"club": "angers"
+}
+],
+"oumar-pona": [
+{
+"d": "2026-11-27",
+"v": 2.0,
+"club": "angers"
+}
+],
+"carlens-arcus": [
+{
+"d": "2026-11-27",
+"v": 3.9,
+"club": "angers"
+}
+],
+"ousmane-camara": [
+{
+"d": "2026-11-27",
+"v": 5.0,
+"club": "angers"
+}
+],
+"joseph-kalulu-kyatengwa": [
+{
+"d": "2026-11-27",
+"v": 4.9,
+"club": "angers"
+}
+],
+"marius-louar": [
+{
+"d": "2026-11-27",
+"v": 2.0,
+"club": "angers"
+}
+],
+"jordan-lefort": [
+{
+"d": "2026-11-27",
+"v": 1.1,
+"club": "angers"
+}
+],
+"lilian-raolisoa": [
+{
+"d": "2026-11-27",
+"v": 4.9,
+"club": "angers"
+}
+],
+"mael-gernigon": [
+{
+"d": "2026-11-27",
+"v": 1.2,
+"club": "angers"
+}
+],
+"louis-mouton": [
+{
+"d": "2026-11-27",
+"v": 3.5,
+"club": "angers"
+}
+],
+"branco-van-den-boomen": [
+{
+"d": "2026-11-27",
+"v": 3.1,
+"club": "angers"
+}
+],
+"yassin-belkhdim": [
+{
+"d": "2026-11-27",
+"v": 7.0,
+"club": "angers"
+}
+],
+"emmanuel-biumla": [
+{
+"d": "2026-11-27",
+"v": 3.2,
+"club": "angers"
+}
+],
+"anthony-bermont": [
+{
+"d": "2026-11-27",
+"v": 4.1,
+"club": "angers"
+}
+],
+"bane-diatta": [
+{
+"d": "2026-11-27",
+"v": 1.8,
+"club": "angers"
+}
+],
+"haris-belkebla": [
+{
+"d": "2026-11-27",
+"v": 1.4,
+"club": "angers"
+}
+],
+"mamadou-simbakoli": [
+{
+"d": "2026-11-27",
+"v": 4.5,
+"club": "angers"
+}
+],
+"prosper-peter": [
+{
+"d": "2026-11-27",
+"v": 3.2,
+"club": "angers"
+}
+],
+"amine-sbai": [
+{
+"d": "2026-11-27",
+"v": 8.0,
+"club": "angers"
+}
+],
+"harouna-djibirin": [
+{
+"d": "2026-11-27",
+"v": 4.0,
+"club": "angers"
+}
+],
+"jim-allevinah": [
+{
+"d": "2026-11-27",
+"v": 2.5,
+"club": "angers"
+}
+],
+"amine-el-ouazzani": [
+{
+"d": "2026-11-27",
+"v": 5.5,
+"club": "angers"
 }
 ]
 }

@@ -1,0 +1,39 @@
+Piotr Pardel||G|21|Poland||||
+Thomas Pompei|22|G|||0|0||
+Marco Carnesecchi|29|G|26|Italy|11|0||
+Francesco Rossi|31|G|35|Italy||||
+Mattia Sonzogni|51|G|||0|0||
+Marco Sportiello|57|G|34|Italy|1|0||
+Odilon Kossounou|3|D|25|Ivory Coast|4|0|0|0
+Isak Hien|4|D|27|Sweden||||
+Raoul Bellanova|16|D|26|Italy|8|1|0|1
+Sead Kolasinac|23|D|33|Bosnia and Herzegovina|8|2|0|0
+Thomas Kristensen|31|D|24|Denmark|5|0|0|0
+Relja Obric|40|D|20|Slovenia|5|2|0|0
+Giorgio Scalvini|42|D|22|Italy|10|1|0|0
+Jacopo Mirra|43|D|20|Italy|0|0|0|0
+Lorenzo Bernasconi|47|D|23|Italy|10|4|0|0
+Matteo Plaia|53|D|20|Italy|0|0|0|0
+Isaac Collins Isoa|55|D||||||
+Albert Navarro|56|D|19|Spain||||
+Davide Zappacosta|77|D|34|Italy|10|2|0|1
+Mario Pasalic|8|M|31|Croatia|10|5|0|0
+Lazar Samardzic|10|M|24|Serbia|9|5|1|0
+Éderson|13|M|27|Brazil|12|0|2|0
+Franck Kessié|19|M|29|Ivory Coast|6|2|2|0
+Javison Idele|41|M|19|Italy|1|1|0|0
+Federico Steffanoni|44|M|18|Italy||||
+Digne Pounga|45|M|20|Congo|0|0|0|0
+Sergej Levak|46|M|20|Croatia|0|0|0|0
+Andrea Bonanomi|48|M|20|Italy||||
+Alberto Manzoni|52|M|21|Italy||||
+Nicola Zalewski|59|M|24|Poland|10|5|1|5
+Gianluca Gaetano|70|M|26|Italy|8|3|1|1
+Eljif Elmas|99|M|27|North Macedonia|10|4|2|1
+Kamaldeen Sulemana|7|F|24|Ghana|2|2|0|0
+Gianluca Scamacca|9|F|27|Italy|8|4|1|0
+Jon Rowe|11|F|23|England|9|3|0|1
+Charles De Ketelaere|17|F|25|Belgium|12|1|3|3
+Giacomo Raspadori|18|F|26|Italy|5|3|1|0
+Tommaso De Nipoti|50|F|23|Italy||||
+Nikola Krstovic|90|F|26|Montenegro|12|4|7|2

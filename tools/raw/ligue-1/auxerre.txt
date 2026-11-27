@@ -1,0 +1,35 @@
+Paul Nardi|1|G|32|France|5|0||
+Mamadou Diop|23|G|26|Mauritania|6|0||
+Louis Mezerette|37|G|20|France||||
+Axel Tuanzebe|4|D|29|Congo DR|8|0|0|0
+Telli Siwe|13|D|21|France|2|0|0|0
+Christ Makosso|15|D|22|Congo|8|1|0|1
+Sinaly Diomande|20|D|25|Ivory Coast|4|0|0|0
+Fredrik Oppegard|22|D|24|Norway|9|1|0|0
+Bryan Okoh|24|D|23|Switzerland||||
+Lamine Sy|27|D|24|France|11|2|1|0
+Marvin Senaya|29|D|25|Ghana|3|1|0|1
+Rayan Mandengue|32|D|20|Cameroon|7|7|0|1
+Elikya Legros|35|D|18|France|5|3|0|0
+Alvin Petit Dol|38|D|20|France||||
+Mohamed Coulibaly|43|D|38|France||||
+Salimou Danfakha|45|D|||0|0|0|0
+Clément Akpa|92|D|25|France|10|1|0|0
+Sekou Fofana|93|D|23|France|0|0|0|0
+Kévin Danois|5|M|22|France|11|2|0|1
+Assane Dioussé|6|M|29|Senegal||||
+Naouirou Ahamada|8|M|24|France|11|2|0|0
+Pierre Ekwah|17|M|24|France|7|5|0|0
+Romain Faivre|21|M|28|France|11|3|2|3
+Lamfia Dioubaté|34|M|19|France|4|4|0|0
+Tidiane Devernois|36|M|19|France|0|0|0|0
+Yvan Zaddy|41|M|20|||||
+Arthur Piedfort|46|M|21|Belgium|10|4|0|0
+Aristide Zossou|77|M|21||5|4|0|0
+Remy Labeau Lascary|3|F|23|France|7|2|1|0
+Cameron Archer|9|F|24|England|9|0|6|0
+Danny Namaso|10|F|26|Cameroon|10|0|3|2
+Ryan Rodin|31|F|20|France||||
+Mamoudou Cissokho|44|F|18|France|0|0|0|0
+Youssef Khoudda|47|F|||3|3|0|0
+Wei Xiangxin|49|F|18|||||

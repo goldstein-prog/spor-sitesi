@@ -1,17 +1,7 @@
 {
  "updated": "2026-11-27",
- "careers": 57,
+ "careers": 80,
  "queue": [
-  {
-   "club": "Paris Saint-Germain",
-   "links": 4,
-   "players": [
-    "milan-skriniar",
-    "kylian-mbappe",
-    "marco-asensio",
-    "hugo-ekitike"
-   ]
-  },
   {
    "club": "Benfica",
    "links": 3,
@@ -40,14 +30,6 @@
    ]
   },
   {
-   "club": "Lille",
-   "links": 2,
-   "players": [
-    "victor-osimhen",
-    "rafael-leao"
-   ]
-  },
-  {
    "club": "VfL Wolfsburg",
    "links": 2,
    "players": [
@@ -72,11 +54,11 @@
    ]
   },
   {
-   "club": "AS Monaco",
+   "club": "Flamengo",
    "links": 2,
    "players": [
-    "kylian-mbappe",
-    "wilfried-singo"
+    "vinicius-junior",
+    "wesley"
    ]
   },
   {
@@ -88,11 +70,27 @@
    ]
   },
   {
+   "club": "Avaí",
+   "links": 2,
+   "players": [
+    "raphinha",
+    "gabriel-magalhaes"
+   ]
+  },
+  {
    "club": "Leicester City",
    "links": 2,
    "players": [
     "harry-kane",
     "wilfred-ndidi"
+   ]
+  },
+  {
+   "club": "FC Basel",
+   "links": 2,
+   "players": [
+    "mohamed-salah",
+    "riccardo-calafiori"
    ]
   },
   {
@@ -104,17 +102,34 @@
    ]
   },
   {
+   "club": "Club Brugge",
+   "links": 2,
+   "players": [
+    "antonio-nusa",
+    "charles-de-ketelaere"
+   ]
+  },
+  {
+   "club": "Girona",
+   "links": 2,
+   "players": [
+    "alex-baena",
+    "miguel-gutierrez"
+   ]
+  },
+  {
+   "club": "Bristol Rovers",
+   "links": 2,
+   "players": [
+    "elliot-anderson",
+    "jarell-quansah"
+   ]
+  },
+  {
    "club": "Royal Charleroi SC",
    "links": 1,
    "players": [
     "victor-osimhen"
-   ]
-  },
-  {
-   "club": "Schalke 04",
-   "links": 1,
-   "players": [
-    "leroy-sane"
    ]
   },
   {
@@ -181,24 +196,10 @@
    ]
   },
   {
-   "club": "Lyon",
-   "links": 1,
-   "players": [
-    "rayan-cherki"
-   ]
-  },
-  {
    "club": "Las Palmas",
    "links": 1,
    "players": [
     "pedri"
-   ]
-  },
-  {
-   "club": "Flamengo",
-   "links": 1,
-   "players": [
-    "vinicius-junior"
    ]
   },
   {
@@ -210,13 +211,6 @@
   },
   {
    "club": "Vitória de Guimaraes",
-   "links": 1,
-   "players": [
-    "raphinha"
-   ]
-  },
-  {
-   "club": "Avaí",
    "links": 1,
    "players": [
     "raphinha"
@@ -342,24 +336,10 @@
    ]
   },
   {
-   "club": "Marseille",
-   "links": 1,
-   "players": [
-    "mason-greenwood"
-   ]
-  },
-  {
    "club": "Feyenoord Rotterdam",
    "links": 1,
    "players": [
     "orkun-kokcu"
-   ]
-  },
-  {
-   "club": "FC Basel",
-   "links": 1,
-   "players": [
-    "mohamed-salah"
    ]
   },
   {
@@ -381,13 +361,6 @@
    "links": 1,
    "players": [
     "marco-asensio"
-   ]
-  },
-  {
-   "club": "Torino",
-   "links": 1,
-   "players": [
-    "wilfried-singo"
    ]
   },
   {
@@ -423,6 +396,139 @@
    "links": 1,
    "players": [
     "hugo-ekitike"
+   ]
+  },
+  {
+   "club": "Racing Club",
+   "links": 1,
+   "players": [
+    "lautaro-martinez"
+   ]
+  },
+  {
+   "club": "Middlesbrough",
+   "links": 1,
+   "players": [
+    "morgan-rogers"
+   ]
+  },
+  {
+   "club": "Blackpool",
+   "links": 1,
+   "players": [
+    "morgan-rogers"
+   ]
+  },
+  {
+   "club": "Lincoln City",
+   "links": 1,
+   "players": [
+    "morgan-rogers"
+   ]
+  },
+  {
+   "club": "West Bromwich Albion",
+   "links": 1,
+   "players": [
+    "morgan-rogers"
+   ]
+  },
+  {
+   "club": "Linares Deportivo",
+   "links": 1,
+   "players": [
+    "fermin-lopez"
+   ]
+  },
+  {
+   "club": "Stabaek",
+   "links": 1,
+   "players": [
+    "antonio-nusa"
+   ]
+  },
+  {
+   "club": "Swansea City",
+   "links": 1,
+   "players": [
+    "marc-guehi"
+   ]
+  },
+  {
+   "club": "Hertha Berlin",
+   "links": 1,
+   "players": [
+    "ibrahim-maza"
+   ]
+  },
+  {
+   "club": "Atlético-MG",
+   "links": 1,
+   "players": [
+    "bremer"
+   ]
+  },
+  {
+   "club": "PSV Eindhoven",
+   "links": 1,
+   "players": [
+    "donyell-malen"
+   ]
+  },
+  {
+   "club": "Jong PSV",
+   "links": 1,
+   "players": [
+    "donyell-malen"
+   ]
+  },
+  {
+   "club": "Queen's Park",
+   "links": 1,
+   "players": [
+    "elliot-anderson"
+   ]
+  },
+  {
+   "club": "Preston North End",
+   "links": 1,
+   "players": [
+    "anthony-gordon"
+   ]
+  },
+  {
+   "club": "Dunajska Streda",
+   "links": 1,
+   "players": [
+    "nikola-krstovic"
+   ]
+  },
+  {
+   "club": "Red Star Belgrade",
+   "links": 1,
+   "players": [
+    "nikola-krstovic"
+   ]
+  },
+  {
+   "club": "Brescia",
+   "links": 1,
+   "players": [
+    "sandro-tonali"
+   ]
+  },
+  {
+   "club": "SK Sturm Graz",
+   "links": 1,
+   "players": [
+    "rasmus-hjlund"
+   ]
+  },
+  {
+   "club": "F.C. København",
+   "links": 1,
+   "players": [
+    "rasmus-hjlund"
    ]
   }
  ]

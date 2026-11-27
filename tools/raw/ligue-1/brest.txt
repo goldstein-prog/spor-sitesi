@@ -1,0 +1,27 @@
+Egil Selvik|1|G|29|Norway|11|0||
+Noé Poillion|16|G||||||
+Mathieu Patouillet|30|G|22|France|0|0||
+Romain Cagnon|49|G|29|France|0|0||
+Bradley Locko|2|D|24|France|11|0|0|0
+Gautier Lloris|4|D|31|France|10|0|0|1
+Brendan Chardonnet|5|D|31|France||||
+Justin Bourgault|18|D|21|France|1|1|0|0
+Luc Zogbe|20|D|21||2|2|0|0
+Evan Mailly|34|D|||0|0|0|0
+Kenny Lala|70|D|35|France|11|0|1|0
+Raphaël Le Guen|71|D|20|France|5|0|0|0
+Mamady Diambou|6|M|24|Mali|8|7|0|1
+Joseph Nonge|7|M|21|Belgium|9|7|0|1
+Hugo Magnetti|8|M|28|France|10|1|0|2
+Joris Chotard|13|M|25|France|11|0|0|2
+Kamory Doumbia|23|M|23|Mali|10|0|4|2
+Lucas Tousart|29|M|29|France|11|4|1|0
+Djylian N'Guessan||F|18|France|3|3|0|0
+Pathé Mboup|9|F|23|Senegal|11|1|2|1
+Giovani Versini|10|F|22|France|6|4|0|1
+Noah Edjouma|11|F|21|France|6|4|3|0
+Mama Baldé|17|F|31|Guinea-Bissau|10|4|2|1
+Ludovic Ajorque|19|F|32|France|11|0|5|1
+Ibrahim Kanté|21|F|19|France|3|3|0|0
+Mathis Lainé|32|F|19|France|4|4|0|0
+Enzo Monchatre|33|F|||0|0|0|0

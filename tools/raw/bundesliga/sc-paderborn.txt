@@ -1,0 +1,32 @@
+Markus Schubert|1|G|28|Germany|0|0||
+Nahuel Nicolas Noll|15|G|23|Germany|10|0||
+Florian Pruhs|31|G|20|Germany||||
+Ruben Müller|2|D|21|Germany|3|1|0|1
+Jonah Sticker|3|D|22|Germany|6|6|0|1
+Nyamekye Awortwie-Grant|4|D|26|Germany||||
+Laurin Curda|17|D|25|Germany|10|0|0|1
+Felix Götze|20|D|28|Germany|5|5|0|1
+Jano Horst|21|D|24|Germany|10|0|0|0
+Mattes Hansen|22|D|22|Germany|10|0|0|0
+Tjark Scheller|25|D|24|Germany|10|0|0|0
+Clemens Lippmann|29|D|||3|3|0|0
+Marcel Hoffmeier|33|D|27|Germany||||
+Tristan Zobel|46|D|23|Germany||||
+Santiago Castaneda|5|M|22|USA|10|0|1|0
+Tom Baack|6|M|27|Germany|7|4|0|0
+Oliver Batista Meier|7|M|25|Germany|3|3|0|0
+Luka Djuric|8|M|23|Serbia|1|1|0|0
+Raphael Obermair|23|M|30|Philippines|10|0|1|0
+Niklas Mohr|24|M|22|Germany|1|1|0|0
+Sebastian Klaas|26|M|28|Germany||||
+Laurin Ulrich|28|M|21|Germany|9|2|0|0
+Timur Gayret|44|M|28|Germany||||
+Rayan Philippe|9|F|26|France|8|7|1|0
+Sven Michel|11|F|36|Germany|1|1|0|0
+Marvin Pieringer|18|F|27|Germany|10|4|1|0
+Albert Millgramm|19|F|22|Germany||||
+Steffen Tigges|27|F|28|Germany|9|7|2|1
+Stefano Marino|30|F|22|Germany|10|1|2|0
+Lasse Eickel|32|F|18|Germany||||
+Deniz Zeitler|38|F|19|Germany|2|2|0|0
+Gabriel Vidovic|40|F|22|Croatia|10|0|0|0

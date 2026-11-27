@@ -1,0 +1,28 @@
+Benjamin Leroy|1|G|37|France||||
+Bingourou Kamara|21|G|30|Senegal|0|0||
+Yvon Mvogo|38|G|32|Switzerland|11|0||
+Alec Georgen|2|D|28|France|2|1|0|0
+Montassar Talbi|3|D|28|Tunisia|11|0|1|0
+Formose Mendy|5|D|33|Guinea-Bissau||||
+Dembo Sylla|20|D|24|Guinea|11|0|0|0
+Srdjan Kuzmic|30|D|22|Slovenia|3|3|0|0
+Nathaniel Adjei|32|D|24|Ghana|11|0|0|0
+Arsène Kouassi|43|D|22|Burkina Faso|11|0|0|2
+Nosa Obaretin|55|D|23|Italy|4|3|0|0
+Panos Katseris|77|D|25|Greece|5|2|0|3
+Isaak Touré|95|D|23|France|5|0|1|0
+Bandiougou Fadiga|7|M|25|France|0|0|0|0
+Noah Cadiou|8|M|28|Guadeloupe|11|0|1|0
+Théo Le Bris|11|M|24|France|7|5|0|0
+Jean-Victor Makengo|17|M|28|France|11|0|2|1
+Daniel Semedo|23|M|23|Portugal|0|0|0|0
+Gabin Bernardeau|33|M|20|France|11|3|1|0
+Arthur Avom|62|M|21|Cameroon|11|3|0|1
+Noah Mbamba|72|M|21|Belgium|4|2|1|0
+Mohamed Bamba|9|F|24|France||||
+Isak Jensen|10|F|22|Denmark|6|5|1|0
+Tosin Aiyegun|15|F|28|Benin|5|3|0|0
+Ibrahima Baldé|18|F|23|France|7|2|1|0
+Souleymane Faye|19|F|23|Senegal|8|6|0|0
+Samir Said Haribou|31|F|||0|0|0|0
+Mamadou Koné|42|F|20||10|6|1|1

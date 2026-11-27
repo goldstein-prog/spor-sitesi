@@ -1,0 +1,28 @@
+Zacharie Boucher|1|G|34|France||||
+Patrick Beach|33|G|23|Australia|7|0||
+Hillel Konaté|40|G|31|Burkina Faso|4|0||
+Lucas Maronnier|2|D|26|France|10|2|1|0
+Anis Ouzenadji|3|D|20|France|6|0|0|2
+Michel Diaz|4|D|23|France|10|0|0|0
+Paolo Gozzi Iweru|5|D|25|Italy|4|0|0|0
+Adrien Monfray|6|D|35|France|11|0|0|0
+Ismael Boura|14|D|26|France|3|1|1|0
+Noah Donkor|31|D|20|France|5|4|0|0
+Lassana Simakha|34|D|||0|0|0|0
+Enisio Carneiro|41|D|||0|0|0|0
+Yvann Titi|44|D|20|France|3|1|0|0
+Merwan Ifnaoui|10|M|28|France|8|0|0|0
+Iron Gomis|11|M|27|France|10|6|0|0
+Antoine Mille|17|M|29|France|11|1|3|1
+Hugo Picard|22|M|23|France|9|5|0|0
+Alexandre Philiponeau|26|M|26|France|3|3|0|0
+Dermane Karim|29|M|22|Togo|10|1|0|0
+Roman Murcy|35|M|20|France||||
+Idrissa Soukouna|36|M|||1|1|0|0
+Kandet Diawara|7|F|26|Guinea|11|6|0|2
+Mouhamed Diop|8|F|25|USA|11|0|1|0
+Jeremy Le Douaron|9|F|28|France|9|5|1|0
+Renaud Ripart|20|F|33|France|11|4|2|0
+Timothé Nkada|23|F|27|France|9|5|1|1
+Christ Batola|37|F|17|France|1|1|0|0
+Yacouba Koné|39|F|||5|5|0|0

@@ -1,0 +1,29 @@
+Matteo Pisseri|12|G|34|Italy|0|0||
+Lorenzo Palmisani|22|G|22|Italy|10|0||
+Sebastiano Desplanches|91|G|23|Italy|0|0||
+Giorgio Cittadini|2|D|24|Italy|8|2|0|0
+Gabriele Calvani|3|D|22|Italy|9|0|0|0
+Wisdom Amey|5|D|21|Italy|4|4|0|1
+Anthony Oyono|20|D|25|Gabon|9|1|0|1
+Kevin Akpoguma|25|D|31|Nigeria|0|0|0|0
+Ilario Monterisi|30|D|24|Italy|9|3|0|0
+Aleksa Terzic|71|D|27|Serbia|5|4|1|0
+Omar Fayed|74|D|23|Egypt|2|2|0|0
+Gabriele Bracaglia|79|D|23|Italy|9|0|1|1
+Enzo Tchato|90|D|23|Cameroon|2|1|0|0
+Ben Lhassine Kone|4|M|26|Ivory Coast||||
+Romano Schmid|10|M|26|Austria|10|0|2|4
+Giacomo Calo|14|M|29|Italy|10|0|5|1
+Matteo Cichella|16|M|21|Italy|8|6|1|0
+Florian Grillitsch|27|M|31|Austria|1|1|0|0
+Anouar El Azzouzi|34|M|25|Morocco|2|2|0|0
+Luis Hasa|70|M|22|Italy|4|4|0|0
+Patrizio Masini|73|M|25|Italy|9|1|0|1
+Francesco Gelli|96|M|30|Italy||||
+Farès Ghedjemis|7|F|24|Algeria|8|1|1|4
+Antonio Raimondo|9|F|22|Italy|10|0|8|0
+Daniel Birligea|11|F|26|Romania|5|5|2|0
+Giorgi Kvernadze|17|F|23|Georgia|10|0|3|4
+Alessio Zerbin|24|F|27|Italy|8|8|0|0
+Seydou Fini|40|F|20|Italy|6|3|0|0
+Tomas Bobcek|89|F|25|Slovakia|2|2|0|0

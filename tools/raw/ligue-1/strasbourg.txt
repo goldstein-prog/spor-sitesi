@@ -1,0 +1,33 @@
+Filip Jørgensen|1|G|24|Denmark|11|0||
+Milosz Piekutowski|12|G|20|Poland|0|0||
+Gabriel Kerckaert|60|G|19|France||||
+Hermann Diandaga||D|18|France||||
+Jeyland Mitchell|4|D|22|Costa Rica|8|1|0|0
+Ismael Doukoure|6|D|23|France|6|0|0|0
+Mateo Del Blanco|15|D|23|Argentina|2|2|0|0
+Genesis Antwi|16|D|19|Sweden|9|0|0|0
+Lucas Høgsberg|24|D|20|Denmark|7|2|0|0
+Karim Coulibaly|31|D|19|Germany|9|3|0|0
+Oso|36|D|23|Spain|8|0|0|2
+Yoann Becker|43|D|17|France|0|0|0|0
+Maximillian Oyedele|8|M|22|Poland||||
+Giovanni Reyna|10|M|24|USA|10|2|3|0
+Sebastian Nanasi|11|M|24|Sweden|8|2|0|3
+Dário Essugo|14|M|21|Portugal|9|3|2|1
+Pape Diop|21|M|23|Senegal|11|5|0|0
+Diogo Sousa|23|M|20|Portugal|10|3|1|1
+Omari Kellyman|26|M|21|England|2|2|0|0
+Tyrese Noubissie|28|M|17|France|0|0|0|0
+Samir El Mourabet|29|M|21|Morocco|9|4|0|0
+Benjamin Brantlind|45|M|18|Sweden|0|0|0|0
+Samuel Amo-Ameyaw|7|F|20|England|9|7|2|0
+Joaquín Panichelli|9|F|24|Argentina||||
+Sékou Mara|14|F|24|France|2|1|0|0
+Deivid Washington|17|F|21|Brazil||||
+Fabio Baldé|19|F|21|Portugal|4|3|0|0
+Martial Godo|20|F|23|England|4|1|1|0
+Jacobo Ortega Conde|30|F|||11|6|1|1
+Yaya Diémé|34|F|19|Senegal|3|3|0|0
+Ghianny Kodia|37|F|19|France|0|0|0|0
+Conrad Harder|40|F|21|Denmark|9|4|2|1
+Gessime Yassine|80|F|21|Morocco|11|0|4|3

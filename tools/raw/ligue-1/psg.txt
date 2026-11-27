@@ -1,0 +1,28 @@
+Alessandro Longoni|16|G|18|Italy|0|0||
+Lucas Chevalier|30|G|25|France|0|0||
+Matvei Safonov|39|G|27|Russia|11|0||
+Adam Mouak|80|G||||||
+Arthur Bar|90|G||||||
+Achraf Hakimi|2|D|28|Morocco|9|1|3|3
+Lucas Beraldo|4|D|23|Brazil|8|5|1|0
+Marquinhos|5|D|32|Brazil|6|1|3|0
+Illia Zabarnyi|6|D|24|Ukraine|6|0|2|0
+Lucas Digne|12|D|33|France|4|1|0|0
+Lucas Hernández|21|D|30|France|8|2|0|0
+Nuno Mendes|25|D|24|Portugal|4|1|0|0
+David Boly|42|D|17|France|1|1|0|0
+Willian Pacho|51|D|25|Ecuador|8|1|0|0
+Fabián Ruiz|8|M|30|Spain|9|3|0|2
+Maghnes Akliouche|11|M|24|France|10|3|1|0
+Vitinha|17|M|26|Portugal|9|2|1|1
+Senny Mayulu|24|M|20|France|5|2|3|2
+Dro Fernández|27|M|18|Spain|7|4|0|0
+Warren Zaïre-Emery|33|M|20|France|11|1|0|1
+Younes Idder|46|M|||0|0|0|0
+João Neves|87|M|22|Portugal|9|1|0|0
+Khvicha Kvaratskhelia|7|F|25|Georgia|7|2|1|1
+Ferran Torres|9|F|26|Spain|11|4|5|1
+Ousmane Dembélé|10|F|29|France|6|3|1|3
+Désiré Doué|14|F|21|France|10|3|2|1
+Mika Godts|22|F|21|Belgium|10|7|2|2
+Quentin Ndjantou|47|F|19|France|3|3|0|1

@@ -1,0 +1,26 @@
+Nicolas Lemaitre|16|G|29|France|2|0||
+Brice Samba|30|G|32|France|9|0||
+Kilian Belazzoug|60|G|20|Algeria|0|0||
+Charlie Cresswell|4|D|24|England|11|0|0|1
+Gonçalo Oliveira|5|D|20|Portugal|2|0|0|0
+Bryan Reynolds|14|D|25|USA|8|4|0|2
+Mahamadou Nagida|18|D|21|Cameroon|11|4|0|2
+Anthony Rouault|24|D|25|France|7|0|0|0
+Quentin Merlin|26|D|24|France|6|3|0|0
+Abdelhamid Aït Boudlal|48|D|20|Morocco|6|0|0|1
+Ayanda Sishuba||M|21|Belgium||||
+Djaoui Cissé|6|M|22|France|6|5|0|0
+Sebastian Szymanski|17|M|27|Poland|9|2|4|1
+Valentin Rongier|21|M|31|France|11|1|1|0
+Adrien Thomasson|28|M|32|France|11|3|2|2
+Mahdi Camara|45|M|28|France|10|3|0|0
+Przemyslaw Frankowski|95|M|31|Poland|9|1|1|2
+Esteban Lepaul|9|F|26|France|8|2|7|0
+Ludovic Blas|10|F|28|France|9|6|0|1
+Mousa Al-Tamari|11|F|29|Jordan|11|4|0|2
+Eliezer Mayenda|12|F|21|Spain|8|6|0|0
+Boulaye Dia|22|F|30|Senegal|9|4|6|0
+Elias Legendre|35|F|18|Ecuador|0|0|0|0
+Henrick Do Marcolino|65|F|20|France|1|1|0|0
+Arnaud Nordin|70|F|28|France|3|2|0|0
+Issa Soumaré|90|F|26|Senegal|9|4|0|1

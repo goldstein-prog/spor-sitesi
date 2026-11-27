@@ -1,0 +1,32 @@
+Josep Martínez|1|G|28|Spain|8|0||
+Raffaele Di Gennaro|12|G|33|Italy|0|0||
+Alain Taho|40|G|19|Albania|0|0||
+Ivan Provedel|49|G|32|Italy|2|0||
+John Stones|6|D|32|England|3|2|0|0
+Manuel Akanji|25|D|31|Switzerland|9|1|0|1
+Benjamin Pavard|28|D|30|France|3|1|0|0
+Carlos Augusto|30|D|27|Brazil|8|3|2|2
+Yann Bisseck|31|D|25|Germany|9|1|1|0
+Federico Dimarco|32|D|28|Italy|10|3|0|1
+Francesco Stante|45|D|21|Italy||||
+Leonardo Bovio|46|D|18|Italy|0|0|0|0
+Leon Jakirovic|51|D|18|Croatia|0|0|0|0
+Mattia Marello|54|D|18|Italy||||
+Alessandro Bastoni|95|D|27|Italy|9|0|1|0
+Djed Spence|99|D|26|England|3|2|0|0
+Aleksandar Stankovic|5|M|21|Serbia|4|3|0|0
+Piotr Zielinski|7|M|32|Poland|9|3|2|2
+Petar Sucic|8|M|23|Croatia|9|3|1|0
+Andy Diouf|17|M|23|France|9|1|0|4
+Hakan Çalhanoglu|20|M|32|Türkiye|8|3|3|0
+Curtis Jones|21|M|25|England|4|3|0|0
+Henrikh Mkhitaryan|22|M|37|Armenia|5|2|0|1
+Nicolò Barella|23|M|29|Italy|9|1|1|2
+Marcus Thuram|9|F|29|France|9|2|5|2
+Lautaro Martínez|10|F|29|Argentina|5|1|4|0
+Luis Henrique|11|F|24|Brazil|5|3|0|0
+Ange-Yoan Bonny|14|F|23|Ivory Coast|9|8|2|0
+Mattia Mosconi|48|F|19|Italy|0|0|0|0
+Jamal Iddrissou|52|F|19|Italy|0|0|0|0
+Matteo Lavelli|53|F|19|Italy|1|1|0|0
+Pio Esposito|94|F|21|Italy|10|3|2|1

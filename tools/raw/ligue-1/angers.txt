@@ -1,0 +1,26 @@
+Anthony Lopes|1|G|36|Portugal|11|0||
+Melvin Zinga|16|G|24|Congo|0|0||
+Oumar Pona|40|G|20|Mali|0|0||
+Ianis Sacko|50|G|||0|0||
+Carlens Arcus|2|D|30|Haiti|10|1|1|0
+Ousmane Camara|4|D|23|Mali|10|0|0|1
+Joseph Kalulu Kyatengwa|17|D|21|France|10|1|0|1
+Marius Louãr|20|D|19|France|2|1|0|0
+Jordan Lefort|21|D|33|Mauritania|9|0|0|0
+Lilian Raolisoa|27|D|26|France|10|6|1|0
+Maël Gernigon|34|D|17|France|3|1|0|0
+Louis Mouton|6|M|24|France|5|4|0|0
+Branco van den Boomen|8|M|31|Netherlands|11|0|1|1
+Yassin Belkhdim|14|M|24|Morocco|11|0|0|0
+Emmanuel Biumla|24|M|21|France|3|2|0|0
+Anthony Bermont|26|M|21|France|8|4|0|0
+Bané Diatta|36|M|18|France|5|4|0|0
+Jules Bouffandeau|37|M|||1|1|0|0
+Haris Belkebla|93|M|32|Algeria|6|2|0|0
+Mamadou Simbakoli|7|F|24|Central African Republic|9|8|0|0
+Prosper Peter|9|F|19|France|10|5|2|0
+Amine Sbaï|10|F|26|Morocco|11|0|1|1
+Harouna Djibirin|11|F|20|Cameroon|9|9|1|0
+Jim Allevinah|18|F|31|Gabon|11|3|0|0
+Amine El Ouazzani|19|F|25|Morocco|9|2|2|2
+Mamadou Diallo|35|F||||||

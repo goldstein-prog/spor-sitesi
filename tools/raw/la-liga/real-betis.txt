@@ -1,0 +1,34 @@
+Alejandro Postigo||G|20|Spain||||
+Yan Zhuravskyi||G||||||
+Álvaro Valles|1|G|29|Spain|13|0||
+Diego Conde|13|G|28|Spain|0|0||
+Manu González|31|G|19|Spain|0|0||
+Álvaro De Pablo|40|G|24|Spain|0|0||
+Héctor Bellerín|2|D|31|Spain|12|2|0|1
+Diego Llorente|3|D|33|Spain|5|0|0|0
+Natan|4|D|25|Brazil|11|0|1|0
+Marc Bartra|5|D|35|Spain|9|2|3|0
+Fran García|11|D|27|Spain|11|1|0|1
+Ángel Ortiz|12|D|22|Spain|5|2|0|0
+Valentín Gómez|16|D|23|Argentina|5|1|1|0
+Junior Firpo|23|D|30|Dominican Republic|2|0|0|0
+Iván Corralejo||M|19|Spain||||
+Ricardo Fúnez Gómez||M||||||
+Facundo Bernal|6|M|23|Uruguay|8|2|0|0
+Pablo Fornals|8|M|30|Spain|12|2|1|1
+Álvaro Fidalgo|15|M|29|Mexico|4|4|0|0
+Rodrigo Riquelme|17|M|26|Spain|12|6|3|0
+Nelson Deossa|18|M|26|Colombia|13|9|0|1
+Giovani Lo Celso|20|M|30|Argentina|3|2|0|1
+Marc Roca|21|M|30|Spain|10|0|0|1
+Isco|22|M|34|Spain|12|3|2|2
+Dani Ceballos|25|M|30|Spain|8|6|0|1
+Rodrigo Marina||F|20|Spain||||
+Borja Alonso Cabrera||F||||||
+Antony|7|F|26|Brazil|12|3|1|0
+Cucho Hernández|9|F|27|Colombia|9|2|2|2
+Abde Ezzalzouli|10|F|24|Morocco|10|1|3|0
+Iker Losada|14|F|25|Spain|0|0|0|0
+Troy Parrott|19|F|24|Republic of Ireland|10|6|1|1
+Aitor Ruibal|24|F|30|Spain|3|2|0|0
+José Morante|27|F|19|Spain|2|2|1|0

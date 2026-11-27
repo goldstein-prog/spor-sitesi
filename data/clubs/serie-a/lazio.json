@@ -4,7 +4,7 @@
  "city": "Roma",
  "stadium": "Stadio Olimpico",
  "source": "ESPN kadro istatistikleri (Serie A)",
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "players": [
   {
    "name": "Christos Mandas",
@@ -44,6 +44,19 @@
    "assists": null,
    "minutes": null,
    "class": 5
+  },
+  {
+   "name": "Alessio Furlanetto",
+   "num": 55,
+   "pos": "KL",
+   "age": 24,
+   "nat": "İtalya",
+   "apps": null,
+   "sub": null,
+   "goals": null,
+   "assists": null,
+   "minutes": null,
+   "class": 5.0
   },
   {
    "name": "Diogo Leite",

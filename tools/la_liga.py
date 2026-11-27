@@ -21,6 +21,8 @@ META = {
     "valencia": ("Valencia", "Valensiya", "Mestalla"),
     "getafe": ("Getafe", "Getafe", "Coliseum"),
     "elche": ("Elche", "Elche", "Martínez Valero"),
+    "real-betis": ("Real Betis", "Sevilla", "Benito Villamarín"),
+    "racing-santander": ("Racing Santander", "Santander", "El Sardinero"),
 }
 
 C = """
@@ -36,11 +38,13 @@ espanyol: Ángel Fortuño 5.5|Marko Dmitrovic 5|Quilindschy Hartman 6|Clemens Ri
 deportivo: Leo Román 5.5|Adrià Altimira 5.5|Lucas Noubi 6|Giacomo Quagliata 5.5|Miguel Loureiro 5|Angeliño 5.5|José María Giménez 6|Ximo Navarro 4|Marc Casadó 7|Diego Villares 5.5|Riki Rodríguez 5.5|Lorenzo Amatucci 6|Jonathan Asp Jensen 6|Mario Soriano Carreno 6.5|Pierre-Emerick Aubameyang 4.5|Zakaria Eddahchouri 6|Yeremay Hernández 7|David Mella 6.5|Luismi Cruz 6|Adama Traoré 5|Bil Nsongo 6|Arnau Comas 5.5|Dani Barcia 5.5
 osasuna: Sergio Herrera 5|Aitor Fernández 4.5|Diego Rico 4.5|Enzo Boyomo 6|Iñigo Arguibide 6|Aimar Oroz 6.5|Romain Del Castillo 5|Raúl Moro 6|Jonathan Dubasin 6|Jorge Herrando 6|Lucas Torró 5|Rubén García 4.5|Moi Gómez 4.5|Iker Muñoz 6|Asier Osambela 6|Ante Budimir 5.5|Raúl García 6.5|Valentin Rosier 5.5|Alejandro Catena 5.5|Abel Bretones 6|Enrique Barja 5.5|Jon Moncayola 6
 celta-vigo: Andrei Radu 6|Altay Bayindir 5.5|Williot Swedberg 6.5|Yoel Lago 6.5|Ferran Jutglà 5.5|Ilaix Moriba 6.5|Aleix Febas 5.5|Sergio Carreira 6|Javi Galán 5|Javi Rueda 6|Hugo Álvarez 6.5|Marcos Alonso 4.5|Pablo Durán 6.5|Javi Rodríguez 6.5|Hugo González 6|Iago Aspas 4.5|Hugo Burcio 5.5|Miguel Román 6|Sebastián Cáceres 5.5|Couhaib Driouech 6|Borja Iglesias 5|Álvaro Núñez 5.5|Carl Starfelt 5
-levante: Mathew Ryan 4.5|Aïssa Mandi 4.5|Ifeanyi Ndukwe 5.5|Adrián de la Fuente 5.5|Víctor García 4.5|Jeremy Toljan 4.5|Manu Sánchez 5.5|Nacho Pérez 5.5|Hugo Sotelo 5.5|Dani Requena 5.5|Roger Brugué 5.5|Jon Ander Olasagasti 5.5|Enzo Bardeli 5.5|Orio Rey 5|Iván Romero 6|Petar Ratkov 6|Etta Eyong 6|Thiago Fernández 5.5|Paco Cortés 5
+levante: Mathew Ryan 4.5|Aïssa Mandi 4.5|Ifeanyi Ndukwe 5.5|Adrián de la Fuente 5.5|Víctor García 4.5|Jeremy Toljan 4.5|Manu Sánchez 5|Nacho Pérez 5.5|Hugo Sotelo 5.5|Dani Requena 5.5|Roger Brugué 5.5|Jon Ander Olasagasti 5.5|Enzo Bardeli 5.5|Orio Rey 5|Iván Romero 6|Petar Ratkov 6|Etta Eyong 6|Thiago Fernández 5.5|Paco Cortés 5
 rayo-vallecano: Emil Audero 5.5|Daniel Cárdenas 5|Augusto Batalla 5|Andrei Ratiu 6|Marash Kumbulla 5.5|Luiz Felipe 5|Mujaid Sadick 5.5|Adrià Pedrosa 5.5|Iván Balliu 4.5|Florian Lejeune 4.5|Jozhua Vertrouwd 5.5|Pedro Díaz 5.5|Pathé Ciss 4.5|Isi Palazón 5|Unai López 5.5|Randy Nteka 5|Álvaro García 4.5|Óscar Valentín 4.5|Alexandre Alemão 5.5|Sergio Camello 6.5|Giorgi Tsitaishvili 5.5|Jorge de Frutos 6|Fran Pérez 5.5|Raúl de Tomás 4.5
 valencia: Stole Dimitrievski 5|Mouctar Diakhaby 5.5|César Tárrega 6.5|Justin de Haas 5.5|José Gayà 5.5|Dimitri Foulquier 4|Jesús Vázquez 6|Arnau Martínez 5.5|Pablo Maffeo 5.5|Guido Rodríguez 5|Javi Guerra 7|Harvey Elliott 7|Aliou Dieng 5.5|Pepelu 6|Filip Ugrinic 6|Umar Sadiq 5.5|Arnaut Danjuma 6|Hugo Duro 6|Luis Rioja 4.5|Diego López 6.5|Dani Raba 5|David Otorbi 6|Ryunosuke Sato 5.5|Copete 5
 getafe: David Soria 5.5|Jirí Letácek 5|Djené 4.5|Davinchi 6|Saba Sazonov 5.5|Abdel Abqar 5.5|Dani Carvajal 5.5|Sebastián Boselli 6|Kiko Femenía 4|Andrés García 6|Johan Mojica 4.5|Zaid Romero 5.5|Jean Ives Valou 5.5|Mario Martín 6|Nemanja Gudelj 4|Ramón Terrats 6|Francho Serrano 5.5|Christantus Uche 6|Orel Mangala 6|Alberto Risco 5|Martín Satriano 6|Borja Mayoral 5.5|Enes Ünal 6|Ivan Azón 6|Juanmi 4
 elche: Matías Dituro 4|Buba Sangaré 6|Roy Revivo 6|Pedro Bigas 4|Rubén Sánchez 5|Víctor Chust 6|Matia Barzic 5.5|Federico Redondo 6.5|Marc Aguado 6|Facundo Buonanotte 6.5|Gonzalo Villar 5.5|Martim Neto 6|Thomas Lemar 5|Javier Morcillo 5.5|Ezequiel Ponce 5|Germán Valera 6|Fer Niño 6|Grady Diangana 5|José Antonio Morente 5.5|Lucas Cepeda 6|Abiel Osorio 5.5|Ali Houary 5.5|Kevin Lomónaco 5.5|Bambo Diaby 5
+real-betis: Álvaro Valles 6.5|Héctor Bellerín 5.5|Diego Llorente 5|Natan 6.5|Marc Bartra 4.5|Fran García 6|Ángel Ortiz 6|Valentín Gómez 6.5|Junior Firpo 5|Facundo Bernal 6|Pablo Fornals 6.5|Álvaro Fidalgo 6.5|Rodrigo Riquelme 6.5|Nelson Deossa 6.5|Giovani Lo Celso 6.5|Marc Roca 6|Isco 6|Dani Ceballos 6|Antony 7|Cucho Hernández 6.5|Abde Ezzalzouli 7|Troy Parrott 6.5|Aitor Ruibal 5
+racing-santander: Julen Agirrezabala 6.5|Alvaro Mantilla 5.5|Aarón Martín 5.5|Manu 5|Pablo Ramon 5.5|Facundo González 6|Jorge Salinas 6|Pedro Felipe 5.5|Jeanuël Belocian 6|Íñigo Sainz 5|André Almeida 5.5|Maguette Gueye 5.5|Matteo Prati 6|Sergio Canales 5.5|Iván Martín 6|Giorgi Guliashvili 5.5|Iñigo Vicente 6|Andrés Martín 6|Asier Villalibre 5|Pablo García 6|Iker Luque 5.5|Yassir Zabiri 7
 """
 
 if __name__ == "__main__":

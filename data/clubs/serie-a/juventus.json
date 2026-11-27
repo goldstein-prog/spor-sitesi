@@ -4,7 +4,7 @@
  "city": "Torino",
  "stadium": "Allianz Stadium",
  "source": "ESPN kadro istatistikleri (Serie A)",
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "players": [
   {
    "name": "Kamil Grabara",
@@ -57,6 +57,19 @@
    "assists": null,
    "minutes": null,
    "class": 5
+  },
+  {
+   "name": "Stefano Mangiapoco",
+   "num": 61,
+   "pos": "KL",
+   "age": 22,
+   "nat": "İtalya",
+   "apps": null,
+   "sub": null,
+   "goals": null,
+   "assists": null,
+   "minutes": null,
+   "class": 5.0
   },
   {
    "name": "Zeki Çelik",
@@ -395,6 +408,19 @@
    "assists": 0,
    "minutes": null,
    "class": 6.5
+  },
+  {
+   "name": "Justin Oboavwoduo",
+   "num": 45,
+   "pos": "FV",
+   "age": 20,
+   "nat": "İngiltere",
+   "apps": 1,
+   "sub": 1,
+   "goals": 0,
+   "assists": 0,
+   "minutes": null,
+   "class": 5.0
   }
  ]
 }

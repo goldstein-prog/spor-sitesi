@@ -63,5 +63,18 @@
    "el": 6,
    "rel": 2
   }
+ },
+ {
+  "id": "ligue-1",
+  "name": "Ligue 1",
+  "short": "Ligue 1",
+  "country": "Fransa",
+  "flag": "🇫🇷",
+  "base": 4.5,
+  "zones": {
+   "cl": 3,
+   "el": 5,
+   "rel": 3
+  }
  }
 ]

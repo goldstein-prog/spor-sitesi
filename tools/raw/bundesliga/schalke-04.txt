@@ -1,0 +1,29 @@
+Loris Karius|1|G|33|Germany|10|0||
+Kevin Müller|22|G|35|Germany|1|1||
+Johannes Siebeking|36|G|20|Germany|0|0||
+Hasan Kurucay|4|D|29|Türkiye|10|0|0|0
+Timo Becker|5|D|29|Germany|8|1|0|0
+Robin Gosens|8|D|32|Germany|8|1|1|0
+Adrian Gantenbein|17|D|25|Switzerland|2|0|0|1
+Nikola Katic|25|D|30|Bosnia and Herzegovina|10|0|0|0
+Vitalie Becker|33|D|21|Germany|8|5|0|0
+Maximilian Wöber|39|D|28|Austria|6|5|1|0
+Mert Can Ayhan|43|D|20|Türkiye|5|3|0|0
+Ron Schallenberg|6|M|28|Germany|3|2|0|0
+Satoshi Tanaka|13|M|24|Japan|9|1|0|0
+Janik Bachmann|14|M|30|Germany|2|2|0|0
+Dejan Ljubicic|21|M|29|Austria|6|1|0|0
+Soufian El-Faouzi|23|M|24|Morocco|9|0|0|0
+Adil Aouchiche|24|M|24|Algeria|10|1|1|0
+Finn Porath|27|M|29|Germany|0|0|0|0
+Junior Dina Ebimbe|29|M|26|Cameroon|9|5|0|0
+Luca Vozar|38|M|19|Germany|1|1|0|0
+Edion Gashi|40|M|20|Kosovo|0|0|0|0
+Hwang Hee-Chan|7|F|30|South Korea|8|4|0|1
+Moussa Sylla|9|F|27|Mali|5|2|0|0
+Edin Dzeko|10|F|40|Bosnia and Herzegovina|8|6|0|0
+Bryan Lasme|11|F|28|France|1|1|0|0
+Emil Höjlund|15|F|21|Denmark||||
+Kenan Karaman|19|F|32|Türkiye|8|1|1|0
+Junior Adamu|20|F|25|Austria|8|2|1|1
+Jean-Paul N'Diaye|35|F|||0|0|0|0

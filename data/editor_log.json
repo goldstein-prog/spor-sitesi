@@ -1,0 +1,50 @@
+{
+ "_not": "Olay bazlı seviye değişiklikleri (en fazla ±0,5). Bkz. README 'Olay bazlı değerleme'.",
+ "items": [
+  {
+   "date": "2026-11-27",
+   "slug": "manu-sanchez",
+   "player": "Manu Sánchez",
+   "club": "Levante",
+   "class": [
+    5.5,
+    5.0
+   ],
+   "event": "Sakatlık",
+   "reason": "Sol dizde ön çapraz bağ kopması, ameliyat (kulüp açıklaması 24.11.2026); sezonu kapatması bekleniyor",
+   "sources": [
+    "https://www.futbolfantasy.com/laliga/noticias/155392-parte-medico-oficial-manu-sanchez",
+    "https://noticiasciudadanas.com/manu-sanchez-se-rompe-el-cruzado-y-dice-adios-a-la-temporada/"
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "slug": "lorenzo-colombo",
+   "player": "Lorenzo Colombo",
+   "club": "Genoa",
+   "class": [
+    6,
+    5.5
+   ],
+   "event": "Sakatlık",
+   "reason": "Sağ dizde ön çapraz bağ lezyonu, ameliyat; yaklaşık 6 ay (kulüp açıklaması 23.11.2026)",
+   "sources": [
+    "https://www.ansa.it/sito/notizie/sport/2026/11/23/calcio-genoa-per-colombo-rottura-del-legamento-crociato-anteriore-destro_8090c514-ea6f-4b4f-bf52-84a9029e582e.html",
+    "https://www.genoaoggi.it/notizie/infortuni/genoa-infortunio-colombo-lesione-crociato/"
+   ]
+  },
+  {
+   "date": "2026-11-27",
+   "slug": "desire-doue",
+   "player": "Désiré Doué",
+   "club": "Paris Saint-Germain",
+   "class": [
+    null,
+    8.0
+   ],
+   "event": "İlk seviye",
+   "reason": "Ligue 1 ile siteye eklendi; ilk seviye belirlenirken 22.11.2026'da açıklanan ön çapraz bağ kopması dikkate alındı (8,5 yerine 8)",
+   "sources": []
+  }
+ ]
+}
