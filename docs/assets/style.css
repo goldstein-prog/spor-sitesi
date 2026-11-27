@@ -60,3 +60,4 @@ img.kit{width:22px;height:22px;vertical-align:-6px;margin-right:7px}
 .kitbig{width:92px;height:92px;flex:none;background:#f1efe9;border-radius:14px;padding:6px}.kitbig svg{width:100%;height:100%;display:block}
 .pinfo{flex:1;min-width:200px}
 @media(max-width:640px){.kitbig{width:72px;height:72px}}
+table.career th,table.career td{padding:7px 4px;font-size:13.5px}table.career td.l{white-space:normal;min-width:120px}table.career img.kit{margin-right:5px}

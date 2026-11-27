@@ -163,19 +163,33 @@ def career_rows(p, club_index, countries):
     c = CAREERS.get(p["slug"])
     if not c:
         return ""
-    rows = ""
-    for name, seasons in c["clubs"]:
+    rows, has_stats, partial = "", False, False
+    for item in c["clubs"]:
+        name, seasons = item[0], item[1]
+        st = item[2] if len(item) > 2 else None
         if _NT.search(name) or _cnorm(name) in countries:
             continue
         key = _cnorm(name)
         slug = _CAREER_ALIAS.get(key) or club_index.get(key)
         cl = next((x for x in clubs if x["slug"] == slug), None) if slug else None
         label = f'<img class="kit" src="{BASE}/assets/kits/{cl["slug"]}.svg" alt="" width="22" height="22" loading="lazy"><a href="{link("kulup", cl["slug"])}">{e(cl["name"])}</a>' if cl else e(name)
-        rows += f"<tr><td class='l'><b>{label}</b></td><td class='r'>{'' if seasons is None else str(seasons) + ' sezon'}</td></tr>"
+        if st:
+            has_stats = True
+            if st.get("sub") is None:
+                partial = True
+            m = st["st"] + (st.get("sub") or 0)
+            cells = f"<td>{m}</td><td>{st['g']}</td><td>{st['a']}</td><td>{st['yc']}</td><td>{st['rc']}</td>"
+            label += f"<br><small class='muted'>{e(st['comp'])}</small>"
+        else:
+            cells = "<td>-</td><td>-</td><td>-</td><td>-</td><td>-</td>"
+        rows += f"<tr><td class='l'><b>{label}</b></td><td>{'-' if seasons is None else seasons}</td>{cells}</tr>"
     if not rows:
         return ""
-    return (f"<section class='card'><h2>Kariyer</h2><table class='mini'>{rows}</table>"
-            f"<p class='muted'>En yeni kulüp en üstte. Kaynak: {e(c.get('src', 'ESPN'))} oyuncu biyografisi, {fmt_d(c['d'])}. Milli takımlar gösterilmez.</p></section>")
+    note = " Maç sayılarının bir kısmı sadece ilk 11 çıkışlarıdır (yedek girişler kaynakta yok)." if partial else ""
+    stat_note = f" Sz: sezon, M: maç, G: gol, A: asist, SK/KK: sarı/kırmızı kart. İstatistikler o kulüpteki lig maçlarıdır.{note}" if has_stats else ""
+    head = "<tr><th class='l'>Kulüp</th><th title='Sezon'>Sz</th><th title='Maç'>M</th><th title='Gol'>G</th><th title='Asist'>A</th><th title='Sarı kart'>SK</th><th title='Kırmızı kart'>KK</th></tr>"
+    return (f"<section class='card'><h2>Kariyer</h2><div class='tbl'><table class='career'><thead>{head}</thead><tbody>{rows}</tbody></table></div>"
+            f"<p class='muted'>En yeni kulüp en üstte. Kaynak: {e(c.get('src', 'ESPN'))} oyuncu biyografisi ve istatistik sayfaları, {fmt_d(c['d'])}. Milli takımlar gösterilmez.{stat_note}</p></section>")
 
 
 # ---------- bileşenler ----------
