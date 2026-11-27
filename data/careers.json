@@ -273,5 +273,575 @@
     2
    ]
   ]
+ },
+ "kylian-mbappe": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Real Madrid",
+    3
+   ],
+   [
+    "Paris Saint-Germain",
+    7
+   ],
+   [
+    "AS Monaco",
+    3
+   ]
+  ]
+ },
+ "erling-haaland": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Manchester City",
+    5
+   ],
+   [
+    "Borussia Dortmund",
+    3,
+    {
+     "comp": "Bundesliga",
+     "st": 59,
+     "sub": null,
+     "g": 62,
+     "a": 16,
+     "yc": 5,
+     "rc": 0
+    }
+   ],
+   [
+    "RB Salzburg",
+    2
+   ],
+   [
+    "Molde",
+    2
+   ]
+  ]
+ },
+ "jude-bellingham": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Real Madrid",
+    4
+   ],
+   [
+    "Borussia Dortmund",
+    3
+   ],
+   [
+    "Birmingham City",
+    1
+   ]
+  ]
+ },
+ "cole-palmer": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Chelsea",
+    4
+   ],
+   [
+    "Manchester City",
+    5
+   ]
+  ]
+ },
+ "lamine-yamal": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Barcelona",
+    5,
+    {
+     "comp": "La Liga",
+     "st": 92,
+     "sub": null,
+     "g": 40,
+     "a": 38,
+     "yc": 9,
+     "rc": 0
+    }
+   ]
+  ]
+ },
+ "florian-wirtz": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Liverpool",
+    2
+   ],
+   [
+    "Bayer Leverkusen",
+    6
+   ]
+  ]
+ },
+ "alexander-isak": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Liverpool",
+    2
+   ],
+   [
+    "Newcastle United",
+    3,
+    {
+     "comp": "Premier Lig",
+     "st": 78,
+     "sub": null,
+     "g": 54,
+     "a": 10,
+     "yc": 5,
+     "rc": 0
+    }
+   ],
+   [
+    "Real Sociedad",
+    4
+   ],
+   [
+    "Willem II",
+    1
+   ],
+   [
+    "Borussia Dortmund",
+    4
+   ],
+   [
+    "AIK",
+    1
+   ]
+  ]
+ },
+ "michael-olise": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Bayern Munich",
+    3
+   ],
+   [
+    "Crystal Palace",
+    3
+   ],
+   [
+    "Reading",
+    3
+   ]
+  ]
+ },
+ "rayan-cherki": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Manchester City",
+    2
+   ],
+   [
+    "Lyon",
+    6
+   ]
+  ]
+ },
+ "pedri": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Barcelona",
+    6
+   ],
+   [
+    "Las Palmas",
+    1
+   ]
+  ]
+ },
+ "bukayo-saka": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Arsenal",
+    9
+   ]
+  ]
+ },
+ "arda-guler": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Real Madrid",
+    4
+   ],
+   [
+    "Fenerbahçe",
+    3
+   ]
+  ]
+ },
+ "jamal-musiala": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Bayern Munich",
+    8
+   ]
+  ]
+ },
+ "vinicius-junior": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Real Madrid",
+    9
+   ],
+   [
+    "Flamengo",
+    2
+   ]
+  ]
+ },
+ "raphinha": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Barcelona",
+    5
+   ],
+   [
+    "Leeds United",
+    2
+   ],
+   [
+    "Stade Rennais",
+    2
+   ],
+   [
+    "Sporting CP",
+    2
+   ],
+   [
+    "Vitória de Guimaraes",
+    3
+   ],
+   [
+    "Avaí",
+    1
+   ]
+  ]
+ },
+ "joao-pedro": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Chelsea",
+    2
+   ],
+   [
+    "Brighton & Hove Albion",
+    2
+   ],
+   [
+    "Watford",
+    4
+   ],
+   [
+    "Fluminense",
+    1
+   ]
+  ]
+ },
+ "nico-paz": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Como",
+    3
+   ],
+   [
+    "Real Madrid",
+    2
+   ]
+  ]
+ },
+ "martin-degaard": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Arsenal",
+    7
+   ],
+   [
+    "Real Madrid",
+    5
+   ],
+   [
+    "Real Sociedad",
+    1
+   ],
+   [
+    "Vitesse",
+    1
+   ],
+   [
+    "Heerenveen",
+    2
+   ],
+   [
+    "Stromsgodset",
+    1
+   ]
+  ]
+ },
+ "declan-rice": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Arsenal",
+    4
+   ],
+   [
+    "West Ham United",
+    7
+   ]
+  ]
+ },
+ "harry-kane": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Bayern Munich",
+    4
+   ],
+   [
+    "Tottenham Hotspur",
+    13
+   ],
+   [
+    "Norwich City",
+    1
+   ],
+   [
+    "Leicester City",
+    1
+   ],
+   [
+    "Millwall",
+    1
+   ],
+   [
+    "Leyton Orient",
+    1
+   ]
+  ]
+ },
+ "federico-valverde": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Real Madrid",
+    9
+   ],
+   [
+    "Deportivo",
+    1
+   ],
+   [
+    "Peñarol",
+    1
+   ]
+  ]
+ },
+ "josko-gvardiol": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Manchester City",
+    4,
+    {
+     "comp": "Premier Lig",
+     "st": 83,
+     "sub": null,
+     "g": 12,
+     "a": 6,
+     "yc": 8,
+     "rc": 0
+    }
+   ],
+   [
+    "RB Leipzig",
+    2
+   ],
+   [
+    "Dinamo Zagreb",
+    1
+   ]
+  ]
+ },
+ "marcus-thuram": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Internazionale",
+    4
+   ],
+   [
+    "Borussia Mönchengladbach",
+    4
+   ],
+   [
+    "Guingamp",
+    2
+   ],
+   [
+    "Sochaux",
+    3
+   ]
+  ]
+ },
+ "christian-pulisic": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "AC Milan",
+    4
+   ],
+   [
+    "Chelsea",
+    4
+   ],
+   [
+    "Borussia Dortmund",
+    5
+   ]
+  ]
+ },
+ "alessandro-bastoni": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Internazionale",
+    8
+   ],
+   [
+    "Parma",
+    1
+   ],
+   [
+    "Atalanta",
+    2
+   ]
+  ]
+ },
+ "alexis-mac-allister": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Liverpool",
+    4
+   ],
+   [
+    "Brighton & Hove Albion",
+    4
+   ],
+   [
+    "Boca Juniors",
+    1
+   ],
+   [
+    "Argentinos Juniors",
+    4
+   ]
+  ]
+ },
+ "kenan-yildiz": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Juventus",
+    4
+   ]
+  ]
+ },
+ "enzo-fernandez": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Manchester City",
+    1
+   ],
+   [
+    "Chelsea",
+    5
+   ],
+   [
+    "Benfica",
+    1
+   ],
+   [
+    "River Plate",
+    3
+   ],
+   [
+    "Defensa y Justicia",
+    2
+   ]
+  ]
+ },
+ "luis-diaz": {
+  "d": "2026-11-27",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Bayern Munich",
+    2
+   ],
+   [
+    "Liverpool",
+    4
+   ],
+   [
+    "FC Porto",
+    3
+   ],
+   [
+    "Atlético Junior",
+    3
+   ]
+  ]
  }
 }
