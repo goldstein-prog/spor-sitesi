@@ -1,0 +1,31 @@
+Renato Marin|1|G|20|Italy|12|0||
+João Gonçalves|13|G|26|Portugal|0|0||
+Kevyn|50|G|21|Brazil|0|0||
+Daniel de La Cruz|2|D|22|Ecuador|5|4|0|0
+Ulisses|4|D|27|Brazil|0|0|0|0
+José Gomes|5|D|30|Portugal|2|1|0|0
+Ivanildo Fernandes|14|D|30|Portugal|1|1|0|0
+William Kokolo|21|D|26|France|10|2|0|1
+Francisco Gonçalves|33|D|22|Portugal|8|0|0|1
+Léo Santos|34|D|27|Brazil|5|0|1|1
+Zé Vitor|38|D|25|Brazil|12|0|1|0
+Wesley Gasolina|52|D|26|Brazil|8|2|1|0
+Matias Silva|55|D|--|--|0|0|0|0
+Matheus Dias|6|M|24|Brazil|11|0|0|0
+Markus Jensen|7|M|21|Denmark|10|1|1|0
+Miguel Baeza|8|M|26|Spain|12|1|2|1
+Daniel Júnior|10|M|24|Brazil|10|4|0|1
+Stavros Gavriel|11|M|24|Cyprus|12|7|0|0
+Chiheb Labidi|15|M|25|Tunisia|8|2|0|1
+Matchoi Djoló|20|M|23|Portugal|10|8|2|0
+Filipe Soares|22|M|27|Portugal|4|1|0|0
+Mateus Iseppe|23|M|20|Brazil|1|1|0|0
+Joel Silva|26|M|23|Portugal|3|2|0|0
+Liziero|28|M|28|Brazil|4|0|1|1
+Danel Dongmo|31|M|25|Cameroon|4|3|0|0
+Deivison|88|M|20|Brazil|6|5|0|0
+Allen Obando|9|F|20|Ecuador|8|7|0|0
+Song Min-Kyu|12|F|27|South Korea|7|1|1|1
+Fernando Nava|17|F|22|Bolivia|2|2|0|0
+Njoya Kader|29|F|23|Cameroon|5|0|2|0
+Pablo Ruan|99|F|23|Brazil|11|4|1|1

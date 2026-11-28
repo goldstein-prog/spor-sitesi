@@ -1,7 +1,7 @@
 # Kramponomi
 
 Futbolcu piyasa değerleri, kulüp kadro değerleri, transferler ve puan durumları.
-Şu an: Trendyol Süper Lig (18), Premier Lig (20), La Liga (20), Serie A (20), Bundesliga (18) ve Ligue 1 (18 kulüp).
+Şu an: Trendyol Süper Lig (18), Premier Lig (20), La Liga (20), Serie A (20), Bundesliga (18), Ligue 1 (18) ve Liga Portugal (18 kulüp).
 
 ## Yapı
 - `data/leagues.json` ligler (lig tabanı katsayısı dahil)

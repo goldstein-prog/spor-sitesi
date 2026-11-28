@@ -1,0 +1,30 @@
+Juan Castillo|22|G|23|Colombia|0|0||
+Oliwier Zych|48|G|22|Poland|8|0||
+Gui|91|G|20|Portugal|--|--||
+Lucas Furtado|98|G|21|Brazil|3|0||
+Miguel Maga|2|D|24|Portugal|3|1|0|0
+Óscar Rivas|4|D|26|Spain|5|1|0|0
+Ahmed Sidibé|5|D|24|France|5|0|0|0
+João Mendes|13|D|26|Portugal|11|0|0|0
+Yeimar Mosquera|15|D|21|Colombia|1|1|1|0
+Toni Borevkovic|21|D|29|Croatia|6|1|1|0
+Tony Strata|23|D|22|Romania|11|2|0|1
+Thiago Balieiro|28|D|23|Brazil|9|1|0|0
+Mohammed Kebdani|40|D|20|Morocco|0|0|0|0
+Francisco Dias|82|D|24|Portugal|0|0|0|0
+Matija Mitrovic|6|M|21|Serbia|4|4|0|0
+Gonçalo Nogueira|8|M|22|Portugal|11|2|1|0
+Alan|10|M|26|Brazil|5|4|1|2
+Beni Mukendi|16|M|24|Angola|11|4|0|0
+Samu|20|M|30|Portugal|11|1|1|1
+Lohann Doucet|44|M|24|France|11|5|0|0
+Santi Verdi|56|M|18|Portugal|1|1|0|0
+Oumar Camara|7|F|19|France|11|3|1|0
+Arnel Jakupovic|9|F|28|Austria|7|1|2|0
+Gustavo da Silva|11|F|27|Brazil|10|0|1|1
+Miguel Nogueira|17|F|21|Portugal|10|6|0|3
+Telmo Arcanjo|18|F|25|Cape Verde Islands|4|4|0|0
+Victor Andersson|19|F|22|Sweden|3|3|0|0
+Alioune Ndoye|24|F|25|Senegal|9|4|1|0
+Patrick Ouotro|29|F|21|Ivory Coast|5|5|0|0
+Macedo|90|F|23|Portugal|--|--|--|--

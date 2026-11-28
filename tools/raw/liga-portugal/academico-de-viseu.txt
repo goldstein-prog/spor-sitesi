@@ -1,0 +1,29 @@
+Marcos Lavín|1|G|30|Spain|0|0||
+Juan Soriano|12|G|29|Spain|0|0||
+Matheus Sampaio|58|G|22|Brazil|0|0||
+Ewerton|98|G|28|Brazil|11|0||
+Niklaos Michelis|2|D|25|Greece|10|1|0|0
+Miguel Ángel Brau|3|D|24|Spain|6|2|0|0
+Pedro Barcelos|5|D|30|Brazil|5|4|0|0
+Valery Fernández|17|D|27|Spain|1|1|0|0
+Tomás Domingos|21|D|27|Portugal|2|2|0|0
+Anthony Correia|41|D|27|France|11|0|0|2
+Rúben Pereira|44|D|28|Portugal|2|0|1|0
+Gu Costa|57|D|21|Portugal|5|1|0|0
+Igor Milioransa|66|D|30|Brazil|2|0|0|0
+Hugo Gambor|82|D|23|Central African Republic|1|1|0|0
+André Ceitil|6|M|31|Portugal|3|2|0|0
+Luís Silva|7|M|34|Portugal|9|1|0|0
+Cihan Kahraman|8|M|28|Türkiye|11|0|1|4
+Soufiane Messeguem|14|M|25|Germany|11|0|3|1
+Cristian Ferreira|18|M|27|Argentina|3|3|0|0
+Andro Babic|29|M|22|Croatia|0|0|0|0
+João Guilherme|31|M|26|Brazil|11|0|3|0
+Alejandro Mestanza|45|M|21|Spain|11|9|0|2
+Mohamed Bouldini|9|F|31|Morocco|6|6|1|0
+Álvaro Zamora|10|F|24|Costa Rica|8|5|0|0
+Nils Mortimer|22|F|25|Spain|8|5|0|0
+André Clóvis|33|F|29|Brazil|11|0|5|1
+Lorougnon Gohi|47|F|22|--|11|6|1|0
+Robinho|75|F|29|Portugal|11|0|0|2
+Paulinho|77|F|27|Portugal|1|1|0|0

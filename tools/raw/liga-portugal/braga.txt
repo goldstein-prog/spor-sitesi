@@ -1,0 +1,30 @@
+Tiago Sá|12|G|31|Portugal|0|0||
+Bernardo|31|G|24|Brazil|11|0||
+João Carvalho|78|G|22|Portugal|0|0||
+Víctor Gómez|2|D|26|Spain|11|3|0|1
+Sikou Niakate|4|D|27|Mali|--|--|--|--
+Diogo Travassos|7|D|22|Portugal|7|1|0|0
+Gustaf Lagerbielke|14|D|26|Sweden|8|0|0|0
+Sergio Barcia|22|D|25|Spain|7|2|0|0
+Bright Arrey-Mbi|26|D|23|Germany|4|0|0|0
+Adrian Leon Barisic|37|D|25|Bosnia and Herzegovina|4|0|0|1
+Adrian Bajrami|44|D|24|Switzerland|7|3|0|0
+Diogo Antunes Lobo|71|D|--|--|0|0|0|0
+Vítor Carvalho|6|M|29|Brazil|10|2|0|1
+João Moutinho|8|M|40|Portugal|11|2|0|0
+Tomás Marqués|16|M|20|Spain|6|5|0|0
+Mario Dorgeles|20|M|22|Ivory Coast|8|3|0|0
+Denis Huseinbasic|23|M|25|Bosnia and Herzegovina|7|6|0|0
+Gorby|29|M|24|France|8|2|0|1
+Demir Ege Tiknaz|34|M|22|Türkiye|7|2|0|2
+Diego Rodrigues|50|M|21|Portugal|5|3|1|0
+João Trovisco|87|M|19|Portugal|0|0|0|0
+Fran Navarro|9|F|28|Spain|9|5|1|0
+Pau Víctor|10|F|25|Spain|11|2|5|1
+Gabriel Silva|11|F|24|Brazil|8|3|0|1
+Jovan Milosevic|17|F|21|Serbia|6|3|0|0
+Jonas Wind|19|F|27|Denmark|4|3|1|0
+Ricardo Horta|21|F|32|Portugal|8|1|2|0
+Gabri Martínez|77|F|23|Spain|8|3|1|0
+Rúben Furtado|79|F|20|Portugal|--|--|--|--
+Flinto Augusto Patrão Da Costa|98|F|--|--|1|1|0|0

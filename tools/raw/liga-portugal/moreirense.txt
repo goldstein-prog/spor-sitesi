@@ -1,0 +1,33 @@
+Aranha|1|G|21|Brazil|0|0||
+Francisco Barbosa Sampaio|12|G|--|--|0|0||
+André Ferreira|13|G|30|Portugal|11|0||
+Leandro Santos|2|D|21|Portugal|6|4|0|0
+Kevyn|4|D|21|Brazil|8|4|0|0
+Álvaro Martínez|17|D|24|Spain|3|2|0|0
+Jóbson Maracás|26|D|32|Brazil|7|0|0|0
+Kiko|27|D|24|Portugal|10|0|1|0
+Pedro Jesus|31|D|--|Brazil|0|0|0|0
+Janderson|32|D|21|Brazil|0|0|0|0
+Gilberto Batista|66|D|22|Guinea-Bissau|11|0|0|0
+Dinis Pinto|76|D|26|Portugal|10|1|1|0
+Manuel Mendonça|7|M|21|Portugal|9|0|2|1
+Mateja Stjepanovic|8|M|22|Serbia|8|6|0|0
+João Veloso|20|M|21|Portugal|5|3|1|1
+Rodri Alonso|21|M|23|Spain|11|8|0|0
+Nile John|23|M|23|England|11|0|3|0
+Afonso Assis|25|M|20|Portugal|0|0|0|0
+Jimi Gower|30|M|22|England|0|0|0|0
+Guilherme Liberato|65|M|25|Brazil|9|0|0|0
+Miguel Silva|87|M|18|Portugal|0|0|0|0
+Alexandre Parsemain|9|F|23|France|6|1|1|1
+Kiko Bondoso|10|F|31|Portugal|8|4|0|1
+Landerson|11|F|19|Brazil|11|4|1|0
+Tiago Andrade|19|F|21|Portugal|8|3|2|2
+Songa Chipyoka|28|F|22|Zambia|4|3|0|0
+Dante Dias De Brito|35|F|--|--|0|0|0|0
+Michael Dacosta Gonzalez|44|F|21|Spain|1|1|0|0
+Koby Mottoh|77|F|20|England|0|0|0|0
+Leonardo Vonic|79|F|23|Croatia|6|0|1|1
+Afonso Vieira|89|F|19|--|3|1|0|0
+Rodrigo Bernardino Soares|90|F|--|--|0|0|0|0
+Yan Maranhão|99|F|24|Brazil|8|8|0|0

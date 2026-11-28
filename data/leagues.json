@@ -76,5 +76,18 @@
    "el": 5,
    "rel": 3
   }
+ },
+ {
+  "id": "liga-portugal",
+  "name": "Liga Portugal",
+  "short": "Liga Portugal",
+  "country": "Portekiz",
+  "flag": "🇵🇹",
+  "base": 3.0,
+  "zones": {
+   "cl": 2,
+   "el": 4,
+   "rel": 3
+  }
  }
 ]

@@ -1,0 +1,28 @@
+Gonçalo Tabuaço|1|G|25|Portugal|0|0||
+Alfonso Pastor|13|G|26|Spain|6|0||
+Fran Vieites|30|G|27|Spain|5|0||
+Kimiss|34|G|22|Mozambique|--|--||
+Igor Julião|2|D|32|Brazil|11|0|0|0
+Nathanael Ogbeta|3|D|25|England|0|0|0|0
+Nilton|5|D|25|Portugal|5|5|0|0
+Tomas Tavares|15|D|25|Portugal|4|2|0|0
+Gábor Szalai|22|D|26|Hungary|7|2|1|0
+Paulo Henrique|23|D|30|Portugal|11|0|1|0
+Romain Correia|44|D|27|Portugal|11|0|1|0
+Rafaël Fernandes|4|M|24|Portugal|7|0|0|0
+Rodrigo Andrade|6|M|25|Portugal|11|1|0|0
+Maxime Dominguez|8|M|30|Switzerland|7|4|0|1
+Martín Tejón|10|M|22|Spain|11|0|1|1
+Raphael Guzzo|14|M|31|Portugal|11|0|1|0
+Francisco Silva|16|M|19|--|0|0|0|0
+Vladan Danilovic|18|M|27|--|8|0|0|1
+Ibrahim Alani|21|M|20|Nigeria|4|3|0|0
+Yellu Santiago|25|M|22|Spain|1|1|0|0
+Israel Ayuma|66|M|21|Nigeria|6|6|1|0
+Nélio Batista|68|M|17|Portugal|0|0|0|0
+Simo|11|F|27|Morocco|8|3|1|0
+Mons Bassouamina|12|F|28|Congo|6|5|0|0
+Adrián Butzke|17|F|27|Spain|11|0|1|0
+Samuel Bamba|27|F|22|Germany|9|9|1|0
+Bryan Limbombe|35|F|25|Belgium|4|1|0|0
+Maurice Boakye|90|F|22|--|11|11|1|1

@@ -3,16 +3,6 @@
  "careers": 109,
  "queue": [
   {
-   "club": "Benfica",
-   "links": 4,
-   "players": [
-    "kerem-akturkoglu",
-    "enzo-fernandez",
-    "orkun-kokcu",
-    "joao-neves"
-   ]
-  },
-  {
    "club": "VfL Wolfsburg",
    "links": 3,
    "players": [
@@ -37,15 +27,6 @@
     "erling-haaland",
     "dominik-szoboszlai",
     "dayot-upamecano"
-   ]
-  },
-  {
-   "club": "FC Porto",
-   "links": 3,
-   "players": [
-    "luis-diaz",
-    "vitinha-psg",
-    "evanilson"
    ]
   },
   {
@@ -87,14 +68,6 @@
    "players": [
     "vinicius-junior",
     "wesley"
-   ]
-  },
-  {
-   "club": "Sporting CP",
-   "links": 2,
-   "players": [
-    "raphinha",
-    "rafael-leao"
    ]
   },
   {
@@ -261,13 +234,6 @@
    "links": 1,
    "players": [
     "michael-olise"
-   ]
-  },
-  {
-   "club": "Vitória de Guimaraes",
-   "links": 1,
-   "players": [
-    "raphinha"
    ]
   },
   {
@@ -597,13 +563,6 @@
    "links": 1,
    "players": [
     "morgan-gibbs-white"
-   ]
-  },
-  {
-   "club": "Braga",
-   "links": 1,
-   "players": [
-    "pedro-neto"
    ]
   },
   {

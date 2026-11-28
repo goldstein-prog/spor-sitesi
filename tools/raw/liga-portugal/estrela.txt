@@ -1,0 +1,31 @@
+Rafael Monteiro||G|19|Brazil|--|--||
+David Grilo|22|G|30|Portugal|0|0||
+Leo Linck|24|G|25|Brazil|11|0||
+Diogo Pinto|51|G|22|Portugal|0|0||
+Lucas Mincarelli|3|D|22|France|3|2|0|0
+Bernardo Schappo|4|D|27|Brazil|4|1|0|0
+Stefan Lekovic|5|D|22|Serbia|10|0|0|0
+Jefferson Encada|17|D|28|Guinea-Bissau|8|7|0|0
+Max Scholze|21|D|21|Germany|11|1|1|1
+Luan Patrick|30|D|24|Brazil|10|0|0|0
+Rafa Soares|55|D|31|Portugal|11|1|0|2
+Atanas Chernev|79|D|24|Bulgaria|1|1|0|0
+Kevin Höög Jansson|6|M|26|Sweden|6|4|0|0
+Robinho|8|M|24|Brazil|5|3|0|1
+Lovro Zvonarek|14|M|21|Croatia|11|0|2|0
+Vuk Pavićević|18|M|--|--|--|--|--|--
+Joan Jordán|19|M|32|Spain|6|6|0|1
+Tom Moustier|28|M|24|France|3|3|0|0
+Eddy Doué|39|M|20|France|9|0|0|3
+Emerson Vanga|71|M|20|France|3|2|0|0
+Santiago Serra|78|M|19|Portugal|8|0|0|0
+Bénito|93|M|23|France|9|9|1|1
+Ianis Stoica|10|F|23|Romania|11|0|4|2
+Rodrigo Dudok|11|F|19|Uruguay|--|--|--|--
+Jeremy Arévalo|29|F|21|Ecuador|--|--|--|--
+Leandro Antonetti|37|F|23|Puerto Rico|11|0|5|1
+Si-Woo Yang|41|F|--|--|--|--|--|--
+René Mitongo|49|F|18|Belgium|2|2|0|0
+Henrique Poniewas|72|F|20|Brazil|0|0|0|0
+Alisson Souza|80|F|21|Brazil|6|6|0|0
+Abraham Marcus|99|F|26|Nigeria|11|0|4|1

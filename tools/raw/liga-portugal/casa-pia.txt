@@ -1,0 +1,29 @@
+Patrick Sequeira|1|G|27|Costa Rica|3|0||
+Daniel Azevedo|22|G|28|Portugal|0|0||
+André Gomes|31|G|22|Portugal|5|0||
+Ivan Mandic|95|G|23|Croatia|4|1||
+Kaly|3|D|23|Angola|9|2|0|0
+Joao Goulart|4|D|26|Portugal|6|2|0|0
+Abdu Conté|5|D|28|Portugal|3|0|0|0
+André Geraldes|18|D|35|Portugal|11|0|0|0
+Kaique Rocha|27|D|25|Brazil|0|0|0|0
+David Sousa|43|D|25|Brazil|11|0|0|0
+Felipe Florencio Da Silva|44|D|24|Brazil|1|1|0|0
+Pedro Rosas|75|D|26|Portugal|11|3|0|0
+Gabi Pereira|8|M|26|Portugal|6|4|0|0
+Silvi Clua|16|M|21|Spain|10|3|2|0
+Sebastián Pérez|24|M|33|Colombia|8|2|0|1
+Abdu Dafe|59|M|18|Guinea-Bissau|4|4|0|0
+João Rêgo|70|M|21|Portugal|8|0|1|0
+Lawrence Ofori|80|M|28|Ghana|11|1|1|1
+JP|98|M|21|Brazil|3|2|0|0
+Henrique Araújo|9|F|24|Portugal|11|3|1|2
+Rochinha|10|F|31|Portugal|5|1|0|0
+Mohamed Salah El Boukammiri|11|F|22|Belgium|7|2|0|1
+Evans Maurin|17|F|25|France|3|3|0|0
+Kevin Prieto|19|F|23|Uruguay|5|2|0|0
+Alassana Jatta|20|F|27|Gambia|7|4|0|0
+Aymen Zouin|21|F|--|--|2|2|0|0
+Jeremy Livolant|29|F|28|France|3|2|0|0
+Benjamin Pauwels|77|F|22|Belgium|8|2|1|0
+Cassiano|90|F|37|Brazil|6|5|0|0

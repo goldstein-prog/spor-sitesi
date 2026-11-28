@@ -1,0 +1,28 @@
+Jakub Vinarcik|1|G|21|Slovakia|0|0||
+Ignacio De Arruabarrena|12|G|29|Uruguay|11|0||
+Ivan Martínez|17|G|24|Spain|11|0||
+Martim Duarte|71|G|--|--|0|0||
+Leo Shahar|2|D|19|England|0|0|0|0
+José Fontán|3|D|26|Spain|11|0|2|0
+Diogo Monteiro|4|D|21|Portugal|1|1|0|0
+Boris Popovic|5|D|26|Serbia|2|1|0|0
+Orest Lebedenko|18|D|28|Ukraine|11|1|0|0
+Mamadu Balde|27|D|--|--|0|0|0|0
+Tiago Esgaio|28|D|31|Portugal|11|0|1|0
+Mario Climent|37|D|24|Spain|1|1|0|0
+Espen Van Ee|6|M|23|Netherlands|11|0|1|0
+Taichi Fukui|8|M|22|Japan|11|0|1|0
+Pablo Gozálbez|10|M|25|Spain|9|5|0|1
+Lee Hyun-Ju|14|M|23|--|7|4|0|1
+Javi Sánchez|15|M|29|Spain|10|0|0|1
+Mateo Flores|21|M|22|Spain|10|6|0|0
+Pedro Santos|89|M|26|Portugal|9|8|0|0
+Näis Djouahra|7|F|27|France|11|0|0|6
+Fally Mayulu|9|F|24|France|2|2|0|0
+Miguel Puche|11|F|25|Spain|--|--|--|--
+Alfonso Trezza|19|F|27|Uruguay|11|0|0|1
+Gabrijel Rukavina|20|F|22|Croatia|4|4|0|0
+Dylan Nandín|23|F|24|Uruguay|10|10|2|0
+Brian Mansilla|24|F|24|Uruguay|10|10|0|0
+Si-Hoo Park|77|F|--|--|0|0|0|0
+Costinha|97|F|--|--|0|0|0|0

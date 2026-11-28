@@ -1,0 +1,35 @@
+Cláudio Ramos|14|G|35|Portugal|0|0||
+João Costa|24|G|30|Portugal|0|0||
+João Afonso|50|G|19|Portugal|0|0||
+Diogo Costa|99|G|27|Portugal|11|0||
+Jakub Kiwior|4|D|26|Poland|11|0|1|1
+Jan Bednarek|5|D|30|Poland|11|0|1|0
+Chris Smalling|6|D|37|England|0|0|0|0
+Zaidu Sanusi|12|D|29|Nigeria|7|0|0|0
+Nehuén Pérez|18|D|26|Argentina|7|6|1|0
+Alberto Costa|20|D|23|Portugal|10|1|0|1
+Dominik Prpic|21|D|22|Croatia|1|1|0|0
+Souza|33|D|20|Brazil|1|1|0|0
+Martim Fernandes|52|D|20|Portugal|6|4|1|0
+Luís Gomes|64|D|21|Portugal|0|0|0|0
+Moura|74|D|27|Portugal|4|1|0|0
+Victor Froholdt|8|M|20|Denmark|10|0|3|0
+Gabri Veiga|10|M|24|Spain|11|1|5|4
+Pablo Rosario|13|M|29|Dominican Republic|11|2|0|1
+Vasco Sousa|15|M|23|Portugal|--|--|--|--
+Hwang In-Beom|16|M|30|South Korea|9|7|1|1
+Alan Varela|22|M|25|Argentina|7|5|0|0
+Seko Fofana|42|M|31|Ivory Coast|3|3|0|0
+Tiago Silva|58|M|19|Portugal|0|0|0|0
+Mateus Mide|89|M|18|Portugal|--|--|--|--
+João Teixeira|92|M|20|Portugal|--|--|--|--
+William Gomes|7|F|20|Brazil|8|0|2|2
+Samu Aghehowa|9|F|22|Spain|5|3|0|0
+Pepê|11|F|29|Brazil|11|0|0|6
+Borja Sainz|17|F|25|Spain|11|8|6|1
+André Silva|19|F|31|Portugal|11|3|4|2
+Santiago Gimenez|29|F|25|Mexico|4|4|1|0
+Gabriel Mec|37|F|18|Brazil|1|1|0|0
+Eduardo Ferreira|53|F|--|Portugal|0|0|0|0
+Duarte Cunha|57|F|18|Portugal|0|0|0|0
+Oskar Pietuszewski|77|F|18|Poland|3|2|1|0

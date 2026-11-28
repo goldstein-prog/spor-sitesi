@@ -1,0 +1,28 @@
+Neneca|12|G|23|Brazil|2|0||
+Tomé Sousa|76|G|19|Portugal|0|0||
+Lucas Oliveira|1|D|32|Brazil|9|0|0|0
+Henrique Silva|3|D|21|Brazil|5|5|0|0
+Pedro Pacheco|4|D|29|Portugal|11|0|0|1
+Guilherme Romão|5|D|29|Brazil|10|0|0|1
+Ythallo|19|D|22|Brazil|0|0|0|0
+Emanuel Moreira|21|D|--|--|10|0|0|1
+MT|32|D|25|Brazil|--|--|--|--
+Lucas Soares|42|D|28|Brazil|8|1|0|1
+Kamika|85|D|22|Portugal|1|0|0|0
+Pedro Ferreira|6|M|28|Portugal|9|0|0|0
+Djé|8|M|23|Cape Verde Islands|10|0|1|1
+João Gonçalves|17|M|21|Portugal|6|5|1|0
+Tiago Ribeiro|20|M|24|Portugal|10|3|2|0
+Vitinho|22|M|22|Brazil|4|4|0|0
+Frederico Silva|25|M|20|Portugal|1|1|0|0
+Daniel Borges|41|M|23|Brazil|9|3|0|0
+Doqué Seydou Fofana|81|M|--|--|0|0|0|0
+Fernando|7|F|21|Brazil|11|8|2|0
+Gonçalo Paciência|9|F|32|Portugal|9|1|5|1
+Brenner|10|F|24|Brazil|9|2|2|0
+Welinton Torrão|11|F|27|Brazil|8|8|0|1
+Afonso Duarte|18|F|--|--|1|1|0|0
+Vinícius Lopes|70|F|27|Brazil|11|0|2|1
+Leo Jacó|73|F|21|Brazil|4|4|0|0
+Tiago Duarte|80|F|22|Portugal|1|1|0|0
+Sorriso|99|F|20|Brazil|8|4|0|1

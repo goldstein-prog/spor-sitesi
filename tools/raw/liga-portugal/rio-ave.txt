@@ -1,0 +1,33 @@
+Cezary Miszta|1|G|25|Poland|--|--||
+Simón García|3|G|19|Spain|3|1||
+Kevin Chamorro|22|G|26|Costa Rica|0|0||
+Vitor Hugo|32|G|25|Brazil|3|0||
+Ennio van der Gouw|99|G|26|Netherlands|8|0||
+Zé Carlos|2|D|28|Portugal|3|3|0|0
+Andreas Ntoi|5|D|23|Greece|9|1|0|0
+Nelson Abbey|6|D|23|England|4|1|0|0
+Julien Lomboto|13|D|24|France|2|1|0|0
+Jakub Brabec|14|D|34|Czechia|2|1|0|0
+João Tomé|20|D|23|Portugal|7|1|0|1
+Francisco Petrasso|23|D|24|Argentina|10|2|1|0
+Pedro Amaral|24|D|29|Portugal|3|1|0|0
+Gustavo Mancha|39|D|22|Brazil|8|1|0|0
+Caike|68|D|--|--|2|2|0|0
+Ryan Guilherme|8|M|23|Brazil|3|2|0|0
+Brandon Aguilera|10|M|23|Costa Rica|1|1|0|0
+Malik Sellouki|19|M|26|France|7|6|0|0
+Tobias Medina|27|M|22|Argentina|0|0|0|0
+Tamás Nikitscher|44|M|27|Hungary|7|1|0|0
+Georgios Liavas|54|M|25|Greece|9|0|0|0
+Antoine Wenck|70|M|--|--|1|1|0|0
+Miguel Patrício|79|M|--|--|8|2|1|0
+Diogo Nascimento|90|M|24|Portugal|7|1|0|0
+Diogo Bezerra|7|F|24|Brazil|11|0|1|3
+Tamble|9|F|26|Guinea-Bissau|11|7|1|0
+Jalen Blesa|11|F|25|Spain|11|0|3|1
+Marios Vrousai|17|F|28|Greece|11|5|0|0
+Radek Siler|21|F|22|Czechia|0|0|0|0
+Roland Galcik|30|F|25|Slovakia|9|5|1|0
+Samuel Alves|67|F|18|Brazil|1|1|0|0
+Dario Spikic|77|F|27|Croatia|6|4|0|0
+Sebastian Clemmensen|80|F|23|Denmark|7|2|1|1

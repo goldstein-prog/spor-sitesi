@@ -579,5 +579,95 @@
   "#5aa9e6",
   "#ffffff",
   "cizgili"
+ ],
+ "porto": [
+  "#0b4ea2",
+  "#ffffff",
+  "cizgili"
+ ],
+ "benfica": [
+  "#d71920",
+  "#ffffff",
+  "duz"
+ ],
+ "sporting-cp": [
+  "#00804a",
+  "#ffffff",
+  "cizgili"
+ ],
+ "braga": [
+  "#d71920",
+  "#ffffff",
+  "duz"
+ ],
+ "vitoria-guimaraes": [
+  "#ffffff",
+  "#000000",
+  "duz"
+ ],
+ "santa-clara": [
+  "#d71920",
+  "#ffffff",
+  "duz"
+ ],
+ "arouca": [
+  "#f2c300",
+  "#1a1a1a",
+  "duz"
+ ],
+ "academico-de-viseu": [
+  "#1a1a1a",
+  "#ffffff",
+  "duz"
+ ],
+ "gil-vicente": [
+  "#d71920",
+  "#0b4ea2",
+  "duz"
+ ],
+ "moreirense": [
+  "#00804a",
+  "#ffffff",
+  "duz"
+ ],
+ "famalicao": [
+  "#0b4ea2",
+  "#ffffff",
+  "duz"
+ ],
+ "nacional": [
+  "#1a1a1a",
+  "#ffffff",
+  "cizgili"
+ ],
+ "alverca": [
+  "#d71920",
+  "#ffffff",
+  "duz"
+ ],
+ "estrela": [
+  "#d71920",
+  "#00804a",
+  "cizgili"
+ ],
+ "maritimo": [
+  "#d71920",
+  "#00804a",
+  "cizgili"
+ ],
+ "casa-pia": [
+  "#1a1a1a",
+  "#ffffff",
+  "duz"
+ ],
+ "rio-ave": [
+  "#00804a",
+  "#ffffff",
+  "cizgili"
+ ],
+ "estoril": [
+  "#f2c300",
+  "#0b4ea2",
+  "cizgili"
  ]
 }
