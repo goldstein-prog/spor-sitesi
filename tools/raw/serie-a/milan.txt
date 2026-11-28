@@ -1,0 +1,34 @@
+Pietro Terracciano|1|G|36|Italy|0|0||
+Mike Maignan|16|G|31|France|12|0||
+Matteo Pittarella|37|G|18|Italy|0|0||
+Léo-Paul Bouyer|41|G|18|France|0|0||
+Lorenzo Torriani|96|G|21|Italy|0|0||
+Pervis Estupiñán|2|D|28|Ecuador|10|4|0|0
+Koni De Winter|5|D|24|Belgium|12|1|0|0
+Sankhoun Diawara|13|D|20|France|5|1|0|0
+Fikayo Tomori|23|D|28|England|3|1|0|1
+Strahinja Pavlovic|31|D|25|Serbia|11|1|0|1
+Davide Bartesaghi|33|D|20|Italy|7|3|0|0
+Mario Gila|34|D|26|Spain|10|0|1|0
+Valeri Vladimirov|35|D|18|Bulgaria|0|0|0|0
+Filippo Terracciano|42|D|23|Italy|3|3|0|0
+Matteo Gabbia|46|D|27|Italy|3|2|0|0
+Nirash Raffaello Perera|47|D|--|--|0|0|0|0
+El Hadji Malick Cissé|48|D|--|--|0|0|0|0
+Ruben Loftus-Cheek|8|M|30|England|7|4|0|0
+Christian Pulisic|11|M|28|USA|9|2|5|1
+Adrien Rabiot|12|M|31|France|10|2|5|6
+Luka Modric|14|M|41|Croatia|12|3|0|2
+Christian Comotto|28|M|18|Italy|2|2|0|0
+Ardon Jashari|30|M|24|Switzerland|10|7|1|0
+Lorenzo Ossola|40|M|--|--|0|0|0|0
+Silvano Vos|55|M|21|Netherlands|0|0|0|0
+Alphadjo Cissè|70|M|20|Italy|10|5|6|0
+Yunus Musah|80|M|23|USA|12|3|0|0
+Gonçalo Ramos|9|F|25|Portugal|12|0|3|2
+Omari Hutchinson|20|F|23|England|8|6|1|0
+Samuel Chukwueze|21|F|27|Nigeria|7|1|0|2
+Diego Moreira|22|F|22|Belgium|8|2|4|4
+Luca Menon|49|F|--|--|0|0|0|0
+Alexis Saelemaekers|56|F|27|Belgium|4|2|0|1
+Francesco Camarda|73|F|18|Italy|4|4|0|0

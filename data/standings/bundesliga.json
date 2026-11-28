@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "week": 10,
  "rows": [
   {
@@ -44,11 +44,11 @@
   },
   {
    "team": "Werder Bremen",
-   "o": 10,
+   "o": 11,
    "w": 5,
-   "d": 3,
+   "d": 4,
    "l": 2,
-   "p": 18
+   "p": 19
   },
   {
    "team": "Eintracht Frankfurt",
@@ -140,11 +140,11 @@
   },
   {
    "team": "Borussia Mönchengladbach",
-   "o": 10,
+   "o": 11,
    "w": 1,
-   "d": 1,
+   "d": 2,
    "l": 8,
-   "p": 4
+   "p": 5
   }
  ]
 }

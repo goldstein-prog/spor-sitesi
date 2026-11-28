@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "week": 12,
  "rows": [
   {
@@ -28,8 +28,8 @@
   },
   {
    "team": "Kasımpaşa",
-   "o": 12,
-   "av": 7,
+   "o": 13,
+   "av": 6,
    "p": 23
   },
   {
@@ -51,16 +51,16 @@
    "p": 20
   },
   {
+   "team": "Çaykur Rizespor",
+   "o": 13,
+   "av": 0,
+   "p": 20
+  },
+  {
    "team": "Göztepe",
    "o": 12,
    "av": 4,
    "p": 18
-  },
-  {
-   "team": "Çaykur Rizespor",
-   "o": 12,
-   "av": -1,
-   "p": 17
   },
   {
    "team": "Çorum FK",
@@ -82,15 +82,15 @@
   },
   {
    "team": "Alanyaspor",
-   "o": 12,
-   "av": -10,
+   "o": 13,
+   "av": -11,
    "p": 12
   },
   {
    "team": "Konyaspor",
-   "o": 12,
-   "av": -10,
-   "p": 8
+   "o": 13,
+   "av": -9,
+   "p": 11
   },
   {
    "team": "Gaziantep FK",

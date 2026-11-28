@@ -1,22 +1,30 @@
-Mert Bayram|23|G|21|Türkiye|0|0|0|0
-Paulo Victor|48|G|39|Brazil|11|0|0|0
-Nuno Lima|3|D|25|Portugal|11|0|1|0
+Mahmut Can Kara|1|G|20|Türkiye|--|--||
+Mert Bayram|23|G|21|Türkiye|0|0||
+Paulo Victor|48|G|39|Brazil|12|0||
+Nuno Lima|3|D|25|Portugal|12|0|1|0
 Bedirhan Özyurt|4|D|23|Türkiye|5|3|0|0
-Fidan Aliti|5|D|33|Kosovo|11|0|0|0
+Fidan Aliti|5|D|33|Kosovo|12|0|0|0
 Fatih Aksoy|20|D|29|Türkiye|6|0|0|0
-Florent Hadergjonaj|94|D|32|Kosovo|11|0|0|2
-Enes Keskin|8|M|25|Türkiye|6|6|0|1
-Ianis Hagi|10|M|28|Romania|8|6|0|1
+Sahin Dik|28|D|22|Türkiye|--|--|--|--
+Bilal Demirağ|44|D|--|--|--|--|--|--
+Oğuz Baran Arslan|56|D|--|--|--|--|--|--
+Kartal Kaan Yiğit|57|D|--|--|--|--|--|--
+Eymen Karataş|93|D|--|--|0|0|0|0
+Florent Hadergjonaj|94|D|32|Kosovo|12|0|1|2
+Enes Keskin|8|M|25|Türkiye|7|7|0|1
+Ianis Hagi|10|M|28|Romania|9|6|0|1
 Emre Demir|14|M|22|Türkiye|0|0|0|0
-Paolo Fernandes|22|M|28|Spain|4|1|1|0
-İzzet Çelik|26|M|22|Türkiye|2|2|0|0
-Gaïus Makouta|42|M|29|Congo|10|0|2|0
-Baran Gezek|55|M|21|Türkiye|11|1|0|0
-Maestro|58|M|23|Angola|5|2|0|0
-Yusuf Özdemir|88|M|25|Türkiye|7|6|0|0
-İbrahim Kaya|7|F|25|Türkiye|10|3|0|0
-Omar Ben Ali|9|F|21|Tunisia|9|8|0|0
-Ruan|11|F|21|Brazil|11|0|2|1
+Paolo Fernandes|22|M|28|Spain|5|2|1|0
+Izzet Celik|26|M|22|Türkiye|2|2|0|0
+Arouna Kigbafory Soro|32|M|--|--|0|0|0|0
+Gaïus Makouta|42|M|29|Congo|11|0|2|0
+Baran Gezek|55|M|21|Türkiye|12|2|0|0
+Maestro|58|M|23|Angola|6|2|0|0
+Yusuf Ozdemir|88|M|25|Türkiye|8|6|0|0
+Ibrahim Kaya|7|F|25|Türkiye|11|3|0|0
+Omar Ben Ali|9|F|21|Tunisia|10|9|0|0
+Ruan|11|F|21|Brazil|12|0|2|1
 Meschack Elia|12|F|29|Congo DR|8|7|0|0
-Hwang Ui-jo|16|F|34|South Korea|9|2|0|0
-Iván Cédric|19|F|24|Spain|5|2|0|1
+Hwang Ui-Jo|16|F|34|South Korea|10|2|0|0
+Arda Usluoglu|17|F|20|--|9|2|2|0
+Iván Cédric|19|F|24|Spain|6|3|0|1

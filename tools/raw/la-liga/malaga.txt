@@ -1,0 +1,32 @@
+Alfonso Herrero|1|G|32|Spain|13|0||
+Carlos López|13|G|22|Spain|0|0||
+Andres Cespedes|30|G|22|Spain|0|0||
+Carlos Puga|3|D|26|Spain|11|4|0|0
+Einar Galilea|4|D|32|Spain|9|0|0|0
+Álex Pastor|5|D|27|Spain|2|0|0|0
+José Salinas|12|D|26|Spain|10|4|0|0
+Ángel Recio|15|D|23|Spain|11|0|0|0
+Diego Murillo|16|D|25|Spain|1|0|0|0
+Fernando Calero|20|D|31|Spain|4|0|0|0
+Juan Berrocal|25|D|27|Spain|3|2|0|0
+Óscar González|26|D|22|Spain|0|0|0|0
+Rafa Garrido|31|D|22|Spain|12|1|0|1
+Adam Aznou|39|D|20|Morocco|5|2|0|0
+Jens Cajuste|2|M|27|Sweden|3|3|0|0
+Ramón Enríquez|6|M|25|Spain|12|9|0|1
+Carlos Dotor|8|M|25|Spain|12|1|2|0
+Rafa Rodríguez|14|M|23|Spain|9|5|0|0
+Pablo Martínez|18|M|28|Spain|9|3|1|2
+Juan Cruz|19|M|26|Spain|8|5|0|1
+Daniel Lorenzo|22|M|23|Spain|12|3|0|0
+Izan Merino|23|M|20|Spain|8|2|0|0
+Otu Junior|28|M|--|--|0|0|0|0
+Aarón Moloney|35|M|19|--|--|--|--|--
+Haitam Abaida|7|F|24|Morocco|3|3|0|0
+Chupete|9|F|22|Spain|13|4|1|0
+David Larrubia|10|F|24|Spain|13|2|0|0
+Joaquín Muñoz|11|F|27|Spain|11|4|0|0
+Eneko Jauregui|17|F|30|Spain|3|2|0|0
+Adrián Niño|21|F|22|Spain|9|4|5|1
+Julen Lobete|24|F|26|Spain|1|1|0|0
+Juani|32|F|--|--|1|1|0|0

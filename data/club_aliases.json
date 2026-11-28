@@ -1,4 +1,1 @@
-{"_not": "Kariyer kaynaklarındaki kulüp adı (normalize: küçük harf, aksansız, fc/ac/sc vb. çıkarılmış) -> sitedeki kulüp slug'ı",
- "internazionale": "inter", "inter milan": "inter", "cologne": "fc-koln", "1 koln": "fc-koln",
- "bayern munchen": "bayern-munich", "athletic bilbao": "athletic-club", "wolverhampton wanderers": "wolves",
- "brighton hove albion": "brighton"}
+{"_not": "Kariyer kaynaklarındaki kulüp adı (normalize: küçük harf, aksansız, fc/ac/sc vb. çıkarılmış) -> sitedeki kulüp slug'ı", "internazionale": "inter", "inter milan": "inter", "cologne": "fc-koln", "1 koln": "fc-koln", "bayern munchen": "bayern-munich", "athletic bilbao": "athletic-club", "wolverhampton wanderers": "wolves", "brighton hove albion": "brighton", "stade rennais": "rennes"}

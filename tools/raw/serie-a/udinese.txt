@@ -1,0 +1,28 @@
+Maduka Okoye|40|G|27|Nigeria|12|0||
+Bartosz Mrozek|41|G|26|Poland|0|0||
+Daniele Padelli|93|G|41|Italy|0|0||
+David Alaba|5|D|34|Austria|3|2|0|0
+Hassane Kamara|11|D|32|Ivory Coast|12|0|2|2
+Nicolò Bertola|13|D|23|Italy|5|4|0|0
+James Abankwah|14|D|22|--|11|0|1|0
+Matteo Palma|16|D|18|Germany|7|1|1|0
+Mërgim Vojvoda|23|D|31|Kosovo|12|2|0|0
+Christian Kabasele|27|D|35|Belgium|8|2|0|0
+Oumar Solet|28|D|26|France|7|0|0|0
+Alessandro Zanoli|59|D|26|Italy|3|3|0|0
+Enzo Ebosse|77|D|27|Cameroon|8|2|0|0
+Sandi Lovric|4|M|28|Slovenia|3|2|0|0
+Oier Zarraga|6|M|27|Spain|6|4|0|0
+Jesper Karlström|8|M|31|Sweden|12|0|1|0
+Nicolò Zaniolo|10|M|27|Italy|7|1|2|0
+Juan David Arizala|20|M|21|Colombia|5|5|0|0
+Jakub Piotrowski|24|M|29|Poland|9|3|1|0
+Giorgi Chakvetadze|30|M|27|Georgia|8|4|0|0
+Jurgen Ekkelenkamp|32|M|26|Netherlands|12|0|3|1
+Lennon Miller|38|M|20|Scotland|9|6|0|0
+Unai Gómez|46|M|23|Spain|10|6|0|1
+Idrissa Gueye|7|F|20|Senegal|4|3|1|0
+Keinan Davis|9|F|28|England|10|1|0|2
+Bayo Youssouf|15|F|29|Ivory Coast|6|6|0|1
+Giulio Vinciati|45|F|19|Italy|1|1|0|0
+Lazar Jovanovic|91|F|19|Serbia|2|2|0|0

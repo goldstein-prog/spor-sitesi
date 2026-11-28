@@ -1,0 +1,36 @@
+Filip Stankovic|1|G|24|Serbia|12|0||
+Matteo Grandi|23|G|34|Italy|0|0||
+Alessio Pozzi|28|G|25|Italy|--|--||
+Lorenzo Montipò|96|G|30|Italy|0|0||
+Joel Schingtienne|3|D|24|Belgium|7|2|0|0
+Bartol Franjic|4|D|26|Croatia|2|0|0|0
+Ridgeciano Haps|5|D|33|Suriname|9|3|0|1
+Thierry Correia|14|D|27|Portugal|5|2|0|0
+Juan Jesus|15|D|35|Brazil|9|1|0|0
+Rufai Mohammed|16|D|20|Ghana|0|0|0|0
+Armel Bella-Kotchap|17|D|24|Germany|3|0|0|0
+Antoine Hainaut|18|D|24|France|12|0|2|2
+Richie Sagrado|20|D|22|Belgium|7|6|1|1
+Redouane Halhal|25|D|23|Morocco|9|1|0|0
+Marin Sverko|33|D|28|Croatia|--|--|--|--
+Pasquale Mazzocchi|70|D|31|Italy|5|2|0|1
+Ale Gomes|95|D|18|Spain|0|0|0|0
+Gianluca Busio|6|M|24|USA|7|1|0|2
+Lamine Dabo|8|M|22|Spain|3|3|0|0
+Simon Sohm|19|M|25|Switzerland|11|1|0|1
+Thorir Johann Helgason|21|M|26|Iceland|7|4|0|0
+Toma Basic|26|M|30|Croatia|8|2|1|0
+Matteo Dagasso|30|M|22|Italy|3|3|0|0
+Alfred Duncan|32|M|33|Ghana|0|0|0|0
+Lorenzo Berardi|36|M|20|Italy|0|0|0|0
+Simone Panada|55|M|24|Italy|0|0|0|0
+Enrique Perez|71|M|29|Spain|12|1|1|0
+Toni Fernández|77|M|18|Spain|3|3|0|0
+Mohamed Malang Touré||F|--|--|--|--|--|--
+Matías Moreno|2|F|19|Argentina|10|1|0|0
+Albion Rrahmani|7|F|26|Kosovo|9|8|0|0
+Andrea Adorante|9|F|26|Italy|--|--|--|--
+John Yeboah|10|F|26|Ecuador|12|4|1|0
+Lion Lauberbach|29|F|28|Germany|9|6|0|0
+Akor Adams|45|F|26|Nigeria|12|0|2|0
+Kornel Lisman|56|F|20|Poland|0|0|0|0

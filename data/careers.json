@@ -358,7 +358,17 @@
     "Molde",
     2
    ]
-  ]
+  ],
+  "nt": {
+   "team": "Norveç",
+   "caps": 55,
+   "g": 62,
+   "a": null,
+   "yc": null,
+   "rc": null,
+   "asof": "2026-07-11",
+   "src": "RSSSF"
+  }
  },
  "jude-bellingham": {
   "d": "2026-11-27",
@@ -642,7 +652,17 @@
      "rc": 1
     }
    ]
-  ]
+  ],
+  "nt": {
+   "team": "Fransa",
+   "caps": 20,
+   "g": 3,
+   "a": null,
+   "yc": null,
+   "rc": null,
+   "asof": "2026-11-15",
+   "src": "FFF"
+  }
  },
  "pedri": {
   "d": "2026-11-27",
@@ -712,13 +732,32 @@
   "clubs": [
    [
     "Real Madrid",
-    4
+    4,
+    {
+     "comp": "La Liga",
+     "st": 54,
+     "sub": null,
+     "g": 16,
+     "a": 17,
+     "yc": 4,
+     "rc": 0
+    }
    ],
    [
     "Fenerbahçe",
     3
    ]
-  ]
+  ],
+  "nt": {
+   "team": "Türkiye",
+   "caps": 33,
+   "g": 7,
+   "a": null,
+   "yc": null,
+   "rc": null,
+   "asof": "2026-06-25",
+   "src": "RSSSF"
+  }
  },
  "jamal-musiala": {
   "d": "2026-11-27",
@@ -755,13 +794,41 @@
   "clubs": [
    [
     "Real Madrid",
-    9
+    9,
+    {
+     "comp": "La Liga",
+     "st": 190,
+     "sub": null,
+     "g": 78,
+     "a": 45,
+     "yc": 48,
+     "rc": 3
+    }
    ],
    [
     "Flamengo",
-    2
+    2,
+    {
+     "comp": "Brasileirão",
+     "st": 15,
+     "sub": null,
+     "g": 7,
+     "a": 4,
+     "yc": 6,
+     "rc": 0
+    }
    ]
-  ]
+  ],
+  "nt": {
+   "team": "Brezilya",
+   "caps": 54,
+   "g": 13,
+   "a": null,
+   "yc": null,
+   "rc": null,
+   "asof": "2026-07-05",
+   "src": "RSSSF"
+  }
  },
  "raphinha": {
   "d": "2026-11-27",
@@ -769,29 +836,84 @@
   "clubs": [
    [
     "Barcelona",
-    5
+    5,
+    {
+     "comp": "La Liga",
+     "st": 103,
+     "sub": null,
+     "g": 59,
+     "a": 31,
+     "yc": 22,
+     "rc": 1
+    }
    ],
    [
     "Leeds United",
-    2
+    2,
+    {
+     "comp": "Premier Lig",
+     "st": 60,
+     "sub": null,
+     "g": 17,
+     "a": 12,
+     "yc": 10,
+     "rc": 0
+    }
    ],
    [
     "Stade Rennais",
-    2
+    2,
+    {
+     "comp": "Ligue 1",
+     "st": 25,
+     "sub": null,
+     "g": 6,
+     "a": 5,
+     "yc": 4,
+     "rc": 0
+    }
    ],
    [
     "Sporting CP",
-    2
+    2,
+    {
+     "comp": "Liga Portugal",
+     "st": 20,
+     "sub": null,
+     "g": 6,
+     "a": 1,
+     "yc": 7,
+     "rc": 0
+    }
    ],
    [
     "Vitória de Guimaraes",
-    3
+    3,
+    {
+     "comp": "Liga Portugal",
+     "st": 50,
+     "sub": null,
+     "g": 19,
+     "a": 8,
+     "yc": 10,
+     "rc": 0
+    }
    ],
    [
     "Avaí",
     1
    ]
-  ]
+  ],
+  "nt": {
+   "team": "Brezilya",
+   "caps": 41,
+   "g": 11,
+   "a": null,
+   "yc": null,
+   "rc": null,
+   "asof": "2026-07-05",
+   "src": "RSSSF"
+  }
  },
  "joao-pedro": {
   "d": "2026-11-27",
@@ -799,11 +921,29 @@
   "clubs": [
    [
     "Chelsea",
-    2
+    2,
+    {
+     "comp": "Premier Lig",
+     "st": 37,
+     "sub": null,
+     "g": 20,
+     "a": 8,
+     "yc": 6,
+     "rc": 0
+    }
    ],
    [
     "Brighton & Hove Albion",
-    2
+    2,
+    {
+     "comp": "Premier Lig",
+     "st": 42,
+     "sub": null,
+     "g": 19,
+     "a": 9,
+     "yc": 6,
+     "rc": 1
+    }
    ],
    [
     "Watford",
@@ -811,7 +951,16 @@
    ],
    [
     "Fluminense",
-    1
+    1,
+    {
+     "comp": "Brasileirão",
+     "st": 18,
+     "sub": null,
+     "g": 4,
+     "a": 1,
+     "yc": 1,
+     "rc": 0
+    }
    ]
   ]
  },
@@ -821,7 +970,16 @@
   "clubs": [
    [
     "Como",
-    3
+    3,
+    {
+     "comp": "Serie A",
+     "st": 73,
+     "sub": null,
+     "g": 21,
+     "a": 17,
+     "yc": 12,
+     "rc": 0
+    }
    ],
    [
     "Real Madrid",
@@ -835,15 +993,42 @@
   "clubs": [
    [
     "Arsenal",
-    7
+    7,
+    {
+     "comp": "Premier Lig",
+     "st": 166,
+     "sub": null,
+     "g": 38,
+     "a": 40,
+     "yc": 15,
+     "rc": 0
+    }
    ],
    [
     "Real Madrid",
-    5
+    5,
+    {
+     "comp": "La Liga",
+     "st": 3,
+     "sub": null,
+     "g": 0,
+     "a": 0,
+     "yc": 0,
+     "rc": 0
+    }
    ],
    [
     "Real Sociedad",
-    1
+    1,
+    {
+     "comp": "La Liga",
+     "st": 29,
+     "sub": null,
+     "g": 4,
+     "a": 6,
+     "yc": 3,
+     "rc": 0
+    }
    ],
    [
     "Vitesse",
@@ -907,27 +1092,81 @@
   "clubs": [
    [
     "Bayern Munich",
-    4
+    4,
+    {
+     "comp": "Bundesliga",
+     "st": 94,
+     "sub": null,
+     "g": 102,
+     "a": 29,
+     "yc": 8,
+     "rc": 0
+    }
    ],
    [
     "Tottenham Hotspur",
-    13
+    13,
+    {
+     "comp": "Premier Lig",
+     "st": 301,
+     "sub": null,
+     "g": 213,
+     "a": 46,
+     "yc": 38,
+     "rc": 0
+    }
    ],
    [
     "Norwich City",
-    1
+    1,
+    {
+     "comp": "Premier Lig",
+     "st": 1,
+     "sub": null,
+     "g": 0,
+     "a": 0,
+     "yc": 0,
+     "rc": 0
+    }
    ],
    [
     "Leicester City",
-    1
+    1,
+    {
+     "comp": "Championship",
+     "st": 5,
+     "sub": null,
+     "g": 2,
+     "a": 0,
+     "yc": 0,
+     "rc": 0
+    }
    ],
    [
     "Millwall",
-    1
+    1,
+    {
+     "comp": "Championship",
+     "st": 19,
+     "sub": null,
+     "g": 7,
+     "a": 1,
+     "yc": 1,
+     "rc": 0
+    }
    ],
    [
     "Leyton Orient",
-    1
+    1,
+    {
+     "comp": "League One",
+     "st": 9,
+     "sub": null,
+     "g": 5,
+     "a": 0,
+     "yc": 2,
+     "rc": 1
+    }
    ]
   ]
  },
@@ -937,7 +1176,16 @@
   "clubs": [
    [
     "Real Madrid",
-    9
+    9,
+    {
+     "comp": "La Liga",
+     "st": 199,
+     "sub": null,
+     "g": 26,
+     "a": 33,
+     "yc": 18,
+     "rc": 1
+    }
    ],
    [
     "Deportivo",
@@ -982,15 +1230,42 @@
   "clubs": [
    [
     "Internazionale",
-    4
+    4,
+    {
+     "comp": "Serie A",
+     "st": 94,
+     "sub": null,
+     "g": 46,
+     "a": 20,
+     "yc": 7,
+     "rc": 0
+    }
    ],
    [
     "Borussia Mönchengladbach",
-    4
+    4,
+    {
+     "comp": "Bundesliga",
+     "st": 85,
+     "sub": null,
+     "g": 34,
+     "a": 18,
+     "yc": 11,
+     "rc": 1
+    }
    ],
    [
     "Guingamp",
-    2
+    2,
+    {
+     "comp": "Ligue 1",
+     "st": 52,
+     "sub": null,
+     "g": 12,
+     "a": 2,
+     "yc": 6,
+     "rc": 2
+    }
    ],
    [
     "Sochaux",
@@ -1004,15 +1279,42 @@
   "clubs": [
    [
     "AC Milan",
-    4
+    4,
+    {
+     "comp": "Serie A",
+     "st": 86,
+     "sub": null,
+     "g": 36,
+     "a": 22,
+     "yc": 5,
+     "rc": 0
+    }
    ],
    [
     "Chelsea",
-    4
+    4,
+    {
+     "comp": "Premier Lig",
+     "st": 59,
+     "sub": null,
+     "g": 20,
+     "a": 9,
+     "yc": 5,
+     "rc": 0
+    }
    ],
    [
     "Borussia Dortmund",
-    5
+    5,
+    {
+     "comp": "Bundesliga",
+     "st": 55,
+     "sub": null,
+     "g": 13,
+     "a": 15,
+     "yc": 5,
+     "rc": 0
+    }
    ]
   ]
  },
@@ -1022,15 +1324,42 @@
   "clubs": [
    [
     "Internazionale",
-    8
+    8,
+    {
+     "comp": "Serie A",
+     "st": 207,
+     "sub": null,
+     "g": 7,
+     "a": 20,
+     "yc": 38,
+     "rc": 3
+    }
    ],
    [
     "Parma",
-    1
+    1,
+    {
+     "comp": "Serie A",
+     "st": 18,
+     "sub": null,
+     "g": 1,
+     "a": 0,
+     "yc": 2,
+     "rc": 0
+    }
    ],
    [
     "Atalanta",
-    2
+    2,
+    {
+     "comp": "Serie A",
+     "st": 1,
+     "sub": null,
+     "g": 0,
+     "a": 0,
+     "yc": 0,
+     "rc": 0
+    }
    ]
   ]
  },
@@ -1040,15 +1369,42 @@
   "clubs": [
    [
     "Liverpool",
-    4
+    4,
+    {
+     "comp": "Premier Lig",
+     "st": 101,
+     "sub": null,
+     "g": 13,
+     "a": 14,
+     "yc": 24,
+     "rc": 1
+    }
    ],
    [
     "Brighton & Hove Albion",
-    4
+    4,
+    {
+     "comp": "Premier Lig",
+     "st": 70,
+     "sub": null,
+     "g": 16,
+     "a": 5,
+     "yc": 13,
+     "rc": 0
+    }
    ],
    [
     "Boca Juniors",
-    1
+    1,
+    {
+     "comp": "Liga Profesional",
+     "st": 9,
+     "sub": null,
+     "g": 1,
+     "a": 1,
+     "yc": 1,
+     "rc": 0
+    }
    ],
    [
     "Argentinos Juniors",
@@ -1064,7 +1420,17 @@
     "Juventus",
     4
    ]
-  ]
+  ],
+  "nt": {
+   "team": "Türkiye",
+   "caps": 31,
+   "g": 5,
+   "a": null,
+   "yc": null,
+   "rc": null,
+   "asof": "2026-06-25",
+   "src": "RSSSF"
+  }
  },
  "enzo-fernandez": {
   "d": "2026-11-27",
@@ -1512,7 +1878,17 @@
     "Racing Club",
     4
    ]
-  ]
+  ],
+  "nt": {
+   "team": "Arjantin",
+   "caps": 84,
+   "g": 40,
+   "a": null,
+   "yc": null,
+   "rc": null,
+   "asof": "2026-07-15",
+   "src": "RSSSF"
+  }
  },
  "morgan-rogers": {
   "d": "2026-11-27",
@@ -2131,6 +2507,540 @@
    [
     "F.C. København",
     2
+   ]
+  ]
+ },
+ "aleksandar-pavlovic": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Bayern Munich",
+    5
+   ]
+  ]
+ },
+ "pau-cubarsi": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Barcelona",
+    4
+   ]
+  ]
+ },
+ "achraf-hakimi": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Paris Saint-Germain",
+    6
+   ],
+   [
+    "Internazionale",
+    1
+   ],
+   [
+    "Borussia Dortmund",
+    3
+   ],
+   [
+    "Real Madrid",
+    2
+   ]
+  ]
+ },
+ "vitinha-psg": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Paris Saint-Germain",
+    5
+   ],
+   [
+    "FC Porto",
+    2
+   ],
+   [
+    "Wolverhampton Wanderers",
+    1
+   ]
+  ]
+ },
+ "khvicha-kvaratskhelia": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Paris Saint-Germain",
+    3
+   ],
+   [
+    "Napoli",
+    3
+   ],
+   [
+    "Rubin Kazan",
+    3
+   ],
+   [
+    "Lokomotiv Moscow",
+    1
+   ]
+  ]
+ },
+ "amine-gouiri": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Marseille",
+    3
+   ],
+   [
+    "Stade Rennais",
+    3
+   ],
+   [
+    "Nice",
+    3
+   ],
+   [
+    "Lyon",
+    3
+   ]
+  ]
+ },
+ "jorrel-hato": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Chelsea",
+    2
+   ],
+   [
+    "Ajax Amsterdam",
+    3
+   ],
+   [
+    "Jong Ajax",
+    1
+   ]
+  ]
+ },
+ "estevao": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Chelsea",
+    2
+   ],
+   [
+    "Palmeiras",
+    3
+   ]
+  ]
+ },
+ "alberto-moleiro": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Villarreal",
+    2
+   ],
+   [
+    "Las Palmas",
+    5
+   ]
+  ]
+ },
+ "pio-esposito": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Internazionale",
+    2
+   ],
+   [
+    "Spezia",
+    2
+   ]
+  ]
+ },
+ "aurelien-tchouameni": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Real Madrid",
+    5
+   ],
+   [
+    "AS Monaco",
+    3
+   ],
+   [
+    "Bordeaux",
+    3
+   ]
+  ]
+ },
+ "jan-paul-van-hecke": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Tottenham Hotspur",
+    1
+   ],
+   [
+    "Brighton & Hove Albion",
+    4
+   ],
+   [
+    "Blackburn Rovers",
+    1
+   ],
+   [
+    "Heerenveen",
+    1
+   ],
+   [
+    "NAC Breda",
+    3
+   ]
+  ]
+ },
+ "evanilson": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "AFC Bournemouth",
+    3
+   ],
+   [
+    "FC Porto",
+    5
+   ],
+   [
+    "Fluminense",
+    3
+   ]
+  ]
+ },
+ "morgan-gibbs-white": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Nottingham Forest",
+    5
+   ],
+   [
+    "Wolverhampton Wanderers",
+    7
+   ],
+   [
+    "Sheffield United",
+    1
+   ],
+   [
+    "Swansea City",
+    1
+   ],
+   [
+    "Wolverhampton U23",
+    1
+   ]
+  ]
+ },
+ "felix-nmecha": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Borussia Dortmund",
+    4
+   ],
+   [
+    "VfL Wolfsburg",
+    2
+   ],
+   [
+    "Manchester City",
+    2
+   ],
+   [
+    "Manchester City U21",
+    3
+   ]
+  ]
+ },
+ "manu-kone": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "AS Roma",
+    3
+   ],
+   [
+    "Borussia Mönchengladbach",
+    4
+   ],
+   [
+    "Toulouse",
+    3
+   ]
+  ]
+ },
+ "scott-mctominay": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Napoli",
+    3
+   ],
+   [
+    "Manchester United",
+    9
+   ]
+  ]
+ },
+ "franco-mastantuono": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Fiorentina",
+    1
+   ],
+   [
+    "Real Madrid",
+    1
+   ],
+   [
+    "River Plate",
+    3
+   ]
+  ]
+ },
+ "pedro-neto": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Chelsea",
+    3
+   ],
+   [
+    "Wolverhampton Wanderers",
+    5
+   ],
+   [
+    "Lazio",
+    2
+   ],
+   [
+    "Braga",
+    2
+   ]
+  ]
+ },
+ "xavi-simons": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Tottenham Hotspur",
+    1
+   ],
+   [
+    "RB Leipzig",
+    3
+   ],
+   [
+    "PSV Eindhoven",
+    1
+   ],
+   [
+    "Paris Saint-Germain",
+    2
+   ]
+  ]
+ },
+ "matias-soule": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "AS Roma",
+    3
+   ],
+   [
+    "Frosinone",
+    1
+   ],
+   [
+    "Juventus",
+    3
+   ]
+  ]
+ },
+ "dean-huijsen": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Real Madrid",
+    2
+   ],
+   [
+    "AFC Bournemouth",
+    1
+   ],
+   [
+    "AS Roma",
+    1
+   ],
+   [
+    "Juventus",
+    1
+   ]
+  ]
+ },
+ "jules-kounde": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Barcelona",
+    5
+   ],
+   [
+    "Sevilla",
+    3
+   ],
+   [
+    "Bordeaux",
+    3
+   ]
+  ]
+ },
+ "antoine-semenyo": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Manchester City",
+    2
+   ],
+   [
+    "AFC Bournemouth",
+    4
+   ],
+   [
+    "Bristol City",
+    6
+   ],
+   [
+    "Sunderland",
+    1
+   ],
+   [
+    "Newport County",
+    1
+   ]
+  ]
+ },
+ "bryan-mbeumo": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Manchester United",
+    2
+   ],
+   [
+    "Brentford",
+    6
+   ],
+   [
+    "Troyes",
+    3
+   ]
+  ]
+ },
+ "nicolas-jackson": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Aston Villa",
+    1
+   ],
+   [
+    "Bayern Munich",
+    1
+   ],
+   [
+    "Chelsea",
+    3
+   ],
+   [
+    "Villarreal",
+    2
+   ],
+   [
+    "Mirandés",
+    1
+   ]
+  ]
+ },
+ "nico-williams": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Athletic Club",
+    7
+   ]
+  ]
+ },
+ "joao-neves": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Paris Saint-Germain",
+    3
+   ],
+   [
+    "Benfica",
+    2
+   ]
+  ]
+ },
+ "rodrygo": {
+  "d": "2026-11-28",
+  "src": "ESPN",
+  "clubs": [
+   [
+    "Real Madrid",
+    7
+   ],
+   [
+    "Santos",
+    3
    ]
   ]
  }

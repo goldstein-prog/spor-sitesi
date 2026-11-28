@@ -1,22 +1,28 @@
-Mustafa Burak Boznan|27|G|26|Türkiye|0|0|0|0
-Alban Lafont|40|G|27|Ivory Coast|12|0|0|0
-David Bates|4|D|30|Scotland|9|0|0|0
-Lumbardh Dellova|5|D|27|Kosovo|8|0|0|1
-Umut Meraş|17|D|30|Türkiye|9|2|0|0
-Mehmet Yeşil|21|D|28|Türkiye|8|5|0|1
-Amadou Cissé|33|D|20|Guinea|5|4|0|0
-Kahraman Demirtapa|47|D|32|Türkiye|0|0|0|0
-Ali Bülbül|81|D|21|Türkiye|5|5|0|0
-Cem Üstündağ|6|M|25|Austria|6|4|0|0
-Furkan Soyalp|8|M|31|Türkiye|8|3|1|2
-Gökhan Gül|18|M|28|Germany|6|4|1|0
-Rayan Raveloson|22|M|29|Madagascar|11|0|0|3
-Mohamed Khalil|74|M|25|Germany|5|1|0|1
-Dia Saba|91|M|33|Israel|11|0|6|1
-Rayan Lutin|93|M|23|France|7|4|0|2
-Berk Kızıldemir|97|M|19|Türkiye|0|0|0|0
-Ermal Krasniqi|7|F|28|Kosovo|11|0|0|2
+Yakup Gi̇Ri̇Şen||G|--|--|--|--||
+Mustafa Burak Boznan|27|G|26|Türkiye|0|0||
+Alban Lafont|40|G|27|Ivory Coast|12|0||
+Miraç Acer|3|D|--|--|3|3|0|0
+David Bates|4|D|30|Scotland|12|0|0|0
+Lumbardh Dellova|5|D|27|Kosovo|9|0|0|1
+Umut Meras|17|D|30|Türkiye|12|2|0|0
+Mehmet Yesil|21|D|28|Türkiye|11|6|0|1
+Amadou Cissé|33|D|20|Guinea|6|5|0|0
+Kahraman Demirtapa|47|D|32|Türkiye|1|1|0|0
+Ali Bülbül|81|D|21|Türkiye|7|7|0|0
+Muhammed Damar||M|22|Germany|--|--|--|--
+Cem Üstündag|6|M|25|Austria|7|5|0|0
+Furkan Soyalp|8|M|31|Türkiye|11|3|1|2
+Gökhan Gül|18|M|28|Germany|9|6|1|0
+Rayan Raveloson|22|M|29|Madagascar|12|0|0|3
+Mohamed Khalil|74|M|26|Germany|7|3|0|1
+Dia Saba|91|M|34|Israel|12|0|6|1
+Rayan Lutin|93|M|23|France|8|5|0|2
+Berk Kizildemir|97|M|19|Türkiye|1|1|0|0
+Ermal Krasniqi|7|F|28|Kosovo|12|0|1|2
 Samuel Ballet|10|F|25|Switzerland|10|1|4|1
-Yira Sor|11|F|26|Nigeria|3|0|1|0
-Mbaye Diagne|45|F|34|Senegal|8|5|2|0
-Gift Orban|99|F|24|Nigeria|11|2|10|4
+Yira Sor|11|F|26|Nigeria|6|2|2|0
+Muhammed Hasan Yıldırım|19|F|--|--|0|0|0|0
+İsmail Duyu|30|F|--|--|0|0|0|0
+Mbaye Diagne|45|F|35|Senegal|9|5|2|0
+Dilhan Demir|77|F|23|Germany|--|--|--|--
+Gift Orban|99|F|24|Nigeria|12|2|10|4

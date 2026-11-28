@@ -23,6 +23,7 @@ META = {
     "elche": ("Elche", "Elche", "Martínez Valero"),
     "real-betis": ("Real Betis", "Sevilla", "Benito Villamarín"),
     "racing-santander": ("Racing Santander", "Santander", "El Sardinero"),
+    "malaga": ("Málaga", "Málaga", "La Rosaleda"),
 }
 
 C = """
@@ -45,6 +46,7 @@ getafe: David Soria 5.5|Jirí Letácek 5|Djené 4.5|Davinchi 6|Saba Sazonov 5.5|
 elche: Matías Dituro 4|Buba Sangaré 6|Roy Revivo 6|Pedro Bigas 4|Rubén Sánchez 5|Víctor Chust 6|Matia Barzic 5.5|Federico Redondo 6.5|Marc Aguado 6|Facundo Buonanotte 6.5|Gonzalo Villar 5.5|Martim Neto 6|Thomas Lemar 5|Javier Morcillo 5.5|Ezequiel Ponce 5|Germán Valera 6|Fer Niño 6|Grady Diangana 5|José Antonio Morente 5.5|Lucas Cepeda 6|Abiel Osorio 5.5|Ali Houary 5.5|Kevin Lomónaco 5.5|Bambo Diaby 5
 real-betis: Álvaro Valles 6.5|Héctor Bellerín 5.5|Diego Llorente 5|Natan 6.5|Marc Bartra 4.5|Fran García 6|Ángel Ortiz 6|Valentín Gómez 6.5|Junior Firpo 5|Facundo Bernal 6|Pablo Fornals 6.5|Álvaro Fidalgo 6.5|Rodrigo Riquelme 6.5|Nelson Deossa 6.5|Giovani Lo Celso 6.5|Marc Roca 6|Isco 6|Dani Ceballos 6|Antony 7|Cucho Hernández 6.5|Abde Ezzalzouli 7|Troy Parrott 6.5|Aitor Ruibal 5
 racing-santander: Julen Agirrezabala 6.5|Alvaro Mantilla 5.5|Aarón Martín 5.5|Manu 5|Pablo Ramon 5.5|Facundo González 6|Jorge Salinas 6|Pedro Felipe 5.5|Jeanuël Belocian 6|Íñigo Sainz 5|André Almeida 5.5|Maguette Gueye 5.5|Matteo Prati 6|Sergio Canales 5.5|Iván Martín 6|Giorgi Guliashvili 5.5|Iñigo Vicente 6|Andrés Martín 6|Asier Villalibre 5|Pablo García 6|Iker Luque 5.5|Yassir Zabiri 7
+malaga: Alfonso Herrero 5|Carlos Puga 5|Einar Galilea 4.5|Álex Pastor 5|José Salinas 5|Ángel Recio 5|Diego Murillo 5|Fernando Calero 5|Juan Berrocal 5|Rafa Garrido 5|Adam Aznou 5.5|Jens Cajuste 5.5|Ramón Enríquez 5|Carlos Dotor 5.5|Rafa Rodríguez 5|Pablo Martínez 5|Juan Cruz 5|Daniel Lorenzo 5|Izan Merino 5.5|Haitam Abaida 5|Chupete 5.5|David Larrubia 5.5|Joaquín Muñoz 5|Eneko Jauregui 4.5|Adrián Niño 5.5|Julen Lobete 5
 """
 
 if __name__ == "__main__":

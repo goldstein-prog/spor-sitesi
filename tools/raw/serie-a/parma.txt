@@ -1,0 +1,32 @@
+Gabriele Casentini||G|19|Italy|--|--||
+Simone Ghidotti|22|G|26|Italy|0|0||
+Giovanni Daffara|30|G|21|Italy|4|0||
+Edoardo Corvi|40|G|25|Italy|8|0||
+Alessandro Mazzocchi|75|G|18|Italy|0|0||
+Abdoulaye Ndiaye|3|D|24|Senegal|3|1|0|0
+Lautaro Valenti|5|D|27|Argentina|1|1|0|0
+Ousmane Diallo|7|D|33|France|2|2|0|0
+Emanuele Valeri|14|D|27|Italy|12|1|0|0
+Enrico Del Prato|15|D|27|Italy|12|0|0|0
+Sascha Britschgi|27|D|20|Switzerland|10|3|0|0
+Franco Carboni|29|D|23|Argentina|3|0|0|0
+Diego Carlos|34|D|33|Brazil|6|0|0|0
+Mariano Troilo|37|D|23|Argentina|12|0|0|1
+Djibril Diallo|70|D|17|Italy|1|1|0|0
+Karlo Pajsar|71|D|18|Croatia|0|0|0|0
+Dominik Drobnic|72|D|19|Slovenia|6|1|0|0
+Vincent Sierro|4|M|31|Switzerland|9|1|1|1
+Benjamin Cremaschi|8|M|21|USA|3|2|0|0
+Adrián Bernabé|10|M|25|Spain|7|3|0|0
+Mandela Keita|16|M|24|Belgium|12|0|0|0
+Christian Ordoñez|32|M|22|Argentina|9|5|0|0
+Hans Nicolussi Caviglia|41|M|26|Italy|2|2|0|0
+Abdou-Salam Konate|47|M|20|Senegal|2|1|0|0
+Giovanni Fabbian|80|M|23|Italy|10|4|1|2
+José Romero|9|F|23|Argentina|9|3|2|0
+Pontus Almqvist|11|F|27|Sweden|7|7|1|1
+El Bilal Toure|19|F|25|Mali|12|1|0|1
+Matija Frigan|20|F|23|Croatia|7|7|0|0
+Nesta Elphege|23|F|25|France|8|5|1|1
+Thomás De Martis|25|F|18|Argentina|1|1|0|0
+Simone Lontani|76|F|18|Italy|12|6|3|0

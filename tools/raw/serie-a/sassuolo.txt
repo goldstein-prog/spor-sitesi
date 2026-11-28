@@ -1,0 +1,35 @@
+Giacomo Satalino|12|G|27|Italy|0|0||
+Lorenzo Nyarko|22|G|19|Italy|0|0||
+Arijanet Muric|49|G|28|Kosovo|9|0||
+Stefano Turati|80|G|25|Italy|3|0||
+Josh Doig|3|D|24|Scotland|12|2|1|0
+Fali Candé|5|D|28|Guinea-Bissau|5|2|0|0
+Sebastian Walukiewicz|6|D|26|Poland|4|1|0|0
+Duje Caleta-Car|15|D|30|Croatia|7|1|0|0
+Fedde Leysen|16|D|23|Belgium|6|1|0|1
+Ignace van der Brempt|20|D|24|Belgium|5|1|0|0
+Jay Idzes|21|D|26|Indonesia|6|0|0|0
+Cas Odenthal|26|D|26|Netherlands|4|1|2|0
+Yeferson Paz|27|D|24|Colombia|--|--|--|--
+Rafael Obrador|33|D|22|Spain|6|4|0|0
+Giorgio Vezzosi|36|D|19|Italy|--|--|--|--
+Edoardo Pieragnolo|70|D|23|Italy|0|0|0|0
+Cristian Volpato|7|M|23|Australia|5|2|1|0
+Andrea Ghion|8|M|26|Italy|2|2|0|0
+Daniel Boloca|11|M|27|Romania|--|--|--|--
+Vasilije Adzic|17|M|20|Montenegro|9|3|3|1
+Nemanja Matic|18|M|38|Serbia|11|0|0|2
+Luca Lipani|35|M|21|Italy|9|6|0|0
+Kristian Thorstvedt|42|M|27|Norway|10|4|1|0
+Simone Cinquegrano|46|M|22|Italy|10|3|0|1
+Darryl Bakola|50|M|18|France|9|2|0|2
+Sulemana|55|M|23|Ghana|5|3|0|0
+Ismaël Koné|90|M|24|Canada|--|--|--|--
+Kieron Bowie|9|F|24|Scotland|12|8|1|0
+Domenico Berardi|10|F|32|Italy|10|2|2|0
+Gabriel Kulla|14|F|--|--|2|2|0|0
+Laurs Skjellerup|19|F|24|Denmark|1|1|0|0
+Benjamín Domínguez|25|F|23|Argentina|7|6|0|0
+Armand Laurienté|45|F|27|France|12|1|2|1
+Nicholas Pierini|77|F|28|Italy|0|0|0|0
+Sebastiano Esposito|94|F|24|Italy|9|1|2|1

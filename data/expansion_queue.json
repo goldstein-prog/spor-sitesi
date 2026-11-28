@@ -1,14 +1,24 @@
 {
- "updated": "2026-11-27",
- "careers": 80,
+ "updated": "2026-11-28",
+ "careers": 109,
  "queue": [
   {
    "club": "Benfica",
-   "links": 3,
+   "links": 4,
    "players": [
     "kerem-akturkoglu",
     "enzo-fernandez",
-    "orkun-kokcu"
+    "orkun-kokcu",
+    "joao-neves"
+   ]
+  },
+  {
+   "club": "VfL Wolfsburg",
+   "links": 3,
+   "players": [
+    "victor-osimhen",
+    "salih-ozcan",
+    "felix-nmecha"
    ]
   },
   {
@@ -30,11 +40,21 @@
    ]
   },
   {
-   "club": "VfL Wolfsburg",
-   "links": 2,
+   "club": "FC Porto",
+   "links": 3,
    "players": [
-    "victor-osimhen",
-    "salih-ozcan"
+    "luis-diaz",
+    "vitinha-psg",
+    "evanilson"
+   ]
+  },
+  {
+   "club": "Ajax Amsterdam",
+   "links": 3,
+   "players": [
+    "andre-onana",
+    "davinson-sanchez",
+    "jorrel-hato"
    ]
   },
   {
@@ -51,6 +71,14 @@
    "players": [
     "milot-rashica",
     "martin-degaard"
+   ]
+  },
+  {
+   "club": "Las Palmas",
+   "links": 2,
+   "players": [
+    "pedri",
+    "alberto-moleiro"
    ]
   },
   {
@@ -78,11 +106,35 @@
    ]
   },
   {
+   "club": "Fluminense",
+   "links": 2,
+   "players": [
+    "joao-pedro",
+    "evanilson"
+   ]
+  },
+  {
+   "club": "Heerenveen",
+   "links": 2,
+   "players": [
+    "martin-degaard",
+    "jan-paul-van-hecke"
+   ]
+  },
+  {
    "club": "Leicester City",
    "links": 2,
    "players": [
     "harry-kane",
     "wilfred-ndidi"
+   ]
+  },
+  {
+   "club": "River Plate",
+   "links": 2,
+   "players": [
+    "enzo-fernandez",
+    "franco-mastantuono"
    ]
   },
   {
@@ -94,19 +146,19 @@
    ]
   },
   {
-   "club": "Ajax Amsterdam",
-   "links": 2,
-   "players": [
-    "andre-onana",
-    "davinson-sanchez"
-   ]
-  },
-  {
    "club": "Club Brugge",
    "links": 2,
    "players": [
     "antonio-nusa",
     "charles-de-ketelaere"
+   ]
+  },
+  {
+   "club": "Swansea City",
+   "links": 2,
+   "players": [
+    "marc-guehi",
+    "morgan-gibbs-white"
    ]
   },
   {
@@ -118,11 +170,27 @@
    ]
   },
   {
+   "club": "PSV Eindhoven",
+   "links": 2,
+   "players": [
+    "donyell-malen",
+    "xavi-simons"
+   ]
+  },
+  {
    "club": "Bristol Rovers",
    "links": 2,
    "players": [
     "elliot-anderson",
     "jarell-quansah"
+   ]
+  },
+  {
+   "club": "Bordeaux",
+   "links": 2,
+   "players": [
+    "aurelien-tchouameni",
+    "jules-kounde"
    ]
   },
   {
@@ -196,20 +264,6 @@
    ]
   },
   {
-   "club": "Las Palmas",
-   "links": 1,
-   "players": [
-    "pedri"
-   ]
-  },
-  {
-   "club": "Stade Rennais",
-   "links": 1,
-   "players": [
-    "raphinha"
-   ]
-  },
-  {
    "club": "Vitória de Guimaraes",
    "links": 1,
    "players": [
@@ -221,20 +275,6 @@
    "links": 1,
    "players": [
     "joao-pedro"
-   ]
-  },
-  {
-   "club": "Fluminense",
-   "links": 1,
-   "players": [
-    "joao-pedro"
-   ]
-  },
-  {
-   "club": "Heerenveen",
-   "links": 1,
-   "players": [
-    "martin-degaard"
    ]
   },
   {
@@ -308,24 +348,10 @@
    ]
   },
   {
-   "club": "River Plate",
-   "links": 1,
-   "players": [
-    "enzo-fernandez"
-   ]
-  },
-  {
    "club": "Defensa y Justicia",
    "links": 1,
    "players": [
     "enzo-fernandez"
-   ]
-  },
-  {
-   "club": "FC Porto",
-   "links": 1,
-   "players": [
-    "luis-diaz"
    ]
   },
   {
@@ -448,13 +474,6 @@
    ]
   },
   {
-   "club": "Swansea City",
-   "links": 1,
-   "players": [
-    "marc-guehi"
-   ]
-  },
-  {
    "club": "Hertha Berlin",
    "links": 1,
    "players": [
@@ -466,13 +485,6 @@
    "links": 1,
    "players": [
     "bremer"
-   ]
-  },
-  {
-   "club": "PSV Eindhoven",
-   "links": 1,
-   "players": [
-    "donyell-malen"
    ]
   },
   {
@@ -529,6 +541,97 @@
    "links": 1,
    "players": [
     "rasmus-hjlund"
+   ]
+  },
+  {
+   "club": "Rubin Kazan",
+   "links": 1,
+   "players": [
+    "khvicha-kvaratskhelia"
+   ]
+  },
+  {
+   "club": "Lokomotiv Moscow",
+   "links": 1,
+   "players": [
+    "khvicha-kvaratskhelia"
+   ]
+  },
+  {
+   "club": "Jong Ajax",
+   "links": 1,
+   "players": [
+    "jorrel-hato"
+   ]
+  },
+  {
+   "club": "Palmeiras",
+   "links": 1,
+   "players": [
+    "estevao"
+   ]
+  },
+  {
+   "club": "Spezia",
+   "links": 1,
+   "players": [
+    "pio-esposito"
+   ]
+  },
+  {
+   "club": "Blackburn Rovers",
+   "links": 1,
+   "players": [
+    "jan-paul-van-hecke"
+   ]
+  },
+  {
+   "club": "NAC Breda",
+   "links": 1,
+   "players": [
+    "jan-paul-van-hecke"
+   ]
+  },
+  {
+   "club": "Sheffield United",
+   "links": 1,
+   "players": [
+    "morgan-gibbs-white"
+   ]
+  },
+  {
+   "club": "Braga",
+   "links": 1,
+   "players": [
+    "pedro-neto"
+   ]
+  },
+  {
+   "club": "Bristol City",
+   "links": 1,
+   "players": [
+    "antoine-semenyo"
+   ]
+  },
+  {
+   "club": "Newport County",
+   "links": 1,
+   "players": [
+    "antoine-semenyo"
+   ]
+  },
+  {
+   "club": "Mirandés",
+   "links": 1,
+   "players": [
+    "nicolas-jackson"
+   ]
+  },
+  {
+   "club": "Santos",
+   "links": 1,
+   "players": [
+    "rodrygo"
    ]
   }
  ]

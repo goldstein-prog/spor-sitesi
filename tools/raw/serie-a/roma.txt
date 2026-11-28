@@ -1,0 +1,30 @@
+Levente Kilvinger|12|G|--|--|0|0||
+Devis Vásquez|32|G|28|Colombia|1|0||
+Giorgio De Marzi|70|G|19|USA|0|0||
+Pierluigi Gollini|95|G|31|Italy|5|0||
+Mile Svilar|99|G|27|Serbia|6|0||
+Devyne Rensch|2|D|23|Netherlands|7|5|0|0
+Konstantinos Koulierakis|3|D|22|Greece|7|5|0|0
+Evan Ndicka|5|D|27|Ivory Coast|10|2|1|0
+Nahuel Molina|20|D|28|Argentina|10|3|0|2
+Mario Hermoso|22|D|31|Spain|11|1|2|0
+Gianluca Mancini|23|D|30|Italy|10|1|0|2
+Leonardo Balerdi|26|D|27|Argentina|8|3|2|0
+Wesley|43|D|23|Brazil|11|3|0|5
+Emanuele Lulli|77|D|19|Italy|8|1|2|2
+Daniele Ghilardi|87|D|23|Italy|8|6|1|1
+Bryan Cristante|4|M|31|Italy|10|0|1|1
+Lorenzo Pellegrini|7|M|30|Italy|2|1|0|0
+Marten de Roon|15|M|35|Netherlands|8|3|0|0
+Manu Koné|17|M|25|France|8|1|2|0
+Niccolò Pisilli|61|M|22|Italy|11|7|3|0
+Alessandro Di Nunzio|63|M|--|--|1|1|0|0
+Valerio Maccaroni|64|M|--|--|0|0|0|0
+Rodrigo Mora|86|M|19|Portugal|10|4|5|0
+Santiago Castro|9|F|22|Argentina|9|7|1|2
+Donyell Malen|14|F|27|Netherlands|11|1|12|2
+Matìas Soulè|18|F|23|Argentina|12|4|3|3
+Paulo Dybala|21|F|33|Argentina|7|0|0|4
+Antonio Arena|68|F|17|Italy|0|0|0|0
+Lorenzo Paratici|72|F|18|Italy|0|0|0|0
+Mandjou Camara|78|F|21|Guinea|0|0|0|0
